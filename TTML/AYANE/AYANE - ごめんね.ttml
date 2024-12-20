@@ -1,0 +1,864 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+  <head>
+    <metadata>
+      <ttm:agent type="person" xml:id="v1" />
+    </metadata>
+  </head>
+  <body dur="2:52.100">
+    <div begin="12.091" end="2:52.100">
+      <p begin="12.091" end="14.516" itunes:key="L1" ttm:agent="v1">
+        <span begin="12.091" end="12.307">Gu</span>
+        <span begin="12.307" end="12.403">ch</span>
+        <span begin="12.403" end="12.499">a</span>
+        <span begin="12.499" end="12.675">gu</span>
+        <span begin="12.675" end="12.759">ch</span>
+        <span begin="12.759" end="12.843">a </span>
+        <span begin="12.843" end="13.027">no </span>
+        <span begin="13.027" end="13.203">ko</span>
+        <span begin="13.203" end="13.371">no </span>
+        <span begin="13.371" end="13.555">he</span>
+        <span begin="13.555" end="13.747">ya </span>
+        <span begin="13.747" end="14.516">de</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Diruangan yang berantakan ini</span>
+      </p>
+      <p begin="14.792" end="16.592" itunes:key="L2" ttm:agent="v1">
+        <span begin="14.792" end="14.962">Ko</span>
+        <span begin="14.962" end="15.132">nya </span>
+        <span begin="15.132" end="15.272">ma</span>
+        <span begin="15.272" end="15.482">ta </span>
+        <span begin="15.482" end="15.992">watashi </span>
+        <span begin="15.992" end="16.592">lonely</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Malam ini, aku kesepian lagi</span>
+      </p>
+      <p begin="16.852" end="18.771" itunes:key="L3" ttm:agent="v1">
+        <span begin="16.852" end="16.972">Ya</span>
+        <span begin="16.972" end="17.092">mu </span>
+        <span begin="17.092" end="17.542">shi </span>
+        <span begin="17.542" end="17.672">ya </span>
+        <span begin="17.672" end="17.772">da </span>
+        <span begin="17.772" end="18.072">shi </span>
+        <span begin="18.072" end="18.305">sami</span>
+        <span begin="18.305" end="18.538">shi</span>
+        <span begin="18.538" end="18.771">i</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku depresi, aku sedih. aku muak dengan semua ini</span>
+      </p>
+      <p begin="18.852" end="21.278" itunes:key="L4" ttm:agent="v1">
+        <span begin="18.852" end="19.162">A</span>
+        <span begin="19.162" end="19.172">a</span>
+        <span begin="19.172" end="19.172"> </span>
+        <span begin="19.172" end="19.397">tsu</span>
+        <span begin="19.397" end="19.632">kare</span>
+        <span begin="19.632" end="19.802">ta </span>
+        <span begin="19.802" end="19.832">yo </span>
+        <span begin="19.832" end="20.152">koi</span>
+        <span begin="20.152" end="20.342">to </span>
+        <span begin="20.342" end="21.278">ka</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku bosan dengan cinta</span>
+      </p>
+      <p begin="21.566" end="24.275" itunes:key="L5" ttm:agent="v1">
+        <span begin="21.566" end="21.726">Mo</span>
+        <span begin="21.726" end="21.886">u </span>
+        <span begin="21.886" end="22.062">a</span>
+        <span begin="22.062" end="22.206">no</span>
+        <span begin="22.206" end="22.534">goro </span>
+        <span begin="22.534" end="22.702">ni </span>
+        <span begin="22.702" end="22.958">modo</span>
+        <span begin="22.958" end="23.078">re</span>
+        <span begin="23.078" end="23.174">na</span>
+        <span begin="23.174" end="23.310">i </span>
+        <span begin="23.310" end="23.422">no</span>
+        <span begin="23.422" end="23.422"> </span>
+        <span begin="23.422" end="23.718">tell </span>
+        <span begin="23.718" end="23.894">me </span>
+        <span begin="23.894" end="24.275">why?</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Kita tidak bisa kembali ke masa lalu yang indah, Katakan padaku alasannya</span>
+      </p>
+      <p begin="24.275" end="24.923" itunes:key="L6" ttm:agent="v1">
+        <span begin="24.275" end="24.467">Ke</span>
+        <span begin="24.467" end="24.627">do</span>
+        <span begin="24.627" end="24.627"> </span>
+        <span begin="24.627" end="24.771">I </span>
+        <span begin="24.771" end="24.923">know</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Tapi aku tahu</span>
+      </p>
+      <p begin="24.923" end="26.956" itunes:key="L7" ttm:agent="v1">
+        <span begin="24.923" end="24.999">Do</span>
+        <span begin="24.999" end="25.075">u</span>
+        <span begin="25.075" end="25.243">se </span>
+        <span begin="25.243" end="25.395">u</span>
+        <span begin="25.395" end="25.555">ma</span>
+        <span begin="25.555" end="25.707">ku </span>
+        <span begin="25.707" end="25.852">i</span>
+        <span begin="25.852" end="26.027">ka</span>
+        <span begin="26.027" end="26.211">na</span>
+        <span begin="26.211" end="26.387">i </span>
+        <span begin="26.387" end="26.563">ko</span>
+        <span begin="26.563" end="26.956">to</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Kita tidak bisa berjalan baik lagi</span>
+      </p>
+      <p begin="26.956" end="28.276" itunes:key="L8" ttm:agent="v1">
+        <span begin="26.956" end="27.117">It</span>
+        <span begin="27.117" end="27.276">su </span>
+        <span begin="27.276" end="27.436">no </span>
+        <span begin="27.436" end="27.572">ma </span>
+        <span begin="27.572" end="27.756">ni </span>
+        <span begin="27.756" end="27.908">ka </span>
+        <span begin="27.908" end="28.053">na</span>
+        <span begin="28.053" end="28.276">ze</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Sebelum aku menyadarinya</span>
+      </p>
+      <p begin="28.276" end="29.572" itunes:key="L9" ttm:agent="v1">
+        <span begin="28.276" end="28.468">Mi</span>
+        <span begin="28.468" end="28.645">e </span>
+        <span begin="28.645" end="28.804">na</span>
+        <span begin="28.804" end="28.924">ku</span>
+        <span begin="28.924" end="29.040">na</span>
+        <span begin="29.040" end="29.156">t</span>
+        <span begin="29.156" end="29.300">te</span>
+        <span begin="29.300" end="29.572">ta</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku belum melihatmu</span>
+      </p>
+      <p begin="29.572" end="32.639" itunes:key="L10" ttm:agent="v1">
+        <span begin="29.572" end="29.916">Moto</span>
+        <span begin="29.916" end="30.132">me </span>
+        <span begin="30.132" end="30.317">su</span>
+        <span begin="30.317" end="30.492">gi</span>
+        <span begin="30.492" end="30.676">te</span>
+        <span begin="30.676" end="30.820">ta </span>
+        <span begin="30.820" end="31.276">watashi </span>
+        <span begin="31.276" end="31.444">ga </span>
+        <span begin="31.444" end="31.764">waru</span>
+        <span begin="31.764" end="31.925">i </span>
+        <span begin="31.925" end="32.077">no </span>
+        <span begin="32.077" end="32.188">ka </span>
+        <span begin="32.188" end="32.639">na </span>
+        <span ttm:role="x-translation" xml:lang="IDN">Apakah salahku karena berharap terlalu banyak?</span>
+      </p>
+      <p begin="32.839" end="35.315" itunes:key="L11" ttm:agent="v1">
+        <span begin="32.839" end="33.287">Kizu</span>
+        <span begin="33.287" end="33.463">tsu</span>
+        <span begin="33.463" end="33.599">ke</span>
+        <span begin="33.599" end="33.759">ra</span>
+        <span begin="33.759" end="33.911">re</span>
+        <span begin="33.911" end="34.047">te </span>
+        <span begin="34.047" end="34.391">kizu</span>
+        <span begin="34.391" end="34.575">tsu</span>
+        <span begin="34.575" end="34.759">ke</span>
+        <span begin="34.759" end="35.315">te</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Kau menyakitiku, aku menyakitimu</span>
+      </p>
+      <p begin="35.315" end="37.531" itunes:key="L12" ttm:agent="v1">
+        <span begin="35.315" end="35.483">Su</span>
+        <span begin="35.483" end="35.843">nao </span>
+        <span begin="35.843" end="36.019">ni </span>
+        <span begin="36.019" end="36.187">wa </span>
+        <span begin="36.187" end="36.331">na</span>
+        <span begin="36.331" end="36.539">re</span>
+        <span begin="36.539" end="36.707">na</span>
+        <span begin="36.707" end="37.531">i</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku tidak bisa jujur</span>
+      </p>
+      <p begin="37.722" end="40.252" itunes:key="L13" ttm:agent="v1">
+        <span begin="37.722" end="37.842">Ma</span>
+        <span begin="37.842" end="38.072">ta </span>
+        <span begin="38.072" end="38.232">Nan</span>
+        <span begin="38.232" end="38.422">do </span>
+        <span begin="38.422" end="38.512">mo</span>
+        <span begin="38.512" end="38.712">kou</span>
+        <span begin="38.712" end="39.082">kai </span>
+        <span begin="39.082" end="39.362">mo</span>
+        <span begin="39.362" end="39.382">u </span>
+        <span begin="39.382" end="39.557">ri</span>
+        <span begin="39.557" end="39.732">sei </span>
+        <span begin="39.732" end="39.872">wa </span>
+        <span begin="39.872" end="40.062">hou</span>
+        <span begin="40.062" end="40.252">kai</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku kehilangan akal</span>
+      </p>
+      <p begin="40.382" end="42.512" itunes:key="L14" ttm:agent="v1">
+        <span begin="40.382" end="40.732">Shia</span>
+        <span begin="40.732" end="41.082">wase </span>
+        <span begin="41.082" end="41.222">ni </span>
+        <span begin="41.222" end="41.382">na</span>
+        <span begin="41.382" end="41.542">ri </span>
+        <span begin="41.542" end="41.772">ta</span>
+        <span begin="41.772" end="41.942">i </span>
+        <span begin="41.942" end="42.082">da</span>
+        <span begin="42.082" end="42.512">ke</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku hanya ingin kebahagiaan</span>
+      </p>
+      <p begin="43.522" end="46.012" itunes:key="L15" ttm:agent="v1">
+        <span begin="43.522" end="43.892">Ki</span>
+        <span begin="43.892" end="44.112">ki</span>
+        <span begin="44.112" end="44.312">ta</span>
+        <span begin="44.312" end="44.572">i </span>
+        <span begin="44.572" end="44.782">no </span>
+        <span begin="44.782" end="44.902">wa </span>
+        <span begin="44.902" end="45.432">sorry </span>
+        <span begin="45.432" end="45.527">j</span>
+        <span begin="45.527" end="45.632">a</span>
+        <span begin="45.632" end="45.912">na</span>
+        <span begin="45.912" end="46.012">i</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku tak ingin kamu meminta maaf</span>
+      </p>
+      <p begin="46.172" end="48.232" itunes:key="L16" ttm:agent="v1">
+        <span begin="46.172" end="46.322">Na</span>
+        <span begin="46.322" end="46.452">n</span>
+        <span begin="46.452" end="46.642">ni</span>
+        <span begin="46.642" end="46.822">mo </span>
+        <span begin="46.822" end="46.962">wa</span>
+        <span begin="46.962" end="47.102">ka</span>
+        <span begin="47.102" end="47.242">t</span>
+        <span begin="47.242" end="47.562">te</span>
+        <span begin="47.562" end="47.702">na</span>
+        <span begin="47.702" end="47.852">i </span>
+        <span begin="47.852" end="48.232">ne</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Kamu tidak tahu apa apa</span>
+      </p>
+      <p begin="48.502" end="51.172" itunes:key="L17" ttm:agent="v1">
+        <span begin="48.502" end="48.632">Ma</span>
+        <span begin="48.632" end="48.802">ta </span>
+        <span begin="48.802" end="49.192">kucchi </span>
+        <span begin="49.192" end="49.322">ni </span>
+        <span begin="49.322" end="49.472">da</span>
+        <span begin="49.472" end="49.702">su </span>
+        <span begin="49.702" end="49.892">"</span>
+        <span begin="49.892" end="50.182">mo</span>
+        <span begin="50.182" end="50.202">u </span>
+        <span begin="50.202" end="50.352">mu</span>
+        <span begin="50.352" end="50.542">ri </span>
+        <span begin="50.542" end="50.672">ka</span>
+        <span begin="50.672" end="50.852">mo </span>
+        <span begin="50.852" end="51.172">ne</span>
+        <span begin="51.172" end="51.172">"</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku berkata lagi (Sudah berakhir)</span>
+      </p>
+      <p begin="51.212" end="54.025" itunes:key="L18" ttm:agent="v1">
+        <span begin="51.212" end="51.692">Watashi </span>
+        <span begin="51.692" end="51.908">men</span>
+        <span begin="51.908" end="52.124">dou </span>
+        <span begin="52.124" end="52.340">ku</span>
+        <span begin="52.340" end="52.556">sa</span>
+        <span begin="52.556" end="52.772">i</span>
+        <span begin="52.772" end="52.902">yo</span>
+        <span begin="52.902" end="53.072">ne</span>
+        <span begin="53.072" end="53.402"> </span>
+        <span begin="53.402" end="53.542">u</span>
+        <span begin="53.542" end="54.025">za</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku sangat membutuhkan, bukan?</span>
+      </p>
+      <p begin="54.025" end="56.602" itunes:key="L19" ttm:agent="v1">
+        <span begin="54.025" end="54.434">Ai</span>
+        <span begin="54.434" end="54.642">shi</span>
+        <span begin="54.642" end="54.954">te</span>
+        <span begin="54.954" end="55.346">mo</span>
+        <span begin="55.346" end="55.346"> </span>
+        <span begin="55.346" end="55.738">ai</span>
+        <span begin="55.738" end="55.946">shi</span>
+        <span begin="55.946" end="56.250">te</span>
+        <span begin="56.250" end="56.602">mo</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Sekalipun aku mencintaimu</span>
+      </p>
+      <p begin="56.602" end="58.898" itunes:key="L20" ttm:agent="v1">
+        <span begin="56.602" end="56.858">Nan</span>
+        <span begin="56.858" end="57.050">de </span>
+        <span begin="57.050" end="57.394">tsu</span>
+        <span begin="57.394" end="57.554">tawa</span>
+        <span begin="57.554" end="57.714">n</span>
+        <span begin="57.714" end="57.906">na</span>
+        <span begin="57.906" end="58.082">i </span>
+        <span begin="58.082" end="58.258">no </span>
+        <span begin="58.258" end="58.394">ka </span>
+        <span begin="58.394" end="58.898">na</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Kamu tidak tahu</span>
+      </p>
+      <p begin="59.122" end="1:01.502" itunes:key="L21" ttm:agent="v1">
+        <span begin="59.122" end="59.332">O</span>
+        <span begin="59.332" end="59.452">wa</span>
+        <span begin="59.452" end="59.632">ri </span>
+        <span begin="59.632" end="59.812">na</span>
+        <span begin="59.812" end="59.962">n</span>
+        <span begin="59.962" end="1:00.362">te </span>
+        <span begin="1:00.362" end="1:00.652">iya </span>
+        <span begin="1:00.652" end="1:00.782">da </span>
+        <span begin="1:00.782" end="1:00.942">yo </span>
+        <span begin="1:00.942" end="1:01.112">ya</span>
+        <span begin="1:01.112" end="1:01.302">me</span>
+        <span begin="1:01.302" end="1:01.502">te</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku tidak ingin meninggalkanmu</span>
+      </p>
+      <p begin="1:01.702" end="1:04.432" itunes:key="L22" ttm:agent="v1">
+        <span begin="1:01.702" end="1:01.822">Su</span>
+        <span begin="1:01.822" end="1:02.022">ki </span>
+        <span begin="1:02.022" end="1:02.142">da</span>
+        <span begin="1:02.142" end="1:02.322">ke </span>
+        <span begin="1:02.322" end="1:02.397">j</span>
+        <span begin="1:02.397" end="1:02.472">a </span>
+        <span begin="1:02.472" end="1:02.792">da</span>
+        <span begin="1:02.792" end="1:03.032">me </span>
+        <span begin="1:03.032" end="1:03.392">na</span>
+        <span begin="1:03.392" end="1:03.462">no</span>
+        <span begin="1:03.462" end="1:03.692">ka</span>
+        <span begin="1:03.692" end="1:04.432">na</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku hanya mencintaimu</span>
+      </p>
+      <p begin="1:04.832" end="1:07.302" itunes:key="L23" ttm:agent="v1">
+        <span begin="1:04.832" end="1:05.012">A</span>
+        <span begin="1:05.012" end="1:05.162">i</span>
+        <span begin="1:05.162" end="1:05.442">ta</span>
+        <span begin="1:05.442" end="1:05.662">i </span>
+        <span begin="1:05.662" end="1:06.092">no </span>
+        <span begin="1:06.092" end="1:06.402">fu</span>
+        <span begin="1:06.402" end="1:06.712">an </span>
+        <span begin="1:06.712" end="1:06.982">na </span>
+        <span begin="1:06.982" end="1:07.302">no</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku merindukanmu aku cemas</span>
+      </p>
+      <p begin="1:07.322" end="1:09.720" itunes:key="L24" ttm:agent="v1">
+        <span begin="1:07.322" end="1:07.532">So</span>
+        <span begin="1:07.532" end="1:07.682">ba </span>
+        <span begin="1:07.682" end="1:07.852">ni </span>
+        <span begin="1:07.852" end="1:07.862">i</span>
+        <span begin="1:07.862" end="1:08.242">te </span>
+        <span begin="1:08.242" end="1:08.352">ho</span>
+        <span begin="1:08.352" end="1:08.892">shi</span>
+        <span begin="1:08.892" end="1:08.912">i </span>
+        <span begin="1:08.912" end="1:09.720">no</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Tetaplah bersama ku</span>
+      </p>
+      <p begin="1:09.720" end="1:11.608" itunes:key="L25" ttm:agent="v1">
+        <span begin="1:09.720" end="1:10.240">Watashi </span>
+        <span begin="1:10.240" end="1:10.424">ba</span>
+        <span begin="1:10.424" end="1:10.608">k</span>
+        <span begin="1:10.608" end="1:10.784">ka</span>
+        <span begin="1:10.784" end="1:11.040">ri </span>
+        <span begin="1:11.040" end="1:11.240">da </span>
+        <span begin="1:11.240" end="1:11.384">yo </span>
+        <span begin="1:11.384" end="1:11.608">ne</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku sangat tidak</span>
+      </p>
+      <p begin="1:11.608" end="1:15.080" itunes:key="L26" ttm:agent="v1">
+        <span begin="1:11.608" end="1:11.764">Ya</span>
+        <span begin="1:11.764" end="1:11.920">p</span>
+        <span begin="1:11.920" end="1:12.120">pa</span>
+        <span begin="1:12.120" end="1:12.440">ri </span>
+        <span begin="1:12.440" end="1:12.608">ki</span>
+        <span begin="1:12.608" end="1:12.784">mi </span>
+        <span begin="1:12.784" end="1:12.952">ni </span>
+        <span begin="1:12.952" end="1:13.112">wa </span>
+        <span begin="1:13.112" end="1:13.544">omo</span>
+        <span begin="1:13.544" end="1:13.792">su</span>
+        <span begin="1:13.792" end="1:14.088">gi</span>
+        <span begin="1:14.088" end="1:14.280">ta </span>
+        <span begin="1:14.280" end="1:14.624">ka </span>
+        <span begin="1:14.624" end="1:15.080">na</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aman terlalu tidak aman</span>
+      </p>
+      <p begin="1:15.080" end="1:16.004" itunes:key="L27" ttm:agent="v1">
+        <span begin="1:15.080" end="1:15.296">Go</span>
+        <span begin="1:15.296" end="1:15.516">me</span>
+        <span begin="1:15.516" end="1:15.736">n</span>
+        <span begin="1:15.736" end="1:16.004">ne</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Maaf</span>
+      </p>
+      <p begin="1:16.004" end="1:19.501" itunes:key="L28" ttm:agent="v1">
+        <span begin="1:16.004" end="1:17.229">Always </span>
+        <span begin="1:17.229" end="1:17.932">by </span>
+        <span begin="1:17.932" end="1:18.685">your </span>
+        <span begin="1:18.685" end="1:19.501">side</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Selalu di sisimu</span>
+      </p>
+      <p begin="1:19.501" end="1:21.284" itunes:key="L29" ttm:agent="v1">
+        <span begin="1:19.501" end="1:19.884">Soba </span>
+        <span begin="1:19.884" end="1:20.100">ni </span>
+        <span begin="1:20.100" end="1:20.316">i</span>
+        <span begin="1:20.316" end="1:20.540">te </span>
+        <span begin="1:20.540" end="1:20.716">ho</span>
+        <span begin="1:20.716" end="1:20.860">shi</span>
+        <span begin="1:20.860" end="1:21.004">i </span>
+        <span begin="1:21.004" end="1:21.284">no</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Jangan pergi</span>
+      </p>
+      <p begin="1:21.284" end="1:23.177" itunes:key="L30" ttm:agent="v1">
+        <span begin="1:21.284" end="1:21.516">Stay </span>
+        <span begin="1:21.516" end="1:22.076">by </span>
+        <span begin="1:22.076" end="1:22.532">my </span>
+        <span begin="1:22.532" end="1:23.177">side</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Tetaplah di sisiku</span>
+      </p>
+      <p begin="1:23.177" end="1:25.841" itunes:key="L31" ttm:agent="v1">
+        <span begin="1:23.177" end="1:23.361">Ki</span>
+        <span begin="1:23.361" end="1:23.529">mi </span>
+        <span begin="1:23.529" end="1:23.689">ni </span>
+        <span begin="1:23.689" end="1:23.857">wa </span>
+        <span begin="1:23.857" end="1:24.329">omo</span>
+        <span begin="1:24.329" end="1:24.513">su</span>
+        <span begin="1:24.513" end="1:24.849">gi</span>
+        <span begin="1:24.849" end="1:25.017">ta </span>
+        <span begin="1:25.017" end="1:25.329">ka </span>
+        <span begin="1:25.329" end="1:25.841">na </span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku berlebihan untukmu mungkin</span>
+      </p>
+      <p begin="1:25.841" end="1:27.164" itunes:key="L32" ttm:agent="v1">
+        <span begin="1:25.841" end="1:26.017">Go</span>
+        <span begin="1:26.017" end="1:26.237">me</span>
+        <span begin="1:26.237" end="1:26.457">n</span>
+        <span begin="1:26.457" end="1:27.164">ne</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Maaf</span>
+      </p>
+      <p begin="1:27.419" end="1:30.155" itunes:key="L33" ttm:agent="v1">
+        <span begin="1:27.419" end="1:27.899">Ai</span>
+        <span begin="1:27.899" end="1:28.243">mai </span>
+        <span begin="1:28.243" end="1:28.467">na </span>
+        <span begin="1:28.467" end="1:28.819">kiss </span>
+        <span begin="1:28.819" end="1:29.091">hon</span>
+        <span begin="1:29.091" end="1:29.315">tou</span>
+        <span begin="1:29.315" end="1:29.507">wa</span>
+        <span begin="1:29.507" end="1:29.507"> </span>
+        <span begin="1:29.507" end="1:29.779">I </span>
+        <span begin="1:29.779" end="1:30.155">miss</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Ciuman ambisius, aku merindukanmu</span>
+      </p>
+      <p begin="1:30.155" end="1:32.429" itunes:key="L34" ttm:agent="v1">
+        <span begin="1:30.155" end="1:30.507">Ai</span>
+        <span begin="1:30.507" end="1:30.683">shi</span>
+        <span begin="1:30.683" end="1:30.844">te </span>
+        <span begin="1:30.844" end="1:30.955">ho</span>
+        <span begin="1:30.955" end="1:31.163">shi</span>
+        <span begin="1:31.163" end="1:31.267">ka</span>
+        <span begin="1:31.267" end="1:31.309">t</span>
+        <span begin="1:31.309" end="1:31.773">ta </span>
+        <span begin="1:31.773" end="1:31.957">da</span>
+        <span begin="1:31.957" end="1:32.429">ke</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku hanya ingin menjadi cinta</span>
+      </p>
+      <p begin="1:32.429" end="1:34.445" itunes:key="L35" ttm:agent="v1">
+        <span begin="1:32.429" end="1:32.598">De</span>
+        <span begin="1:32.598" end="1:32.741">mo </span>
+        <span begin="1:32.741" end="1:32.885">se</span>
+        <span begin="1:32.885" end="1:33.045">me</span>
+        <span begin="1:33.045" end="1:33.213">te </span>
+        <span begin="1:33.213" end="1:33.373">ba</span>
+        <span begin="1:33.373" end="1:33.533">ka</span>
+        <span begin="1:33.533" end="1:33.677">ri </span>
+        <span begin="1:33.677" end="1:33.821">de</span>
+        <span begin="1:33.821" end="1:33.821"> </span>
+        <span begin="1:33.821" end="1:34.077">I </span>
+        <span begin="1:34.077" end="1:34.445">cry</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Tapi aku menyalahkanmu dan aku menangis</span>
+      </p>
+      <p begin="1:34.445" end="1:37.669" itunes:key="L36" ttm:agent="v1">
+        <span begin="1:34.445" end="1:34.797">Sami</span>
+        <span begin="1:34.797" end="1:34.965">shi</span>
+        <span begin="1:34.965" end="1:35.141">sa </span>
+        <span begin="1:35.141" end="1:35.325">ga </span>
+        <span begin="1:35.325" end="1:35.629">ku</span>
+        <span begin="1:35.629" end="1:35.781">rai </span>
+        <span begin="1:35.781" end="1:35.933">he</span>
+        <span begin="1:35.933" end="1:36.142">ya </span>
+        <span begin="1:36.142" end="1:36.309">ni </span>
+        <span begin="1:36.309" end="1:36.665">no</span>
+        <span begin="1:36.665" end="1:36.829">kot</span>
+        <span begin="1:36.829" end="1:37.013">te</span>
+        <span begin="1:37.013" end="1:37.285">ru</span>
+        <span begin="1:37.285" end="1:37.285"> </span>
+        <span begin="1:37.285" end="1:37.669">yeah</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku masih merasa kesepian</span>
+      </p>
+      <p begin="1:37.732" end="1:40.042" itunes:key="L37" ttm:agent="v1">
+        <span begin="1:37.732" end="1:37.932">De</span>
+        <span begin="1:37.932" end="1:37.977">a</span>
+        <span begin="1:37.977" end="1:38.022">t</span>
+        <span begin="1:38.022" end="1:38.182">ta </span>
+        <span begin="1:38.182" end="1:38.532">koro </span>
+        <span begin="1:38.532" end="1:38.762">ni </span>
+        <span begin="1:38.762" end="1:38.977">ega</span>
+        <span begin="1:38.977" end="1:39.192">i</span>
+        <span begin="1:39.192" end="1:39.442">te</span>
+        <span begin="1:39.442" end="1:39.982">ta </span>
+        <span begin="1:39.982" end="1:40.012">mi</span>
+        <span begin="1:40.012" end="1:40.042">rai</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku ingin terus membuat kenangan bersamamu</span>
+      </p>
+      <p begin="1:40.394" end="1:42.346" itunes:key="L38" ttm:agent="v1">
+        <span begin="1:40.394" end="1:40.722">Ketsu</span>
+        <span begin="1:40.722" end="1:41.050">matsu </span>
+        <span begin="1:41.050" end="1:41.242">wa </span>
+        <span begin="1:41.242" end="1:41.338">ko</span>
+        <span begin="1:41.338" end="1:41.434">n</span>
+        <span begin="1:41.434" end="1:41.602">na </span>
+        <span begin="1:41.602" end="1:41.738">ha</span>
+        <span begin="1:41.738" end="1:41.898">zu </span>
+        <span begin="1:41.898" end="1:41.974">j</span>
+        <span begin="1:41.974" end="1:42.050">a</span>
+        <span begin="1:42.050" end="1:42.194">na</span>
+        <span begin="1:42.194" end="1:42.346">i</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku tidak percaya ini</span>
+      </p>
+      <p begin="1:42.346" end="1:43.098" itunes:key="L39" ttm:agent="v1">
+        <span begin="1:42.346" end="1:42.514">(</span>
+        <span begin="1:42.514" end="1:42.590">D</span>
+        <span begin="1:42.590" end="1:42.666">ou</span>
+        <span begin="1:42.666" end="1:42.818">shi</span>
+        <span begin="1:42.818" end="1:43.098">te</span>
+        <span begin="1:43.098" end="1:43.098">)</span>
+        <span ttm:role="x-translation" xml:lang="IDN">(Mengapa?)</span>
+      </p>
+      <p begin="1:43.098" end="1:45.719" itunes:key="L40" ttm:agent="v1">
+        <span begin="1:43.098" end="1:43.314">Ma</span>
+        <span begin="1:43.314" end="1:43.490">da </span>
+        <span begin="1:43.490" end="1:43.642">ki</span>
+        <span begin="1:43.642" end="1:43.794">mi </span>
+        <span begin="1:43.794" end="1:43.930">i</span>
+        <span begin="1:43.930" end="1:44.218">gai </span>
+        <span begin="1:44.218" end="1:44.362">wa </span>
+        <span begin="1:44.362" end="1:44.610">mi</span>
+        <span begin="1:44.610" end="1:44.818">re</span>
+        <span begin="1:44.818" end="1:45.002">na</span>
+        <span begin="1:45.002" end="1:45.248">i </span>
+        <span begin="1:45.248" end="1:45.719">yeah</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku masih tergila gila padamu</span>
+      </p>
+      <p begin="1:45.719" end="1:48.125" itunes:key="L41" ttm:agent="v1">
+        <span begin="1:45.719" end="1:45.903">Hi</span>
+        <span begin="1:45.903" end="1:46.103">ki</span>
+        <span begin="1:46.103" end="1:46.287">no</span>
+        <span begin="1:46.287" end="1:46.439">b</span>
+        <span begin="1:46.439" end="1:46.599">su </span>
+        <span begin="1:46.599" end="1:46.767">da</span>
+        <span begin="1:46.767" end="1:46.951">ke </span>
+        <span begin="1:46.951" end="1:47.151">no </span>
+        <span begin="1:47.151" end="1:47.323">e</span>
+        <span begin="1:47.323" end="1:47.495">n</span>
+        <span begin="1:47.495" end="1:47.639">d</span>
+        <span begin="1:47.639" end="1:47.783">i</span>
+        <span begin="1:47.783" end="1:47.927">n</span>
+        <span begin="1:47.927" end="1:48.125">gu</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Berlarut larut</span>
+      </p>
+      <p begin="1:48.125" end="1:50.797" itunes:key="L42" ttm:agent="v1">
+        <span begin="1:48.125" end="1:48.301">Su</span>
+        <span begin="1:48.301" end="1:48.557">ki </span>
+        <span begin="1:48.557" end="1:48.829">na </span>
+        <span begin="1:48.829" end="1:49.021">to</span>
+        <span begin="1:49.021" end="1:49.309">ko </span>
+        <span begin="1:49.309" end="1:49.477">yo</span>
+        <span begin="1:49.477" end="1:49.645">ri </span>
+        <span begin="1:49.645" end="1:49.997">iya </span>
+        <span begin="1:49.997" end="1:50.237">na </span>
+        <span begin="1:50.237" end="1:50.397">to</span>
+        <span begin="1:50.397" end="1:50.797">ko</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku hanya melihat sisi negatifmu</span>
+      </p>
+      <p begin="1:50.797" end="1:52.957" itunes:key="L43" ttm:agent="v1">
+        <span begin="1:50.797" end="1:50.985">Ba</span>
+        <span begin="1:50.985" end="1:51.173">k</span>
+        <span begin="1:51.173" end="1:51.381">ka</span>
+        <span begin="1:51.381" end="1:51.549">ri </span>
+        <span begin="1:51.549" end="1:51.733">ga </span>
+        <span begin="1:51.733" end="1:51.941">me </span>
+        <span begin="1:51.941" end="1:52.221">ni </span>
+        <span begin="1:52.221" end="1:52.477">tsu</span>
+        <span begin="1:52.477" end="1:52.661">i</span>
+        <span begin="1:52.661" end="1:52.957">te</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Tanpa sadar</span>
+      </p>
+      <p begin="1:53.172" end="1:55.752" itunes:key="L44" ttm:agent="v1">
+        <span begin="1:53.172" end="1:53.315">Ka</span>
+        <span begin="1:53.315" end="1:53.458">wa</span>
+        <span begin="1:53.458" end="1:53.602">t</span>
+        <span begin="1:53.602" end="1:53.912">ta </span>
+        <span begin="1:53.912" end="1:54.072">no </span>
+        <span begin="1:54.072" end="1:54.232">wa </span>
+        <span begin="1:54.232" end="1:54.532">so</span>
+        <span begin="1:54.532" end="1:54.552">u </span>
+        <span begin="1:54.552" end="1:55.072">watashi </span>
+        <span begin="1:55.072" end="1:55.222">mo </span>
+        <span begin="1:55.222" end="1:55.412">ka</span>
+        <span begin="1:55.412" end="1:55.582">mo </span>
+        <span begin="1:55.582" end="1:55.752">ne</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Yang berubah adalah diriku mungkin</span>
+      </p>
+      <p begin="1:55.892" end="1:58.252" itunes:key="L45" ttm:agent="v1">
+        <span begin="1:55.892" end="1:56.072">Sami</span>
+        <span begin="1:56.072" end="1:56.222">shi</span>
+        <span begin="1:56.222" end="1:56.402">ka</span>
+        <span begin="1:56.402" end="1:56.732">tt</span>
+        <span begin="1:56.732" end="1:56.942">ta </span>
+        <span begin="1:56.942" end="1:57.072">da</span>
+        <span begin="1:57.072" end="1:57.292">ke </span>
+        <span begin="1:57.292" end="1:57.442">na </span>
+        <span begin="1:57.442" end="1:57.612">no </span>
+        <span begin="1:57.612" end="1:58.252">ni</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku hanya kesepian</span>
+      </p>
+      <p begin="1:59.042" end="2:01.432" itunes:key="L46" ttm:agent="v1">
+        <span begin="1:59.042" end="1:59.542">I</span>
+        <span begin="1:59.542" end="1:59.552">i</span>
+        <span begin="1:59.552" end="1:59.792">ta</span>
+        <span begin="1:59.792" end="2:00.062">i </span>
+        <span begin="2:00.062" end="2:00.242">no </span>
+        <span begin="2:00.242" end="2:00.342">wa</span>
+        <span begin="2:00.342" end="2:00.352"> </span>
+        <span begin="2:00.352" end="2:00.962">sorry </span>
+        <span begin="2:00.962" end="2:01.102">de</span>
+        <span begin="2:01.102" end="2:01.432">mo</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku ingin minta maaf tapi</span>
+      </p>
+      <p begin="2:01.682" end="2:03.691" itunes:key="L47" ttm:agent="v1">
+        <span begin="2:01.682" end="2:01.882">Ima </span>
+        <span begin="2:01.882" end="2:02.082">sa</span>
+        <span begin="2:02.082" end="2:02.282">ra </span>
+        <span begin="2:02.282" end="2:02.562">oso</span>
+        <span begin="2:02.562" end="2:02.842">i </span>
+        <span begin="2:02.842" end="2:02.992">ne </span>
+        <span begin="2:02.992" end="2:03.225">ki</span>
+        <span begin="2:03.225" end="2:03.458">t</span>
+        <span begin="2:03.458" end="2:03.691">to</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Sudah terlambat</span>
+      </p>
+      <p begin="2:03.992" end="2:06.572" itunes:key="L48" ttm:agent="v1">
+        <span begin="2:03.992" end="2:04.132">Ma</span>
+        <span begin="2:04.132" end="2:04.302">ta </span>
+        <span begin="2:04.302" end="2:04.702">kuchi </span>
+        <span begin="2:04.702" end="2:04.862">ni </span>
+        <span begin="2:04.862" end="2:05.002">da</span>
+        <span begin="2:05.002" end="2:05.242">su </span>
+        <span begin="2:05.242" end="2:05.392">"</span>
+        <span begin="2:05.392" end="2:05.682">mo</span>
+        <span begin="2:05.682" end="2:05.692">u </span>
+        <span begin="2:05.692" end="2:05.947">ichi </span>
+        <span begin="2:05.947" end="2:06.202">do </span>
+        <span begin="2:06.202" end="2:06.352">da</span>
+        <span begin="2:06.352" end="2:06.572">ke</span>
+        <span begin="2:06.572" end="2:06.572">"</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku berkata lagi (Sekali lagi)</span>
+      </p>
+      <p begin="2:06.712" end="2:09.282" itunes:key="L49" ttm:agent="v1">
+        <span begin="2:06.712" end="2:07.062">Ko</span>
+        <span begin="2:07.062" end="2:07.412">kai </span>
+        <span begin="2:07.412" end="2:07.582">shi</span>
+        <span begin="2:07.582" end="2:07.732">te </span>
+        <span begin="2:07.732" end="2:07.897">ba</span>
+        <span begin="2:07.897" end="2:08.062">k</span>
+        <span begin="2:08.062" end="2:08.227">ka</span>
+        <span begin="2:08.227" end="2:08.392">ri </span>
+        <span begin="2:08.392" end="2:08.458">j</span>
+        <span begin="2:08.458" end="2:08.525">a</span>
+        <span begin="2:08.525" end="2:08.592">n</span>
+        <span begin="2:08.592" end="2:08.892"> </span>
+        <span begin="2:08.892" end="2:09.052">u</span>
+        <span begin="2:09.052" end="2:09.282">za</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku sangat membutuhkan, bukan?</span>
+      </p>
+      <p begin="2:09.520" end="2:12.104" itunes:key="L50" ttm:agent="v1">
+        <span begin="2:09.520" end="2:09.944">Ai</span>
+        <span begin="2:09.944" end="2:10.120">shi</span>
+        <span begin="2:10.120" end="2:10.456">te</span>
+        <span begin="2:10.456" end="2:10.808">mo</span>
+        <span begin="2:10.808" end="2:10.808"> </span>
+        <span begin="2:10.808" end="2:11.192">ai</span>
+        <span begin="2:11.192" end="2:11.424">shi</span>
+        <span begin="2:11.424" end="2:11.664">te</span>
+        <span begin="2:11.664" end="2:12.104">mo</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Sekalipun aku merindukanmu</span>
+      </p>
+      <p begin="2:12.104" end="2:14.344" itunes:key="L51" ttm:agent="v1">
+        <span begin="2:12.104" end="2:12.464">Nan</span>
+        <span begin="2:12.464" end="2:12.624">de </span>
+        <span begin="2:12.624" end="2:13.048">tsu</span>
+        <span begin="2:13.048" end="2:13.144">tawa</span>
+        <span begin="2:13.144" end="2:13.240">n</span>
+        <span begin="2:13.240" end="2:13.488">na</span>
+        <span begin="2:13.488" end="2:13.672">i </span>
+        <span begin="2:13.672" end="2:13.840">no </span>
+        <span begin="2:13.840" end="2:13.984">ka </span>
+        <span begin="2:13.984" end="2:14.344">na</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Kamu tidak tahu</span>
+      </p>
+      <p begin="2:14.632" end="2:17.002" itunes:key="L52" ttm:agent="v1">
+        <span begin="2:14.632" end="2:14.842">O</span>
+        <span begin="2:14.842" end="2:14.962">wa</span>
+        <span begin="2:14.962" end="2:15.142">ri </span>
+        <span begin="2:15.142" end="2:15.332">na</span>
+        <span begin="2:15.332" end="2:15.462">n</span>
+        <span begin="2:15.462" end="2:15.862">te </span>
+        <span begin="2:15.862" end="2:16.152">iya </span>
+        <span begin="2:16.152" end="2:16.282">da </span>
+        <span begin="2:16.282" end="2:16.452">yo </span>
+        <span begin="2:16.452" end="2:16.622">ya</span>
+        <span begin="2:16.622" end="2:16.802">me</span>
+        <span begin="2:16.802" end="2:17.002">te</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku tidak ingin meninggalkanmu</span>
+      </p>
+      <p begin="2:17.282" end="2:19.942" itunes:key="L53" ttm:agent="v1">
+        <span begin="2:17.282" end="2:17.302">Su</span>
+        <span begin="2:17.302" end="2:17.532">ki </span>
+        <span begin="2:17.532" end="2:17.642">da</span>
+        <span begin="2:17.642" end="2:17.832">ke </span>
+        <span begin="2:17.832" end="2:17.907">j</span>
+        <span begin="2:17.907" end="2:17.982">a </span>
+        <span begin="2:17.982" end="2:18.302">da</span>
+        <span begin="2:18.302" end="2:18.542">me </span>
+        <span begin="2:18.542" end="2:18.892">na </span>
+        <span begin="2:18.892" end="2:18.972">no </span>
+        <span begin="2:18.972" end="2:19.192">ka </span>
+        <span begin="2:19.192" end="2:19.942">na</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku hanya ingin mencintaimu</span>
+      </p>
+      <p begin="2:20.310" end="2:22.926" itunes:key="L54" ttm:agent="v1">
+        <span begin="2:20.310" end="2:20.470">A</span>
+        <span begin="2:20.470" end="2:20.710">i</span>
+        <span begin="2:20.710" end="2:20.886">ta</span>
+        <span begin="2:20.886" end="2:21.230">i </span>
+        <span begin="2:21.230" end="2:21.606">no </span>
+        <span begin="2:21.606" end="2:21.878">fu</span>
+        <span begin="2:21.878" end="2:22.262">an </span>
+        <span begin="2:22.262" end="2:22.582">na </span>
+        <span begin="2:22.582" end="2:22.926">no</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku merindukanmu aku cemas</span>
+      </p>
+      <p begin="2:22.926" end="2:25.246" itunes:key="L55" ttm:agent="v1">
+        <span begin="2:22.926" end="2:23.102">So</span>
+        <span begin="2:23.102" end="2:23.270">ba </span>
+        <span begin="2:23.270" end="2:23.358">ni </span>
+        <span begin="2:23.358" end="2:23.446">i</span>
+        <span begin="2:23.446" end="2:23.726">te </span>
+        <span begin="2:23.726" end="2:23.990">ho</span>
+        <span begin="2:23.990" end="2:24.282">shi</span>
+        <span begin="2:24.282" end="2:24.574">i </span>
+        <span begin="2:24.574" end="2:25.246">no</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Tetaplah bersama ku</span>
+      </p>
+      <p begin="2:25.246" end="2:27.103" itunes:key="L56" ttm:agent="v1">
+        <span begin="2:25.246" end="2:25.735">Watashi </span>
+        <span begin="2:25.735" end="2:25.923">ba</span>
+        <span begin="2:25.923" end="2:26.111">k</span>
+        <span begin="2:26.111" end="2:26.278">ka</span>
+        <span begin="2:26.278" end="2:26.607">ri </span>
+        <span begin="2:26.607" end="2:26.791">da </span>
+        <span begin="2:26.791" end="2:26.902">yo </span>
+        <span begin="2:26.902" end="2:27.103">ne </span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku sangat tidak</span>
+      </p>
+      <p begin="2:27.103" end="2:30.583" itunes:key="L57" ttm:agent="v1">
+        <span begin="2:27.103" end="2:27.258">Ya</span>
+        <span begin="2:27.258" end="2:27.413">p</span>
+        <span begin="2:27.414" end="2:27.582">pa</span>
+        <span begin="2:27.582" end="2:27.934">ri </span>
+        <span begin="2:27.934" end="2:28.127">ki</span>
+        <span begin="2:28.127" end="2:28.303">mi </span>
+        <span begin="2:28.303" end="2:28.462">ni </span>
+        <span begin="2:28.462" end="2:28.623">wa </span>
+        <span begin="2:28.623" end="2:29.103">omo</span>
+        <span begin="2:29.103" end="2:29.279">su</span>
+        <span begin="2:29.279" end="2:29.599">gi</span>
+        <span begin="2:29.599" end="2:29.758">ta </span>
+        <span begin="2:29.758" end="2:30.111">ka </span>
+        <span begin="2:30.111" end="2:30.583">na</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aman terlalu tidak aman</span>
+      </p>
+      <p begin="2:30.583" end="2:31.544" itunes:key="L58" ttm:agent="v1">
+        <span begin="2:30.583" end="2:30.758">Go</span>
+        <span begin="2:30.758" end="2:30.986">me</span>
+        <span begin="2:30.986" end="2:31.214">n</span>
+        <span begin="2:31.214" end="2:31.544">ne</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Maaf</span>
+      </p>
+      <p begin="2:31.544" end="2:34.932" itunes:key="L59" ttm:agent="v1">
+        <span begin="2:31.544" end="2:32.816">Always </span>
+        <span begin="2:32.816" end="2:33.416">by </span>
+        <span begin="2:33.416" end="2:34.064">your </span>
+        <span begin="2:34.064" end="2:34.932">side</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Selalu di sisimu</span>
+      </p>
+      <p begin="2:34.932" end="2:36.620" itunes:key="L60" ttm:agent="v1">
+        <span begin="2:34.932" end="2:35.316">Soba </span>
+        <span begin="2:35.316" end="2:35.424">ni </span>
+        <span begin="2:35.424" end="2:35.532">i</span>
+        <span begin="2:35.532" end="2:35.875">te </span>
+        <span begin="2:35.875" end="2:36.068">ho</span>
+        <span begin="2:36.068" end="2:36.168">shi</span>
+        <span begin="2:36.168" end="2:36.268">i </span>
+        <span begin="2:36.268" end="2:36.620">no</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Jangan Pergi</span>
+      </p>
+      <p begin="2:36.620" end="2:38.732" itunes:key="L61" ttm:agent="v1">
+        <span begin="2:36.620" end="2:37.020">Stay </span>
+        <span begin="2:37.020" end="2:37.564">by </span>
+        <span begin="2:37.564" end="2:38.204">my </span>
+        <span begin="2:38.204" end="2:38.732">side</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Tetaplah di sisiku</span>
+      </p>
+      <p begin="2:38.732" end="2:41.348" itunes:key="L62" ttm:agent="v1">
+        <span begin="2:38.732" end="2:38.948">Ki</span>
+        <span begin="2:38.948" end="2:39.124">mi </span>
+        <span begin="2:39.124" end="2:39.292">ni </span>
+        <span begin="2:39.292" end="2:39.468">wa </span>
+        <span begin="2:39.468" end="2:39.876">omo</span>
+        <span begin="2:39.876" end="2:40.052">su</span>
+        <span begin="2:40.052" end="2:40.356">gi</span>
+        <span begin="2:40.356" end="2:40.532">ta </span>
+        <span begin="2:40.532" end="2:40.884">ka </span>
+        <span begin="2:40.884" end="2:41.348">na</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku berlebihan untukmu mungkin</span>
+      </p>
+      <p begin="2:41.348" end="2:42.706" itunes:key="L63" ttm:agent="v1">
+        <span begin="2:41.348" end="2:41.540">Go</span>
+        <span begin="2:41.540" end="2:41.756">me</span>
+        <span begin="2:41.756" end="2:41.972">n</span>
+        <span begin="2:41.972" end="2:42.706">ne</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Maaf</span>
+      </p>
+      <p begin="2:43.074" end="2:45.549" itunes:key="L64" ttm:agent="v1">
+        <span begin="2:43.074" end="2:43.274">Gu</span>
+        <span begin="2:43.274" end="2:43.354">ch</span>
+        <span begin="2:43.354" end="2:43.434">a</span>
+        <span begin="2:43.434" end="2:43.618">gu</span>
+        <span begin="2:43.618" end="2:43.714">ch</span>
+        <span begin="2:43.714" end="2:43.810">a </span>
+        <span begin="2:43.810" end="2:43.986">no </span>
+        <span begin="2:43.986" end="2:44.162">ko</span>
+        <span begin="2:44.162" end="2:44.338">no </span>
+        <span begin="2:44.338" end="2:44.514">he</span>
+        <span begin="2:44.514" end="2:44.730">ya</span>
+        <span begin="2:44.730" end="2:45.549">de</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Diruangan yang berantakan ini</span>
+      </p>
+      <p begin="2:45.789" end="2:47.788" itunes:key="L65" ttm:agent="v1">
+        <span begin="2:45.789" end="2:46.133">Ko</span>
+        <span begin="2:46.133" end="2:46.309">nya </span>
+        <span begin="2:46.309" end="2:46.469">ma</span>
+        <span begin="2:46.469" end="2:46.621">ta </span>
+        <span begin="2:46.621" end="2:47.117">watashi </span>
+        <span begin="2:47.117" end="2:47.788">lonely</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Malam ini, aku kesepian lagi</span>
+      </p>
+      <p begin="2:47.788" end="2:49.780" itunes:key="L66" ttm:agent="v1">
+        <span begin="2:47.788" end="2:47.956">Ya</span>
+        <span begin="2:47.956" end="2:48.100">mu </span>
+        <span begin="2:48.100" end="2:48.316">shi </span>
+        <span begin="2:48.316" end="2:48.636">iya </span>
+        <span begin="2:48.636" end="2:48.804">da </span>
+        <span begin="2:48.804" end="2:49.068">shi </span>
+        <span begin="2:49.068" end="2:49.452">sami</span>
+        <span begin="2:49.452" end="2:49.616">shi</span>
+        <span begin="2:49.616" end="2:49.780">i</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku depresi, aku sedih. aku muak dengan semua ini</span>
+      </p>
+      <p begin="2:49.780" end="2:52.100" itunes:key="L67" ttm:agent="v1">
+        <span begin="2:49.780" end="2:49.960">A</span>
+        <span begin="2:49.960" end="2:50.140">a </span>
+        <span begin="2:50.140" end="2:50.508">tsu</span>
+        <span begin="2:50.508" end="2:50.684">kare</span>
+        <span begin="2:50.684" end="2:50.876">ta </span>
+        <span begin="2:50.876" end="2:51.068">yo </span>
+        <span begin="2:51.068" end="2:51.428">koi </span>
+        <span begin="2:51.428" end="2:51.564">to </span>
+        <span begin="2:51.564" end="2:52.100">ka</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku bosan dengan cinta</span>
+      </p>
+    </div>
+  </body>
+</tt>
