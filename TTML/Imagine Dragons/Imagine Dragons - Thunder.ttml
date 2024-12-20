@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:agent type="person" xml:id="v1"/>
+      <ttm:agent type="other" xml:id="v2"/>
+      <iTunesMetadata xmlns="http://music.apple.com/lyric-ttml-internal" leadingSilence="0.160">
+        <songwriters>
+          <songwriter>A. Grant</songwriter>
+          <songwriter>Alex da Kid</songwriter>
+          <songwriter>Ben McKee</songwriter>
+          <songwriter>Dan Reynolds</songwriter>
+          <songwriter>Daniel Platzman</songwriter>
+          <songwriter>Jayson Dezuzio</songwriter>
+          <songwriter>Wayne Sermon</songwriter>
+        </songwriters>
+      </iTunesMetadata>
+    </metadata>
+  </head>
+    <body dur="1:37.332">
+    <div begin="0.539" end="22.262" itunes:songPart="Intro">
+      <p begin="0.539" end="3.225" itunes:key="L1" ttm:agent="v1"><span begin="0.539" end="0.704">Just</span> <span begin="0.704" end="0.923">a</span> <span begin="0.923" end="1.288">young</span> <span begin="1.288" end="1.683">gun</span> <span begin="1.921" end="2.121">with</span> <span begin="2.121" end="2.337">a</span> <span begin="2.337" end="2.721">quick</span> <span begin="2.721" end="3.225">fuse</span><span ttm:role="x-translation" xml:lang="IDN">Hanya anak muda yang mudah terpancing</span></p>
+      <p begin="3.413" end="6.107" itunes:key="L2" ttm:agent="v1"><span begin="3.413" end="3.613">I</span> <span begin="3.613" end="3.795">was</span> <span begin="3.795" end="4.080">up</span><span begin="4.080" end="4.559">tight,</span> <span begin="4.811" end="5.163">wanna</span> <span begin="5.163" end="5.545">let</span> <span begin="5.545" end="6.107">loose</span><span ttm:role="x-translation" xml:lang="IDN">Aku tegang, ingin melepaskannya</span></p>
+      <p begin="6.250" end="8.802" itunes:key="L3" ttm:agent="v1"><span begin="6.250" end="6.434">I</span> <span begin="6.434" end="6.634">was</span> <span begin="6.634" end="7.373">dreaming</span> <span begin="7.536" end="7.736">of</span> <span begin="7.736" end="8.104">bigger</span> <span begin="8.104" end="8.418">things</span> <span begin="8.418" end="8.802">and</span><span ttm:role="x-translation" xml:lang="IDN">Aku memimpikan hal-hal yang lebih besar dan</span></p>
+      <p begin="9.041" end="11.740" itunes:key="L4" ttm:agent="v1"><span begin="9.041" end="9.508">Wanna</span> <span begin="9.508" end="9.860">leave</span> <span begin="9.860" end="10.193">my</span> <span begin="10.193" end="10.574">old</span> <span begin="10.574" end="10.892">life</span> <span begin="10.892" end="11.740">behind</span><span ttm:role="x-translation" xml:lang="IDN">Ingin meninggalkan kehidupanku sendiri</span></p>
+      <p begin="11.957" end="14.547" itunes:key="L5" ttm:agent="v1"><span begin="11.957" end="12.157">Not</span> <span begin="12.157" end="12.357">a</span> <span begin="12.357" end="12.741">"Yes,</span> <span begin="12.741" end="13.111">sir",</span> <span begin="13.336" end="13.619">not</span> <span begin="13.619" end="13.803">a</span> <span begin="13.803" end="14.547">follower</span><span ttm:role="x-translation" xml:lang="IDN">Bukan penurut, bukan pengikut</span></p>
+      <p begin="14.820" end="16.248" itunes:key="L6" ttm:agent="v1"><span begin="14.820" end="14.985">Fit</span> <span begin="14.985" end="15.201">the</span> <span begin="15.201" end="15.601">box,</span> <span begin="15.601" end="15.735">fit</span> <span begin="15.735" end="15.919">the</span> <span begin="15.919" end="16.248">mold</span><span ttm:role="x-translation" xml:lang="IDN">Pas dengan kotaknya, pas dengan cetakannya </span></p>
+      <p begin="16.258" end="19.503" itunes:key="L7" ttm:agent="v1"><span begin="16.258" end="16.493">Have</span> <span begin="16.493" end="16.674">a</span> <span begin="16.674" end="17.024">seat</span> <span begin="17.024" end="17.242">in</span> <span begin="17.242" end="17.408">the</span> <span begin="17.408" end="18.037">foyer,</span> <span begin="18.380" end="18.580">take</span> <span begin="18.580" end="18.796">a</span> <span begin="18.796" end="19.503">number</span><span ttm:role="x-translation" xml:lang="IDN">Duduk di lobi, ambil sebuah nomor</span></p>
+      <p begin="19.787" end="22.262" itunes:key="L8" ttm:agent="v1"><span begin="19.787" end="19.971">I</span> <span begin="19.971" end="20.193">was</span> <span begin="20.193" end="20.880">lightning</span> <span begin="21.063" end="21.445">before</span> <span begin="21.445" end="21.640">the</span> <span begin="21.640" end="22.262">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Aku petir sebelum guntur</span></p>
+    </div>
+    <div begin="22.313" end="34.421" itunes:songPart="PreChorus">
+      <p begin="22.313" end="23.761" itunes:key="L9" ttm:agent="v1"><span begin="22.313" end="22.985">Thunder,</span> <span begin="23.044" end="23.761">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur</span></p>
+      <p begin="24.463" end="26.642" itunes:key="L10" ttm:agent="v1"><span begin="24.463" end="25.186">Thunder,</span> <span begin="25.186" end="25.904">thunder,</span> <span begin="25.904" end="26.642">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur, guntur</span></p>
+      <p begin="26.975" end="28.708" itunes:key="L11" ttm:agent="v1"><span begin="26.975" end="27.156">Th-</span><span begin="27.156" end="27.340">th-</span><span begin="27.340" end="28.007">thunder,</span> <span begin="28.039" end="28.708">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Gu-gu-guntur, guntur</span></p>
+      <p begin="28.765" end="32.301" itunes:key="L12" ttm:agent="v1"><span begin="28.765" end="29.498">Thunder,</span> <span begin="30.204" end="30.798">thunder,</span> <span begin="30.921" end="31.254">thun-,</span> <span begin="31.605" end="32.301">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur, gun-, guntur</span></p>
+      <p begin="32.689" end="34.421" itunes:key="L13" ttm:agent="v1"><span begin="32.689" end="32.921">Th-</span><span begin="32.921" end="33.038">th-</span><span begin="33.038" end="33.641">thunder,</span> <span begin="33.745" end="34.421">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Gu-gu-guntur, guntur</span></p>
+    </div>
+    <div begin="34.459" end="49.562" itunes:songPart="Chorus">
+      <p begin="33.913" end="35.261" ttm:agent="v2" itunes:key="L1">
+      <span begin="34.544" end="35.261">Thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur</span></p>
+      <p begin="34.459" end="36.630" itunes:key="L14" ttm:agent="v1"><span begin="34.459" end="35.219">Thunder,</span> <span begin="35.544" end="35.742">feel</span> <span begin="35.742" end="35.944">the</span> <span begin="35.944" end="36.630">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, rasakan gunturnya</span></p>
+      <p begin="34.561" end="38.142" ttm:agent="v2" itunes:key="L3">
+       <span begin="35.963" end="36.686">Thunder,</span> <span begin="36.686" end="37.404">thunder,</span> <span begin="00:37.404" end="00:38.142">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur, guntur</span></p>
+      <p begin="37.656" end="39.576" itunes:key="L2" ttm:agent="v1"><span begin="37.600" end="38.370">Lightning,</span> <span begin="38.370" end="38.570">then</span> <span begin="38.570" end="38.802">the</span> <span begin="38.802" end="39.576">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Petir lalu guntur</span></p>
+      <p begin="37.000" end="40.208" ttm:agent="v2" itunes:key="L4">
+      <span begin="38.475" end="38.656">Th-</span>
+                <span begin="38.656" end="38.840">th-</span>
+                <span begin="38.840" end="39.507">thunder,</span> <span begin="39.539" end="40.208">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Gu-gu-guntur, guntur</span></p>
+      <p begin="40.149" end="42.000" itunes:key="L4" ttm:agent="v1"><span begin="40.149" end="41.000">Thunder,</span> <span begin="41.168" end="41.416">feel</span> <span begin="41.416" end="41.616">the</span> <span begin="41.616" end="42.389">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, rasakan gunturnya</span></p>
+      <p begin="39.765" end="43.801" ttm:agent="v2" itunes:key="L5">
+                <span begin="40.265" end="40.998">Thunder,</span> <span begin="41.704" end="42.298">thunder,</span> <span begin="42.421" end="42.754">thun-,</span> <span begin="43.105" end="43.801">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur, gun-, guntur</span></p>
+      <p begin="43.306" end="45.000" itunes:key="L5" ttm:agent="v1"><span begin="43.306" end="44.072">Lightning,</span> <span begin="44.072" end="44.306">then</span> <span begin="44.306" end="44.506">the</span> <span begin="44.506" end="45.177">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Petir lalu guntur</span></p>
+      <p begin="43.949" end="49.562" itunes:key="L19" ttm:agent="v2">
+      <span begin="44.189" end="44.421">Th-</span>
+                <span begin="44.421" end="44.538">th-</span>
+                <span begin="44.538" end="45.141">thunder,</span> <span begin="45.245" end="00:45.921">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Gu-gun-guntur, guntur</span></p>
+      <p begin="45.002" end="46.637" itunes:key="L6" ttm:agent="v1"><span begin="45.202" end="45.882">Thunder,</span> <span begin="45.949" end="46.637">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur</span></p>
+        <p begin="44.189" end="45.921" ttm:agent="v1" itunes:key="L7">
+        <span begin="48.749" end="49.562">Thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur</span>
+      </p>
+    </div>
+    <div begin="51.962" end="1:14.715" itunes:songPart="Verse">
+      <p begin="51.962" end="54.602" itunes:key="L20" ttm:agent="v1"><span begin="51.962" end="52.194">Kids</span> <span begin="52.194" end="52.378">were</span> <span begin="52.378" end="53.143">laughing</span> <span begin="53.402" end="53.653">in</span> <span begin="53.653" end="53.837">my</span> <span begin="53.837" end="54.602">classes</span><span ttm:role="x-translation" xml:lang="IDN">Anak-anak tertawa di kelasku</span></p>
+      <p begin="54.720" end="57.274" itunes:key="L21" ttm:agent="v1"><span begin="54.720" end="54.901">While</span> <span begin="54.901" end="55.085">I</span> <span begin="55.085" end="55.261">was</span> <span begin="55.261" end="55.896">scheming</span> <span begin="56.158" end="56.393">for</span> <span begin="56.393" end="56.625">the</span> <span begin="56.625" end="57.274">masses</span><span ttm:role="x-translation" xml:lang="IDN">Sementara aku merencanakan hal yang besar</span></p>
+      <p begin="57.311" end="59.569" itunes:key="L22" ttm:agent="v1"><span begin="57.311" end="57.527">Who</span> <span begin="57.527" end="57.729">do</span> <span begin="57.729" end="57.927">you</span> <span begin="57.927" end="58.260">think</span> <span begin="58.260" end="58.444">you</span> <span begin="58.444" end="59.569">are?</span><span ttm:role="x-translation" xml:lang="IDN">Kau pikir kau siapa?</span></p>
+      <p begin="1:00.186" end="1:03.630" itunes:key="L23" ttm:agent="v1"><span begin="1:00.186" end="1:00.602">Dreaming</span> <span begin="1:00.602" end="1:00.919">'bout</span> <span begin="1:00.919" end="1:01.287">being</span> <span begin="1:01.287" end="1:01.503">a</span> <span begin="1:01.503" end="1:01.852">big</span> <span begin="1:01.852" end="1:03.630">star</span><span ttm:role="x-translation" xml:lang="IDN">Bermimpi tentang menjadi bintang besar</span></p>
+      <p begin="1:03.185" end="1:05.948" itunes:key="L24" ttm:agent="v1"><span begin="1:03.185" end="1:03.401">They</span> <span begin="1:03.401" end="1:03.582">say</span> <span begin="1:03.582" end="1:03.766">you're</span> <span begin="1:03.766" end="1:04.484">basic,</span> <span begin="1:04.660" end="1:04.844">they</span> <span begin="1:04.844" end="1:05.025">say</span> <span begin="1:05.025" end="1:05.225">you're</span> <span begin="1:05.225" end="1:05.948">easy</span><span ttm:role="x-translation" xml:lang="IDN">Mereka bilang. "Kau biasa saja", Mereka bilang "Kau mudah"</span></p>
+      <p begin="1:06.062" end="1:08.811" itunes:key="L25" ttm:agent="v1"><span begin="1:06.062" end="1:06.294">You're</span> <span begin="1:06.294" end="1:06.646">always</span> <span begin="1:06.646" end="1:07.350">riding</span> <span begin="1:07.644" end="1:07.830">in</span> <span begin="1:07.830" end="1:08.081">the</span> <span begin="1:08.081" end="1:08.811">backseat</span><span ttm:role="x-translation" xml:lang="IDN">Kau selalu berkendara di kursi belakang</span></p>
+      <p begin="1:09.076" end="1:11.800" itunes:key="L26" ttm:agent="v1"><span begin="1:09.076" end="1:09.308">Now</span> <span begin="1:09.308" end="1:09.508">I'm</span> <span begin="1:09.508" end="1:10.268">smiling</span> <span begin="1:10.558" end="1:10.774">from</span> <span begin="1:10.774" end="1:10.974">the</span> <span begin="1:10.974" end="1:11.307">stage</span> <span begin="1:11.307" end="1:11.800">while</span><span ttm:role="x-translation" xml:lang="IDN">Sekarang aku tersenyum dari panggung</span></p>
+      <p begin="1:12.003" end="1:14.715" itunes:key="L27" ttm:agent="v1"><span begin="1:12.003" end="1:12.219">You</span> <span begin="1:12.219" end="1:12.403">were</span> <span begin="1:12.403" end="1:13.099">clapping</span> <span begin="1:13.368" end="1:13.584">in</span> <span begin="1:13.584" end="1:13.803">the</span> <span begin="1:13.803" end="1:14.715">nosebleeds</span><span ttm:role="x-translation" xml:lang="IDN">Sementara kau bertepuk tangan dengan hidung yang mimisan</span></p>
+    </div>
+    <div begin="1:14.459" end="1:25.753" itunes:songPart="PreChorus">
+      <p begin="1:14.459" end="1:18.051" itunes:key="L28" ttm:agent="v1"><span begin="1:14.459" end="1:15.243">Thunder,</span> <span begin="1:15.901" end="1:16.661">thunder,</span> <span begin="1:16.661" end="1:16.943">thun-</span> <span begin="1:17.370" end="1:18.051">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur, gun- guntur</span></p>
+      <p begin="1:18.350" end="1:20.134" itunes:key="L29" ttm:agent="v1"><span begin="1:18.350" end="1:18.550">Th-</span><span begin="1:18.550" end="1:18.750">th-</span><span begin="1:18.750" end="1:19.452">thunder,</span> <span begin="1:19.452" end="1:20.134">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Gu-gu-guntur, guntur</span></p>
+      <p begin="1:20.164" end="1:23.772" itunes:key="L30" ttm:agent="v1"><span begin="1:20.164" end="1:20.946">Thunder,</span> <span begin="1:21.582" end="1:22.283">thunder,</span> <span begin="1:22.385" end="1:22.694">thun-</span> <span begin="1:23.015" end="1:23.772">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur, gun- guntur</span></p>
+      <p begin="1:24.066" end="1:25.753" itunes:key="L31" ttm:agent="v1"><span begin="1:24.066" end="1:24.282">Th-</span><span begin="1:24.282" end="1:24.516">th-</span><span begin="1:24.516" end="1:25.183">thunder,</span> <span begin="1:25.183" end="1:25.753">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Gu-gu-guntur, guntur</span></p>
+    </div>
+     <div begin="1:25.763" end="1:37.332">
+        <p begin="1:25.763" end="1:26.711" ttm:agent="v2" itunes:key="L1">
+                <span begin="1:25.994" end="1:26.711">Thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur</span>
+            </p>
+            <p begin="1:25.909" end="1:28.080" ttm:agent="v1" itunes:key="L2">
+                <span begin="1:25.909" end="1:26.669">Thunder,</span> <span begin="1:26.994" end="1:27.192">feel</span> <span begin="1:27.192" end="1:27.394">the</span> <span begin="1:27.394" end="1:28.080">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, rasakan gunturnya</span>
+            </p>
+            <p begin="1:26.011" end="1:29.592" ttm:agent="v2" itunes:key="L3">
+                <span begin="1:27.413" end="1:28.136">Thunder,</span> <span begin="1:28.136" end="1:28.854">thunder,</span> <span begin="1:28.854" end="1:29.592">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur, guntur</span>
+            </p>
+            <p begin="1:29.106" end="1:31.026" ttm:agent="v1" itunes:key="L4">
+                <span begin="1:29.050" end="1:29.820">Lightning,</span> <span begin="1:29.820" end="1:30.020">then</span> <span begin="1:30.020" end="1:30.252">the</span> <span begin="1:30.252" end="1:31.026">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Petir lalu guntur</span>
+            </p>
+            <p begin="1:28.450" end="1:31.658" ttm:agent="v2" itunes:key="L5">
+                <span begin="1:29.925" end="1:30.106">Th-</span>
+                <span begin="1:30.106" end="1:30.290">th-</span>
+                <span begin="1:30.290" end="1:30.957">thunder,</span> <span begin="1:30.989" end="1:31.658">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Gu-gu-guntur, guntur</span>
+            </p>
+            <p begin="1:31.599" end="1:33.839" ttm:agent="v1" itunes:key="L6">
+                <span begin="1:31.599" end="1:32.450">Thunder,</span> <span begin="1:32.618" end="1:32.866">feel</span> <span begin="1:32.866" end="1:33.066">the</span> <span begin="1:33.066" end="1:33.839">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, rasakan gunturnya</span>
+            </p>
+            <p begin="1:31.215" end="1:35.251" ttm:agent="v2" itunes:key="L7">
+                <span begin="1:31.715" end="1:32.448">Thunder,</span> <span begin="1:33.154" end="1:33.748">thunder,</span> <span begin="1:33.871" end="1:34.204">thun-,</span> <span begin="1:34.555" end="1:35.251">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur, gun-, guntur</span>
+            </p>
+            <p begin="1:34.756" end="1:36.627" ttm:agent="v1" itunes:key="L8">
+                <span begin="1:34.756" end="1:35.522">Lightning,</span> <span begin="1:35.522" end="1:35.756">then</span> <span begin="1:35.756" end="1:35.956">the</span> <span begin="1:35.956" end="1:36.627">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Petir lalu guntur</span>
+            </p>
+            <p begin="1:35.399" end="1:37.371" ttm:agent="v2" itunes:key="L9">
+                <span begin="1:35.639" end="1:35.871">Th-</span>
+                <span begin="1:35.871" end="1:35.988">th-</span>
+                <span begin="1:35.988" end="1:36.591">thunder,</span> <span begin="1:36.695" end="1:37.371">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Gu-gu-guntur, guntur</span>
+            </p>
+            <p begin="1:36.452" end="1:37.332" ttm:agent="v1" itunes:key="L10">
+                <span begin="1:36.652" end="1:37.332">Thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur</span>
+         </p>
+      </div>
+    <div begin="2:00.083" end="2:05.880" itunes:songPart="Bridge">
+      <p begin="2:00.083" end="2:02.440" itunes:key="L37" ttm:agent="v1"><span begin="2:00.083" end="2:00.996">Thunder,</span> <span begin="2:01.184" end="2:01.435">feel</span> <span begin="2:01.435" end="2:01.686">the</span> <span begin="2:01.686" end="2:02.440">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, rasakan gunturnya</span></p>
+      <p begin="2:03.314" end="2:05.117" itunes:key="L38" ttm:agent="v1"><span begin="2:03.314" end="2:04.098">Lightning,</span> <span begin="2:04.098" end="2:04.314">then</span> <span begin="2:04.314" end="2:04.530">the</span> <span begin="2:04.530" end="2:05.117">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Petir lalu guntur</span></p>
+      <p begin="2:05.221" end="2:05.880" itunes:key="L39" ttm:agent="v1">
+        <span begin="2:05.221" end="2:05.880">Thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur</span>
+      </p>
+    </div>
+    <div begin="2:05.890" end="2:28.715" itunes:songPart="Chorus">
+      <p begin="2:05.890" end="2:08.084" itunes:key="L40" ttm:agent="v1"><span begin="2:05.890" end="2:06.696">Thunder,</span> <span begin="2:06.936" end="2:07.136">feel</span> <span begin="2:07.136" end="2:07.352">the</span> <span begin="2:07.352" end="2:08.084">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, rasakan gunturnya</span></p>
+      <p begin="2:05.881" end="2:09.489" ttm:agent="v2" itunes:key="L1">
+                <span begin="2:05.881" end="2:06.677">Thunder,</span> <span begin="2:07.313" end="2:07.993">thunder,</span> <span begin="2:08.732" end="2:09.489">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur, guntur</span>
+            </p>
+      <p begin="2:09.079" end="2:11.544" itunes:key="L41" ttm:agent="v1"><span begin="2:09.079" end="2:09.791">Lightning,</span> <span begin="2:09.863" end="2:10.047">then</span> <span begin="2:10.047" end="2:10.247">the</span> <span begin="2:10.247" end="2:10.893">thunder,</span> <span begin="2:10.893" end="2:11.544">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Petir lalu guntur</span></p>
+      <p begin="2:09.745" end="2:11.415" ttm:agent="v2" itunes:key="L2">
+                <span begin="2:09.745" end="2:09.945">Th-</span>
+                <span begin="2:09.945" end="2:10.196">th-</span>
+                <span begin="2:10.196" end="2:10.895">thunder,</span> <span begin="2:10.895" end="2:11.415">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Gu-gu-guntur, guntur</span>
+            </p>
+      <p begin="2:11.611" end="2:13.803" itunes:key="L42" ttm:agent="v1"><span begin="2:11.611" end="2:12.390">Thunder,</span> <span begin="2:12.707" end="2:12.881">feel</span> <span begin="2:12.881" end="2:13.126">the</span> <span begin="2:13.126" end="2:13.803">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, rasakan gunturnya</span></p>
+      <p begin="2:11.556" end="2:15.144" ttm:agent="v2" itunes:key="L3">
+                <span begin="2:11.556" end="2:12.294">Thunder,</span> <span begin="2:12.958" end="2:13.764">thunder,</span> <span begin="2:14.401" end="2:15.144">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur, guntur</span>
+            </p>
+      <p begin="2:14.812" end="2:17.241" itunes:key="L43" ttm:agent="v1"><span begin="2:14.812" end="2:15.548">Lightning,</span> <span begin="2:15.548" end="2:15.748">then</span> <span begin="2:15.748" end="2:15.980">the</span> <span begin="2:15.980" end="2:16.596">thunder,</span> <span begin="2:16.596" end="2:17.241">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Petir lalu guntur</span></p>
+      <p begin="2:15.503" end="2:17.242" ttm:agent="v2" itunes:key="L4">
+                <span begin="2:15.503" end="2:15.687">Th-</span>
+                <span begin="2:15.687" end="2:15.887">th-</span>
+                <span begin="2:15.887" end="2:16.554">thunder,</span> <span begin="2:16.554" end="2:17.242">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Gu-gu-guntur, guntur</span>
+            </p>
+      <p begin="2:17.386" end="2:19.548" itunes:key="L44" ttm:agent="v1"><span begin="2:17.386" end="2:18.094">Thunder,</span> <span begin="2:18.354" end="2:18.570">feel</span> <span begin="2:18.570" end="2:18.804">the</span> <span begin="2:18.804" end="2:19.548">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, rasakan gunturnya</span></p>
+      <p begin="2:17.336" end="2:20.891" ttm:agent="v2" itunes:key="L5">
+                <span begin="2:17.336" end="2:18.046">Thunder,</span> <span begin="2:18.669" end="2:19.502">thunder,</span> <span begin="2:20.136" end="2:20.891">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur, guntur</span>
+            </p>
+      <p begin="2:20.545" end="2:22.942" itunes:key="L45" ttm:agent="v1"><span begin="2:20.545" end="2:21.262">Lightning,</span> <span begin="2:21.262" end="2:21.462">then</span> <span begin="2:21.462" end="2:21.678">the</span> <span begin="2:21.678" end="2:22.329">thunder,</span> <span begin="2:22.329" end="2:22.942">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, rasakan gunturnya</span></p>
+      <p begin="2:21.215" end="2:22.975" ttm:agent="v2" itunes:key="L6">
+                <span begin="2:21.215" end="2:21.399">Th-</span>
+                <span begin="2:21.399" end="2:21.599">th-</span>
+                <span begin="2:21.599" end="2:22.298">thunder,</span> <span begin="2:22.298" end="2:22.975">thunder</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Gu-gu-guntur, guntur</span>
+            </p>
+      <p begin="2:23.029" end="2:25.251" itunes:key="L46" ttm:agent="v1"><span begin="2:23.029" end="2:23.784">Thunder,</span> <span begin="2:24.131" end="2:24.312">feel</span> <span begin="2:24.312" end="2:24.547">the</span> <span begin="2:24.547" end="2:25.251">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, rasakan gunturnya</span></p>
+      <p begin="2:23.041" end="2:26.575" ttm:agent="v2" itunes:key="L7">
+                <span begin="2:23.041" end="2:23.728">Thunder,</span> <span begin="2:24.375" end="2:25.163">thunder,</span> <span begin="2:25.807" end="2:26.575">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur, guntur</span>
+            </p>
+      <p begin="2:26.200" end="2:28.715" itunes:key="L47" ttm:agent="v1"><span begin="2:26.200" end="2:26.934">Lightning,</span> <span begin="2:26.934" end="2:27.168">then</span> <span begin="2:27.168" end="2:27.368">the</span> <span begin="2:27.368" end="2:28.000">thunder,</span> <span begin="2:28.000" end="2:28.715">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Petir lalu guntur</span></p>
+      <p begin="2:26.903" end="2:28.730" ttm:agent="v2" itunes:key="L8">
+                <span begin="2:26.903" end="2:27.122">Th-</span>
+                <span begin="2:27.122" end="2:27.319">th-</span>
+                <span begin="2:27.319" end="2:28.005">thunder,</span> <span begin="2:28.005" end="2:28.730">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Gu-gu-guntur, guntur</span>
+            </p>
+    </div>
+    <div begin="2:28.781" end="2:51.630" itunes:songPart="Outro">
+      <p begin="2:28.781" end="2:32.389" itunes:key="L48" ttm:agent="v1"><span begin="2:28.781" end="2:29.577">Thunder,</span> <span begin="2:30.213" end="2:30.893">thunder,</span> <span begin="2:31.632" end="2:32.389">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur, guntur</span></p>
+      <p begin="2:32.645" end="2:34.315" itunes:key="L49" ttm:agent="v1"><span begin="2:32.645" end="2:32.845">Th-</span><span begin="2:32.845" end="2:33.096">th-</span><span begin="2:33.096" end="2:33.795">thunder,</span> <span begin="2:33.795" end="2:34.315">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Gu-gu-guntur, guntur</span></p>
+      <p begin="2:34.456" end="2:38.044" itunes:key="L50" ttm:agent="v1"><span begin="2:34.456" end="2:35.194">Thunder,</span> <span begin="2:35.858" end="2:36.664">thunder,</span> <span begin="2:37.301" end="2:38.044">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur, guntur</span></p>
+      <p begin="2:38.403" end="2:40.142" itunes:key="L51" ttm:agent="v1"><span begin="2:38.403" end="2:38.587">Th-</span><span begin="2:38.587" end="2:38.787">th-</span><span begin="2:38.787" end="2:39.454">thunder,</span> <span begin="2:39.454" end="2:40.142">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Gu-gu-guntur, guntur</span></p>
+      <p begin="2:40.236" end="2:43.791" itunes:key="L52" ttm:agent="v1"><span begin="2:40.236" end="2:40.946">Thunder,</span> <span begin="2:41.569" end="2:42.402">thunder,</span> <span begin="2:43.036" end="2:43.791">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur, guntur</span></p>
+      <p begin="2:44.115" end="2:45.875" itunes:key="L53" ttm:agent="v1"><span begin="2:44.115" end="2:44.299">Th-</span><span begin="2:44.299" end="2:44.499">th-</span><span begin="2:44.499" end="2:45.198">thunder,</span> <span begin="2:45.198" end="2:45.875">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Gu-gu-guntur, guntur</span></p>
+      <p begin="2:45.941" end="2:49.475" itunes:key="L54" ttm:agent="v1"><span begin="2:45.941" end="2:46.628">Thunder,</span> <span begin="2:47.275" end="2:48.063">thunder,</span> <span begin="2:48.707" end="2:49.475">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Guntur, guntur, guntur</span></p>
+      <p begin="2:49.803" end="2:51.630" itunes:key="L55" ttm:agent="v1"><span begin="2:49.803" end="2:50.022">Th-</span><span begin="2:50.022" end="2:50.219">th-</span><span begin="2:50.219" end="2:50.905">thunder,</span> <span begin="2:50.905" end="2:51.630">thunder</span><span ttm:role="x-translation" xml:lang="IDN">Gu-gu-guntur, guntur</span>
+            </p>
+        </div>
+    </body>
+</tt>
