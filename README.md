@@ -5,4 +5,4 @@ TTML Word by Word Dengan Terjemahan Indonesia Gratis Dan Boleh digunakan
 - Link Download Aplikasi ada diatas
 - Project Website Is Here
 https://ramadani1t.github.io/DB-TTML-ID.io/
-Database menggunakan ajax dari Google Apps Script dan terhubung langsung dengan spreadsheet
+- Database menggunakan ajax dari Google Apps Script dan terhubung langsung dengan spreadsheet
