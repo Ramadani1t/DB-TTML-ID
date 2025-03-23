@@ -1,42 +1,112 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="id">
 <head>
-  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css'>
-  <link rel='stylesheet' href='https://cdn.datatables.net/v/bs4/dt-1.10.18/r-2.2.2/sl-1.3.0/datatables.min.css'>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js'></script>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js'></script>
-  <script src='https://jsonplaceholder.typicode.com/users'></script>
-  <script src='https://cdn.datatables.net/v/bs4/dt-1.10.18/r-2.2.2/sl-1.3.0/datatables.min.js'></script>
-
-  <link rel="stylesheet" href="style.css" />
-  <script src="script.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DataTable dengan 4 Kolom Tambahan</title>
+    
+    <!-- Bootstrap & DataTables CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">
+    
+    <style>
+        body {
+            padding: 20px;
+        }
+        .info-text, .download-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 5px; /* Jarak antar elemen */
+            max-width: 200px; /* Agar tampilan tetap rapi */
+        }
+        table img {
+            width: 50px;
+            height: auto;
+            border-radius: 5px;
+        }
+    </style>
 </head>
-
 <body>
-  <div class="p-5"></div>
-  <table id="myDataTable" class="table table-striped table-bordered">
-    <thead>
-      <tr>
-        <th>ID Public</th>
-        <th>Nama</th>
-        <th>Link</th>
-        <th>Artis</th>
-        <th>Image</th>
-        <th>Album</th>
-        <th>Tag</th>
-        <th>Format Sinkronisasi</th>
-        <th>Updated</th>
-        <th>Link TTML</th>
-        <th>Link LRC</th>
-        <th>Link LLRC</th>
-      </tr>
-    </thead>
-    <tbody>
-    </tbody>
-  </table>
-</div>
-</body>
 
+    <div class="container">
+        <h2 class="mb-4">DataTable TTML Indonesia</h2>
+        <table id="myDataTable" class="display table table-bordered" style="width:100%">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Preview</th>
+                    <th>Informasi Lagu</th>
+                    <th>Album</th>
+                    <th>Tag</th>
+                    <th>Format Sinkronisasi</th>
+                    <th>Updated</th>
+                    <th>Download</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+
+    <!-- jQuery, DataTables, dan Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        $(document).ready(function() {
+            $('#myDataTable').DataTable({
+                ajax: 'https://script.google.com/macros/s/AKfycbxJ-qYkqcZE7-P0QEoc1duoWEIKRkdt_phopQtb3g31GJaS2TrsQpOD-sVy3PDkhdlFkw/exec',
+                "columns": [
+                    { "data": "ID", "title": "ID", "width": "5%" },
+                    { 
+                        "data": "Image",
+                        "title": "Cover",
+                        "width": "10%",
+                        "render": function(data, type, full) {
+                            return '<img src="' + data + '" alt="Preview">';
+                        }
+                    },
+                    { 
+                        "data": null,
+                        "title": "Informasi Lagu",
+                        "width": "20%",
+                        "render": function(data, type, full) {
+                            return '<div class="info-text">' +
+                                '<b>' + full['Nama'] + '</b>' + 
+                                '<span>' + full['Artis'] + '</span>' +
+                                '<a class="btn btn-secondary btn-sm download-btn" data-link="' + full['Link'] + '" data-type="default">Download Audio</a>' +
+                            '</div>';
+                        }
+                    },
+                    { "data": "Album", "title": "Album", "width": "10%" },
+                    { "data": "Tag", "title": "Tag", "width": "10%" },
+                    { "data": "Format", "title": "Format Sinkronisasi", "width": "10%" },
+                    { "data": "Updated", "title": "Updated", "width": "10%" },
+                    { 
+                        "data": null,
+                        "title": "Download Lirik",
+                        "width": "20%",
+                        "render": function(data, type, full) {
+                            return '<div class="download-buttons">' +
+                                '<a class="btn btn-primary btn-sm download-btn" data-link="' + full['TTML'] + '" data-type="Lirik TTML">Lirik TTML</a>' +
+                                '<a class="btn btn-warning btn-sm download-btn" data-link="' + full['LRC'] + '" data-type="Lirik LRC">Lirik LRC</a>' +
+                                '<a class="btn btn-success btn-sm download-btn" data-link="' + full['LLRC'] + '" data-type="Lirik LLRC">Lirik LLRC</a>' +
+                            '</div>';
+                        }
+                    }
+                ]
+            });
+
+            // Event handler untuk tombol download
+            $('#myDataTable').on('click', '.download-btn', function() {
+                var link = $(this).data('link'); // Menggunakan langsung dari AJAX
+                var type = $(this).data('type');
+
+                alert("Membuka " + type.toUpperCase() + " di tab baru: " + link);
+
+                // Membuka link di tab baru
+                window.open(link, '_blank');
+            });
+        });
+    </script>
+</body>
 </html>
