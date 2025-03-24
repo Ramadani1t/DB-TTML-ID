@@ -40,6 +40,7 @@
                     <th>Informasi Lagu</th>
                     <th>Album</th>
                     <th>Tag</th>
+                    <th>Sub Indo</th>
                     <th>Format Sinkronisasi</th>
                     <th>Updated</th>
                     <th>Download</th>
@@ -77,12 +78,13 @@
                             return '<div class="info-text">' +
                                 '<b>' + full['Nama'] + '</b>' + 
                                 '<span>' + full['Artis'] + '</span>' +
-                                '<a class="btn btn-secondary btn-sm download-btn" data-link="' + full['Link'] + '" data-type="default">Download Audio</a>' +
+                                '<a class="btn btn-secondary btn-sm download-btn" data-link="' + full['Link'] + '" data-type="Audio">Link Audio</a>' +
                             '</div>';
                         }
                     },
                     { "data": "Album", "title": "Album", "width": "10%" },
                     { "data": "Tag", "title": "Tag", "width": "10%" },
+                    { "data": "SubIDN", "title": "Terjemahan Indonesia", "width": "10%" },
                     { "data": "Format", "title": "Format Sinkronisasi", "width": "10%" },
                     { "data": "Updated", "title": "Updated", "width": "10%" },
                     { 
@@ -92,9 +94,13 @@
                         "render": function(data, type, full) {
                             return '<div class="download-buttons">' +
                                 '<a class="btn btn-primary btn-sm download-btn" data-link="' + full['TTML'] + '" data-type="Lirik TTML">Lirik TTML</a>' +
-                                '<a class="btn btn-warning btn-sm download-btn" data-link="' + full['LRC'] + '" data-type="Lirik LRC">Lirik LRC</a>' +
-                                '<a class="btn btn-success btn-sm download-btn" data-link="' + full['LLRC'] + '" data-type="Lirik LLRC">Lirik LLRC</a>' +
-                            '</div>';
+                                
+                                // Link LRC dan LLRC Sementara Belum Tersedia
+
+                                // '<a class="btn btn-warning btn-sm download-btn" data-link="' + full['LRC'] + '" data-type="Lirik LRC">Lirik LRC</a>' +
+                                // '<a class="btn btn-success btn-sm download-btn" data-link="' + full['LLRC'] + '" data-type="Lirik LLRC">Lirik LLRC</a>' +
+
+                                '</div>';
                         }
                     }
                 ]
@@ -105,7 +111,7 @@
                 var link = $(this).data('link'); // Menggunakan langsung dari AJAX
                 var type = $(this).data('type');
 
-                alert("Membuka " + type.toUpperCase() + " di tab baru: " + link);
+                alert("Untuk Download klik titik tiga diatas tulisan history dan pilih download ketika di halaman github, Membuka " + type.toUpperCase() + " di tab baru: " + link);
 
                 // Membuka link di tab baru
                 window.open(link, '_blank');
