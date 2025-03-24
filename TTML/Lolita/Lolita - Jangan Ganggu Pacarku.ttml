@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+    <head>
+        <metadata>
+            <ttm:agent type="person" xml:id="v1"/>
+        </metadata>
+    </head>
+    <body dur="03:13.622">
+        <div begin="00:23.381" end="01:05.597">
+            <p begin="00:23.381" end="00:27.320" ttm:agent="v1" itunes:key="L1">
+                <span begin="00:23.381" end="00:24.373">Aku </span>
+                <span begin="00:24.373" end="00:24.981">cinta </span>
+                <span begin="00:24.981" end="00:27.320">dia</span>
+            </p>
+            <p begin="00:28.588" end="00:33.656" ttm:agent="v1" itunes:key="L2">
+                <span begin="00:28.588" end="00:29.105">Aku </span>
+                <span begin="00:29.105" end="00:29.646">sayang </span>
+                <span begin="00:29.646" end="00:30.317">sama </span>
+                <span begin="00:30.317" end="00:32.686">dia </span>
+                <span begin="00:32.686" end="00:32.987">wo </span>
+                <span begin="00:32.987" end="00:33.309">wo </span>
+                <span begin="00:33.309" end="00:33.656">woo</span>
+            </p>
+            <p begin="00:34.027" end="00:36.344" ttm:agent="v1" itunes:key="L3">
+                <span begin="00:34.027" end="00:34.432">Ku </span>
+                <span begin="00:34.432" end="00:34.937">harap </span>
+                <span begin="00:34.937" end="00:35.292">kau </span>
+                <span begin="00:35.292" end="00:36.344">mengerti</span>
+            </p>
+            <p begin="00:36.700" end="00:39.049" ttm:agent="v1" itunes:key="L4">
+                <span begin="00:36.700" end="00:37.247">Tentang </span>
+                <span begin="00:37.247" end="00:39.049">perasaanku</span>
+            </p>
+            <p begin="00:39.392" end="00:44.385" ttm:agent="v1" itunes:key="L5">
+                <span begin="00:39.392" end="00:39.972">Sungguh </span>
+                <span begin="00:39.972" end="00:40.340">ku </span>
+                <span begin="00:40.340" end="00:44.385">mencintanya</span>
+            </p>
+            <p begin="00:44.724" end="00:47.039" ttm:agent="v1" itunes:key="L6">
+                <span begin="00:44.724" end="00:45.270">Jangan </span>
+                <span begin="00:45.270" end="00:45.908">ganggu </span>
+                <span begin="00:45.908" end="00:47.039">pacarku</span>
+            </p>
+            <p begin="00:47.409" end="00:49.708" ttm:agent="v1" itunes:key="L7">
+                <span begin="00:47.409" end="00:47.949">Jangan </span>
+                <span begin="00:47.949" end="00:48.564">rayu </span>
+                <span begin="00:48.564" end="00:49.708">pacarku</span>
+            </p>
+            <p begin="00:50.050" end="00:54.681" ttm:agent="v1" itunes:key="L8">
+                <span begin="00:50.050" end="00:50.617">Bila </span>
+                <span begin="00:50.617" end="00:51.038">kau </span>
+                <span begin="00:51.038" end="00:51.645">memang </span>
+                <span begin="00:51.645" end="00:54.681">sahabatku</span>
+            </p>
+            <p begin="00:55.343" end="00:57.716" ttm:agent="v1" itunes:key="L9">
+                <span begin="00:55.343" end="00:55.945">Jangan </span>
+                <span begin="00:55.945" end="00:56.557">ganggu </span>
+                <span begin="00:56.557" end="00:57.716">pacarku</span>
+            </p>
+            <p begin="00:58.049" end="01:00.370" ttm:agent="v1" itunes:key="L10">
+                <span begin="00:58.049" end="00:58.583">Jangan </span>
+                <span begin="00:58.583" end="00:59.203">sentuh </span>
+                <span begin="00:59.203" end="01:00.370">pacarku</span>
+            </p>
+            <p begin="01:00.712" end="01:05.597" ttm:agent="v1" itunes:key="L11">
+                <span begin="01:00.712" end="01:01.267">Nanti </span>
+                <span begin="01:01.267" end="01:01.899">aku </span>
+                <span begin="01:01.899" end="01:02.579">jadi </span>
+                <span begin="01:02.579" end="01:05.597">cemburu</span>
+            </p>
+            <p begin="01:27.347" end="01:31.568" ttm:agent="v1" itunes:key="L12">
+                <span begin="01:27.347" end="01:28.320">Jangan </span>
+                <span begin="01:28.320" end="01:28.632">kau </span>
+                <span begin="01:28.632" end="01:31.568">mencoba</span>
+            </p>
+        </div>
+        <div begin="01:27.347" end="02:09.570">
+            <p begin="01:32.670" end="01:37.647" ttm:agent="v1" itunes:key="L13">
+                <span begin="01:32.670" end="01:33.938">Mendekati </span>
+                <span begin="01:33.938" end="01:36.650">pacarku </span>
+                <span begin="01:36.650" end="01:36.965">wo </span>
+                <span begin="01:36.965" end="01:37.276">wo </span>
+                <span begin="01:37.276" end="01:37.647">woo</span>
+            </p>
+            <p begin="01:37.996" end="01:40.660" ttm:agent="v1" itunes:key="L14">
+                <span begin="01:37.996" end="01:38.408">Ku </span>
+                <span begin="01:38.408" end="01:38.930">mohon </span>
+                <span begin="01:38.930" end="01:39.231">kau </span>
+                <span begin="01:39.231" end="01:40.660">menjauh</span>
+            </p>
+            <p begin="01:40.660" end="01:42.996" ttm:agent="v1" itunes:key="L15">
+                <span begin="01:40.660" end="01:41.255">Agar </span>
+                <span begin="01:41.255" end="01:41.667">tak </span>
+                <span begin="01:41.667" end="01:42.296">bisa </span>
+                <span begin="01:42.296" end="01:42.996">ganggu</span>
+            </p>
+            <p begin="01:43.376" end="01:48.436" ttm:agent="v1" itunes:key="L16">
+                <span begin="01:43.376" end="01:44.252">Pacarku </span>
+                <span begin="01:44.252" end="01:44.582">yang </span>
+                <span begin="01:44.582" end="01:44.931">kau </span>
+                <span begin="01:44.931" end="01:48.436">mau</span>
+            </p>
+            <p begin="01:48.747" end="01:51.026" ttm:agent="v1" itunes:key="L17">
+                <span begin="01:48.747" end="01:49.250">Jangan </span>
+                <span begin="01:49.250" end="01:49.864">ganggu </span>
+                <span begin="01:49.864" end="01:51.026">pacarku</span>
+            </p>
+            <p begin="01:51.338" end="01:53.709" ttm:agent="v1" itunes:key="L18">
+                <span begin="01:51.338" end="01:51.864">Jangan </span>
+                <span begin="01:51.864" end="01:52.486">rayu </span>
+                <span begin="01:52.486" end="01:53.709">pacarku</span>
+            </p>
+            <p begin="01:54.049" end="01:58.827" ttm:agent="v1" itunes:key="L19">
+                <span begin="01:54.049" end="01:54.576">Bila </span>
+                <span begin="01:54.576" end="01:55.008">kau </span>
+                <span begin="01:55.008" end="01:55.610">memang </span>
+                <span begin="01:55.610" end="01:58.827">sahabatku</span>
+            </p>
+            <p begin="01:59.353" end="02:01.732" ttm:agent="v1" itunes:key="L20">
+                <span begin="01:59.353" end="01:59.902">Jangan </span>
+                <span begin="01:59.902" end="02:00.554">ganggu </span>
+                <span begin="02:00.554" end="02:01.732">pacarku</span>
+            </p>
+            <p begin="02:02.058" end="02:04.369" ttm:agent="v1" itunes:key="L21">
+                <span begin="02:02.058" end="02:02.571">Jangan </span>
+                <span begin="02:02.571" end="02:03.211">sentuh </span>
+                <span begin="02:03.211" end="02:04.369">pacarku</span>
+            </p>
+            <p begin="02:04.710" end="02:09.570" ttm:agent="v1" itunes:key="L22">
+                <span begin="02:04.710" end="02:05.245">Nanti </span>
+                <span begin="02:05.245" end="02:05.903">aku </span>
+                <span begin="02:05.903" end="02:06.583">jadi </span>
+                <span begin="02:06.583" end="02:09.570">cemburu</span>
+            </p>
+            <p begin="02:31.323" end="02:35.308" ttm:agent="v1" itunes:key="L23">
+                <span begin="02:31.323" end="02:32.350">Aku </span>
+                <span begin="02:32.350" end="02:32.984">cinta </span>
+                <span begin="02:32.984" end="02:35.308">dia</span>
+            </p>
+        </div>
+        <div begin="02:31.323" end="03:13.622">
+            <p begin="02:36.666" end="02:41.667" ttm:agent="v1" itunes:key="L24">
+                <span begin="02:36.666" end="02:37.136">Aku </span>
+                <span begin="02:37.136" end="02:37.668">sayang </span>
+                <span begin="02:37.668" end="02:38.310">sama </span>
+                <span begin="02:38.310" end="02:40.629">dia </span>
+                <span begin="02:40.629" end="02:40.981">wo </span>
+                <span begin="02:40.981" end="02:41.300">wo </span>
+                <span begin="02:41.300" end="02:41.667">woo</span>
+            </p>
+            <p begin="02:41.994" end="02:44.351" ttm:agent="v1" itunes:key="L25">
+                <span begin="02:41.994" end="02:42.443">Ku </span>
+                <span begin="02:42.443" end="02:42.936">harap </span>
+                <span begin="02:42.936" end="02:43.250">kau </span>
+                <span begin="02:43.250" end="02:44.351">mengerti</span>
+            </p>
+            <p begin="02:44.664" end="02:47.030" ttm:agent="v1" itunes:key="L26">
+                <span begin="02:44.664" end="02:45.225">Tentang </span>
+                <span begin="02:45.225" end="02:47.030">perasaanku</span>
+            </p>
+            <p begin="02:47.341" end="02:52.378" ttm:agent="v1" itunes:key="L27">
+                <span begin="02:47.341" end="02:47.876">Sungguh </span>
+                <span begin="02:47.876" end="02:48.376">ku </span>
+                <span begin="02:48.376" end="02:52.378">mencintanya</span>
+            </p>
+            <p begin="02:52.728" end="02:55.022" ttm:agent="v1" itunes:key="L28">
+                <span begin="02:52.728" end="02:53.223">Jangan </span>
+                <span begin="02:53.223" end="02:53.859">ganggu </span>
+                <span begin="02:53.859" end="02:55.022">pacarku</span>
+            </p>
+            <p begin="02:55.364" end="02:57.684" ttm:agent="v1" itunes:key="L29">
+                <span begin="02:55.364" end="02:55.869">Jangan </span>
+                <span begin="02:55.869" end="02:56.526">rayu </span>
+                <span begin="02:56.526" end="02:57.684">pacarku</span>
+            </p>
+            <p begin="02:58.014" end="03:02.666" ttm:agent="v1" itunes:key="L30">
+                <span begin="02:58.014" end="02:58.556">Bila </span>
+                <span begin="02:58.556" end="02:59.036">kau </span>
+                <span begin="02:59.036" end="02:59.623">memang </span>
+                <span begin="02:59.623" end="03:02.666">sahabatku</span>
+            </p>
+            <p begin="03:03.297" end="03:05.714" ttm:agent="v1" itunes:key="L31">
+                <span begin="03:03.297" end="03:03.863">Jangan </span>
+                <span begin="03:03.863" end="03:04.510">ganggu </span>
+                <span begin="03:04.510" end="03:05.714">pacarku</span>
+            </p>
+            <p begin="03:06.052" end="03:08.343" ttm:agent="v1" itunes:key="L32">
+                <span begin="03:06.052" end="03:06.591">Jangan </span>
+                <span begin="03:06.591" end="03:07.232">sentuh </span>
+                <span begin="03:07.232" end="03:08.343">pacarku</span>
+            </p>
+            <p begin="03:08.674" end="03:13.622" ttm:agent="v1" itunes:key="L33">
+                <span begin="03:08.674" end="03:09.227">Nanti </span>
+                <span begin="03:09.227" end="03:09.887">aku </span>
+                <span begin="03:09.887" end="03:10.505">jadi </span>
+                <span begin="03:10.505" end="03:13.622">cemburu</span>
+            </p>
+        </div>
+    </body>
+</tt>
