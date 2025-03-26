@@ -21,17 +21,75 @@
             gap: 5px; /* Jarak antar elemen */
             max-width: 200px; /* Agar tampilan tetap rapi */
         }
-        table img {
-            width: 50px;
-            height: auto;
-            border-radius: 5px;
+        .description-box {
+            padding: 15px;
+            background: #f8f9fa;
+            border-left: 5px solid #007bff;
+            margin-bottom: 20px;
         }
+        .footer {
+            text-align: center;
+            padding: 10px;
+            background: #f8f9fa;
+            border-top: 1px solid #ddd;
+        }
+        .preview-img {
+            max-width: 100px; /* Menyesuaikan lebar gambar */
+            height: auto; /* Memastikan proporsi tetap */
+            display: block; /* Menghindari spasi ekstra */
+            margin: auto; /* Memposisikan gambar ke tengah */
+            border-radius: 5px; /* Memberikan sudut bulat */
+        }
+
     </style>
 </head>
 <body>
 
-    <div class="container">
-        <h2 class="mb-4">DataTable TTML Indonesia</h2>
+  <!-- Class Teks Container -->
+  <div class="container">
+    <h2 class="mb-4">DataTable dengan Form Feedback</h2>
+
+<!-- Teks di bawah judul -->
+<div class="description-box">
+  <p><strong>📂 Web Database Backup Lagu dengan lirik ttml</strong></p>
+  <p><strong>🌍 Datatable berbasis Google Apps Script dan Dihosting oleh Github 👨‍💻</strong></p>
+
+<!-- Link tombol tautan dan tombol repository github disini -->
+<div class="d-flex gap-2 mb-3">
+    <a href="https://github.com/Ramadani1t" target="_blank" class="btn btn-dark">
+        <i class="bi bi-github"></i> Profil GitHub
+    </a>
+    <a href="https://github.com/Ramadani1t/DB-TTML-ID" target="_blank" class="btn btn-primary">
+        <i class="bi bi-github"></i> Repository GitHub
+    </a>
+    <a href="https://github.com/" target="_blank" class="btn btn-success">
+        <i class="bi bi-code-slash"></i> Biodata saya
+    </a>
+</div>
+
+<!-- Bootstrap Icons -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+
+
+  <p>Link yang disertakan harap download sendiri di halaman GitHub dengan cara:</p>
+  <ol>
+    <li>Klik titik tiga di atas history</li>
+    <li>Pilih download</li>
+    <li>Dan file pun terdownload</li>
+  </ol>
+  <p><strong>Catatan:</strong> Agar Lirik terbaca taruh file lirik berformat '.ttml' ditempat yang sama, dan nama file audio yang sama, atau salin lirik dan masukan kedalam metadata audio secara langsung !!!</p>
+
+  <p><strong>Ada beberapa opsi download pada kolom download:</strong></p>
+  <ul>
+    <li>Link TTML</li>
+    <li>Link TTML Unroman <span class="text-muted">(Lirik TTML tanpa diromanisasi tapi tetap menambahkan terjemahan indonesia)</span></li>
+    <li><s>Lirik LRC</s> <span class="text-danger">*sementara tidak tersedia karena masalah penyimpanan</span></li>
+    <li><s>Lirik LLRC</s> <span class="text-danger">*sementara tidak tersedia karena masalah penyimpanan</span></li>
+  </ul>
+
+  <p>💡 <strong>Harap Jangan Disalahgunakan kepada pembuat!</strong> 🚀🎶</p>
+  <p>Silakan dicoba! Jika masih ada yang perlu diperbaiki atau ditambahkan, <strong>kirim feedback kalian! 😃</strong></p>
+</div>
         <table id="myDataTable" class="display table table-bordered" style="width:100%">
             <thead>
                 <tr>
@@ -49,6 +107,11 @@
         </table>
     </div>
 
+      <!-- Footer -->
+  <footer class="footer">
+    Dibuat oleh <strong>Ramadani Arya Nugraha</strong> dan <strong>Chat GPT</strong> &copy; 2024
+  </footer>
+
     <!-- jQuery, DataTables, dan Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
@@ -60,15 +123,13 @@
                 ajax: 'https://script.google.com/macros/s/AKfycbxJ-qYkqcZE7-P0QEoc1duoWEIKRkdt_phopQtb3g31GJaS2TrsQpOD-sVy3PDkhdlFkw/exec',
                 "columns": [
                     { "data": "ID", "title": "ID", "width": "5%" },
-                    { 
+                    {
                         "data": "Image",
                         "title": "Cover",
                         "width": "10%",
-                        "height": "10%",
                         "render": function(data, type, full) {
-                            return '<img src="' + data + '" style="height:100px; width:100px;">';
+                            return '<img src="' + data + '" alt="Preview" class="preview-img">';
                         }
-
                     },
                     { 
                         "data": null,
@@ -95,7 +156,7 @@
                             return '<div class="download-buttons">' +
                                 '<a class="btn btn-primary btn-sm download-btn" data-link="' + full['TTML'] + '" data-type="Lirik TTML">Lirik TTML</a>' +
                                 
-                                // Link LRC dan LLRC Sementara Belum Tersedia
+                                // Link TTML LRC dan LLRC Sementara Belum Tersedia
 
                                 // '<a class="btn btn-warning btn-sm download-btn" data-link="' + full['LRC'] + '" data-type="Lirik LRC">Lirik LRC</a>' +
                                 // '<a class="btn btn-success btn-sm download-btn" data-link="' + full['LLRC'] + '" data-type="Lirik LLRC">Lirik LLRC</a>' +
