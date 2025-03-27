@@ -22,10 +22,44 @@
             max-width: 200px; /* Agar tampilan tetap rapi */
         }
         .description-box {
-            padding: 15px;
+    padding: 15px;
+    background: #f8f9fa; /* Latar belakang tetap */
+    border-left: 5px solid #007bff; /* Tetap mempertahankan border kiri */
+    margin-bottom: 20px;
+}
+
+.description-box a {
+    display: inline-flex;
+    align-items: center;
+    background: #007bff; /* Warna tombol tetap */
+    border: 1px solid #0056b3; /* Tambahkan border untuk lebih jelas */
+    padding: 5px 10px; /* Padding tetap */
+    border-radius: 5px; /* Sudut tetap membulat */
+    text-decoration: none; /* Hilangkan garis bawah */
+    color: white; /* Warna teks tetap putih */
+    font-weight: bold;
+    transition: background 0.3s, border 0.3s; /* Efek transisi */
+}
+
+.description-box a:hover {
+    background: #0056b3; /* Efek hover */
+    border: 1px solid #003f7f;
+}
+
+.description-box img {
+    width: 20px; /* Ukuran lebih kecil sesuai teks */
+    height: auto; /* Proporsi tetap */
+    vertical-align: middle; /* Posisikan sejajar teks */
+    margin-right: 5px; /* Jarak dengan teks */
+    border-radius: 3px; /* Sedikit membulatkan ikon */
+}
+
+        .feedback-container {
+            margin-top: auto;
+            padding: 20px;
             background: #f8f9fa;
-            border-left: 5px solid #007bff;
-            margin-bottom: 20px;
+            border-top: 1px solid #ddd;
+            text-align: center;
         }
         .footer {
             text-align: center;
@@ -44,13 +78,12 @@
             overflow-x: auto;
             -webkit-overflow-scrolling: touch;
         }
-
         @media (max-width: 768px) {
-        table.dataTable {
-        width: 100% !important;
+            table.dataTable {
+            width: 100% !important;
         }
         .dataTables_wrapper {
-        overflow-x: auto;
+            overflow-x: auto;
     }
 }
 
@@ -90,7 +123,10 @@
     <li>Dan file pun terdownload</li>
   </ol>
   <p><strong>Catatan:</strong> Agar Lirik terbaca taruh file lirik berformat '.ttml' ditempat yang sama, dan nama file audio yang sama, atau salin lirik dan masukan kedalam metadata audio secara langsung !!!</p>
-
+  <p><strong>Perhatian:</strong> File lirik berformat '.ttml' ini hanya bisa dipakai oleh pemutar musik seperti 
+     <a href="https://github.com/Steve-xmh/applemusic-like-lyrics" target="_blank">
+     <img src="https://raw.githubusercontent.com/Steve-xmh/applemusic-like-lyrics/refs/heads/full-refractor/packages/docs/public/favicon.ico" alt="AMLL Player">AMLL Player</a>
+  </p>
   <p><strong>Ada beberapa opsi download pada kolom download:</strong></p>
   <ul>
     <li>Link TTML</li>
@@ -120,7 +156,31 @@
         </table>
     </div>
 
-      <!-- Footer -->
+<!-- Formulir Feedback -->
+  <div class="feedback-container">
+    <h4>Kirim Feedback</h4>
+    <form id="feedbackForm">
+      <div class="mb-3">
+        <input type="text" class="form-control" id="name" placeholder="Nama Anda" required>
+      </div>
+      <div class="mb-3">
+        <input type="email" class="form-control" id="email" placeholder="Email Anda" required>
+      </div>
+      <div class="mb-3">
+        <textarea class="form-control" id="message" rows="3" placeholder="Tulis pesan Anda di sini..." required></textarea>
+      </div>
+      <button type="submit" class="btn btn-primary">Kirim Feedback</button>
+      <p class="mt-2"><small><i>📌 Kami tidak akan memberikan email Anda secara publik.</i></small></p>
+    </form>
+
+    <p class="mt-3"><strong>Jika tidak bisa mengirim feedback, kirim pesan ke email ini:</strong></p>
+    <div class="email-box">
+        <span class="email-text" id="emailText">ramadanii10.ns@gmail.com</span>
+        <button class="btn btn-sm btn-outline-primary" id="copyButton" onclick="copyEmail()">Salin</button>
+        <span id="copyMessage" style="color: green; font-weight: bold; display: none;">Disalin!</span>
+    </div>
+      
+    <!-- Footer -->
   <footer class="footer">
     Dibuat oleh <strong>Ramadani Arya Nugraha</strong> dan <strong>Chat GPT</strong> &copy; 2024
   </footer>
@@ -151,12 +211,16 @@
                         "title": "Informasi Lagu",
                         "width": "20%",
                         "render": function(data, type, full) {
+                            var audioBtn = full['Link'] && full['Link'].trim() !== "" 
+                              ? '<a class="btn btn-secondary btn-sm download-btn" data-link="' + full['Link'] + '" data-type="Audio">Link Audio</a>' 
+                              : '<a class="btn btn-secondary btn-sm disabled">(Link Audio Sedang Dibuat)</a>';
+
                             return '<div class="info-text">' +
-                                '<b>' + full['Nama'] + '</b>' + 
-                                '<span>' + full['Artis'] + '</span>' +
-                                '<a class="btn btn-secondary btn-sm download-btn" data-link="' + full['Link'] + '" data-type="Audio">Link Audio</a>' +
-                            '</div>';
-                        }
+                                      '<b>' + full['Nama'] + '</b>' + 
+                                      '<span>' + full['Artis'] + '</span>' +
+                                      audioBtn +
+                                    '</div>';
+            }
                     },
                     { "data": "Album", "title": "Album", "width": "10%" },
                     { "data": "Tag", "title": "Tag", "width": "10%" },
@@ -168,20 +232,25 @@
                         "title": "Download Lirik",
                         "width": "20%",
                         "render": function(data, type, full) {
-                            return '<div class="download-buttons">' +
-                                '<a class="btn btn-primary btn-sm download-btn" data-link="' + full['TTML'] + '" data-type="Lirik TTML">Lirik TTML</a>' +
-                                
-                                // Link TTML LRC dan LLRC Sementara Belum Tersedia
-
-                                // '<a class="btn btn-warning btn-sm download-btn" data-link="' + full['LRC'] + '" data-type="Lirik LRC">Lirik LRC</a>' +
-                                // '<a class="btn btn-success btn-sm download-btn" data-link="' + full['LLRC'] + '" data-type="Lirik LLRC">Lirik LLRC</a>' +
-
-                                '</div>';
+                            var ttmlBtn = full['TTML'] && full['TTML'].trim() !== "" 
+                              ? '<a class="btn btn-primary btn-sm download-btn" data-link="' + full['TTML'] + '" data-type="Lirik TTML">Lirik TTML</a>' 
+                              : '<a class="btn btn-primary btn-sm disabled">(Link TTML Sedang Dibuat)</a>';
+                            var ttmlunromanBtn = full['TTMLUnroman'] && full['TTMLUnroman'].trim() !== "" 
+                              ? '<a class="btn btn-success btn-sm download-btn" data-link="' + full['TTMLUnroman'] + '" data-type="Lirik TTML Unroman">Lirik TTML Unroman</a>' 
+                              : '';
+                            // Link LRC dan LLRC Sementara Belum Tersedia
+                            var lrcBtn = full['LRC'] && full['LRC'].trim() !== "" 
+                              ? '<a class="btn btn-success btn-sm download-btn" data-link="' + full['LRC'] + '" data-type="Lirik LRC">Lirik LRC</a>' 
+                              : '';
+                            var llrcBtn = full['LLRC'] && full['LLRC'].trim() !== "" 
+                              ? '<a class="btn btn-success btn-sm download-btn" data-link="' + full['LLRC'] + '" data-type="Lirik LLRC">Lirik LLRC</a>' 
+                              : '';
+                            
+                            return '<div class="download-buttons">' + ttmlBtn + ttmlunromanBtn + lrcBtn + llrcBtn +'</div>';'</div>';
                         }
                     }
                 ]
             });
-
             // Event handler untuk tombol download
             $('#myDataTable').on('click', '.download-btn', function() {
                 var link = $(this).data('link'); // Menggunakan langsung dari AJAX
@@ -193,6 +262,37 @@
                 window.open(link, '_blank');
             });
         });
+                // Form feedback - Kirim ke email pengguna
+                $('#feedbackForm').submit(function(event) {
+                    event.preventDefault();
+                    var name = $('#name').val();
+                    var email = $('#email').val();
+                    var message = $('#message').val();
+              
+                    var mailtoLink = "mailto:ramadanii10.ns@gmail.com?subject=Feedback dari " + encodeURIComponent(name) +
+                               "&body=Nama: " + encodeURIComponent(name) +
+                               "%0AEmail: " + encodeURIComponent(email) +
+                               "%0APesan: " + encodeURIComponent(message);
+                    window.location.href = mailtoLink;
+        });
+
+                // Fungsi menyalin email ke clipboard
+                function copyEmail() {
+                    var emailText = document.getElementById("emailText").innerText;
+                    var copyMessage = document.getElementById("copyMessage");
+                    var copyButton = document.getElementById("copyButton");
+
+                navigator.clipboard.writeText(emailText).then(function() {
+                  copyMessage.style.display = "inline"; // Tampilkan pesan "Disalin!"
+                  copyButton.innerText = "✔"; // Ganti teks tombol dengan centang
+
+                // Sembunyikan pesan salin email setelah 2 detik
+                setTimeout(function() {
+                  copyMessage.style.display = "none";
+                  copyButton.innerText = "Salin"; // Kembalikan teks tombol ke "Salin"
+                }, 2000);
+        });
+}
     </script>
 </body>
 </html>
