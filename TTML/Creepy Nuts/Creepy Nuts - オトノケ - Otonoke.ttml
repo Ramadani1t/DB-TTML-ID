@@ -1,0 +1,520 @@
+<?xml version="1.0"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word" xml:lang="ja">
+  <head>
+    <metadata>
+      <ttm:agent type="person" xml:id="v1"/>
+      <iTunesMetadata xmlns="http://music.apple.com/lyric-ttml-internal" leadingSilence="0.420">
+        <songwriters>
+          <songwriter>R指定</songwriter>
+          <songwriter>DJ松永</songwriter>
+        </songwriters>
+      </iTunesMetadata>
+    </metadata>
+  </head>
+  <body dur="3:05.626">
+    <div begin="0.652" end="10.954" itunes:songPart="Intro">
+      <p begin="0.652" end="10.954" itunes:key="L1" ttm:agent="v1">
+        <span begin="0.652" end="1.163">Dandadan </span>
+        <span begin="1.163" end="1.675">dandadan </span>
+        <span begin="1.675" end="2.215">dandadan </span>
+        <span begin="2.215" end="2.757">dandadan </span>
+        <span begin="2.757" end="10.954">…</span>
+      </p>
+    </div>
+    <div begin="11.051" end="34.515" itunes:songPart="Verse">
+      <p begin="11.051" end="12.491" itunes:key="L2" ttm:agent="v1">
+        <span begin="11.051" end="11.494">Aki</span>
+        <span begin="11.494" end="11.694">rame no </span>
+        <span begin="11.694" end="11.949">waru</span>
+        <span begin="11.949" end="12.058">i </span>
+        <span begin="12.058" end="12.491">yakara</span>
+      </p>
+      <p begin="12.491" end="14.692" itunes:key="L3" ttm:agent="v1">
+        <span begin="12.491" end="12.870">Anta</span>
+        <span begin="12.870" end="13.073">ra </span>
+        <span begin="13.108" end="13.417">nanka </span>
+        <span begin="13.417" end="13.602">ja </span>
+        <span begin="13.633" end="13.770">taba </span>
+        <span begin="13.770" end="13.958">na</span>
+        <span begin="13.958" end="14.072">tte mo </span>
+        <span begin="14.072" end="14.447">kana </span>
+        <span begin="14.447" end="14.692">wan</span>
+      </p>
+      <p begin="14.689" end="17.435" itunes:key="L4" ttm:agent="v1">
+        <span begin="14.689" end="14.789">Ku</span>
+        <span begin="14.789" end="15.098">wa</span>
+        <span begin="15.098" end="15.339">bara, </span>
+        <span begin="15.339" end="15.439">ku</span>
+        <span begin="15.439" end="15.644">wa</span>
+        <span begin="15.644" end="15.853">bara, </span>
+        <span begin="15.853" end="15.953">ku</span>
+        <span begin="15.953" end="16.143">wa</span>
+        <span begin="16.143" end="16.347">bara, </span>
+        <span begin="16.371" end="16.978">me ni mo tomaran </span>
+        <span begin="16.978" end="17.229">haya</span>
+        <span begin="17.229" end="17.435">sa</span>
+      </p>
+      <p begin="17.679" end="20.261" itunes:key="L5" ttm:agent="v1">
+        <span begin="17.679" end="17.794">Ku</span>
+        <span begin="17.794" end="18.063">ta</span>
+        <span begin="18.063" end="18.336">baran </span>
+        <span begin="18.368" end="18.651">dama</span>
+        <span begin="18.651" end="18.835">ran </span>
+        <span begin="18.835" end="19.184">sagaran </span>
+        <span begin="19.202" end="19.617">oshitousu </span>
+        <span begin="19.617" end="19.974">waga</span>
+        <span begin="19.974" end="20.261">mama</span>
+      </p>
+      <p begin="20.578" end="23.202" itunes:key="L6" ttm:agent="v1">
+        <span begin="20.578" end="21.127">Soko doki na </span>
+        <span begin="21.127" end="21.380">ja</span>
+        <span begin="21.380" end="21.480">ma</span>
+        <span begin="21.480" end="21.637">da </span>
+        <span begin="21.744" end="22.037">ore wa </span>
+        <span begin="22.037" end="22.507">mou hitori </span>
+        <span begin="22.507" end="22.783">a</span>
+        <span begin="22.783" end="23.202">nata</span>
+      </p>
+      <p begin="23.202" end="25.909" itunes:key="L7" ttm:agent="v1">
+        <span begin="23.202" end="23.571">Sada </span>
+        <span begin="23.571" end="23.808">chan </span>
+        <span begin="23.824" end="24.055">ka</span>
+        <span begin="24.055" end="24.186">ya </span>
+        <span begin="24.186" end="24.379">chan </span>
+        <span begin="24.386" end="24.602">wan</span>
+        <span begin="24.602" end="24.702">sa </span>
+        <span begin="24.702" end="24.879">ka </span>
+        <span begin="24.887" end="25.417">yomi no kuni </span>
+        <span begin="25.417" end="25.721">wonder</span>
+        <span begin="25.721" end="25.909">land</span>
+      </p>
+      <p begin="26.178" end="28.695" itunes:key="L8" ttm:agent="v1">
+        <span begin="26.178" end="26.811">Go kitou chuu ni </span>
+        <span begin="26.811" end="26.995">nan</span>
+        <span begin="26.995" end="27.095">da </span>
+        <span begin="27.095" end="27.310">ga </span>
+        <span begin="27.338" end="27.546">yonji </span>
+        <span begin="27.546" end="28.173">yonjuu yonpun </span>
+        <span begin="28.173" end="28.273">ma</span>
+        <span begin="28.273" end="28.491">wat</span>
+        <span begin="28.491" end="28.591">ta</span>
+        <span begin="28.591" end="28.695">ra</span>
+      </p>
+      <p begin="28.633" end="31.537" itunes:key="L9" ttm:agent="v1"><span begin="28.633" end="28.905">Yon </span><span begin="28.905" end="29.170">shaku </span><span begin="29.170" end="29.579">yonsun </span><span begin="29.579" end="29.955">yonbun </span><span begin="29.955" end="30.319">sama </span><span begin="30.319" end="30.504">ga </span><span begin="30.534" end="30.634">kami</span><span begin="30.634" end="31.047">nacha </span><span begin="31.047" end="31.299">bang </span> <span begin="31.299" end="31.537">aroundd</span></p>
+      <p begin="31.875" end="34.515" itunes:key="L10" ttm:agent="v1"><span begin="31.875" end="32.409">Yobu koe ga </span><span begin="32.409" end="32.509">shi</span><span begin="32.509" end="32.715">tan </span><span begin="32.715" end="32.815">na</span><span begin="32.815" end="32.970">ra </span> <span begin="32.970" end="33.411">mojidōrii </span><span begin="33.559" end="33.863">wo tsurakee </span><span begin="33.863" end="34.204">sama</span><span begin="34.204" end="34.515">yan…</span></p>
+    </div>
+    <div begin="34.545" end="44.570" itunes:songPart="PreChorus">
+      <p begin="34.545" end="37.500" itunes:key="L11" ttm:agent="v1">
+        <span begin="34.545" end="35.113">Haireta, </span>
+        <span begin="35.113" end="35.626">haireta, </span>
+        <span begin="35.626" end="36.195">haireta, </span>
+        <span begin="36.195" end="36.729">haireta, </span>
+        <span begin="36.729" end="37.113">haire</span>
+        <span begin="37.113" end="37.500">ta</span>
+      </p>
+      <p begin="37.518" end="40.275" itunes:key="L12" ttm:agent="v1">
+        <span begin="37.518" end="38.084">Hisshi de </span>
+        <span begin="38.084" end="38.568">hai deta </span>
+        <span begin="38.568" end="39.099">saki de </span>
+        <span begin="39.099" end="39.527">kiri wa </span>
+        <span begin="39.527" end="39.826">ha</span>
+        <span begin="39.826" end="39.926">re</span>
+        <span begin="39.926" end="40.275">ta</span>
+      </p>
+      <p begin="40.438" end="42.981" itunes:key="L13" ttm:agent="v1">
+        <span begin="40.438" end="40.898">Deko to </span>
+        <span begin="40.898" end="41.176">bo</span>
+        <span begin="41.176" end="41.286">ko </span>
+        <span begin="41.286" end="41.622">ga </span>
+        <span begin="41.676" end="42.014">umakku </span>
+        <span begin="42.014" end="42.259">kami</span>
+        <span begin="42.259" end="42.571">at</span>
+        <span begin="42.571" end="42.698">ta</span>
+        <span begin="42.698" end="42.981">ra</span>
+      </p>
+      <p begin="42.999" end="44.570" itunes:key="L14" ttm:agent="v1">
+        <span begin="42.999" end="43.389">痛み</span>
+        <span begin="43.406" end="43.603">が</span>
+        <span begin="43.603" end="43.760">重</span>
+        <span begin="43.760" end="44.052">なっ</span>
+        <span begin="44.052" end="44.152">た</span>
+        <span begin="44.152" end="44.570">ら</span>
+      </p>
+    </div>
+    <div begin="44.910" end="1:30.033" itunes:songPart="Chorus">
+      <p begin="44.910" end="46.385" itunes:key="L15" ttm:agent="v1">
+        <span begin="44.910" end="45.309">ココロ</span>
+        <span begin="45.309" end="45.861">カラダ</span>
+        <span begin="45.861" end="46.175">ア</span>
+        <span begin="46.175" end="46.285">タ</span>
+        <span begin="46.285" end="46.385">マ</span>
+      </p>
+      <p begin="46.374" end="47.701" itunes:key="L16" ttm:agent="v1">
+        <span begin="46.374" end="46.614">みな</span>
+        <span begin="46.614" end="46.813">ぎっ</span>
+        <span begin="46.813" end="47.323">てゆく</span>
+        <span begin="47.323" end="47.501">何</span>
+        <span begin="47.501" end="47.601">だ</span>
+        <span begin="47.601" end="47.701">か</span>
+      </p>
+      <p begin="47.690" end="50.376" itunes:key="L17" ttm:agent="v1">
+        <span begin="47.690" end="48.373">背中に</span>
+        <span begin="48.373" end="48.732">今</span>
+        <span begin="48.732" end="49.053">羽</span>
+        <span begin="49.053" end="49.153">が</span>
+        <span begin="49.153" end="49.450">生</span>
+        <span begin="49.450" end="49.550">え</span>
+        <span begin="49.550" end="49.715">た</span>
+        <span begin="49.715" end="49.952">な</span>
+        <span begin="49.952" end="50.078">ら</span>
+        <span begin="50.078" end="50.376">ば</span>
+      </p>
+      <p begin="50.594" end="52.289" itunes:key="L18" ttm:agent="v1">
+        <span begin="50.594" end="50.853">暗</span>
+        <span begin="50.853" end="51.208">闇</span>
+        <span begin="51.208" end="51.457">から</span>
+        <span begin="51.457" end="51.563">お</span>
+        <span begin="51.563" end="51.786">さ</span>
+        <span begin="51.786" end="51.886">ら</span>
+        <span begin="51.886" end="52.289">ば</span>
+      </p>
+      <p begin="53.404" end="55.058" itunes:key="L19" ttm:agent="v1">
+        <span begin="53.404" end="53.639">飛び</span>
+        <span begin="53.639" end="53.831">立っ</span>
+        <span begin="53.831" end="54.361">ていく</span>
+        <span begin="54.361" end="54.610">彼</span>
+        <span begin="54.610" end="55.058">方</span>
+      </p>
+      <p begin="56.173" end="57.648" itunes:key="L20" ttm:agent="v1">
+        <span begin="56.173" end="56.572">ココロ</span>
+        <span begin="56.572" end="57.124">カラダ</span>
+        <span begin="57.124" end="57.438">ア</span>
+        <span begin="57.438" end="57.548">タ</span>
+        <span begin="57.548" end="57.648">マ</span>
+      </p>
+      <p begin="57.582" end="59.042" itunes:key="L21" ttm:agent="v1">
+        <span begin="57.582" end="57.835">懐</span>
+        <span begin="57.835" end="58.147">かしい</span>
+        <span begin="58.147" end="58.760">暖</span>
+        <span begin="58.760" end="58.860">か</span>
+        <span begin="58.860" end="59.042">さ</span>
+      </p>
+      <p begin="59.042" end="1:01.848" itunes:key="L22" ttm:agent="v1">
+        <span begin="59.042" end="59.317">足</span>
+        <span begin="59.317" end="59.979">元に今</span>
+        <span begin="59.979" end="1:00.369">花</span>
+        <span begin="1:00.369" end="1:00.513">が</span>
+        <span begin="1:00.513" end="1:00.744">咲</span>
+        <span begin="1:00.744" end="1:01.047">いた</span>
+        <span begin="1:01.047" end="1:01.314">な</span>
+        <span begin="1:01.314" end="1:01.430">ら</span>
+        <span begin="1:01.430" end="1:01.848">ば</span>
+      </p>
+      <p begin="1:01.890" end="1:03.585" itunes:key="L23" ttm:agent="v1">
+        <span begin="1:01.890" end="1:02.149">暗</span>
+        <span begin="1:02.149" end="1:02.504">闇</span>
+        <span begin="1:02.504" end="1:02.753">から</span>
+        <span begin="1:02.753" end="1:02.859">お</span>
+        <span begin="1:02.859" end="1:03.082">さ</span>
+        <span begin="1:03.082" end="1:03.182">ら</span>
+        <span begin="1:03.182" end="1:03.585">ば</span>
+      </p>
+      <p begin="1:04.690" end="1:06.344" itunes:key="L24" ttm:agent="v1">
+        <span begin="1:04.690" end="1:04.925">飛び</span>
+        <span begin="1:04.925" end="1:05.117">立っ</span>
+        <span begin="1:05.117" end="1:05.647">ていく</span>
+        <span begin="1:05.647" end="1:05.896">彼</span>
+        <span begin="1:05.896" end="1:06.344">方</span>
+      </p>
+      <p begin="1:07.141" end="1:08.942" itunes:key="L25" ttm:agent="v1">
+        <span begin="1:07.141" end="1:07.733">何度</span>
+        <span begin="1:07.733" end="1:08.004">だっ</span>
+        <span begin="1:08.004" end="1:08.317">て</span>
+        <span begin="1:08.317" end="1:08.510">生</span>
+        <span begin="1:08.510" end="1:08.942">きる</span>
+      </p>
+      <p begin="1:08.942" end="1:11.049" itunes:key="L26" ttm:agent="v1">
+        <span begin="1:08.942" end="1:09.237">お</span>
+        <span begin="1:09.237" end="1:09.677">前や</span>
+        <span begin="1:09.677" end="1:10.239">君</span>
+        <span begin="1:10.239" end="1:10.398">の</span>
+        <span begin="1:10.398" end="1:11.049">中</span>
+      </p>
+      <p begin="1:11.167" end="1:13.849" itunes:key="L27" ttm:agent="v1">
+        <span begin="1:11.167" end="1:11.960">瞼の</span>
+        <span begin="1:11.960" end="1:12.289">裏</span>
+        <span begin="1:12.289" end="1:12.508">や</span>
+        <span begin="1:12.508" end="1:13.042">耳</span>
+        <span begin="1:13.042" end="1:13.235">の</span>
+        <span begin="1:13.235" end="1:13.849">中</span>
+      </p>
+      <p begin="1:14.017" end="1:19.123" itunes:key="L28" ttm:agent="v1">
+        <span begin="1:14.017" end="1:14.852">胸の</span>
+        <span begin="1:14.852" end="1:15.471">奥に</span>
+        <span begin="1:15.471" end="1:15.784">居</span>
+        <span begin="1:15.784" end="1:16.025">着い</span>
+        <span begin="1:16.025" end="1:16.376">てる</span>
+        <span begin="1:16.376" end="1:16.856">メロ</span>
+        <span begin="1:16.856" end="1:17.639">ディー、</span>
+        <span begin="1:17.829" end="1:18.331">リズム</span>
+        <span begin="1:18.331" end="1:19.123">に</span>
+      </p>
+      <p begin="1:19.731" end="1:30.033" itunes:key="L29" ttm:agent="v1">
+        <span begin="1:19.731" end="1:20.242">Dandadan </span>
+        <span begin="1:20.242" end="1:20.754">dandadan </span>
+        <span begin="1:20.754" end="1:21.294">dandadan </span>
+        <span begin="1:21.294" end="1:21.836">dandadan </span>
+        <span begin="1:21.836" end="1:30.033">…</span>
+      </p>
+    </div>
+    <div begin="1:31.437" end="1:55.001" itunes:songPart="Verse">
+      <p begin="1:31.437" end="1:33.068" itunes:key="L30" ttm:agent="v1">
+        <span begin="1:31.437" end="1:32.007">今日も賽の</span>
+        <span begin="1:32.007" end="1:32.493">河原ど</span>
+        <span begin="1:32.493" end="1:32.593">真ん</span>
+        <span begin="1:32.593" end="1:33.068">中</span>
+      </p>
+      <p begin="1:33.068" end="1:34.542" itunes:key="L31" ttm:agent="v1"><span begin="1:33.068" end="1:33.831">積み上げてく</span><span begin="1:33.831" end="1:34.231">top of</span> <span begin="1:34.231" end="1:34.542">top</span></p>
+      <p begin="1:34.792" end="1:35.813" itunes:key="L32" ttm:agent="v1">
+        <span begin="1:34.792" end="1:35.236">鬼と</span>
+        <span begin="1:35.236" end="1:35.645">チャンバ</span>
+        <span begin="1:35.645" end="1:35.813">ラ</span>
+      </p>
+      <p begin="1:35.813" end="1:37.366" itunes:key="L33" ttm:agent="v1"><span begin="1:35.813" end="1:36.027">the</span> <span begin="1:36.027" end="1:36.445">lyrical</span> <span begin="1:36.445" end="1:36.634">chainsaw</span> <span begin="1:36.634" end="1:37.366">massacre</span></p>
+      <p begin="1:37.653" end="1:38.712" itunes:key="L34" ttm:agent="v1">
+        <span begin="1:37.653" end="1:38.104">渡る</span>
+        <span begin="1:38.104" end="1:38.388">大</span>
+        <span begin="1:38.388" end="1:38.712">海原</span>
+      </p>
+      <p begin="1:38.786" end="1:40.308" itunes:key="L35" ttm:agent="v1"><span begin="1:38.786" end="1:39.251">鼻歌</span><span begin="1:39.251" end="1:39.511">singin’</span> <span begin="1:39.511" end="1:39.732">sha-</span><span begin="1:39.732" end="1:39.928">la-</span><span begin="1:39.928" end="1:40.308">la</span></p>
+      <p begin="1:40.466" end="1:43.550" itunes:key="L36" ttm:agent="v1">
+        <span begin="1:40.466" end="1:40.913">祓い</span>
+        <span begin="1:40.913" end="1:41.421">たいのな</span>
+        <span begin="1:41.421" end="1:41.541">ら</span>
+        <span begin="1:41.549" end="1:41.956">末代</span>
+        <span begin="1:41.956" end="1:42.280">までの</span>
+        <span begin="1:42.280" end="1:42.604">札</span>
+        <span begin="1:42.604" end="1:42.951">束(</span>
+        <span begin="1:42.951" end="1:43.550">okay?)</span>
+      </p>
+      <p begin="1:43.310" end="1:46.323" itunes:key="L37" ttm:agent="v1">
+        <span begin="1:43.310" end="1:43.679">誰が</span>
+        <span begin="1:43.679" end="1:43.990">開い</span>
+        <span begin="1:43.990" end="1:44.244">たか</span>
+        <span begin="1:44.244" end="1:44.545">禁(パン)</span>
+        <span begin="1:44.545" end="1:44.802">后(ドラ)</span>
+        <span begin="1:44.817" end="1:45.165">後</span>
+        <span begin="1:45.165" end="1:45.316">は</span>
+        <span begin="1:45.316" end="1:45.840">何があっても</span>
+        <span begin="1:45.840" end="1:46.129">知らん</span>
+        <span begin="1:46.129" end="1:46.323">がな</span>
+      </p>
+      <p begin="1:46.647" end="1:49.290" itunes:key="L38" ttm:agent="v1">
+        <span begin="1:46.647" end="1:47.252">何百年</span>
+        <span begin="1:47.252" end="1:47.536">待っ</span>
+        <span begin="1:47.536" end="1:47.832">たか</span>
+        <span begin="1:47.835" end="1:48.006">超</span>
+        <span begin="1:48.006" end="1:48.320">久し</span>
+        <span begin="1:48.320" end="1:48.596">ぶりの</span>
+        <span begin="1:48.607" end="1:48.898">娑</span>
+        <span begin="1:48.898" end="1:49.063">婆</span>
+        <span begin="1:49.063" end="1:49.290">だ</span>
+      </p>
+      <p begin="1:49.659" end="1:50.553" itunes:key="L39" ttm:agent="v1">
+        <span begin="1:49.659" end="1:50.023">ガキや</span>
+        <span begin="1:50.023" end="1:50.453">若</span>
+        <span begin="1:50.453" end="1:50.553">葉</span>
+      </p>
+      <p begin="1:50.549" end="1:52.021" itunes:key="L40" ttm:agent="v1">
+        <span begin="1:50.549" end="1:51.028">まだコッチ</span>
+        <span begin="1:51.028" end="1:51.286">来んじゃ</span>
+        <span begin="1:51.286" end="1:51.524">ねーよ</span>
+        <span begin="1:51.524" end="1:51.806">バ</span>
+        <span begin="1:51.806" end="1:51.906">カ</span>
+        <span begin="1:51.906" end="1:52.021">が</span>
+      </p>
+      <p begin="1:51.941" end="1:53.494" itunes:key="L41" ttm:agent="v1">
+        <span begin="1:51.941" end="1:52.200">今</span>
+        <span begin="1:52.200" end="1:52.607">確かに</span>
+        <span begin="1:52.607" end="1:52.888">目が</span>
+        <span begin="1:52.888" end="1:53.177">合っ</span>
+        <span begin="1:53.177" end="1:53.339">た</span>
+        <span begin="1:53.339" end="1:53.494">な</span>
+      </p>
+      <p begin="1:53.587" end="1:55.001" itunes:key="L42" ttm:agent="v1">
+        <span begin="1:53.587" end="1:53.932">こーゆー</span>
+        <span begin="1:53.932" end="1:54.325">ことかよ…</span>
+        <span begin="1:54.325" end="1:54.611">シャ</span>
+        <span begin="1:54.611" end="1:54.718">マ</span>
+        <span begin="1:54.718" end="1:55.001">ラン…</span>
+      </p>
+    </div>
+    <div begin="1:55.001" end="2:05.146" itunes:songPart="PreChorus">
+      <p begin="1:55.001" end="1:57.956" itunes:key="L43" ttm:agent="v1">
+        <span begin="1:55.001" end="1:55.569">Haireta, </span>
+        <span begin="1:55.569" end="1:56.082">haireta, </span>
+        <span begin="1:56.082" end="1:56.651">haireta, </span>
+        <span begin="1:56.651" end="1:57.185">haireta, </span>
+        <span begin="1:57.185" end="1:57.569">haire</span>
+        <span begin="1:57.569" end="1:57.956">ta</span>
+      </p>
+      <p begin="1:58.131" end="2:00.751" itunes:key="L44" ttm:agent="v1">
+        <span begin="1:58.131" end="1:58.542">眠り</span>
+        <span begin="1:58.542" end="1:58.811">飽</span>
+        <span begin="1:58.811" end="1:59.043">きた</span>
+        <span begin="1:59.043" end="1:59.487">先</span>
+        <span begin="1:59.487" end="1:59.650">で</span>
+        <span begin="1:59.650" end="2:00.021">君が</span>
+        <span begin="2:00.021" end="2:00.324">待っ</span>
+        <span begin="2:00.324" end="2:00.433">て</span>
+        <span begin="2:00.433" end="2:00.751">た</span>
+      </p>
+      <p begin="2:00.969" end="2:03.482" itunes:key="L45" ttm:agent="v1">
+        <span begin="2:00.969" end="2:01.351">盾と</span>
+        <span begin="2:01.351" end="2:01.740">矛</span>
+        <span begin="2:01.740" end="2:02.032">が</span>
+        <span begin="2:02.132" end="2:02.432">肩を</span>
+        <span begin="2:02.432" end="2:02.732">抱き</span>
+        <span begin="2:02.732" end="2:03.117">合っ</span>
+        <span begin="2:03.117" end="2:03.221">た</span>
+        <span begin="2:03.221" end="2:03.482">ら</span>
+      </p>
+      <p begin="2:03.500" end="2:05.146" itunes:key="L46" ttm:agent="v1">
+        <span begin="2:03.500" end="2:03.877">怒り</span>
+        <span begin="2:03.877" end="2:04.016">が</span>
+        <span begin="2:04.016" end="2:04.282">消え</span>
+        <span begin="2:04.282" end="2:04.543">去っ</span>
+        <span begin="2:04.543" end="2:04.696">た</span>
+        <span begin="2:04.696" end="2:05.146">ら</span>
+      </p>
+    </div>
+    <div begin="2:05.466" end="2:39.562" itunes:songPart="Chorus">
+      <p begin="2:05.466" end="2:06.941" itunes:key="L47" ttm:agent="v1">
+        <span begin="2:05.466" end="2:05.865">ココロ</span>
+        <span begin="2:05.865" end="2:06.417">カラダ</span>
+        <span begin="2:06.417" end="2:06.731">ア</span>
+        <span begin="2:06.731" end="2:06.841">タ</span>
+        <span begin="2:06.841" end="2:06.941">マ</span>
+      </p>
+      <p begin="2:06.794" end="2:08.121" itunes:key="L48" ttm:agent="v1">
+        <span begin="2:06.794" end="2:07.034">みな</span>
+        <span begin="2:07.034" end="2:07.233">ぎっ</span>
+        <span begin="2:07.233" end="2:07.743">てゆく</span>
+        <span begin="2:07.743" end="2:07.921">何</span>
+        <span begin="2:07.921" end="2:08.021">だ</span>
+        <span begin="2:08.021" end="2:08.121">か</span>
+      </p>
+      <p begin="2:08.217" end="2:10.903" itunes:key="L49" ttm:agent="v1">
+        <span begin="2:08.217" end="2:08.900">背中に</span>
+        <span begin="2:08.900" end="2:09.259">今</span>
+        <span begin="2:09.259" end="2:09.580">羽</span>
+        <span begin="2:09.580" end="2:09.680">が</span>
+        <span begin="2:09.680" end="2:09.977">生</span>
+        <span begin="2:09.977" end="2:10.077">え</span>
+        <span begin="2:10.077" end="2:10.242">た</span>
+        <span begin="2:10.242" end="2:10.479">な</span>
+        <span begin="2:10.479" end="2:10.605">ら</span>
+        <span begin="2:10.605" end="2:10.903">ば</span>
+      </p>
+      <p begin="2:11.056" end="2:12.751" itunes:key="L50" ttm:agent="v1">
+        <span begin="2:11.056" end="2:11.315">暗</span>
+        <span begin="2:11.315" end="2:11.670">闇</span>
+        <span begin="2:11.670" end="2:11.919">から</span>
+        <span begin="2:11.919" end="2:12.025">お</span>
+        <span begin="2:12.025" end="2:12.248">さ</span>
+        <span begin="2:12.248" end="2:12.348">ら</span>
+        <span begin="2:12.348" end="2:12.751">ば</span>
+      </p>
+      <p begin="2:13.911" end="2:15.565" itunes:key="L51" ttm:agent="v1">
+        <span begin="2:13.911" end="2:14.146">飛び</span>
+        <span begin="2:14.146" end="2:14.338">立っ</span>
+        <span begin="2:14.338" end="2:14.868">ていく</span>
+        <span begin="2:14.868" end="2:15.117">彼</span>
+        <span begin="2:15.117" end="2:15.565">方</span>
+      </p>
+      <p begin="2:16.680" end="2:18.155" itunes:key="L52" ttm:agent="v1">
+        <span begin="2:16.680" end="2:17.079">ココロ</span>
+        <span begin="2:17.079" end="2:17.631">カラダ</span>
+        <span begin="2:17.631" end="2:17.945">ア</span>
+        <span begin="2:17.945" end="2:18.055">タ</span>
+        <span begin="2:18.055" end="2:18.155">マ</span>
+      </p>
+      <p begin="2:18.094" end="2:19.554" itunes:key="L53" ttm:agent="v1">
+        <span begin="2:18.094" end="2:18.347">懐</span>
+        <span begin="2:18.347" end="2:18.659">かしい</span>
+        <span begin="2:18.659" end="2:19.272">暖</span>
+        <span begin="2:19.272" end="2:19.372">か</span>
+        <span begin="2:19.372" end="2:19.554">さ</span>
+      </p>
+      <p begin="2:19.501" end="2:22.307" itunes:key="L54" ttm:agent="v1">
+        <span begin="2:19.501" end="2:19.776">足</span>
+        <span begin="2:19.776" end="2:20.438">元に今</span>
+        <span begin="2:20.438" end="2:20.828">花</span>
+        <span begin="2:20.828" end="2:20.972">が</span>
+        <span begin="2:20.972" end="2:21.203">咲</span>
+        <span begin="2:21.203" end="2:21.506">いた</span>
+        <span begin="2:21.506" end="2:21.773">な</span>
+        <span begin="2:21.773" end="2:21.889">ら</span>
+        <span begin="2:21.889" end="2:22.307">ば</span>
+      </p>
+      <p begin="2:22.346" end="2:24.041" itunes:key="L55" ttm:agent="v1">
+        <span begin="2:22.346" end="2:22.605">暗</span>
+        <span begin="2:22.605" end="2:22.960">闇</span>
+        <span begin="2:22.960" end="2:23.209">から</span>
+        <span begin="2:23.209" end="2:23.315">お</span>
+        <span begin="2:23.315" end="2:23.538">さ</span>
+        <span begin="2:23.538" end="2:23.638">ら</span>
+        <span begin="2:23.638" end="2:24.041">ば</span>
+      </p>
+      <p begin="2:25.152" end="2:26.806" itunes:key="L56" ttm:agent="v1">
+        <span begin="2:25.152" end="2:25.387">飛び</span>
+        <span begin="2:25.387" end="2:25.579">立っ</span>
+        <span begin="2:25.579" end="2:26.109">ていく</span>
+        <span begin="2:26.109" end="2:26.358">彼</span>
+        <span begin="2:26.358" end="2:26.806">方</span>
+      </p>
+      <p begin="2:27.641" end="2:29.442" itunes:key="L57" ttm:agent="v1">
+        <span begin="2:27.641" end="2:28.233">何度</span>
+        <span begin="2:28.233" end="2:28.504">だっ</span>
+        <span begin="2:28.504" end="2:28.817">て</span>
+        <span begin="2:28.817" end="2:29.010">生</span>
+        <span begin="2:29.010" end="2:29.442">きる</span>
+      </p>
+      <p begin="2:29.475" end="2:31.582" itunes:key="L58" ttm:agent="v1">
+        <span begin="2:29.475" end="2:29.770">お</span>
+        <span begin="2:29.770" end="2:30.210">前や</span>
+        <span begin="2:30.210" end="2:30.772">君</span>
+        <span begin="2:30.772" end="2:30.931">の</span>
+        <span begin="2:30.931" end="2:31.582">中</span>
+      </p>
+      <p begin="2:31.596" end="2:34.278" itunes:key="L59" ttm:agent="v1">
+        <span begin="2:31.596" end="2:32.389">瞼の</span>
+        <span begin="2:32.389" end="2:32.718">裏</span>
+        <span begin="2:32.718" end="2:32.937">や</span>
+        <span begin="2:32.937" end="2:33.471">耳</span>
+        <span begin="2:33.471" end="2:33.664">の</span>
+        <span begin="2:33.664" end="2:34.278">中</span>
+      </p>
+      <p begin="2:34.456" end="2:39.562" itunes:key="L60" ttm:agent="v1">
+        <span begin="2:34.456" end="2:35.291">胸の</span>
+        <span begin="2:35.291" end="2:35.910">奥に</span>
+        <span begin="2:35.910" end="2:36.223">居</span>
+        <span begin="2:36.223" end="2:36.464">着い</span>
+        <span begin="2:36.464" end="2:36.815">てる</span>
+        <span begin="2:36.815" end="2:37.295">メロ</span>
+        <span begin="2:37.295" end="2:38.078">ディー、</span>
+        <span begin="2:38.268" end="2:38.770">リズム</span>
+        <span begin="2:38.770" end="2:39.562">に</span>
+      </p>
+    </div>
+    <div begin="2:51.426" end="3:01.728" itunes:songPart="Outro">
+      <p begin="2:51.426" end="3:01.728" itunes:key="L61" ttm:agent="v1">
+        <span begin="2:51.426" end="2:51.937">Dandadan </span>
+        <span begin="2:51.937" end="2:52.449">dandadan </span>
+        <span begin="2:52.449" end="2:52.989">dandadan </span>
+        <span begin="2:52.989" end="2:53.531">dandadan </span>
+        <span begin="2:53.531" end="3:01.728">…</span>
+      </p>
+    </div>
+  </body>
+</tt>

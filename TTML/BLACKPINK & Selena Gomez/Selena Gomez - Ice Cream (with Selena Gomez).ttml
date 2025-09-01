@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?><tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+    <head>
+        <metadata>
+            <ttm:agent type="person" xml:id="v1"/>
+        </metadata>
+    </head>
+    <body dur="02:54.310">
+        <div begin="00:02.880" end="02:54.310">
+            <p begin="00:02.880" end="00:05.960" ttm:agent="v1" itunes:key="L1">
+                <span begin="00:02.880" end="00:03.160">Lyricist</span>
+                <span begin="00:03.160" end="00:03.440">：</span>
+                <span begin="00:03.440" end="00:03.720">Bekuh</span>
+                <span begin="00:03.720" end="00:04.000"> </span>
+                <span begin="00:04.000" end="00:04.280">BOOM</span>
+                <span begin="00:04.280" end="00:04.560">/</span>
+                <span begin="00:04.560" end="00:04.840">Victoria</span>
+                <span begin="00:04.840" end="00:05.120"> </span>
+                <span begin="00:05.120" end="00:05.400">Monét</span>
+                <span begin="00:05.400" end="00:05.680">/</span>
+                <span begin="00:05.680" end="00:05.960">TEDDY</span>
+            </p>
+            <p begin="00:05.960" end="00:09.034" ttm:agent="v1" itunes:key="L2">
+                <span begin="00:05.960" end="00:06.066">Composer</span>
+                <span begin="00:06.066" end="00:06.172">：</span>
+                <span begin="00:06.172" end="00:06.278">Tommy</span>
+                <span begin="00:06.278" end="00:06.384"> </span>
+                <span begin="00:06.384" end="00:06.490">Brown</span>
+                <span begin="00:06.490" end="00:06.596">/</span>
+                <span begin="00:06.596" end="00:06.702">Mr.</span>
+                <span begin="00:06.702" end="00:06.808"> </span>
+                <span begin="00:06.808" end="00:06.914">Franks</span>
+                <span begin="00:06.914" end="00:07.020">/</span>
+                <span begin="00:07.020" end="00:07.126">TEDDY</span>
+                <span begin="00:07.126" end="00:07.232">/</span>
+                <span begin="00:07.232" end="00:07.338">Bekuh</span>
+                <span begin="00:07.338" end="00:07.444"> </span>
+                <span begin="00:07.444" end="00:07.550">BOOM</span>
+                <span begin="00:07.550" end="00:07.656">/</span>
+                <span begin="00:07.656" end="00:07.762">Victoria</span>
+                <span begin="00:07.762" end="00:07.868"> </span>
+                <span begin="00:07.868" end="00:07.974">Monét</span>
+                <span begin="00:07.974" end="00:08.080">/</span>
+                <span begin="00:08.080" end="00:08.186">24</span>
+                <span begin="00:08.186" end="00:08.292">/</span>
+                <span begin="00:08.292" end="00:08.398">Selena</span>
+                <span begin="00:08.398" end="00:08.504"> </span>
+                <span begin="00:08.504" end="00:08.610">Gomez</span>
+                <span begin="00:08.610" end="00:08.716">/</span>
+                <span begin="00:08.716" end="00:08.822">Ariana</span>
+                <span begin="00:08.822" end="00:08.928"> </span>
+                <span begin="00:08.928" end="00:09.034">Grande</span>
+            </p>
+            <p begin="00:09.040" end="00:12.120" ttm:agent="v1" itunes:key="L3">
+                <span begin="00:09.040" end="00:09.320">Arranger</span>
+                <span begin="00:09.320" end="00:09.600">：</span>
+                <span begin="00:09.600" end="00:09.880">Tommy</span>
+                <span begin="00:09.880" end="00:10.160"> </span>
+                <span begin="00:10.160" end="00:10.440">Brown</span>
+                <span begin="00:10.440" end="00:10.720">/</span>
+                <span begin="00:10.720" end="00:11.000">Mr.</span>
+                <span begin="00:11.000" end="00:11.280"> </span>
+                <span begin="00:11.280" end="00:11.560">Franks</span>
+                <span begin="00:11.560" end="00:11.840">/</span>
+                <span begin="00:11.840" end="00:12.120">24</span>
+            </p>
+            <p begin="00:12.133" end="00:15.066" ttm:agent="v1" itunes:key="L4">
+                <span begin="00:12.133" end="00:12.420">Come </span>
+                <span begin="00:12.420" end="00:12.628">a </span>
+                <span begin="00:12.628" end="00:12.821">little </span>
+                <span begin="00:12.821" end="00:13.202">closer </span>
+                <span begin="00:13.202" end="00:13.394">cause </span>
+                <span begin="00:13.394" end="00:13.619">you </span>
+                <span begin="00:13.619" end="00:14.362">looking </span>
+                <span begin="00:14.362" end="00:15.066">thirsty</span>
+            </p>
+            <p begin="00:15.138" end="00:17.994" ttm:agent="v1" itunes:key="L5">
+                <span begin="00:15.138" end="00:15.458">Imma </span>
+                <span begin="00:15.458" end="00:15.642">make </span>
+                <span begin="00:15.642" end="00:15.818">it </span>
+                <span begin="00:15.818" end="00:16.194">better </span>
+                <span begin="00:16.194" end="00:16.458">sip </span>
+                <span begin="00:16.458" end="00:16.602">it </span>
+                <span begin="00:16.602" end="00:17.138">like </span>
+                <span begin="00:17.138" end="00:17.331">a </span>
+                <span begin="00:17.331" end="00:17.994">Slurpee</span>
+            </p>
+            <p begin="00:18.170" end="00:19.175" ttm:agent="v1" itunes:key="L6">
+                <span begin="00:18.170" end="00:18.394">Snow </span>
+                <span begin="00:18.394" end="00:18.866">cone </span>
+                <span begin="00:18.866" end="00:19.175">chilly</span>
+            </p>
+            <p begin="00:19.215" end="00:20.799" ttm:agent="v1" itunes:key="L7">
+                <span begin="00:19.215" end="00:19.327">Get </span>
+                <span begin="00:19.327" end="00:19.551">it </span>
+                <span begin="00:19.551" end="00:19.943">free </span>
+                <span begin="00:19.943" end="00:20.343">like </span>
+                <span begin="00:20.343" end="00:20.799">Willy</span>
+            </p>
+            <p begin="00:20.904" end="00:22.191" ttm:agent="v1" itunes:key="L8">
+                <span begin="00:20.904" end="00:21.079">In </span>
+                <span begin="00:21.079" end="00:21.239">the </span>
+                <span begin="00:21.239" end="00:21.527">jeans </span>
+                <span begin="00:21.527" end="00:21.871">like </span>
+                <span begin="00:21.871" end="00:22.191">Billie</span>
+            </p>
+            <p begin="00:22.239" end="00:23.799" ttm:agent="v1" itunes:key="L9">
+                <span begin="00:22.239" end="00:22.391">You </span>
+                <span begin="00:22.391" end="00:22.583">be </span>
+                <span begin="00:22.583" end="00:22.975">poppin' </span>
+                <span begin="00:22.975" end="00:23.168">like </span>
+                <span begin="00:23.168" end="00:23.335">a </span>
+                <span begin="00:23.335" end="00:23.799">wheelie</span>
+            </p>
+            <p begin="00:24.119" end="00:27.015" ttm:agent="v1" itunes:key="L10">
+                <span begin="00:24.119" end="00:24.423">Even </span>
+                <span begin="00:24.423" end="00:24.647">in </span>
+                <span begin="00:24.647" end="00:24.831">the </span>
+                <span begin="00:24.831" end="00:25.135">sun </span>
+                <span begin="00:25.135" end="00:25.287">you </span>
+                <span begin="00:25.287" end="00:25.495">know </span>
+                <span begin="00:25.495" end="00:25.647">I </span>
+                <span begin="00:25.647" end="00:26.191">keep </span>
+                <span begin="00:26.191" end="00:26.359">it </span>
+                <span begin="00:26.359" end="00:27.015">icy</span>
+            </p>
+            <p begin="00:27.111" end="00:30.066" ttm:agent="v1" itunes:key="L11">
+                <span begin="00:27.111" end="00:27.311">You </span>
+                <span begin="00:27.311" end="00:27.471">could </span>
+                <span begin="00:27.471" end="00:27.607">take </span>
+                <span begin="00:27.607" end="00:27.815">a </span>
+                <span begin="00:27.815" end="00:28.007">lick </span>
+                <span begin="00:28.007" end="00:28.216">but </span>
+                <span begin="00:28.216" end="00:28.383">it's </span>
+                <span begin="00:28.383" end="00:28.583">too </span>
+                <span begin="00:28.583" end="00:29.175">cold </span>
+                <span begin="00:29.175" end="00:29.327">to </span>
+                <span begin="00:29.327" end="00:29.671">bite </span>
+                <span begin="00:29.671" end="00:30.066">me</span>
+            </p>
+            <p begin="00:30.130" end="00:31.153" ttm:agent="v1" itunes:key="L12">
+                <span begin="00:30.130" end="00:30.433">Brrr </span>
+                <span begin="00:30.433" end="00:30.842">brrr </span>
+                <span begin="00:30.842" end="00:31.153">frozen</span>
+            </p>
+            <p begin="00:31.210" end="00:32.697" ttm:agent="v1" itunes:key="L13">
+                <span begin="00:31.210" end="00:31.369">You're </span>
+                <span begin="00:31.369" end="00:31.553">the </span>
+                <span begin="00:31.553" end="00:31.946">one </span>
+                <span begin="00:31.946" end="00:32.339">been </span>
+                <span begin="00:32.339" end="00:32.697">chosen</span>
+            </p>
+            <p begin="00:32.745" end="00:34.169" ttm:agent="v1" itunes:key="L14">
+                <span begin="00:32.745" end="00:32.913">Play </span>
+                <span begin="00:32.913" end="00:33.082">the </span>
+                <span begin="00:33.082" end="00:33.457">part </span>
+                <span begin="00:33.457" end="00:33.833">like </span>
+                <span begin="00:33.833" end="00:34.169">Moses</span>
+            </p>
+            <p begin="00:34.202" end="00:35.810" ttm:agent="v1" itunes:key="L15">
+                <span begin="00:34.202" end="00:34.401">Keep </span>
+                <span begin="00:34.401" end="00:34.578">it </span>
+                <span begin="00:34.578" end="00:34.922">fresh </span>
+                <span begin="00:34.922" end="00:35.338">like </span>
+                <span begin="00:35.338" end="00:35.810">roses</span>
+            </p>
+            <p begin="00:36.177" end="00:39.018" ttm:agent="v1" itunes:key="L16">
+                <span begin="00:36.177" end="00:36.506">Look </span>
+                <span begin="00:36.506" end="00:36.978">so </span>
+                <span begin="00:36.978" end="00:37.298">good </span>
+                <span begin="00:37.298" end="00:37.730">yeah </span>
+                <span begin="00:37.730" end="00:37.969">look </span>
+                <span begin="00:37.969" end="00:38.346">so </span>
+                <span begin="00:38.346" end="00:39.018">sweet</span>
+            </p>
+            <p begin="00:39.090" end="00:41.785" ttm:agent="v1" itunes:key="L17">
+                <span begin="00:39.090" end="00:39.850">Looking </span>
+                <span begin="00:39.850" end="00:40.274">good </span>
+                <span begin="00:40.274" end="00:40.905">enough </span>
+                <span begin="00:40.905" end="00:41.314">to </span>
+                <span begin="00:41.314" end="00:41.785">eat</span>
+            </p>
+            <p begin="00:42.088" end="00:44.831" ttm:agent="v1" itunes:key="L18">
+                <span begin="00:42.088" end="00:42.408">Coldest </span>
+                <span begin="00:42.408" end="00:42.624">with </span>
+                <span begin="00:42.624" end="00:42.832">this </span>
+                <span begin="00:42.832" end="00:43.167">kiss </span>
+                <span begin="00:43.167" end="00:43.327">so </span>
+                <span begin="00:43.327" end="00:43.551">he </span>
+                <span begin="00:43.551" end="00:43.735">call </span>
+                <span begin="00:43.735" end="00:43.975">me </span>
+                <span begin="00:43.975" end="00:44.359">ice </span>
+                <span begin="00:44.359" end="00:44.831">cream</span>
+            </p>
+            <p begin="00:45.143" end="00:47.984" ttm:agent="v1" itunes:key="L19">
+                <span begin="00:45.143" end="00:45.375">Catch </span>
+                <span begin="00:45.375" end="00:45.543">me </span>
+                <span begin="00:45.543" end="00:45.743">in </span>
+                <span begin="00:45.743" end="00:45.832">the </span>
+                <span begin="00:45.832" end="00:46.160">fridge </span>
+                <span begin="00:46.160" end="00:46.536">right </span>
+                <span begin="00:46.536" end="00:46.720">where </span>
+                <span begin="00:46.720" end="00:46.928">the </span>
+                <span begin="00:46.928" end="00:47.272">ice </span>
+                <span begin="00:47.272" end="00:47.984">be</span>
+            </p>
+            <p begin="00:48.136" end="00:50.816" ttm:agent="v1" itunes:key="L20">
+                <span begin="00:48.136" end="00:48.440">Look </span>
+                <span begin="00:48.440" end="00:48.856">so </span>
+                <span begin="00:48.856" end="00:49.288">good </span>
+                <span begin="00:49.288" end="00:49.568">yeah </span>
+                <span begin="00:49.568" end="00:49.896">look </span>
+                <span begin="00:49.896" end="00:50.304">so </span>
+                <span begin="00:50.304" end="00:50.816">sweet</span>
+            </p>
+            <p begin="00:51.072" end="00:53.744" ttm:agent="v1" itunes:key="L21">
+                <span begin="00:51.072" end="00:51.816">Baby </span>
+                <span begin="00:51.816" end="00:52.144">you </span>
+                <span begin="00:52.144" end="00:52.888">deserve </span>
+                <span begin="00:52.888" end="00:53.296">a </span>
+                <span begin="00:53.296" end="00:53.744">treat</span>
+            </p>
+            <p begin="00:54.088" end="00:56.740" ttm:agent="v1" itunes:key="L22">
+                <span begin="00:54.088" end="00:54.408">Diamonds </span>
+                <span begin="00:54.408" end="00:54.616">on </span>
+                <span begin="00:54.616" end="00:54.808">my </span>
+                <span begin="00:54.808" end="00:55.147">wrist </span>
+                <span begin="00:55.147" end="00:55.339">so </span>
+                <span begin="00:55.339" end="00:55.547">he </span>
+                <span begin="00:55.547" end="00:55.731">call </span>
+                <span begin="00:55.731" end="00:55.971">me </span>
+                <span begin="00:55.971" end="00:56.347">ice </span>
+                <span begin="00:56.347" end="00:56.740">cream</span>
+            </p>
+            <p begin="00:57.018" end="00:59.779" ttm:agent="v1" itunes:key="L23">
+                <span begin="00:57.018" end="00:57.170">You </span>
+                <span begin="00:57.170" end="00:57.418">can </span>
+                <span begin="00:57.418" end="00:57.802">double </span>
+                <span begin="00:57.802" end="00:58.154">dip </span>
+                <span begin="00:58.154" end="00:58.345">cause </span>
+                <span begin="00:58.345" end="00:58.570">I </span>
+                <span begin="00:58.570" end="00:58.857">know </span>
+                <span begin="00:58.857" end="00:59.050">you </span>
+                <span begin="00:59.050" end="00:59.330">like </span>
+                <span begin="00:59.330" end="00:59.779">me</span>
+            </p>
+            <p begin="01:00.091" end="01:01.627" ttm:agent="v1" itunes:key="L24">
+                <span begin="01:00.091" end="01:00.419">Ice </span>
+                <span begin="01:00.419" end="01:00.779">cream </span>
+                <span begin="01:00.779" end="01:01.267">chillin' </span>
+                <span begin="01:01.267" end="01:01.627">chillin'</span>
+            </p>
+            <p begin="01:01.683" end="01:02.803" ttm:agent="v1" itunes:key="L25">
+                <span begin="01:01.683" end="01:01.947">Ice </span>
+                <span begin="01:01.947" end="01:02.323">cream </span>
+                <span begin="01:02.323" end="01:02.803">chillin'</span>
+            </p>
+            <p begin="01:03.123" end="01:04.539" ttm:agent="v1" itunes:key="L26">
+                <span begin="01:03.123" end="01:03.451">Ice </span>
+                <span begin="01:03.451" end="01:03.820">cream </span>
+                <span begin="01:03.820" end="01:04.163">chillin' </span>
+                <span begin="01:04.163" end="01:04.539">chillin'</span>
+            </p>
+            <p begin="01:04.619" end="01:05.835" ttm:agent="v1" itunes:key="L27">
+                <span begin="01:04.619" end="01:04.899">Ice </span>
+                <span begin="01:04.899" end="01:05.331">cream </span>
+                <span begin="01:05.331" end="01:05.835">chillin'</span>
+            </p>
+            <p begin="01:06.283" end="01:08.469" ttm:agent="v1" itunes:key="L28">
+                <span begin="01:06.283" end="01:06.476">I </span>
+                <span begin="01:06.476" end="01:06.683">know </span>
+                <span begin="01:06.683" end="01:06.859">that </span>
+                <span begin="01:06.859" end="01:07.067">my </span>
+                <span begin="01:07.067" end="01:07.139">heart </span>
+                <span begin="01:07.139" end="01:07.307">could </span>
+                <span begin="01:07.307" end="01:07.580">be </span>
+                <span begin="01:07.580" end="01:07.819">so </span>
+                <span begin="01:07.819" end="01:08.469">cold</span>
+            </p>
+            <p begin="01:08.803" end="01:11.424" ttm:agent="v1" itunes:key="L29">
+                <span begin="01:08.803" end="01:08.995">But </span>
+                <span begin="01:08.995" end="01:09.179">I'm </span>
+                <span begin="01:09.179" end="01:09.403">sweet </span>
+                <span begin="01:09.403" end="01:09.619">for </span>
+                <span begin="01:09.619" end="01:09.819">you </span>
+                <span begin="01:09.819" end="01:10.003">come </span>
+                <span begin="01:10.003" end="01:10.219">put </span>
+                <span begin="01:10.219" end="01:10.411">me </span>
+                <span begin="01:10.411" end="01:10.603">in </span>
+                <span begin="01:10.603" end="01:10.787">a </span>
+                <span begin="01:10.787" end="01:11.424">cone</span>
+            </p>
+            <p begin="01:11.688" end="01:14.392" ttm:agent="v1" itunes:key="L30">
+                <span begin="01:11.688" end="01:12.000">You're </span>
+                <span begin="01:12.000" end="01:12.192">the </span>
+                <span begin="01:12.192" end="01:12.489">only </span>
+                <span begin="01:12.489" end="01:12.792">touch </span>
+                <span begin="01:12.792" end="01:13.160">yeah </span>
+                <span begin="01:13.160" end="01:13.353">they </span>
+                <span begin="01:13.353" end="01:13.536">get </span>
+                <span begin="01:13.536" end="01:13.736">me </span>
+                <span begin="01:13.736" end="01:14.392">melting</span>
+            </p>
+            <p begin="01:14.704" end="01:17.432" ttm:agent="v1" itunes:key="L31">
+                <span begin="01:14.704" end="01:14.888">He's </span>
+                <span begin="01:14.888" end="01:15.136">my </span>
+                <span begin="01:15.136" end="01:15.464">favorite </span>
+                <span begin="01:15.464" end="01:15.800">flavor </span>
+                <span begin="01:15.800" end="01:16.225">always </span>
+                <span begin="01:16.225" end="01:16.632">gonna </span>
+                <span begin="01:16.632" end="01:16.952">pick </span>
+                <span begin="01:16.952" end="01:17.432">him</span>
+            </p>
+            <p begin="01:17.650" end="01:21.123" ttm:agent="v1" itunes:key="L32">
+                <span begin="01:17.650" end="01:17.818">You're </span>
+                <span begin="01:17.818" end="01:18.090">the </span>
+                <span begin="01:18.090" end="01:18.794">cherry </span>
+                <span begin="01:18.794" end="01:19.227">piece </span>
+                <span begin="01:19.227" end="01:19.539">just </span>
+                <span begin="01:19.539" end="01:19.923">stay </span>
+                <span begin="01:19.923" end="01:20.115">on </span>
+                <span begin="01:20.115" end="01:20.291">top </span>
+                <span begin="01:20.291" end="01:20.467">of </span>
+                <span begin="01:20.467" end="01:20.763">me </span>
+                <span begin="01:20.763" end="01:21.123">so</span>
+            </p>
+            <p begin="01:21.203" end="01:24.153" ttm:agent="v1" itunes:key="L33">
+                <span begin="01:21.203" end="01:21.467">I </span>
+                <span begin="01:21.467" end="01:21.811">can't </span>
+                <span begin="01:21.811" end="01:22.179">see </span>
+                <span begin="01:22.179" end="01:22.931">nobody </span>
+                <span begin="01:22.931" end="01:23.115">else </span>
+                <span begin="01:23.115" end="01:23.315">for </span>
+                <span begin="01:23.315" end="01:23.699">me </span>
+                <span begin="01:23.699" end="01:24.153">no</span>
+            </p>
+            <p begin="01:24.449" end="01:25.639" ttm:agent="v1" itunes:key="L34">
+                <span begin="01:24.449" end="01:24.625">Get </span>
+                <span begin="01:24.625" end="01:24.833">it </span>
+                <span begin="01:24.833" end="01:25.121">flip </span>
+                <span begin="01:25.121" end="01:25.289">it </span>
+                <span begin="01:25.289" end="01:25.561">scoop </span>
+                <span begin="01:25.561" end="01:25.639">it</span>
+            </p>
+            <p begin="01:25.687" end="01:27.143" ttm:agent="v1" itunes:key="L35">
+                <span begin="01:25.687" end="01:25.823">Do </span>
+                <span begin="01:25.823" end="01:25.993">it </span>
+                <span begin="01:25.993" end="01:26.151">like </span>
+                <span begin="01:26.151" end="01:26.303">that </span>
+                <span begin="01:26.303" end="01:26.455">ah </span>
+                <span begin="01:26.455" end="01:26.623">yeah </span>
+                <span begin="01:26.623" end="01:26.799">ah </span>
+                <span begin="01:26.799" end="01:27.143">yeah</span>
+            </p>
+            <p begin="01:27.348" end="01:28.492" ttm:agent="v1" itunes:key="L36">
+                <span begin="01:27.348" end="01:27.508">Like </span>
+                <span begin="01:27.508" end="01:27.764">it </span>
+                <span begin="01:27.764" end="01:27.924">love </span>
+                <span begin="01:27.924" end="01:28.132">it </span>
+                <span begin="01:28.132" end="01:28.276">lick </span>
+                <span begin="01:28.276" end="01:28.492">it</span>
+            </p>
+            <p begin="01:28.564" end="01:30.158" ttm:agent="v1" itunes:key="L37">
+                <span begin="01:28.564" end="01:28.700">Do </span>
+                <span begin="01:28.700" end="01:28.894">it </span>
+                <span begin="01:28.894" end="01:29.062">like </span>
+                <span begin="01:29.062" end="01:29.526">lalala </span>
+                <span begin="01:29.526" end="01:29.686">oh </span>
+                <span begin="01:29.686" end="01:30.158">yeah</span>
+            </p>
+            <p begin="01:30.478" end="01:32.806" ttm:agent="v1" itunes:key="L38">
+                <span begin="01:30.478" end="01:30.686">Look </span>
+                <span begin="01:30.686" end="01:30.910">so </span>
+                <span begin="01:30.910" end="01:31.246">good </span>
+                <span begin="01:31.246" end="01:31.606">yeah </span>
+                <span begin="01:31.606" end="01:31.942">look </span>
+                <span begin="01:31.942" end="01:32.334">so </span>
+                <span begin="01:32.334" end="01:32.806">sweet</span>
+            </p>
+            <p begin="01:33.126" end="01:35.766" ttm:agent="v1" itunes:key="L39">
+                <span begin="01:33.126" end="01:33.847">Looking </span>
+                <span begin="01:33.847" end="01:34.230">good </span>
+                <span begin="01:34.230" end="01:34.918">enough </span>
+                <span begin="01:34.918" end="01:35.326">to </span>
+                <span begin="01:35.326" end="01:35.766">eat</span>
+            </p>
+            <p begin="01:36.078" end="01:38.710" ttm:agent="v1" itunes:key="L40">
+                <span begin="01:36.078" end="01:36.446">Coldest </span>
+                <span begin="01:36.446" end="01:36.614">with </span>
+                <span begin="01:36.614" end="01:36.814">this </span>
+                <span begin="01:36.814" end="01:37.158">kiss </span>
+                <span begin="01:37.158" end="01:37.358">so </span>
+                <span begin="01:37.358" end="01:37.582">he </span>
+                <span begin="01:37.582" end="01:37.782">call </span>
+                <span begin="01:37.782" end="01:37.926">me </span>
+                <span begin="01:37.926" end="01:38.310">ice </span>
+                <span begin="01:38.310" end="01:38.710">cream</span>
+            </p>
+            <p begin="01:39.078" end="01:42.054" ttm:agent="v1" itunes:key="L41">
+                <span begin="01:39.078" end="01:39.294">Catch </span>
+                <span begin="01:39.294" end="01:39.470">me </span>
+                <span begin="01:39.470" end="01:39.662">in </span>
+                <span begin="01:39.662" end="01:39.846">the </span>
+                <span begin="01:39.846" end="01:40.228">fridge </span>
+                <span begin="01:40.228" end="01:40.574">right </span>
+                <span begin="01:40.574" end="01:40.742">where </span>
+                <span begin="01:40.742" end="01:40.950">the </span>
+                <span begin="01:40.950" end="01:41.318">ice </span>
+                <span begin="01:41.318" end="01:42.054">be</span>
+            </p>
+            <p begin="01:42.142" end="01:44.798" ttm:agent="v1" itunes:key="L42">
+                <span begin="01:42.142" end="01:42.478">Look </span>
+                <span begin="01:42.478" end="01:42.846">so </span>
+                <span begin="01:42.846" end="01:43.230">good </span>
+                <span begin="01:43.230" end="01:43.622">yeah </span>
+                <span begin="01:43.622" end="01:43.958">look </span>
+                <span begin="01:43.958" end="01:44.366">so </span>
+                <span begin="01:44.366" end="01:44.798">sweet</span>
+            </p>
+            <p begin="01:45.086" end="01:47.766" ttm:agent="v1" itunes:key="L43">
+                <span begin="01:45.086" end="01:45.814">Baby </span>
+                <span begin="01:45.814" end="01:46.182">you </span>
+                <span begin="01:46.182" end="01:46.902">deserve </span>
+                <span begin="01:46.902" end="01:47.294">a </span>
+                <span begin="01:47.294" end="01:47.766">treat</span>
+            </p>
+            <p begin="01:48.086" end="01:50.742" ttm:agent="v1" itunes:key="L44">
+                <span begin="01:48.086" end="01:48.374">Diamonds </span>
+                <span begin="01:48.374" end="01:48.550">on </span>
+                <span begin="01:48.550" end="01:48.798">my </span>
+                <span begin="01:48.798" end="01:49.166">wrist </span>
+                <span begin="01:49.166" end="01:49.478">so </span>
+                <span begin="01:49.478" end="01:49.639">he </span>
+                <span begin="01:49.639" end="01:49.838">call </span>
+                <span begin="01:49.838" end="01:50.030">me </span>
+                <span begin="01:50.030" end="01:50.326">ice </span>
+                <span begin="01:50.326" end="01:50.742">cream</span>
+            </p>
+            <p begin="01:51.062" end="01:53.778" ttm:agent="v1" itunes:key="L45">
+                <span begin="01:51.062" end="01:51.238">You </span>
+                <span begin="01:51.238" end="01:51.438">can </span>
+                <span begin="01:51.438" end="01:51.750">double </span>
+                <span begin="01:51.750" end="01:52.134">dip </span>
+                <span begin="01:52.134" end="01:52.358">cause </span>
+                <span begin="01:52.358" end="01:52.558">I </span>
+                <span begin="01:52.558" end="01:52.838">know </span>
+                <span begin="01:52.838" end="01:52.998">you </span>
+                <span begin="01:52.998" end="01:53.326">like </span>
+                <span begin="01:53.326" end="01:53.778">me</span>
+            </p>
+            <p begin="01:54.082" end="01:55.538" ttm:agent="v1" itunes:key="L46">
+                <span begin="01:54.082" end="01:54.418">Ice </span>
+                <span begin="01:54.418" end="01:54.802">cream </span>
+                <span begin="01:54.802" end="01:55.194">chillin' </span>
+                <span begin="01:55.194" end="01:55.538">chillin'</span>
+            </p>
+            <p begin="01:55.594" end="01:56.762" ttm:agent="v1" itunes:key="L47">
+                <span begin="01:55.594" end="01:55.906">Ice </span>
+                <span begin="01:55.906" end="01:56.282">cream </span>
+                <span begin="01:56.282" end="01:56.762">chillin'</span>
+            </p>
+            <p begin="01:57.098" end="01:58.554" ttm:agent="v1" itunes:key="L48">
+                <span begin="01:57.098" end="01:57.402">Ice </span>
+                <span begin="01:57.402" end="01:57.811">cream </span>
+                <span begin="01:57.811" end="01:58.163">chillin' </span>
+                <span begin="01:58.163" end="01:58.554">chillin'</span>
+            </p>
+            <p begin="01:58.642" end="01:59.707" ttm:agent="v1" itunes:key="L49">
+                <span begin="01:58.642" end="01:58.914">Ice </span>
+                <span begin="01:58.914" end="01:59.282">cream </span>
+                <span begin="01:59.282" end="01:59.707">chillin'</span>
+            </p>
+            <p begin="02:00.074" end="02:01.522" ttm:agent="v1" itunes:key="L50">
+                <span begin="02:00.074" end="02:00.410">Ice </span>
+                <span begin="02:00.410" end="02:00.778">cream </span>
+                <span begin="02:00.778" end="02:01.130">chillin' </span>
+                <span begin="02:01.130" end="02:01.522">chillin'</span>
+            </p>
+            <p begin="02:01.579" end="02:02.723" ttm:agent="v1" itunes:key="L51">
+                <span begin="02:01.579" end="02:01.930">Ice </span>
+                <span begin="02:01.930" end="02:02.322">cream </span>
+                <span begin="02:02.322" end="02:02.723">chillin'</span>
+            </p>
+            <p begin="02:03.082" end="02:04.562" ttm:agent="v1" itunes:key="L52">
+                <span begin="02:03.082" end="02:03.418">Ice </span>
+                <span begin="02:03.418" end="02:03.794">cream </span>
+                <span begin="02:03.794" end="02:04.170">chillin' </span>
+                <span begin="02:04.170" end="02:04.562">chillin'</span>
+            </p>
+            <p begin="02:04.610" end="02:06.074" ttm:agent="v1" itunes:key="L53">
+                <span begin="02:04.610" end="02:05.298">Ice </span>
+                <span begin="02:05.298" end="02:06.074">cream</span>
+            </p>
+            <p begin="02:06.178" end="02:08.730" ttm:agent="v1" itunes:key="L54">
+                <span begin="02:06.178" end="02:06.378">Chillin' </span>
+                <span begin="02:06.378" end="02:06.587">like </span>
+                <span begin="02:06.587" end="02:06.810">a </span>
+                <span begin="02:06.810" end="02:07.170">villain </span>
+                <span begin="02:07.170" end="02:07.507">yeah </span>
+                <span begin="02:07.507" end="02:07.946">ra </span>
+                <span begin="02:07.946" end="02:08.338">ra </span>
+                <span begin="02:08.338" end="02:08.730">ra</span>
+            </p>
+            <p begin="02:08.874" end="02:11.698" ttm:agent="v1" itunes:key="L55">
+                <span begin="02:08.874" end="02:09.082">미친 </span>
+                <span begin="02:09.082" end="02:09.818">미친듯한 </span>
+                <span begin="02:09.818" end="02:10.162">속도 </span>
+                <span begin="02:10.162" end="02:10.386">in </span>
+                <span begin="02:10.386" end="02:10.586">my </span>
+                <span begin="02:10.586" end="02:10.970">La </span>
+                <span begin="02:10.970" end="02:11.698">Fera</span>
+            </p>
+            <p begin="02:11.778" end="02:12.418" ttm:agent="v1" itunes:key="L56">
+                <span begin="02:11.778" end="02:12.090">너무 </span>
+                <span begin="02:12.090" end="02:12.418">빨러</span>
+            </p>
+            <p begin="02:12.482" end="02:14.650" ttm:agent="v1" itunes:key="L57">
+                <span begin="02:12.482" end="02:12.818">너는 </span>
+                <span begin="02:12.818" end="02:13.202">삐끗 </span>
+                <span begin="02:13.202" end="02:13.907">원한다면 </span>
+                <span begin="02:13.907" end="02:14.314">그냥 </span>
+                <span begin="02:14.314" end="02:14.650">지름</span>
+            </p>
+            <p begin="02:14.706" end="02:15.450" ttm:agent="v1" itunes:key="L58">
+                <span begin="02:14.706" end="02:15.106">Millis </span>
+                <span begin="02:15.106" end="02:15.450">Billis</span>
+            </p>
+            <p begin="02:15.507" end="02:17.693" ttm:agent="v1" itunes:key="L59">
+                <span begin="02:15.507" end="02:15.818">매일 </span>
+                <span begin="02:15.818" end="02:16.202">벌음 </span>
+                <span begin="02:16.202" end="02:16.810">한여름 </span>
+                <span begin="02:16.810" end="02:17.307">손목에 </span>
+                <span begin="02:17.307" end="02:17.693">얼음</span>
+            </p>
+            <p begin="02:17.749" end="02:19.203" ttm:agent="v1" itunes:key="L60">
+                <span begin="02:17.749" end="02:17.909">Keep </span>
+                <span begin="02:17.909" end="02:18.093">it </span>
+                <span begin="02:18.093" end="02:18.453">movin' </span>
+                <span begin="02:18.453" end="02:18.637">like </span>
+                <span begin="02:18.637" end="02:18.837">my </span>
+                <span begin="02:18.837" end="02:19.029">lease </span>
+                <span begin="02:19.029" end="02:19.203">up</span>
+            </p>
+            <p begin="02:19.203" end="02:20.654" ttm:agent="v1" itunes:key="L61">
+                <span begin="02:19.203" end="02:19.371">Think </span>
+                <span begin="02:19.371" end="02:19.587">you </span>
+                <span begin="02:19.587" end="02:19.755">fly </span>
+                <span begin="02:19.755" end="02:19.884">boy </span>
+                <span begin="02:19.884" end="02:20.084">where </span>
+                <span begin="02:20.084" end="02:20.292">ya </span>
+                <span begin="02:20.292" end="02:20.654">visa</span>
+            </p>
+            <p begin="02:20.710" end="02:22.142" ttm:agent="v1" itunes:key="L62">
+                <span begin="02:20.710" end="02:21.102">Mona </span>
+                <span begin="02:21.102" end="02:21.470">Lisa </span>
+                <span begin="02:21.470" end="02:21.814">kinda </span>
+                <span begin="02:21.814" end="02:22.142">Lisa</span>
+            </p>
+            <p begin="02:22.190" end="02:23.779" ttm:agent="v1" itunes:key="L63">
+                <span begin="02:22.190" end="02:22.558">Needs </span>
+                <span begin="02:22.558" end="02:22.734">an </span>
+                <span begin="02:22.734" end="02:22.950">ice </span>
+                <span begin="02:22.950" end="02:23.150">cream </span>
+                <span begin="02:23.150" end="02:23.334">man </span>
+                <span begin="02:23.334" end="02:23.566">that </span>
+                <span begin="02:23.566" end="02:23.742">treats </span>
+                <span begin="02:23.742" end="02:23.779">her</span>
+            </p>
+            <p begin="02:23.835" end="02:25.211" ttm:agent="v1" itunes:key="L64">
+                <span begin="02:23.835" end="02:23.979">Keep </span>
+                <span begin="02:23.979" end="02:24.171">it </span>
+                <span begin="02:24.171" end="02:24.435">movin' </span>
+                <span begin="02:24.435" end="02:24.619">like </span>
+                <span begin="02:24.619" end="02:24.819">my </span>
+                <span begin="02:24.819" end="02:24.971">lease </span>
+                <span begin="02:24.971" end="02:25.211">up</span>
+            </p>
+            <p begin="02:25.251" end="02:26.638" ttm:agent="v1" itunes:key="L65">
+                <span begin="02:25.251" end="02:25.475">Think </span>
+                <span begin="02:25.475" end="02:25.643">you </span>
+                <span begin="02:25.643" end="02:25.835">fly </span>
+                <span begin="02:25.835" end="02:26.043">boy </span>
+                <span begin="02:26.043" end="02:26.235">where </span>
+                <span begin="02:26.235" end="02:26.387">ya </span>
+                <span begin="02:26.387" end="02:26.638">visa</span>
+            </p>
+            <p begin="02:26.702" end="02:28.166" ttm:agent="v1" itunes:key="L66">
+                <span begin="02:26.702" end="02:27.014">Mona </span>
+                <span begin="02:27.014" end="02:27.414">Lisa </span>
+                <span begin="02:27.414" end="02:27.806">kinda </span>
+                <span begin="02:27.806" end="02:28.166">Lisa</span>
+            </p>
+            <p begin="02:28.206" end="02:29.935" ttm:agent="v1" itunes:key="L67">
+                <span begin="02:28.206" end="02:28.406">Needs </span>
+                <span begin="02:28.406" end="02:28.598">an </span>
+                <span begin="02:28.598" end="02:28.838">ice </span>
+                <span begin="02:28.838" end="02:29.054">cream </span>
+                <span begin="02:29.054" end="02:29.230">man </span>
+                <span begin="02:29.230" end="02:29.293">that </span>
+                <span begin="02:29.293" end="02:29.478">treats </span>
+                <span begin="02:29.478" end="02:29.935">her</span>
+            </p>
+            <p begin="02:30.145" end="02:31.465" ttm:agent="v1" itunes:key="L68">
+                <span begin="02:30.145" end="02:30.569">Na </span>
+                <span begin="02:30.569" end="02:30.761">na </span>
+                <span begin="02:30.761" end="02:30.921">na </span>
+                <span begin="02:30.921" end="02:31.209">na </span>
+                <span begin="02:31.209" end="02:31.465">na</span>
+            </p>
+            <p begin="02:31.529" end="02:33.081" ttm:agent="v1" itunes:key="L69">
+                <span begin="02:31.529" end="02:31.657">Na </span>
+                <span begin="02:31.657" end="02:31.841">na </span>
+                <span begin="02:31.841" end="02:32.025">na </span>
+                <span begin="02:32.025" end="02:32.217">na </span>
+                <span begin="02:32.217" end="02:32.433">na </span>
+                <span begin="02:32.433" end="02:32.721">na </span>
+                <span begin="02:32.721" end="02:33.081">na</span>
+            </p>
+            <p begin="02:33.144" end="02:35.705" ttm:agent="v1" itunes:key="L70">
+                <span begin="02:33.144" end="02:33.432">Ice </span>
+                <span begin="02:33.432" end="02:33.600">on </span>
+                <span begin="02:33.600" end="02:33.856">my </span>
+                <span begin="02:33.856" end="02:34.184">wrist </span>
+                <span begin="02:34.184" end="02:34.488">yeah </span>
+                <span begin="02:34.488" end="02:34.664">I </span>
+                <span begin="02:34.664" end="02:34.824">like </span>
+                <span begin="02:34.824" end="02:34.937">it </span>
+                <span begin="02:34.937" end="02:35.313">like </span>
+                <span begin="02:35.313" end="02:35.705">this</span>
+            </p>
+            <p begin="02:36.135" end="02:37.359" ttm:agent="v1" itunes:key="L71">
+                <span begin="02:36.135" end="02:36.431">Get </span>
+                <span begin="02:36.431" end="02:36.591">the </span>
+                <span begin="02:36.591" end="02:36.807">bag </span>
+                <span begin="02:36.807" end="02:36.975">with </span>
+                <span begin="02:36.975" end="02:37.175">the </span>
+                <span begin="02:37.175" end="02:37.359">cream</span>
+            </p>
+            <p begin="02:37.431" end="02:38.791" ttm:agent="v1" itunes:key="L72">
+                <span begin="02:37.431" end="02:37.591">If </span>
+                <span begin="02:37.591" end="02:37.775">you </span>
+                <span begin="02:37.775" end="02:38.055">know </span>
+                <span begin="02:38.055" end="02:38.207">what </span>
+                <span begin="02:38.207" end="02:38.407">I </span>
+                <span begin="02:38.407" end="02:38.791">mean</span>
+            </p>
+            <p begin="02:39.127" end="02:39.783" ttm:agent="v1" itunes:key="L73">
+                <span begin="02:39.127" end="02:39.439">Ice </span>
+                <span begin="02:39.439" end="02:39.783">cream</span>
+            </p>
+            <p begin="02:39.839" end="02:40.551" ttm:agent="v1" itunes:key="L74">
+                <span begin="02:39.839" end="02:40.175">Ice </span>
+                <span begin="02:40.175" end="02:40.551">cream</span>
+            </p>
+            <p begin="02:40.599" end="02:41.863" ttm:agent="v1" itunes:key="L75">
+                <span begin="02:40.599" end="02:40.919">Ice </span>
+                <span begin="02:40.919" end="02:41.295">cream </span>
+                <span begin="02:41.295" end="02:41.863">chillin'</span>
+            </p>
+            <p begin="02:42.034" end="02:43.482" ttm:agent="v1" itunes:key="L76">
+                <span begin="02:42.034" end="02:42.450">Na </span>
+                <span begin="02:42.450" end="02:42.578">na </span>
+                <span begin="02:42.578" end="02:42.780">na </span>
+                <span begin="02:42.780" end="02:42.938">na </span>
+                <span begin="02:42.938" end="02:43.482">na</span>
+            </p>
+            <p begin="02:43.571" end="02:45.434" ttm:agent="v1" itunes:key="L77">
+                <span begin="02:43.571" end="02:43.858">Na </span>
+                <span begin="02:43.858" end="02:44.050">na </span>
+                <span begin="02:44.050" end="02:44.291">na </span>
+                <span begin="02:44.291" end="02:44.690">na </span>
+                <span begin="02:44.690" end="02:44.954">na </span>
+                <span begin="02:44.954" end="02:45.115">na </span>
+                <span begin="02:45.115" end="02:45.434">na</span>
+            </p>
+            <p begin="02:45.458" end="02:47.746" ttm:agent="v1" itunes:key="L78">
+                <span begin="02:45.458" end="02:45.626">Ice </span>
+                <span begin="02:45.626" end="02:45.810">on </span>
+                <span begin="02:45.810" end="02:45.986">my </span>
+                <span begin="02:45.986" end="02:46.171">wrist </span>
+                <span begin="02:46.171" end="02:46.378">yeah </span>
+                <span begin="02:46.378" end="02:46.650">I </span>
+                <span begin="02:46.650" end="02:46.898">like </span>
+                <span begin="02:46.898" end="02:47.066">it </span>
+                <span begin="02:47.066" end="02:47.258">like </span>
+                <span begin="02:47.258" end="02:47.746">this</span>
+            </p>
+            <p begin="02:48.050" end="02:49.426" ttm:agent="v1" itunes:key="L79">
+                <span begin="02:48.050" end="02:48.218">And </span>
+                <span begin="02:48.218" end="02:48.442">I'm </span>
+                <span begin="02:48.442" end="02:48.666">nice </span>
+                <span begin="02:48.666" end="02:48.898">with </span>
+                <span begin="02:48.898" end="02:49.138">the </span>
+                <span begin="02:49.138" end="02:49.426">cream</span>
+            </p>
+            <p begin="02:49.531" end="02:50.722" ttm:agent="v1" itunes:key="L80">
+                <span begin="02:49.531" end="02:49.666">If </span>
+                <span begin="02:49.666" end="02:49.851">you </span>
+                <span begin="02:49.851" end="02:50.066">know </span>
+                <span begin="02:50.066" end="02:50.226">what </span>
+                <span begin="02:50.226" end="02:50.402">I </span>
+                <span begin="02:50.402" end="02:50.722">mean</span>
+            </p>
+            <p begin="02:51.074" end="02:51.746" ttm:agent="v1" itunes:key="L81">
+                <span begin="02:51.074" end="02:51.394">Ice </span>
+                <span begin="02:51.394" end="02:51.746">cream</span>
+            </p>
+            <p begin="02:51.794" end="02:52.518" ttm:agent="v1" itunes:key="L82">
+                <span begin="02:51.794" end="02:52.130">Ice </span>
+                <span begin="02:52.130" end="02:52.518">cream</span>
+            </p>
+            <p begin="02:52.566" end="02:54.310" ttm:agent="v1" itunes:key="L83">
+                <span begin="02:52.566" end="02:53.278">Ice </span>
+                <span begin="02:53.278" end="02:54.310">cream</span>
+            </p>
+        </div>
+    </body>
+</tt>

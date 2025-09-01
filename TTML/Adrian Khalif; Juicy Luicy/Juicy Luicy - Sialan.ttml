@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+  <head>
+    <metadata>
+      <ttm:agent type="person" xml:id="v1" />
+    </metadata>
+  </head>
+  <body dur="3:54.435">
+    <div begin="2.345" end="3:54.435">
+      <p begin="2.345" end="8.918" itunes:key="L1" ttm:agent="v1">
+        <span begin="2.345" end="5.059">Huhuhu </span>
+        <span begin="6.287" end="7.404">yeah </span>
+        <span begin="7.994" end="8.918">huwoo</span>
+      </p>
+      <p begin="9.145" end="16.037" itunes:key="L2" ttm:agent="v1">
+        <span begin="9.145" end="11.692">Huhuhu </span>
+        <span begin="12.054" end="16.037">huuu</span>
+      </p>
+      <p begin="16.592" end="20.137" itunes:key="L3" ttm:agent="v1">
+        <span begin="16.592" end="17.136">Dari </span>
+        <span begin="17.136" end="17.918">seribu </span>
+        <span begin="17.918" end="18.590">jalan </span>
+        <span begin="18.590" end="19.012">di </span>
+        <span begin="19.012" end="20.137">dunia</span>
+      </p>
+      <p begin="20.690" end="23.014" itunes:key="L4" ttm:agent="v1">
+        <span begin="20.690" end="23.014">Mengapa</span>
+      </p>
+      <p begin="23.425" end="26.877" itunes:key="L5" ttm:agent="v1">
+        <span begin="23.425" end="24.864">Berpapasan </span>
+        <span begin="24.864" end="25.701">bertemu </span>
+        <span begin="25.701" end="26.877">dia</span>
+      </p>
+      <p begin="30.240" end="33.691" itunes:key="L6" ttm:agent="v1">
+        <span begin="30.240" end="30.785">Inginnya </span>
+        <span begin="30.785" end="31.397">lari </span>
+        <span begin="31.397" end="32.085">pergi </span>
+        <span begin="32.085" end="32.874">tanpa </span>
+        <span begin="32.874" end="33.691">kata</span>
+      </p>
+      <p begin="34.237" end="36.499" itunes:key="L7" ttm:agent="v1">
+        <span begin="34.237" end="36.499">Menyapa</span>
+      </p>
+      <p begin="36.945" end="40.329" itunes:key="L8" ttm:agent="v1">
+        <span begin="36.945" end="37.507">Sudut </span>
+        <span begin="37.507" end="38.317">mata </span>
+        <span begin="38.465" end="38.948">hafal </span>
+        <span begin="38.948" end="40.329">rupanya</span>
+      </p>
+      <p begin="42.856" end="48.752" itunes:key="L9" ttm:agent="v1">
+        <span begin="42.856" end="43.671">Lupa </span>
+        <span begin="43.671" end="44.495">bahwa </span>
+        <span begin="44.495" end="46.639">lupakannya </span>
+        <span begin="46.639" end="47.154">tak </span>
+        <span begin="47.490" end="48.752">mudah</span>
+      </p>
+      <p begin="48.752" end="55.975" itunes:key="L10" ttm:agent="v1">
+        <span begin="48.752" end="49.550">Tapi </span>
+        <span begin="49.550" end="51.059">itu </span>
+        <span begin="51.280" end="53.072">senyuman </span>
+        <span begin="53.456" end="53.843">yang </span>
+        <span begin="53.843" end="54.222">ku </span>
+        <span begin="54.222" end="55.975">suka</span>
+      </p>
+      <p begin="56.441" end="58.455" itunes:key="L11" ttm:agent="v1">
+        <span begin="56.441" end="57.632">Sepertinya </span>
+        <span begin="57.632" end="58.455">sama</span>
+      </p>
+      <p begin="58.720" end="1:02.776" itunes:key="L12" ttm:agent="v1">
+        <span begin="58.720" end="59.266">Tatapan </span>
+        <span begin="59.266" end="59.520">khas </span>
+        <span begin="59.520" end="1:00.138">matanya </span>
+        <span begin="1:00.138" end="1:00.841">masih </span>
+        <span begin="1:00.841" end="1:01.470">yang </span>
+        <span begin="1:01.470" end="1:02.776">lama</span>
+      </p>
+      <p begin="1:03.143" end="1:05.788" itunes:key="L13" ttm:agent="v1">
+        <span begin="1:03.143" end="1:03.538">Kau </span>
+        <span begin="1:03.538" end="1:04.207">ajak </span>
+        <span begin="1:04.207" end="1:05.788">bicara</span>
+      </p>
+      <p begin="1:06.090" end="1:10.885" itunes:key="L14" ttm:agent="v1">
+        <span begin="1:06.090" end="1:07.141">Seketika </span>
+        <span begin="1:07.141" end="1:07.953">kembali </span>
+        <span begin="1:07.953" end="1:08.227">ku </span>
+        <span begin="1:08.227" end="1:09.130">jatuh </span>
+        <span begin="1:09.477" end="1:10.885">cinta</span>
+      </p>
+      <p begin="1:11.638" end="1:15.417" itunes:key="L15" ttm:agent="v1">
+        <span begin="1:11.638" end="1:12.928">Sialan </span>
+        <span begin="1:12.928" end="1:15.417">dia</span>
+      </p>
+      <p begin="1:15.868" end="1:23.445" itunes:key="L16" ttm:agent="v1">
+        <span begin="1:15.868" end="1:16.253">Sakit </span>
+        <span begin="1:16.253" end="1:16.911">dan </span>
+        <span begin="1:17.523" end="1:17.897">air </span>
+        <span begin="1:17.897" end="1:18.709">mata </span>
+        <span begin="1:18.709" end="1:19.524">sia </span>
+        <span begin="1:19.524" end="1:21.556">sia </span>
+        <span begin="1:21.556" end="1:23.445">hmmm</span>
+      </p>
+      <p begin="1:24.379" end="1:27.737" itunes:key="L17" ttm:agent="v1">
+        <span begin="1:24.379" end="1:24.704">Dari </span>
+        <span begin="1:24.704" end="1:25.529">begitu </span>
+        <span begin="1:25.529" end="1:26.194">banyak </span>
+        <span begin="1:26.194" end="1:27.737">manusia</span>
+      </p>
+      <p begin="1:28.440" end="1:34.695" itunes:key="L18" ttm:agent="v1">
+        <span begin="1:28.440" end="1:30.727">Mengapa </span>
+        <span begin="1:31.074" end="1:31.590">lagi </span>
+        <span begin="1:31.590" end="1:32.193">lagi </span>
+        <span begin="1:32.193" end="1:32.695">dia </span>
+        <span begin="1:32.695" end="1:33.084">yang </span>
+        <span begin="1:33.084" end="1:34.695">kujumpa</span>
+      </p>
+      <p begin="1:34.875" end="1:35.704" itunes:key="L19" ttm:agent="v1">
+        <span begin="1:34.875" end="1:35.704">Aah</span>
+      </p>
+      <p begin="1:37.797" end="1:41.325" itunes:key="L20" ttm:agent="v1">
+        <span begin="1:37.797" end="1:38.193">Malam </span>
+        <span begin="1:38.193" end="1:39.055">hangat </span>
+        <span begin="1:39.055" end="1:39.718">tapi </span>
+        <span begin="1:39.718" end="1:40.136">ku </span>
+        <span begin="1:40.136" end="1:41.325">terjaga</span>
+      </p>
+      <p begin="1:41.812" end="1:49.809" itunes:key="L21" ttm:agent="v1">
+        <span begin="1:41.812" end="1:44.258">Rindukan </span>
+        <span begin="1:44.608" end="1:45.301">dirinya </span>
+        <span begin="1:45.301" end="1:45.918">si </span>
+        <span begin="1:46.097" end="1:46.568">pusat </span>
+        <span begin="1:46.568" end="1:47.695">kecewa </span>
+        <span begin="1:48.367" end="1:49.052">oh </span>
+        <span begin="1:49.229" end="1:49.809">oh</span>
+      </p>
+      <p begin="1:50.481" end="1:56.347" itunes:key="L22" ttm:agent="v1">
+        <span begin="1:50.481" end="1:51.280">Lupa </span>
+        <span begin="1:51.280" end="1:52.114">bahwa </span>
+        <span begin="1:52.114" end="1:54.259">lupakannya </span>
+        <span begin="1:54.259" end="1:54.788">tak </span>
+        <span begin="1:55.119" end="1:56.347">mudah</span>
+      </p>
+      <p begin="1:56.347" end="2:03.741" itunes:key="L23" ttm:agent="v1">
+        <span begin="1:56.347" end="1:57.183">Tapi </span>
+        <span begin="1:57.183" end="1:59.438">menyangkut </span>
+        <span begin="1:59.788" end="2:00.821">dia </span>
+        <span begin="2:01.092" end="2:01.475">ku </span>
+        <span begin="2:01.475" end="2:01.893">tak </span>
+        <span begin="2:01.893" end="2:03.741">bisa</span>
+      </p>
+      <p begin="2:04.021" end="2:06.002" itunes:key="L24" ttm:agent="v1">
+        <span begin="2:04.021" end="2:05.192">Sepertinya </span>
+        <span begin="2:05.192" end="2:06.002">sama</span>
+      </p>
+      <p begin="2:06.304" end="2:10.429" itunes:key="L25" ttm:agent="v1">
+        <span begin="2:06.304" end="2:06.840">Tatapan </span>
+        <span begin="2:06.840" end="2:07.109">khas </span>
+        <span begin="2:07.109" end="2:07.742">matanya </span>
+        <span begin="2:07.742" end="2:08.383">masih </span>
+        <span begin="2:08.383" end="2:09.044">yang </span>
+        <span begin="2:09.044" end="2:10.429">lama</span>
+      </p>
+      <p begin="2:10.755" end="2:13.420" itunes:key="L26" ttm:agent="v1">
+        <span begin="2:10.755" end="2:11.077">Kau </span>
+        <span begin="2:11.077" end="2:11.800">ajak </span>
+        <span begin="2:11.800" end="2:13.420">bicara</span>
+      </p>
+      <p begin="2:13.710" end="2:18.520" itunes:key="L27" ttm:agent="v1">
+        <span begin="2:13.710" end="2:14.703">Seketika </span>
+        <span begin="2:14.703" end="2:15.554">kembali </span>
+        <span begin="2:15.554" end="2:15.832">ku </span>
+        <span begin="2:15.832" end="2:16.922">jatuh </span>
+        <span begin="2:17.072" end="2:18.520">cinta</span>
+      </p>
+      <p begin="2:19.186" end="2:23.003" itunes:key="L28" ttm:agent="v1">
+        <span begin="2:19.186" end="2:20.456">Sialan </span>
+        <span begin="2:20.456" end="2:23.003">dia</span>
+      </p>
+      <p begin="2:23.461" end="2:29.587" itunes:key="L29" ttm:agent="v1">
+        <span begin="2:23.461" end="2:23.908">Sakit </span>
+        <span begin="2:23.908" end="2:24.638">dan </span>
+        <span begin="2:25.123" end="2:25.520">air </span>
+        <span begin="2:25.520" end="2:26.367">mata </span>
+        <span begin="2:26.367" end="2:27.239">sia </span>
+        <span begin="2:27.239" end="2:29.587">sia</span>
+      </p>
+      <p begin="2:31.010" end="2:36.804" itunes:key="L30" ttm:agent="v1">
+        <span begin="2:31.010" end="2:32.268">Melesat </span>
+        <span begin="2:32.268" end="2:33.114">tepat </span>
+        <span begin="2:33.114" end="2:33.383">di </span>
+        <span begin="2:33.383" end="2:34.428">titik </span>
+        <span begin="2:34.428" end="2:36.804">kelemahanku</span>
+      </p>
+      <p begin="2:36.804" end="2:44.279" itunes:key="L31" ttm:agent="v1">
+        <span begin="2:36.804" end="2:37.564">Letaknya </span>
+        <span begin="2:37.564" end="2:37.833">di </span>
+        <span begin="2:37.833" end="2:38.642">hati </span>
+        <span begin="2:39.046" end="2:40.353">hatiku </span>
+        <span begin="2:40.353" end="2:44.279">ini</span>
+      </p>
+      <p begin="2:44.624" end="2:50.240" itunes:key="L32" ttm:agent="v1">
+        <span begin="2:44.624" end="2:45.790">Terbaik </span>
+        <span begin="2:45.790" end="2:46.596">tetap </span>
+        <span begin="2:46.596" end="2:47.352">selalu </span>
+        <span begin="2:47.352" end="2:48.292">ada </span>
+        <span begin="2:48.292" end="2:50.240">singgasana</span>
+      </p>
+      <p begin="2:51.289" end="2:58.058" itunes:key="L33" ttm:agent="v1">
+        <span begin="2:51.289" end="2:52.789">Tempat </span>
+        <span begin="2:53.028" end="2:55.402">untuknya </span>
+        <span begin="2:55.591" end="2:56.088">ho </span>
+        <span begin="2:56.354" end="2:57.004">ah </span>
+        <span begin="2:57.243" end="2:58.058">ah</span>
+      </p>
+      <p begin="2:58.058" end="3:00.049" itunes:key="L34" ttm:agent="v1">
+        <span begin="2:58.058" end="2:59.267">Sepertinya </span>
+        <span begin="2:59.267" end="3:00.049">sama</span>
+      </p>
+      <p begin="3:00.422" end="3:04.498" itunes:key="L35" ttm:agent="v1">
+        <span begin="3:00.422" end="3:00.948">Tatapan </span>
+        <span begin="3:00.948" end="3:01.177">khas </span>
+        <span begin="3:01.177" end="3:01.801">matanya </span>
+        <span begin="3:01.801" end="3:02.491">masih </span>
+        <span begin="3:02.491" end="3:03.171">yang </span>
+        <span begin="3:03.171" end="3:04.498">lama</span>
+      </p>
+      <p begin="3:04.843" end="3:07.469" itunes:key="L36" ttm:agent="v1">
+        <span begin="3:04.843" end="3:05.227">Kau </span>
+        <span begin="3:05.227" end="3:05.903">ajak </span>
+        <span begin="3:05.903" end="3:07.469">bicara</span>
+      </p>
+      <p begin="3:07.798" end="3:12.538" itunes:key="L37" ttm:agent="v1">
+        <span begin="3:07.798" end="3:08.800">Seketika </span>
+        <span begin="3:08.800" end="3:09.654">kembali </span>
+        <span begin="3:09.654" end="3:09.894">ku </span>
+        <span begin="3:09.894" end="3:10.812">jatuh </span>
+        <span begin="3:11.164" end="3:12.538">cinta</span>
+      </p>
+      <p begin="3:13.266" end="3:17.361" itunes:key="L38" ttm:agent="v1">
+        <span begin="3:13.266" end="3:14.523">Sialan </span>
+        <span begin="3:14.523" end="3:17.361">dia</span>
+      </p>
+      <p begin="3:17.515" end="3:25.354" itunes:key="L39" ttm:agent="v1">
+        <span begin="3:17.515" end="3:17.931">Sakit </span>
+        <span begin="3:17.931" end="3:18.743">dan </span>
+        <span begin="3:19.214" end="3:19.651">air </span>
+        <span begin="3:19.651" end="3:20.983">mata </span>
+        <span begin="3:21.771" end="3:25.354">sia</span>
+      </p>
+      <p begin="3:25.354" end="3:28.401" itunes:key="L40" ttm:agent="v1">
+        <span begin="3:25.354" end="3:25.762">Dari </span>
+        <span begin="3:25.762" end="3:26.326">begitu </span>
+        <span begin="3:26.326" end="3:26.761">banyak </span>
+        <span begin="3:26.761" end="3:28.401">manusia</span>
+      </p>
+      <p begin="3:28.751" end="3:31.946" itunes:key="L41" ttm:agent="v1">
+        <span begin="3:28.751" end="3:29.254">Mengapa </span>
+        <span begin="3:29.254" end="3:29.689">lagi </span>
+        <span begin="3:29.689" end="3:30.124">lagi </span>
+        <span begin="3:30.124" end="3:30.892">hanya </span>
+        <span begin="3:31.026" end="3:31.946">dia</span>
+      </p>
+      <p begin="3:32.161" end="3:35.073" itunes:key="L42" ttm:agent="v1">
+        <span begin="3:32.161" end="3:32.514">Malam </span>
+        <span begin="3:32.514" end="3:32.733">yang </span>
+        <span begin="3:32.733" end="3:33.100">hangat </span>
+        <span begin="3:33.100" end="3:33.506">tapi </span>
+        <span begin="3:33.506" end="3:33.936">ku </span>
+        <span begin="3:33.936" end="3:35.073">terjaga</span>
+      </p>
+      <p begin="3:35.235" end="3:38.583" itunes:key="L43" ttm:agent="v1">
+        <span begin="3:35.235" end="3:36.012">Tinggallah </span>
+        <span begin="3:36.012" end="3:36.407">dia </span>
+        <span begin="3:36.407" end="3:36.694">si </span>
+        <span begin="3:36.694" end="3:37.119">pusat </span>
+        <span begin="3:37.337" end="3:38.583">kecewa</span>
+      </p>
+      <p begin="3:38.880" end="3:41.865" itunes:key="L44" ttm:agent="v1">
+        <span begin="3:38.880" end="3:39.235">Dari </span>
+        <span begin="3:39.235" end="3:39.803">begitu </span>
+        <span begin="3:39.803" end="3:40.273">banyak </span>
+        <span begin="3:40.273" end="3:41.865">manusia</span>
+      </p>
+      <p begin="3:42.233" end="3:45.384" itunes:key="L45" ttm:agent="v1">
+        <span begin="3:42.233" end="3:42.799">Mengapa </span>
+        <span begin="3:42.799" end="3:43.209">lagi </span>
+        <span begin="3:43.209" end="3:43.674">lagi </span>
+        <span begin="3:43.674" end="3:44.390">hanya </span>
+        <span begin="3:44.581" end="3:45.384">dia</span>
+      </p>
+      <p begin="3:45.647" end="3:48.613" itunes:key="L46" ttm:agent="v1">
+        <span begin="3:45.647" end="3:46.013">Malam </span>
+        <span begin="3:46.013" end="3:46.231">yang </span>
+        <span begin="3:46.231" end="3:46.598">hangat </span>
+        <span begin="3:46.598" end="3:46.993">tapi </span>
+        <span begin="3:46.993" end="3:47.441">ku </span>
+        <span begin="3:47.441" end="3:48.613">terjaga</span>
+      </p>
+      <p begin="3:48.784" end="3:51.269" itunes:key="L47" ttm:agent="v1">
+        <span begin="3:48.784" end="3:49.556">Tinggallah </span>
+        <span begin="3:49.556" end="3:49.956">dia </span>
+        <span begin="3:49.956" end="3:50.209">si </span>
+        <span begin="3:50.209" end="3:50.719">pusat </span>
+        <span begin="3:50.899" end="3:51.269">kecewa</span>
+      </p>
+      <p begin="3:51.269" end="3:54.435" itunes:key="L48" ttm:agent="v1">
+        <span begin="3:51.269" end="3:54.435">Sialan</span>
+      </p>
+    </div>
+  </body>
+</tt>

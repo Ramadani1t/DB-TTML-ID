@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word" xml:lang="ar">
+  <head>
+    <metadata>
+      <ttm:agent type="person" xml:id="v1"/>
+      <ttm:agent type="group" xml:id="v1000"/>
+      <iTunesMetadata xmlns="http://music.apple.com/lyric-ttml-internal">
+        <songwriters>
+          <songwriter>Amir Teima Teima</songwriter>
+          <songwriter>Hassan El Shafei</songwriter>
+          <songwriter>Madian</songwriter>
+          <songwriter>Sherine Abdel-Wahab</songwriter>
+        </songwriters>
+      </iTunesMetadata>
+    </metadata>
+  </head>
+  <body dur="3:55.186" ttm:agent="v1000">
+    <div begin="14.676" end="29.798" itunes:songPart="Verse" ttm:agent="v1">
+      <p begin="14.676" end="16.818" itunes:key="L1" ttm:agent="v1"><span begin="14.676" end="15.261">كلام</span> <span begin="15.261" end="15.796">عينيه</span> <span begin="15.796" end="16.114">في</span> <span begin="16.114" end="16.818">الغرام</span></p>
+      <p begin="16.778" end="18.280" itunes:key="L2" ttm:agent="v1"><span begin="16.778" end="17.216">أحلى</span> <span begin="17.216" end="17.602">من</span> <span begin="17.602" end="18.280">الأغاني</span></p>
+      <p begin="18.390" end="20.470" itunes:key="L3" ttm:agent="v1"><span begin="18.390" end="18.771">من</span> <span begin="18.771" end="19.421">كلمتين</span> <span begin="19.421" end="19.840">من</span> <span begin="19.840" end="20.470">سلام</span></p>
+      <p begin="20.380" end="21.966" itunes:key="L4" ttm:agent="v1"><span begin="20.380" end="20.902">ببقى</span> <span begin="20.902" end="21.315">حد</span> <span begin="21.315" end="21.966">تاني</span></p>
+      <p begin="21.876" end="23.876" itunes:key="L5" ttm:agent="v1"><span begin="21.876" end="22.535">لما</span> <span begin="22.535" end="23.181">يميل</span> <span begin="23.181" end="23.567">قلبي</span> <span begin="23.567" end="23.876">أنا</span></p>
+      <p begin="23.909" end="25.353" itunes:key="L6" ttm:agent="v1"><span begin="23.909" end="24.427">وياه</span> <span begin="24.427" end="25.353">يميل</span></p>
+      <p begin="25.463" end="27.581" itunes:key="L7" ttm:agent="v1"><span begin="25.463" end="26.038">تفديه</span> <span begin="26.038" end="26.694">عيوني</span> <span begin="26.694" end="27.357">وعمري</span> <span begin="27.357" end="27.581">كله</span></p>
+      <p begin="27.729" end="29.798" itunes:key="L8" ttm:agent="v1"><span begin="27.729" end="28.171">مش</span> <span begin="28.171" end="29.798">قليل</span></p>
+    </div>
+    <div begin="29.308" end="45.113" itunes:songPart="Verse" ttm:agent="v1">
+      <p begin="29.308" end="31.162" itunes:key="L9" ttm:agent="v1"><span begin="29.308" end="29.804">كلام</span> <span begin="29.804" end="30.266">عينيه</span> <span begin="30.266" end="30.551">في</span> <span begin="30.551" end="31.162">الغرام</span></p>
+      <p begin="31.213" end="32.873" itunes:key="L10" ttm:agent="v1"><span begin="31.213" end="31.742">أحلى</span> <span begin="31.742" end="32.076">من</span> <span begin="32.076" end="32.873">الأغاني</span></p>
+      <p begin="33.015" end="34.879" itunes:key="L11" ttm:agent="v1"><span begin="33.015" end="33.350">من</span> <span begin="33.350" end="33.947">كلمتين</span> <span begin="33.947" end="34.291">من</span> <span begin="34.291" end="34.879">سلام</span></p>
+      <p begin="35.044" end="36.600" itunes:key="L12" ttm:agent="v1"><span begin="35.044" end="35.465">ببقى</span> <span begin="35.465" end="35.899">حد</span> <span begin="35.899" end="36.600">تاني</span></p>
+      <p begin="36.645" end="38.488" itunes:key="L13" ttm:agent="v1"><span begin="36.645" end="37.023">لما</span> <span begin="37.023" end="37.614">يميل</span> <span begin="37.614" end="38.076">قلبي</span> <span begin="38.076" end="38.488">أنا</span></p>
+      <p begin="38.398" end="40.105" itunes:key="L14" ttm:agent="v1"><span begin="38.398" end="39.024">وياه</span> <span begin="39.024" end="40.105">يميل</span></p>
+      <p begin="40.115" end="42.358" itunes:key="L15" ttm:agent="v1"><span begin="40.115" end="40.564">تفديه</span> <span begin="40.564" end="41.237">عيوني</span> <span begin="41.237" end="41.750">وعمري</span> <span begin="41.750" end="42.358">كله</span></p>
+      <p begin="42.326" end="45.113" itunes:key="L16" ttm:agent="v1"><span begin="42.326" end="42.864">مش</span> <span begin="42.864" end="45.113">قليل</span></p>
+    </div>
+    <div begin="44.223" end="59.770" itunes:songPart="Chorus">
+      <p begin="44.223" end="45.479" itunes:key="L17" ttm:agent="v1000">
+        <span begin="44.223" end="45.479">ليلي</span>
+      </p>
+      <p begin="45.715" end="47.307" itunes:key="L18" ttm:agent="v1000"><span begin="45.715" end="46.224">يا ليل</span> <span begin="46.224" end="47.307">يا ليلي</span></p>
+      <p begin="47.461" end="48.541" itunes:key="L19" ttm:agent="v1"><span begin="47.461" end="48.026">يا ليل</span> <span begin="48.026" end="48.541">يا ليلي</span></p>
+      <p begin="48.477" end="52.355" itunes:key="L20" ttm:agent="v1"><span begin="48.477" end="48.795">من</span> <span begin="48.795" end="49.648">غرامه</span> <span begin="49.648" end="50.162">ليلي</span> <span begin="50.162" end="52.355">طال</span></p>
+      <p begin="51.065" end="52.732" itunes:key="L21" ttm:agent="v1000"><span begin="51.065" end="51.619">حبيب</span> <span begin="51.619" end="52.732">سنيني</span></p>
+      <p begin="52.789" end="54.372" itunes:key="L22" ttm:agent="v1000"><span begin="52.789" end="53.354">بينه</span> <span begin="53.354" end="54.372">وبيني</span></p>
+      <p begin="54.528" end="56.447" itunes:key="L23" ttm:agent="v1"><span begin="54.528" end="55.377">يا قلبي</span> <span begin="55.377" end="55.965">خطوة</span> <span begin="55.965" end="56.447">واحدة</span></p>
+      <p begin="56.257" end="59.770" itunes:key="L24" ttm:agent="v1"><span begin="56.257" end="56.906">يعني</span> <span begin="56.906" end="57.340">مش</span> <span begin="57.340" end="59.770">خيال</span></p>
+    </div>
+    <div begin="58.980" end="1:14.972" itunes:songPart="Chorus">
+      <p begin="58.980" end="59.952" itunes:key="L25" ttm:agent="v1000">
+        <span begin="58.980" end="59.952">ليلي</span>
+      </p>
+      <p begin="1:00.044" end="1:01.747" itunes:key="L26" ttm:agent="v1000"><span begin="1:00.044" end="1:00.719">يا ليل</span> <span begin="1:00.719" end="1:01.747">يا ليلي</span></p>
+      <p begin="1:01.901" end="1:03.207" itunes:key="L27" ttm:agent="v1"><span begin="1:01.901" end="1:02.591">يا ليل</span> <span begin="1:02.591" end="1:03.207">يا ليلي</span></p>
+      <p begin="1:03.017" end="1:06.585" itunes:key="L28" ttm:agent="v1"><span begin="1:03.017" end="1:03.508">من</span> <span begin="1:03.508" end="1:04.484">غرامه</span> <span begin="1:04.484" end="1:05.173">ليلي</span> <span begin="1:05.173" end="1:06.585">طال</span></p>
+      <p begin="1:05.495" end="1:07.084" itunes:key="L29" ttm:agent="v1000"><span begin="1:05.495" end="1:06.120">حبيب</span> <span begin="1:06.120" end="1:07.084">سنيني</span></p>
+      <p begin="1:07.529" end="1:08.902" itunes:key="L30" ttm:agent="v1000"><span begin="1:07.529" end="1:08.074">بينه</span> <span begin="1:08.074" end="1:08.902">وبيني</span></p>
+      <p begin="1:09.073" end="1:10.991" itunes:key="L31" ttm:agent="v1"><span begin="1:09.073" end="1:09.939">يا قلبي</span> <span begin="1:09.939" end="1:10.526">خطوة</span> <span begin="1:10.526" end="1:10.991">واحدة</span></p>
+      <p begin="1:10.861" end="1:14.972" itunes:key="L32" ttm:agent="v1"><span begin="1:10.861" end="1:11.477">يعني</span> <span begin="1:11.477" end="1:11.884">مش</span> <span begin="1:11.884" end="1:14.972">خيال</span></p>
+    </div>
+    <div begin="1:27.443" end="1:42.002" itunes:songPart="Verse" ttm:agent="v1">
+      <p begin="1:27.443" end="1:29.421" itunes:key="L33" ttm:agent="v1"><span begin="1:27.443" end="1:28.221">يا روحي</span> <span begin="1:28.221" end="1:28.860">روحي</span> <span begin="1:28.860" end="1:29.421">معاه</span></p>
+      <p begin="1:29.431" end="1:31.050" itunes:key="L34" ttm:agent="v1"><span begin="1:29.431" end="1:29.891">وفي</span> <span begin="1:29.891" end="1:30.515">جماله</span> <span begin="1:30.515" end="1:31.050">ضيعي</span></p>
+      <p begin="1:31.060" end="1:33.079" itunes:key="L35" ttm:agent="v1"><span begin="1:31.060" end="1:31.576">طمع</span> <span begin="1:31.576" end="1:31.964">في</span> <span begin="1:31.964" end="1:32.410">سحر</span> <span begin="1:32.410" end="1:33.079">الحياة</span></p>
+      <p begin="1:33.089" end="1:34.522" itunes:key="L36" ttm:agent="v1"><span begin="1:33.089" end="1:33.650">حسنه</span> <span begin="1:33.650" end="1:34.018">مش</span> <span begin="1:34.018" end="1:34.522">طبيعي</span></p>
+      <p begin="1:34.532" end="1:36.726" itunes:key="L37" ttm:agent="v1"><span begin="1:34.532" end="1:34.938">ده</span> <span begin="1:34.938" end="1:35.387">اللي</span> <span begin="1:35.387" end="1:35.797">القمر</span> <span begin="1:35.797" end="1:36.130">من</span> <span begin="1:36.130" end="1:36.726">عينيه</span></p>
+      <p begin="1:36.729" end="1:38.269" itunes:key="L38" ttm:agent="v1"><span begin="1:36.729" end="1:37.366">والله</span> <span begin="1:37.366" end="1:38.269">غار</span></p>
+      <p begin="1:38.279" end="1:39.867" itunes:key="L39" ttm:agent="v1"><span begin="1:38.279" end="1:38.675">دي</span> <span begin="1:38.675" end="1:39.476">الابتسامة</span> <span begin="1:39.476" end="1:39.867">شمس</span></p>
+      <p begin="1:39.877" end="1:42.002" itunes:key="L40" ttm:agent="v1"><span begin="1:39.877" end="1:40.561">طالعة</span> <span begin="1:40.561" end="1:42.002">بالنهار</span></p>
+    </div>
+    <div begin="1:42.012" end="1:59.094" itunes:songPart="Verse" ttm:agent="v1">
+      <p begin="1:42.012" end="1:44.028" itunes:key="L41" ttm:agent="v1"><span begin="1:42.012" end="1:42.827">يا روحي</span> <span begin="1:42.827" end="1:43.422">روحي</span> <span begin="1:43.422" end="1:44.028">معاه</span></p>
+      <p begin="1:44.038" end="1:45.717" itunes:key="L42" ttm:agent="v1"><span begin="1:44.038" end="1:44.413">وفي</span> <span begin="1:44.413" end="1:45.028">جماله</span> <span begin="1:45.028" end="1:45.717">ضيعي</span></p>
+      <p begin="1:45.727" end="1:47.619" itunes:key="L43" ttm:agent="v1"><span begin="1:45.727" end="1:46.165">طمع</span> <span begin="1:46.165" end="1:46.441">في</span> <span begin="1:46.441" end="1:46.846">سحر</span> <span begin="1:46.846" end="1:47.619">الحياة</span></p>
+      <p begin="1:47.673" end="1:49.136" itunes:key="L44" ttm:agent="v1"><span begin="1:47.673" end="1:48.234">حسنه</span> <span begin="1:48.234" end="1:48.559">مش</span> <span begin="1:48.559" end="1:49.136">طبيعي</span></p>
+      <p begin="1:49.146" end="1:51.208" itunes:key="L45" ttm:agent="v1"><span begin="1:49.146" end="1:49.484">ده</span> <span begin="1:49.484" end="1:49.908">اللي</span> <span begin="1:49.908" end="1:50.333">القمر</span> <span begin="1:50.333" end="1:50.682">من</span> <span begin="1:50.682" end="1:51.208">عينيه</span></p>
+      <p begin="1:51.218" end="1:52.901" itunes:key="L46" ttm:agent="v1"><span begin="1:51.218" end="1:51.850">والله</span> <span begin="1:51.850" end="1:52.901">غار</span></p>
+      <p begin="1:52.902" end="1:54.398" itunes:key="L47" ttm:agent="v1"><span begin="1:52.902" end="1:53.335">دي</span> <span begin="1:53.335" end="1:54.034">الابتسامة</span> <span begin="1:54.034" end="1:54.398">شمس</span></p>
+      <p begin="1:54.457" end="1:59.094" itunes:key="L48" ttm:agent="v1"><span begin="1:54.457" end="1:55.107">طالعة</span> <span begin="1:55.107" end="1:59.094">بالنهار</span></p>
+    </div>
+    <div begin="1:56.704" end="2:12.114" itunes:songPart="Chorus">
+      <p begin="1:56.704" end="1:58.197" itunes:key="L49" ttm:agent="v1000">
+        <span begin="1:56.704" end="1:58.197">ليلي</span>
+      </p>
+      <p begin="1:58.228" end="1:59.920" itunes:key="L50" ttm:agent="v1000"><span begin="1:58.228" end="1:58.925">يا ليل</span> <span begin="1:58.925" end="1:59.920">يا ليلي</span></p>
+      <p begin="2:00.068" end="2:01.257" itunes:key="L51" ttm:agent="v1"><span begin="2:00.068" end="2:00.696">يا ليل</span> <span begin="2:00.696" end="2:01.257">يا ليلي</span></p>
+      <p begin="2:01.267" end="2:04.560" itunes:key="L52" ttm:agent="v1"><span begin="2:01.267" end="2:01.738">من</span> <span begin="2:01.738" end="2:02.369">غرامه</span> <span begin="2:02.369" end="2:02.942">ليلي</span> <span begin="2:02.942" end="2:04.560">طال</span></p>
+      <p begin="2:03.800" end="2:05.484" itunes:key="L53" ttm:agent="v1000"><span begin="2:03.800" end="2:04.420">حبيب</span> <span begin="2:04.420" end="2:05.484">سنيني</span></p>
+      <p begin="2:05.649" end="2:07.083" itunes:key="L54" ttm:agent="v1000"><span begin="2:05.649" end="2:06.111">بينه</span> <span begin="2:06.111" end="2:07.083">وبيني</span></p>
+      <p begin="2:07.231" end="2:08.987" itunes:key="L55" ttm:agent="v1"><span begin="2:07.231" end="2:08.167">يا قلبي</span> <span begin="2:08.167" end="2:08.618">خطوة</span> <span begin="2:08.618" end="2:08.987">واحدة</span></p>
+      <p begin="2:08.997" end="2:12.114" itunes:key="L56" ttm:agent="v1"><span begin="2:08.997" end="2:09.577">يعني</span> <span begin="2:09.577" end="2:09.841">مش</span> <span begin="2:09.841" end="2:12.114">خيال</span></p>
+    </div>
+    <div begin="2:11.620" end="2:28.135" itunes:songPart="Chorus">
+      <p begin="2:11.620" end="2:12.836" itunes:key="L57" ttm:agent="v1000">
+        <span begin="2:11.620" end="2:12.836">ليلي</span>
+      </p>
+      <p begin="2:12.884" end="2:14.454" itunes:key="L58" ttm:agent="v1000"><span begin="2:12.884" end="2:13.505">يا ليل</span> <span begin="2:13.505" end="2:14.454">يا ليلي</span></p>
+      <p begin="2:14.714" end="2:16.055" itunes:key="L59" ttm:agent="v1"><span begin="2:14.714" end="2:15.337">يا ليل</span> <span begin="2:15.337" end="2:16.055">يا ليلي</span></p>
+      <p begin="2:15.765" end="2:21.044" itunes:key="L60" ttm:agent="v1"><span begin="2:15.765" end="2:16.173">من</span> <span begin="2:16.173" end="2:17.363">غرامه</span> <span begin="2:17.363" end="2:18.076">ليلي</span> <span begin="2:18.076" end="2:21.044">طال</span></p>
+      <p begin="2:18.454" end="2:20.010" itunes:key="L61" ttm:agent="v1000"><span begin="2:18.454" end="2:18.920">حبيب</span> <span begin="2:18.920" end="2:20.010">سنيني</span></p>
+      <p begin="2:20.020" end="2:21.549" itunes:key="L62" ttm:agent="v1000"><span begin="2:20.020" end="2:20.554">بينه</span> <span begin="2:20.554" end="2:21.549">وبيني</span></p>
+      <p begin="2:21.820" end="2:23.510" itunes:key="L63" ttm:agent="v1"><span begin="2:21.820" end="2:22.760">يا قلبي</span> <span begin="2:22.760" end="2:23.195">خطوة</span> <span begin="2:23.195" end="2:23.510">واحدة</span></p>
+      <p begin="2:23.520" end="2:28.135" itunes:key="L64" ttm:agent="v1"><span begin="2:23.520" end="2:24.181">يعني</span> <span begin="2:24.181" end="2:24.588">مش</span> <span begin="2:24.588" end="2:28.135">خيال</span></p>
+    </div>
+    <div begin="3:02.406" end="3:17.256" itunes:songPart="Chorus">
+      <p begin="3:02.406" end="3:03.508" itunes:key="L65" ttm:agent="v1000">
+        <span begin="3:02.406" end="3:03.508">ليلي</span>
+      </p>
+      <p begin="3:03.662" end="3:05.304" itunes:key="L66" ttm:agent="v1000"><span begin="3:03.662" end="3:04.345">يا ليل</span> <span begin="3:04.345" end="3:05.304">يا ليلي</span></p>
+      <p begin="3:09.295" end="3:10.627" itunes:key="L67" ttm:agent="v1000"><span begin="3:09.295" end="3:09.818">حبيب</span> <span begin="3:09.818" end="3:10.627">سنيني</span></p>
+      <p begin="3:11.151" end="3:12.516" itunes:key="L68" ttm:agent="v1000"><span begin="3:11.151" end="3:11.640">بينه</span> <span begin="3:11.640" end="3:12.516">وبيني</span></p>
+      <p begin="3:14.064" end="3:17.256" itunes:key="L69" ttm:agent="v1"><span begin="3:14.064" end="3:16.110">آه</span> <span begin="3:16.110" end="3:17.256">ليلي</span></p>
+    </div>
+    <div begin="3:17.266" end="3:31.713" itunes:songPart="Chorus">
+      <p begin="3:17.266" end="3:18.186" itunes:key="L70" ttm:agent="v1000">
+        <span begin="3:17.266" end="3:18.186">ليلي</span>
+      </p>
+      <p begin="3:18.334" end="3:20.008" itunes:key="L71" ttm:agent="v1000"><span begin="3:18.334" end="3:18.936">يا ليل</span> <span begin="3:18.936" end="3:20.008">يا ليلي</span></p>
+      <p begin="3:20.188" end="3:21.242" itunes:key="L72" ttm:agent="v1"><span begin="3:20.188" end="3:20.761">يا ليل</span> <span begin="3:20.761" end="3:21.242">يا ليلي</span></p>
+      <p begin="3:21.252" end="3:24.454" itunes:key="L73" ttm:agent="v1"><span begin="3:21.252" end="3:21.709">من</span> <span begin="3:21.709" end="3:22.385">غرامه</span> <span begin="3:22.385" end="3:22.759">ليلي</span> <span begin="3:22.759" end="3:24.454">طال</span></p>
+      <p begin="3:23.902" end="3:25.501" itunes:key="L74" ttm:agent="v1000"><span begin="3:23.902" end="3:24.378">حبيب</span> <span begin="3:24.378" end="3:25.501">سنيني</span></p>
+      <p begin="3:25.511" end="3:27.055" itunes:key="L75" ttm:agent="v1000"><span begin="3:25.511" end="3:26.039">بينه</span> <span begin="3:26.039" end="3:27.055">وبيني</span></p>
+      <p begin="3:27.120" end="3:28.967" itunes:key="L76" ttm:agent="v1"><span begin="3:27.120" end="3:28.147">يا قلبي</span> <span begin="3:28.147" end="3:28.615">خطوة</span> <span begin="3:28.615" end="3:28.967">واحدة</span></p>
+      <p begin="3:28.977" end="3:31.713" itunes:key="L77" ttm:agent="v1"><span begin="3:28.977" end="3:29.535">يعني</span> <span begin="3:29.535" end="3:29.832">مش</span> <span begin="3:29.832" end="3:31.713">خيال</span></p>
+    </div>
+    <div begin="3:31.791" end="3:48.136" itunes:songPart="Chorus">
+      <p begin="3:31.791" end="3:33.159" itunes:key="L78" ttm:agent="v1000"><span begin="3:31.791" end="3:32.559">ليلي</span> <span ttm:role="x-bg"><span begin="3:32.424" end="3:33.159">(ليلي)</span></span></p>
+      <p begin="3:32.941" end="3:34.599" itunes:key="L79" ttm:agent="v1000"><span begin="3:32.941" end="3:33.524">يا ليل</span> <span begin="3:33.524" end="3:34.599">يا ليلي</span></p>
+      <p begin="3:34.779" end="3:35.846" itunes:key="L80" ttm:agent="v1"><span begin="3:34.779" end="3:35.329">يا ليل</span> <span begin="3:35.329" end="3:35.846">يا ليلي</span></p>
+      <p begin="3:35.856" end="3:40.526" itunes:key="L81" ttm:agent="v1"><span begin="3:35.856" end="3:36.286">من</span> <span begin="3:36.286" end="3:36.978">غرامه</span> <span begin="3:36.978" end="3:37.673">ليلي</span> <span begin="3:37.673" end="3:40.526">طال</span></p>
+      <p begin="3:38.436" end="3:39.913" itunes:key="L82" ttm:agent="v1000"><span begin="3:38.436" end="3:38.956">حبيب</span> <span begin="3:38.956" end="3:39.913">سنيني</span></p>
+      <p begin="3:40.190" end="3:41.507" itunes:key="L83" ttm:agent="v1000"><span begin="3:40.190" end="3:40.677">بينه</span> <span begin="3:40.677" end="3:41.507">وبيني</span></p>
+      <p begin="3:41.689" end="3:48.136" itunes:key="L84" ttm:agent="v1"><span begin="3:41.689" end="3:42.770">يا قلبي</span> <span begin="3:42.770" end="3:43.158">خطوة</span> <span begin="3:43.158" end="3:43.669">واحدة</span> <span begin="3:43.669" end="3:44.093">يعني</span> <span begin="3:44.093" end="3:44.601">مش</span> <span begin="3:44.601" end="3:48.136">خيال</span></p>
+    </div>
+    <div begin="3:49.936" end="3:55.186" itunes:songPart="Outro" ttm:agent="v1">
+      <p begin="3:49.936" end="3:55.186" itunes:key="L85" ttm:agent="v1"><span begin="3:49.936" end="3:50.945">آه</span> <span begin="3:50.945" end="3:52.281">آه</span> <span begin="3:52.281" end="3:55.186">آه</span></p>
+    </div>
+  </body>
+</tt>

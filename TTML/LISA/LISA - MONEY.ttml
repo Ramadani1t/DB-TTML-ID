@@ -1,0 +1,634 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+  <head>
+    <metadata>
+      <ttm:agent type="person" xml:id="v1" />
+    </metadata>
+  </head>
+  <body dur="2:44.770">
+    <div begin="6.580" end="2:44.770">
+      <p begin="6.580" end="10.120" itunes:key="L1" ttm:agent="v1">
+        <span begin="6.580" end="6.850">It's </span>
+        <span begin="6.850" end="7.180">the </span>
+        <span begin="7.180" end="7.540">end </span>
+        <span begin="7.540" end="7.720">of </span>
+        <span begin="7.720" end="7.870">the </span>
+        <span begin="7.870" end="8.410">month </span>
+        <span begin="8.410" end="8.620">and </span>
+        <span begin="8.620" end="8.710">the </span>
+        <span begin="8.710" end="10.120">weekend</span>
+      </p>
+      <p begin="10.120" end="13.120" itunes:key="L2" ttm:agent="v1">
+        <span begin="10.120" end="10.360">I'ma </span>
+        <span begin="10.360" end="10.690">spend </span>
+        <span begin="10.690" end="10.900">this </span>
+        <span begin="10.900" end="11.410">check</span>
+        <span begin="11.410" end="11.410">, </span>
+        <span begin="11.410" end="12.040">everything </span>
+        <span begin="12.040" end="12.160">on </span>
+        <span begin="12.160" end="12.610">me</span>
+        <span begin="12.610" end="12.610">, </span>
+        <span begin="12.610" end="13.120">yeah</span>
+      </p>
+      <p begin="13.120" end="16.090" itunes:key="L3" ttm:agent="v1">
+        <span begin="13.120" end="13.420">I'ma </span>
+        <span begin="13.420" end="13.690">tip </span>
+        <span begin="13.690" end="14.410">myself</span>
+        <span begin="14.410" end="14.410">, </span>
+        <span begin="14.410" end="14.680">I'ma </span>
+        <span begin="14.680" end="15.040">spend </span>
+        <span begin="15.040" end="15.250">it </span>
+        <span begin="15.250" end="15.400">on </span>
+        <span begin="15.400" end="16.090">myself</span>
+      </p>
+      <p begin="16.090" end="19.480" itunes:key="L4" ttm:agent="v1">
+        <span begin="16.090" end="16.390">I'ma </span>
+        <span begin="16.390" end="16.750">drop </span>
+        <span begin="16.750" end="16.870">it </span>
+        <span begin="16.870" end="17.170">like </span>
+        <span begin="17.170" end="17.320">it's </span>
+        <span begin="17.320" end="17.830">pouring</span>
+        <span begin="17.830" end="17.830">, </span>
+        <span begin="17.830" end="18.130">I'ma </span>
+        <span begin="18.130" end="18.490">pour </span>
+        <span begin="18.490" end="18.700">it </span>
+        <span begin="18.700" end="18.850">on </span>
+        <span begin="18.850" end="19.480">myself</span>
+      </p>
+      <p begin="19.480" end="21.550" itunes:key="L5" ttm:agent="v1">
+        <span begin="19.480" end="19.870">Check</span>
+        <span begin="19.870" end="19.870">, </span>
+        <span begin="19.870" end="20.320">check</span>
+        <span begin="20.320" end="20.320">, </span>
+        <span begin="20.320" end="20.680">check</span>
+        <span begin="20.680" end="20.710">, </span>
+        <span begin="20.710" end="20.980">check </span>
+        <span begin="20.980" end="21.160">that </span>
+        <span begin="21.160" end="21.550">money</span>
+      </p>
+      <p begin="21.550" end="24.130" itunes:key="L6" ttm:agent="v1">
+        <span begin="21.550" end="22.030">Making </span>
+        <span begin="22.030" end="22.330">bank </span>
+        <span begin="22.330" end="22.900">account </span>
+        <span begin="22.900" end="23.620">number </span>
+        <span begin="23.620" end="23.620">(</span>
+        <span begin="23.620" end="24.100">Yikes</span>
+        <span begin="24.100" end="24.130">)</span>
+      </p>
+      <p begin="24.130" end="26.710" itunes:key="L7" ttm:agent="v1">
+        <span begin="24.130" end="24.430">That's </span>
+        <span begin="24.430" end="24.610">that </span>
+        <span begin="24.610" end="24.850">shit </span>
+        <span begin="24.850" end="25.060">that's </span>
+        <span begin="25.060" end="25.420">never </span>
+        <span begin="25.420" end="25.870">getting </span>
+        <span begin="25.870" end="26.410">bounced </span>
+        <span begin="26.410" end="26.560">on </span>
+        <span begin="26.560" end="26.710">ya</span>
+      </p>
+      <p begin="26.710" end="30.160" itunes:key="L8" ttm:agent="v1">
+        <span begin="26.710" end="27.040">B***h</span>
+        <span begin="27.040" end="27.040">, </span>
+        <span begin="27.040" end="27.160">I </span>
+        <span begin="27.160" end="27.430">do </span>
+        <span begin="27.430" end="27.580">the </span>
+        <span begin="27.580" end="28.090">money </span>
+        <span begin="28.090" end="28.450">dance</span>
+        <span begin="28.450" end="28.480">, </span>
+        <span begin="28.480" end="28.660">I </span>
+        <span begin="28.660" end="28.930">just </span>
+        <span begin="28.930" end="29.230">made </span>
+        <span begin="29.230" end="29.290">a </span>
+        <span begin="29.290" end="29.800">hundred </span>
+        <span begin="29.800" end="30.160">bands</span>
+      </p>
+      <p begin="30.190" end="34.390" itunes:key="L9" ttm:agent="v1">
+        <span begin="30.190" end="30.400">When </span>
+        <span begin="30.400" end="30.520">the </span>
+        <span begin="30.520" end="30.790">store </span>
+        <span begin="30.790" end="31.000">says</span>
+        <span begin="31.000" end="31.000">, </span>
+        <span begin="31.000" end="31.030">"</span>
+        <span begin="31.030" end="31.480">Sign </span>
+        <span begin="31.480" end="31.720">for </span>
+        <span begin="31.720" end="31.900">it</span>
+        <span begin="31.900" end="31.900">,</span>
+        <span begin="31.900" end="32.110">" </span>
+        <span begin="32.110" end="32.290">I'ma </span>
+        <span begin="32.290" end="32.530">leave </span>
+        <span begin="32.530" end="32.770">my </span>
+        <span begin="32.770" end="34.390">autograph</span>
+      </p>
+      <p begin="34.390" end="37.480" itunes:key="L10" ttm:agent="v1">
+        <span begin="34.390" end="34.840">Dolla' </span>
+        <span begin="34.840" end="36.160">bills</span>
+        <span begin="36.160" end="36.160">, </span>
+        <span begin="36.160" end="36.610">dolla' </span>
+        <span begin="36.610" end="37.480">bills</span>
+      </p>
+      <p begin="37.480" end="39.070" itunes:key="L11" ttm:agent="v1">
+        <span begin="37.480" end="37.780">Watch </span>
+        <span begin="37.780" end="37.900">it </span>
+        <span begin="37.900" end="38.530">fallin' </span>
+        <span begin="38.530" end="38.740">for </span>
+        <span begin="38.740" end="39.070">me</span>
+      </p>
+      <p begin="39.070" end="41.260" itunes:key="L12" ttm:agent="v1">
+        <span begin="39.070" end="39.160">I </span>
+        <span begin="39.160" end="39.430">love </span>
+        <span begin="39.430" end="39.580">the </span>
+        <span begin="39.580" end="39.850">way </span>
+        <span begin="39.850" end="40.030">that </span>
+        <span begin="40.030" end="41.260">feels</span>
+      </p>
+      <p begin="41.260" end="44.260" itunes:key="L13" ttm:agent="v1">
+        <span begin="41.260" end="41.710">Dolla' </span>
+        <span begin="41.710" end="43.000">bills</span>
+        <span begin="43.000" end="43.000">, </span>
+        <span begin="43.000" end="43.450">dolla' </span>
+        <span begin="43.450" end="44.260">bills</span>
+      </p>
+      <p begin="44.290" end="45.910" itunes:key="L14" ttm:agent="v1">
+        <span begin="44.290" end="44.620">Keep </span>
+        <span begin="44.620" end="44.770">on </span>
+        <span begin="44.770" end="45.400">fallin' </span>
+        <span begin="45.400" end="45.580">for </span>
+        <span begin="45.580" end="45.910">me</span>
+      </p>
+      <p begin="45.910" end="47.410" itunes:key="L15" ttm:agent="v1">
+        <span begin="45.910" end="46.000">I </span>
+        <span begin="46.000" end="46.300">love </span>
+        <span begin="46.300" end="46.450">the </span>
+        <span begin="46.450" end="46.750">way </span>
+        <span begin="46.750" end="46.900">it </span>
+        <span begin="46.900" end="47.410">feels</span>
+      </p>
+      <p begin="47.410" end="51.550" itunes:key="L16" ttm:agent="v1">
+        <span begin="47.410" end="47.500">I </span>
+        <span begin="47.500" end="47.830">came </span>
+        <span begin="47.830" end="48.040">here </span>
+        <span begin="48.040" end="48.160">to </span>
+        <span begin="48.160" end="48.730">drop </span>
+        <span begin="48.730" end="49.030">some </span>
+        <span begin="49.030" end="49.810">money</span>
+        <span begin="49.810" end="49.840">, </span>
+        <span begin="49.840" end="50.470">dropping </span>
+        <span begin="50.470" end="50.530">all </span>
+        <span begin="50.530" end="50.710">my </span>
+        <span begin="50.710" end="51.550">money</span>
+      </p>
+      <p begin="51.580" end="55.870" itunes:key="L17" ttm:agent="v1">
+        <span begin="51.580" end="52.180">Drop </span>
+        <span begin="52.180" end="52.450">some </span>
+        <span begin="52.450" end="53.020">money</span>
+        <span begin="53.020" end="53.320">, </span>
+        <span begin="53.320" end="53.530">all </span>
+        <span begin="53.530" end="53.770">this </span>
+        <span begin="53.770" end="53.950">bread </span>
+        <span begin="53.950" end="54.160">so </span>
+        <span begin="54.160" end="54.640">yummy</span>
+        <span begin="54.640" end="54.640">, </span>
+        <span begin="54.640" end="55.870">yeah</span>
+      </p>
+      <p begin="55.870" end="59.320" itunes:key="L18" ttm:agent="v1">
+        <span begin="55.870" end="56.320">Twerking</span>
+        <span begin="56.320" end="56.320">, </span>
+        <span begin="56.320" end="56.740">twerking</span>
+        <span begin="56.740" end="56.740">, </span>
+        <span begin="56.740" end="56.980">when </span>
+        <span begin="56.980" end="57.100">I </span>
+        <span begin="57.100" end="57.340">buy </span>
+        <span begin="57.340" end="57.580">the </span>
+        <span begin="57.580" end="57.880">things </span>
+        <span begin="57.880" end="58.030">I </span>
+        <span begin="58.030" end="59.320">like</span>
+      </p>
+      <p begin="59.320" end="1:02.080" itunes:key="L19" ttm:agent="v1">
+        <span begin="59.320" end="59.740">Dolla'</span>
+        <span begin="59.740" end="59.740">, </span>
+        <span begin="59.740" end="1:00.190">dollas</span>
+        <span begin="1:00.190" end="1:00.190">, </span>
+        <span begin="1:00.190" end="1:00.670">dropping </span>
+        <span begin="1:00.670" end="1:00.820">on </span>
+        <span begin="1:00.820" end="1:01.030">my </span>
+        <span begin="1:01.030" end="1:01.330">ass </span>
+        <span begin="1:01.330" end="1:02.080">tonight</span>
+      </p>
+      <p begin="1:02.740" end="1:05.710" itunes:key="L20" ttm:agent="v1">
+        <span begin="1:02.740" end="1:03.190">Everyone </span>
+        <span begin="1:03.190" end="1:04.150">silent</span>
+        <span begin="1:04.150" end="1:04.420">, </span>
+        <span begin="1:04.420" end="1:04.800">listen </span>
+        <span begin="1:04.800" end="1:04.890">to </span>
+        <span begin="1:04.890" end="1:05.020">my </span>
+        <span begin="1:05.020" end="1:05.290">money </span>
+        <span begin="1:05.290" end="1:05.710">talk</span>
+      </p>
+      <p begin="1:06.010" end="1:07.720" itunes:key="L21" ttm:agent="v1">
+        <span begin="1:06.010" end="1:06.400">Spend </span>
+        <span begin="1:06.400" end="1:06.520">how </span>
+        <span begin="1:06.520" end="1:06.640">I </span>
+        <span begin="1:06.640" end="1:07.120">like </span>
+        <span begin="1:07.120" end="1:07.720">it</span>
+      </p>
+      <p begin="1:07.750" end="1:09.640" itunes:key="L22" ttm:agent="v1">
+        <span begin="1:07.750" end="1:07.960">Yeah</span>
+        <span begin="1:07.960" end="1:07.960">, </span>
+        <span begin="1:07.960" end="1:08.350">everyone </span>
+        <span begin="1:08.350" end="1:08.500">know </span>
+        <span begin="1:08.500" end="1:08.710">what </span>
+        <span begin="1:08.710" end="1:08.770">I </span>
+        <span begin="1:08.770" end="1:09.190">mean</span>
+        <span begin="1:09.190" end="1:09.190">, </span>
+        <span begin="1:09.190" end="1:09.640">mean</span>
+      </p>
+      <p begin="1:09.640" end="1:11.890" itunes:key="L23" ttm:agent="v1">
+        <span begin="1:09.640" end="1:09.820">When </span>
+        <span begin="1:09.820" end="1:09.910">they </span>
+        <span begin="1:09.910" end="1:10.060">see </span>
+        <span begin="1:10.060" end="1:10.480">green</span>
+        <span begin="1:10.480" end="1:10.480">, </span>
+        <span begin="1:10.480" end="1:10.630">when </span>
+        <span begin="1:10.630" end="1:10.690">they </span>
+        <span begin="1:10.690" end="1:10.870">see </span>
+        <span begin="1:10.870" end="1:11.080">green</span>
+        <span begin="1:11.080" end="1:11.080">, </span>
+        <span begin="1:11.080" end="1:11.170">that </span>
+        <span begin="1:11.170" end="1:11.350">mean </span>
+        <span begin="1:11.350" end="1:11.890">go</span>
+      </p>
+      <p begin="1:12.130" end="1:15.490" itunes:key="L24" ttm:agent="v1">
+        <span begin="1:12.130" end="1:12.340">Give </span>
+        <span begin="1:12.340" end="1:12.460">me </span>
+        <span begin="1:12.460" end="1:12.670">what </span>
+        <span begin="1:12.670" end="1:12.760">the </span>
+        <span begin="1:12.760" end="1:12.970">hell </span>
+        <span begin="1:12.970" end="1:13.060">I </span>
+        <span begin="1:13.060" end="1:13.420">want</span>
+        <span begin="1:13.420" end="1:13.810">, </span>
+        <span begin="1:13.810" end="1:14.050">give </span>
+        <span begin="1:14.050" end="1:14.170">me </span>
+        <span begin="1:14.170" end="1:14.350">what </span>
+        <span begin="1:14.350" end="1:14.440">the </span>
+        <span begin="1:14.440" end="1:14.680">hell </span>
+        <span begin="1:14.680" end="1:14.740">I </span>
+        <span begin="1:14.740" end="1:15.490">want</span>
+      </p>
+      <p begin="1:15.520" end="1:16.420" itunes:key="L25" ttm:agent="v1">
+        <span begin="1:15.520" end="1:15.850">Check </span>
+        <span begin="1:15.850" end="1:16.030">that </span>
+        <span begin="1:16.030" end="1:16.420">money</span>
+      </p>
+      <p begin="1:16.420" end="1:19.000" itunes:key="L26" ttm:agent="v1">
+        <span begin="1:16.420" end="1:16.870">Making </span>
+        <span begin="1:16.870" end="1:17.200">bank </span>
+        <span begin="1:17.200" end="1:17.740">account </span>
+        <span begin="1:17.740" end="1:18.490">number </span>
+        <span begin="1:18.490" end="1:18.490">(</span>
+        <span begin="1:18.490" end="1:18.970">Yikes</span>
+        <span begin="1:18.970" end="1:19.000">)</span>
+      </p>
+      <p begin="1:19.000" end="1:21.580" itunes:key="L27" ttm:agent="v1">
+        <span begin="1:19.000" end="1:19.300">That's </span>
+        <span begin="1:19.300" end="1:19.450">that </span>
+        <span begin="1:19.450" end="1:19.720">shit </span>
+        <span begin="1:19.720" end="1:19.930">that's </span>
+        <span begin="1:19.930" end="1:20.290">never </span>
+        <span begin="1:20.290" end="1:20.710">getting </span>
+        <span begin="1:20.710" end="1:21.280">bounced </span>
+        <span begin="1:21.280" end="1:21.430">on </span>
+        <span begin="1:21.430" end="1:21.580">ya</span>
+      </p>
+      <p begin="1:21.580" end="1:25.030" itunes:key="L28" ttm:agent="v1">
+        <span begin="1:21.580" end="1:21.910">B***h</span>
+        <span begin="1:21.910" end="1:21.910">, </span>
+        <span begin="1:21.910" end="1:22.000">I </span>
+        <span begin="1:22.000" end="1:22.270">do </span>
+        <span begin="1:22.270" end="1:22.420">the </span>
+        <span begin="1:22.420" end="1:22.960">money </span>
+        <span begin="1:22.960" end="1:23.320">dance</span>
+        <span begin="1:23.320" end="1:23.350">, </span>
+        <span begin="1:23.350" end="1:23.500">I </span>
+        <span begin="1:23.500" end="1:23.770">just </span>
+        <span begin="1:23.770" end="1:24.070">made </span>
+        <span begin="1:24.070" end="1:24.160">a </span>
+        <span begin="1:24.160" end="1:24.670">hundred </span>
+        <span begin="1:24.670" end="1:25.030">bands</span>
+      </p>
+      <p begin="1:25.060" end="1:29.260" itunes:key="L29" ttm:agent="v1">
+        <span begin="1:25.060" end="1:25.270">When </span>
+        <span begin="1:25.270" end="1:25.390">the </span>
+        <span begin="1:25.390" end="1:25.660">store </span>
+        <span begin="1:25.660" end="1:25.930">says</span>
+        <span begin="1:25.930" end="1:25.930">, </span>
+        <span begin="1:25.930" end="1:25.960">"</span>
+        <span begin="1:25.960" end="1:26.320">Sign </span>
+        <span begin="1:26.320" end="1:26.560">for </span>
+        <span begin="1:26.560" end="1:26.770">it</span>
+        <span begin="1:26.770" end="1:26.770">,</span>
+        <span begin="1:26.770" end="1:26.950">" </span>
+        <span begin="1:26.950" end="1:27.160">I'ma </span>
+        <span begin="1:27.160" end="1:27.400">leave </span>
+        <span begin="1:27.400" end="1:27.610">my </span>
+        <span begin="1:27.610" end="1:29.260">autograph</span>
+      </p>
+      <p begin="1:29.260" end="1:32.350" itunes:key="L30" ttm:agent="v1">
+        <span begin="1:29.260" end="1:29.710">Dolla' </span>
+        <span begin="1:29.710" end="1:31.000">bills</span>
+        <span begin="1:31.000" end="1:31.000">, </span>
+        <span begin="1:31.000" end="1:31.450">dolla' </span>
+        <span begin="1:31.450" end="1:32.350">bills</span>
+      </p>
+      <p begin="1:32.350" end="1:33.940" itunes:key="L31" ttm:agent="v1">
+        <span begin="1:32.350" end="1:32.650">Watch </span>
+        <span begin="1:32.650" end="1:32.740">it </span>
+        <span begin="1:32.740" end="1:33.400">fallin' </span>
+        <span begin="1:33.400" end="1:33.610">for </span>
+        <span begin="1:33.610" end="1:33.940">me</span>
+      </p>
+      <p begin="1:33.940" end="1:36.100" itunes:key="L32" ttm:agent="v1">
+        <span begin="1:33.940" end="1:34.030">I </span>
+        <span begin="1:34.030" end="1:34.270">love </span>
+        <span begin="1:34.270" end="1:34.450">the </span>
+        <span begin="1:34.450" end="1:34.720">way </span>
+        <span begin="1:34.720" end="1:34.900">that </span>
+        <span begin="1:34.900" end="1:36.100">feels</span>
+      </p>
+      <p begin="1:36.100" end="1:39.100" itunes:key="L33" ttm:agent="v1">
+        <span begin="1:36.100" end="1:36.580">Dolla' </span>
+        <span begin="1:36.580" end="1:37.870">bills</span>
+        <span begin="1:37.870" end="1:37.870">, </span>
+        <span begin="1:37.870" end="1:38.290">dolla' </span>
+        <span begin="1:38.290" end="1:39.100">bills</span>
+      </p>
+      <p begin="1:39.130" end="1:40.780" itunes:key="L34" ttm:agent="v1">
+        <span begin="1:39.130" end="1:39.490">Keep </span>
+        <span begin="1:39.490" end="1:39.610">on </span>
+        <span begin="1:39.610" end="1:40.240">fallin' </span>
+        <span begin="1:40.240" end="1:40.420">for </span>
+        <span begin="1:40.420" end="1:40.780">me</span>
+      </p>
+      <p begin="1:40.780" end="1:42.250" itunes:key="L35" ttm:agent="v1">
+        <span begin="1:40.780" end="1:40.870">I </span>
+        <span begin="1:40.870" end="1:41.170">love </span>
+        <span begin="1:41.170" end="1:41.320">the </span>
+        <span begin="1:41.320" end="1:41.620">way </span>
+        <span begin="1:41.620" end="1:41.740">it </span>
+        <span begin="1:41.740" end="1:42.250">feels</span>
+      </p>
+      <p begin="1:42.250" end="1:46.420" itunes:key="L36" ttm:agent="v1">
+        <span begin="1:42.250" end="1:42.370">I </span>
+        <span begin="1:42.370" end="1:42.700">came </span>
+        <span begin="1:42.700" end="1:42.880">here </span>
+        <span begin="1:42.880" end="1:43.000">to </span>
+        <span begin="1:43.000" end="1:43.630">drop </span>
+        <span begin="1:43.630" end="1:43.900">some </span>
+        <span begin="1:43.900" end="1:44.440">money</span>
+        <span begin="1:44.440" end="1:44.680">, </span>
+        <span begin="1:44.680" end="1:45.280">dropping </span>
+        <span begin="1:45.280" end="1:45.370">all </span>
+        <span begin="1:45.370" end="1:45.550">my </span>
+        <span begin="1:45.550" end="1:46.420">money</span>
+      </p>
+      <p begin="1:46.450" end="1:50.710" itunes:key="L37" ttm:agent="v1">
+        <span begin="1:46.450" end="1:47.050">Drop </span>
+        <span begin="1:47.050" end="1:47.290">some </span>
+        <span begin="1:47.290" end="1:47.860">money</span>
+        <span begin="1:47.860" end="1:48.190">, </span>
+        <span begin="1:48.190" end="1:48.400">all </span>
+        <span begin="1:48.400" end="1:48.640">this </span>
+        <span begin="1:48.640" end="1:48.820">bread </span>
+        <span begin="1:48.820" end="1:49.000">so </span>
+        <span begin="1:49.000" end="1:49.510">yummy</span>
+        <span begin="1:49.510" end="1:49.510">, </span>
+        <span begin="1:49.510" end="1:50.710">yeah</span>
+      </p>
+      <p begin="1:50.710" end="1:54.160" itunes:key="L38" ttm:agent="v1">
+        <span begin="1:50.710" end="1:51.160">Twerking</span>
+        <span begin="1:51.160" end="1:51.160">, </span>
+        <span begin="1:51.160" end="1:51.610">twerking</span>
+        <span begin="1:51.610" end="1:51.610">, </span>
+        <span begin="1:51.610" end="1:51.820">when </span>
+        <span begin="1:51.820" end="1:51.970">I </span>
+        <span begin="1:51.970" end="1:52.210">buy </span>
+        <span begin="1:52.210" end="1:52.420">the </span>
+        <span begin="1:52.420" end="1:52.720">things </span>
+        <span begin="1:52.720" end="1:52.870">I </span>
+        <span begin="1:52.870" end="1:54.160">like</span>
+      </p>
+      <p begin="1:54.160" end="1:56.710" itunes:key="L39" ttm:agent="v1">
+        <span begin="1:54.160" end="1:54.580">Dolla'</span>
+        <span begin="1:54.580" end="1:54.580">, </span>
+        <span begin="1:54.580" end="1:55.060">dollas</span>
+        <span begin="1:55.060" end="1:55.060">, </span>
+        <span begin="1:55.060" end="1:55.540">dropping </span>
+        <span begin="1:55.540" end="1:55.660">on </span>
+        <span begin="1:55.660" end="1:55.900">my </span>
+        <span begin="1:55.900" end="1:56.170">ass </span>
+        <span begin="1:56.170" end="1:56.710">tonight</span>
+      </p>
+      <p begin="1:56.740" end="1:59.320" itunes:key="L40" ttm:agent="v1">
+        <span begin="1:56.740" end="1:57.340">Drop </span>
+        <span begin="1:57.340" end="1:57.610">some </span>
+        <span begin="1:57.610" end="1:58.420">money</span>
+        <span begin="1:58.420" end="1:58.480">, </span>
+        <span begin="1:58.480" end="1:58.870">dropping </span>
+        <span begin="1:58.870" end="1:58.930">all </span>
+        <span begin="1:58.930" end="1:59.080">my </span>
+        <span begin="1:59.080" end="1:59.320">money</span>
+      </p>
+      <p begin="2:00.160" end="2:03.610" itunes:key="L41" ttm:agent="v1">
+        <span begin="2:00.160" end="2:00.760">Drop </span>
+        <span begin="2:00.760" end="2:01.030">some </span>
+        <span begin="2:01.030" end="2:01.660">money</span>
+        <span begin="2:01.660" end="2:01.660">, </span>
+        <span begin="2:01.660" end="2:02.140">all </span>
+        <span begin="2:02.140" end="2:02.350">this </span>
+        <span begin="2:02.350" end="2:02.530">bread </span>
+        <span begin="2:02.530" end="2:02.740">so </span>
+        <span begin="2:02.740" end="2:03.010">yummy</span>
+        <span begin="2:03.010" end="2:03.010">, </span>
+        <span begin="2:03.010" end="2:03.610">yeah</span>
+      </p>
+      <p begin="2:03.610" end="2:07.000" itunes:key="L42" ttm:agent="v1">
+        <span begin="2:03.610" end="2:04.210">Drop </span>
+        <span begin="2:04.210" end="2:04.450">some </span>
+        <span begin="2:04.450" end="2:05.230">money</span>
+        <span begin="2:05.230" end="2:05.260">, </span>
+        <span begin="2:05.260" end="2:05.890">dropping </span>
+        <span begin="2:05.890" end="2:05.950">all </span>
+        <span begin="2:05.950" end="2:06.130">my </span>
+        <span begin="2:06.130" end="2:07.000">money</span>
+      </p>
+      <p begin="2:07.030" end="2:15.550" itunes:key="L43" ttm:agent="v1">
+        <span begin="2:07.030" end="2:07.630">Drop </span>
+        <span begin="2:07.630" end="2:07.870">some </span>
+        <span begin="2:07.870" end="2:08.440">money</span>
+        <span begin="2:08.440" end="2:08.770">, </span>
+        <span begin="2:08.770" end="2:08.950">all </span>
+        <span begin="2:08.950" end="2:09.220">this </span>
+        <span begin="2:09.220" end="2:09.370">bread </span>
+        <span begin="2:09.370" end="2:09.580">so </span>
+        <span begin="2:09.580" end="2:10.030">yummy</span>
+        <span begin="2:10.030" end="2:10.030">, </span>
+        <span begin="2:10.030" end="2:15.550">yeah</span>
+      </p>
+      <p begin="2:16.810" end="2:20.080" itunes:key="L44" ttm:agent="v1">
+        <span begin="2:16.810" end="2:17.050">My </span>
+        <span begin="2:17.050" end="2:17.380">money </span>
+        <span begin="2:17.380" end="2:18.460">moves</span>
+        <span begin="2:18.460" end="2:18.520">, </span>
+        <span begin="2:18.520" end="2:18.910">money </span>
+        <span begin="2:18.910" end="2:19.000">I </span>
+        <span begin="2:19.000" end="2:20.080">choose</span>
+      </p>
+      <p begin="2:20.110" end="2:22.000" itunes:key="L45" ttm:agent="v1">
+        <span begin="2:20.110" end="2:20.560">Celine </span>
+        <span begin="2:20.560" end="2:20.710">my </span>
+        <span begin="2:20.710" end="2:21.190">shoes</span>
+        <span begin="2:21.190" end="2:21.220">, </span>
+        <span begin="2:21.220" end="2:21.490">walkin' </span>
+        <span begin="2:21.490" end="2:21.700">on </span>
+        <span begin="2:21.700" end="2:22.000">you</span>
+      </p>
+      <p begin="2:22.000" end="2:23.410" itunes:key="L46" ttm:agent="v1">
+        <span begin="2:22.000" end="2:22.180">My </span>
+        <span begin="2:22.180" end="2:22.480">money </span>
+        <span begin="2:22.480" end="2:23.410">rules</span>
+      </p>
+      <p begin="2:23.680" end="2:26.830" itunes:key="L47" ttm:agent="v1">
+        <span begin="2:23.680" end="2:23.920">My </span>
+        <span begin="2:23.920" end="2:24.220">money </span>
+        <span begin="2:24.220" end="2:25.360">moves</span>
+        <span begin="2:25.360" end="2:25.390">, </span>
+        <span begin="2:25.390" end="2:25.780">money </span>
+        <span begin="2:25.780" end="2:25.870">I </span>
+        <span begin="2:25.870" end="2:26.830">choose</span>
+      </p>
+      <p begin="2:27.100" end="2:30.100" itunes:key="L48" ttm:agent="v1">
+        <span begin="2:27.100" end="2:27.400">Watch </span>
+        <span begin="2:27.400" end="2:27.490">how </span>
+        <span begin="2:27.490" end="2:27.610">my </span>
+        <span begin="2:27.610" end="2:28.000">wons </span>
+        <span begin="2:28.000" end="2:28.090">and </span>
+        <span begin="2:28.090" end="2:28.450">yens </span>
+        <span begin="2:28.450" end="2:28.570">and </span>
+        <span begin="2:28.570" end="2:28.810">dollars </span>
+        <span begin="2:28.810" end="2:28.930">be </span>
+        <span begin="2:28.930" end="2:29.230">droppin' </span>
+        <span begin="2:29.230" end="2:29.380">on </span>
+        <span begin="2:29.380" end="2:29.470">you</span>
+        <span begin="2:29.470" end="2:29.470">, </span>
+        <span begin="2:29.470" end="2:29.590">you</span>
+        <span begin="2:29.590" end="2:29.740">, </span>
+        <span begin="2:29.740" end="2:30.100">you</span>
+      </p>
+      <p begin="2:30.100" end="2:34.480" itunes:key="L49" ttm:agent="v1">
+        <span begin="2:30.100" end="2:30.262">(</span>
+        <span begin="2:30.262" end="2:30.424">Dun</span>
+        <span begin="2:30.424" end="2:30.586">, </span>
+        <span begin="2:30.586" end="2:30.748">dun</span>
+        <span begin="2:30.748" end="2:30.910">-</span>
+        <span begin="2:30.910" end="2:31.072">dun</span>
+        <span begin="2:31.072" end="2:31.234">-</span>
+        <span begin="2:31.234" end="2:31.396">dun</span>
+        <span begin="2:31.396" end="2:31.558">-</span>
+        <span begin="2:31.558" end="2:31.720">dun</span>
+        <span begin="2:31.720" end="2:31.882">-</span>
+        <span begin="2:31.882" end="2:32.044">dun</span>
+        <span begin="2:32.044" end="2:32.206">, </span>
+        <span begin="2:32.206" end="2:32.368">dun</span>
+        <span begin="2:32.368" end="2:32.530">, </span>
+        <span begin="2:32.530" end="2:32.692">dun</span>
+        <span begin="2:32.692" end="2:32.854">-</span>
+        <span begin="2:32.854" end="2:33.016">dun</span>
+        <span begin="2:33.016" end="2:33.178">-</span>
+        <span begin="2:33.178" end="2:33.340">dun</span>
+        <span begin="2:33.340" end="2:33.502">-</span>
+        <span begin="2:33.502" end="2:33.664">dun</span>
+        <span begin="2:33.664" end="2:33.826">-</span>
+        <span begin="2:33.826" end="2:33.988">dun</span>
+        <span begin="2:33.988" end="2:34.150">-</span>
+        <span begin="2:34.150" end="2:34.312">dun</span>
+        <span begin="2:34.312" end="2:34.480">)</span>
+      </p>
+      <p begin="2:34.480" end="2:36.610" itunes:key="L50" ttm:agent="v1">
+        <span begin="2:34.480" end="2:34.480">(</span>
+        <span begin="2:34.480" end="2:34.900">Dun</span>
+        <span begin="2:34.900" end="2:34.900">, </span>
+        <span begin="2:34.900" end="2:35.080">dun</span>
+        <span begin="2:35.080" end="2:35.110">-</span>
+        <span begin="2:35.110" end="2:35.200">dun</span>
+        <span begin="2:35.200" end="2:35.230">-</span>
+        <span begin="2:35.230" end="2:35.350">dun</span>
+        <span begin="2:35.350" end="2:35.380">-</span>
+        <span begin="2:35.380" end="2:35.710">dun</span>
+        <span begin="2:35.710" end="2:35.740">-</span>
+        <span begin="2:35.740" end="2:36.160">dun</span>
+        <span begin="2:36.160" end="2:36.160">, </span>
+        <span begin="2:36.160" end="2:36.430">dun</span>
+        <span begin="2:36.430" end="2:36.430">, </span>
+        <span begin="2:36.430" end="2:36.610">dun</span>
+        <span begin="2:36.610" end="2:36.610">)</span>
+      </p>
+      <p begin="2:36.610" end="2:37.720" itunes:key="L51" ttm:agent="v1">
+        <span begin="2:36.610" end="2:36.970">Droppin' </span>
+        <span begin="2:36.970" end="2:37.090">on </span>
+        <span begin="2:37.090" end="2:37.720">you</span>
+      </p>
+      <p begin="2:37.720" end="2:41.200" itunes:key="L52" ttm:agent="v1">
+        <span begin="2:37.720" end="2:37.848">(</span>
+        <span begin="2:37.848" end="2:37.976">Dun</span>
+        <span begin="2:37.976" end="2:38.104">, </span>
+        <span begin="2:38.104" end="2:38.232">dun</span>
+        <span begin="2:38.232" end="2:38.360">-</span>
+        <span begin="2:38.360" end="2:38.488">dun</span>
+        <span begin="2:38.488" end="2:38.616">-</span>
+        <span begin="2:38.616" end="2:38.744">dun</span>
+        <span begin="2:38.744" end="2:38.872">-</span>
+        <span begin="2:38.872" end="2:39.000">dun</span>
+        <span begin="2:39.000" end="2:39.128">-</span>
+        <span begin="2:39.128" end="2:39.256">dun</span>
+        <span begin="2:39.256" end="2:39.384">, </span>
+        <span begin="2:39.384" end="2:39.512">dun</span>
+        <span begin="2:39.512" end="2:39.640">, </span>
+        <span begin="2:39.640" end="2:39.768">dun</span>
+        <span begin="2:39.768" end="2:39.896">-</span>
+        <span begin="2:39.896" end="2:40.024">dun</span>
+        <span begin="2:40.024" end="2:40.152">-</span>
+        <span begin="2:40.152" end="2:40.280">dun</span>
+        <span begin="2:40.280" end="2:40.408">-</span>
+        <span begin="2:40.408" end="2:40.536">dun</span>
+        <span begin="2:40.536" end="2:40.664">-</span>
+        <span begin="2:40.664" end="2:40.792">dun</span>
+        <span begin="2:40.792" end="2:40.920">-</span>
+        <span begin="2:40.920" end="2:41.048">dun</span>
+        <span begin="2:41.048" end="2:41.200">)</span>
+      </p>
+      <p begin="2:41.200" end="2:43.480" itunes:key="L53" ttm:agent="v1">
+        <span begin="2:41.200" end="2:41.200">(</span>
+        <span begin="2:41.200" end="2:41.320">Dun</span>
+        <span begin="2:41.320" end="2:41.320">, </span>
+        <span begin="2:41.320" end="2:41.740">dun</span>
+        <span begin="2:41.740" end="2:41.770">-</span>
+        <span begin="2:41.770" end="2:41.950">dun</span>
+        <span begin="2:41.950" end="2:42.040">-</span>
+        <span begin="2:42.040" end="2:42.280">dun</span>
+        <span begin="2:42.280" end="2:42.490">-</span>
+        <span begin="2:42.490" end="2:42.580">dun</span>
+        <span begin="2:42.580" end="2:42.610">-</span>
+        <span begin="2:42.610" end="2:43.030">dun</span>
+        <span begin="2:43.030" end="2:43.030">, </span>
+        <span begin="2:43.030" end="2:43.210">dun</span>
+        <span begin="2:43.210" end="2:43.210">, </span>
+        <span begin="2:43.210" end="2:43.480">dun</span>
+        <span begin="2:43.480" end="2:43.480">)</span>
+      </p>
+      <p begin="2:43.480" end="2:44.770" itunes:key="L54" ttm:agent="v1">
+        <span begin="2:43.480" end="2:43.810">Droppin' </span>
+        <span begin="2:43.810" end="2:43.960">on </span>
+        <span begin="2:43.960" end="2:44.770">you</span>
+      </p>
+    </div>
+  </body>
+</tt>

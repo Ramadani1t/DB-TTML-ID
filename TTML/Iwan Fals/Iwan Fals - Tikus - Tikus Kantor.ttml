@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+  <head>
+    <metadata>
+      <ttm:agent type="person" xml:id="v1" />
+    </metadata>
+  </head>
+  <body dur="2:33.803">
+    <div begin="16.070" end="2:33.803">
+      <p begin="16.070" end="20.310" itunes:key="L1" ttm:agent="v1">
+        <span begin="16.070" end="16.861">Kisah </span>
+        <span begin="16.861" end="17.563">usang </span>
+        <span begin="17.563" end="18.715">tikus-</span>
+        <span begin="18.715" end="19.580">tikus </span>
+        <span begin="19.580" end="20.310">kantor</span>
+      </p>
+      <p begin="20.310" end="23.199" itunes:key="L2" ttm:agent="v1">
+        <span begin="20.310" end="20.526">Yang </span>
+        <span begin="20.526" end="21.020">suka </span>
+        <span begin="21.020" end="21.369">berenang </span>
+        <span begin="21.369" end="21.715">di </span>
+        <span begin="21.715" end="22.410">sungai </span>
+        <span begin="22.410" end="22.878">yang </span>
+        <span begin="22.878" end="23.199">kotor</span>
+      </p>
+      <p begin="24.230" end="27.689" itunes:key="L3" ttm:agent="v1">
+        <span begin="24.230" end="25.015">Kisah </span>
+        <span begin="25.015" end="25.900">usang </span>
+        <span begin="25.900" end="26.790">tikus-</span>
+        <span begin="26.790" end="27.327">tikus </span>
+        <span begin="27.327" end="27.689">berdasi</span>
+      </p>
+      <p begin="28.410" end="31.888" itunes:key="L4" ttm:agent="v1">
+        <span begin="28.410" end="28.882">Yang </span>
+        <span begin="28.882" end="29.107">suka </span>
+        <span begin="29.107" end="30.425">ingkar </span>
+        <span begin="30.425" end="30.939">janji </span>
+        <span begin="30.939" end="31.427">lalu </span>
+        <span begin="31.427" end="31.888">sembunyi</span>
+      </p>
+      <p begin="32.710" end="35.997" itunes:key="L5" ttm:agent="v1">
+        <span begin="32.710" end="33.062">Di </span>
+        <span begin="33.062" end="33.761">balik </span>
+        <span begin="33.761" end="34.510">meja </span>
+        <span begin="34.510" end="35.348">teman </span>
+        <span begin="35.348" end="35.997">sekerja</span>
+      </p>
+      <p begin="37.080" end="40.437" itunes:key="L6" ttm:agent="v1">
+        <span begin="37.080" end="37.360">Di </span>
+        <span begin="37.360" end="38.299">dalam </span>
+        <span begin="38.299" end="39.321">lemari </span>
+        <span begin="39.321" end="39.949">dari </span>
+        <span begin="39.949" end="40.437">baja</span>
+      </p>
+      <p begin="41.400" end="45.650" itunes:key="L7" ttm:agent="v1">
+        <span begin="41.400" end="42.289">Kucing </span>
+        <span begin="42.289" end="43.491">datang </span>
+        <span begin="43.491" end="44.537">cepat </span>
+        <span begin="44.537" end="45.272">ganti </span>
+        <span begin="45.272" end="45.650">muka</span>
+      </p>
+      <p begin="45.650" end="49.523" itunes:key="L8" ttm:agent="v1">
+        <span begin="45.650" end="46.045">Segera </span>
+        <span begin="46.045" end="47.556">menjelma </span>
+        <span begin="47.556" end="48.538">bagai </span>
+        <span begin="48.538" end="49.074">tak </span>
+        <span begin="49.074" end="49.523">tercela</span>
+      </p>
+      <p begin="50.050" end="53.707" itunes:key="L9" ttm:agent="v1">
+        <span begin="50.050" end="50.735">Masa </span>
+        <span begin="50.735" end="51.456">bodoh </span>
+        <span begin="51.456" end="52.341">hilang </span>
+        <span begin="52.341" end="53.394">harga </span>
+        <span begin="53.394" end="53.707">diri</span>
+      </p>
+      <p begin="54.350" end="58.019" itunes:key="L10" ttm:agent="v1">
+        <span begin="54.350" end="55.041">Asal </span>
+        <span begin="55.041" end="55.566">tak </span>
+        <span begin="55.566" end="56.385">terbukti </span>
+        <span begin="56.385" end="56.887">ah </span>
+        <span begin="56.887" end="57.461">tentu </span>
+        <span begin="57.461" end="57.781">sikat </span>
+        <span begin="57.781" end="58.019">lagi</span>
+      </p>
+      <p begin="1:02.150" end="1:06.052" itunes:key="L11" ttm:agent="v1">
+        <span begin="1:02.150" end="1:03.277">Tikus-</span>
+        <span begin="1:03.277" end="1:04.477">tikus </span>
+        <span begin="1:04.477" end="1:04.952">tak </span>
+        <span begin="1:04.952" end="1:05.619">kenal </span>
+        <span begin="1:05.619" end="1:06.052">kenyang</span>
+      </p>
+      <p begin="1:06.280" end="1:09.388" itunes:key="L12" ttm:agent="v1">
+        <span begin="1:06.280" end="1:07.205">Rakus, </span>
+        <span begin="1:07.205" end="1:08.196">rakus, </span>
+        <span begin="1:08.196" end="1:08.770">bukan </span>
+        <span begin="1:08.770" end="1:09.388">kepalang</span>
+      </p>
+      <p begin="1:10.220" end="1:14.022" itunes:key="L13" ttm:agent="v1">
+        <span begin="1:10.220" end="1:10.986">Otak </span>
+        <span begin="1:10.986" end="1:11.961">tikus </span>
+        <span begin="1:11.961" end="1:12.874">memang </span>
+        <span begin="1:12.874" end="1:13.331">bukan </span>
+        <span begin="1:13.331" end="1:13.551">otak </span>
+        <span begin="1:13.551" end="1:14.022">udang</span>
+      </p>
+      <p begin="1:14.620" end="1:18.111" itunes:key="L14" ttm:agent="v1">
+        <span begin="1:14.620" end="1:15.563">Kucing </span>
+        <span begin="1:15.563" end="1:16.436">datang </span>
+        <span begin="1:16.436" end="1:17.374">tikus </span>
+        <span begin="1:17.374" end="1:18.111">menghilang</span>
+      </p>
+      <p begin="1:39.930" end="1:43.759" itunes:key="L15" ttm:agent="v1">
+        <span begin="1:39.930" end="1:41.024">Kucing-</span>
+        <span begin="1:41.024" end="1:41.949">kucing </span>
+        <span begin="1:41.949" end="1:42.537">yang </span>
+        <span begin="1:42.537" end="1:43.369">kerjanya </span>
+        <span begin="1:43.369" end="1:43.759">molor</span>
+      </p>
+      <p begin="1:43.980" end="1:47.519" itunes:key="L16" ttm:agent="v1">
+        <span begin="1:43.980" end="1:44.213">Tak </span>
+        <span begin="1:44.213" end="1:45.019">ingat </span>
+        <span begin="1:45.019" end="1:45.646">tikus </span>
+        <span begin="1:45.646" end="1:46.554">kantor </span>
+        <span begin="1:46.554" end="1:47.063">datang </span>
+        <span begin="1:47.063" end="1:47.519">menteror</span>
+      </p>
+      <p begin="1:48.130" end="1:51.948" itunes:key="L17" ttm:agent="v1">
+        <span begin="1:48.130" end="1:49.080">Cerdik, </span>
+        <span begin="1:49.080" end="1:50.095">licik, </span>
+        <span begin="1:50.095" end="1:50.826">tikus </span>
+        <span begin="1:50.826" end="1:51.716">bertingkah </span>
+        <span begin="1:51.716" end="1:51.948">tengik</span>
+      </p>
+      <p begin="1:52.400" end="1:56.012" itunes:key="L18" ttm:agent="v1">
+        <span begin="1:52.400" end="1:52.825">Mungkin </span>
+        <span begin="1:52.825" end="1:53.637">karena </span>
+        <span begin="1:53.637" end="1:54.001">sang </span>
+        <span begin="1:54.001" end="1:54.582">kucing </span>
+        <span begin="1:54.582" end="1:54.983">pura-</span>
+        <span begin="1:54.983" end="1:55.274">pura </span>
+        <span begin="1:55.274" end="1:56.012">mendelik</span>
+      </p>
+      <p begin="2:00.320" end="2:04.186" itunes:key="L19" ttm:agent="v1">
+        <span begin="2:00.320" end="2:01.652">Tikus </span>
+        <span begin="2:01.652" end="2:02.645">tahu </span>
+        <span begin="2:02.645" end="2:03.163">sang </span>
+        <span begin="2:03.163" end="2:03.746">kucing </span>
+        <span begin="2:03.746" end="2:04.186">lapar</span>
+      </p>
+      <p begin="2:04.430" end="2:07.747" itunes:key="L20" ttm:agent="v1">
+        <span begin="2:04.430" end="2:05.296">Kasih </span>
+        <span begin="2:05.296" end="2:06.115">roti </span>
+        <span begin="2:06.115" end="2:06.772">jalan </span>
+        <span begin="2:06.772" end="2:07.334">pun </span>
+        <span begin="2:07.334" end="2:07.747">lancar</span>
+      </p>
+      <p begin="2:08.680" end="2:12.300" itunes:key="L21" ttm:agent="v1">
+        <span begin="2:08.680" end="2:09.111">Memang </span>
+        <span begin="2:09.111" end="2:09.698">sial </span>
+        <span begin="2:09.698" end="2:10.736">sang </span>
+        <span begin="2:10.736" end="2:11.301">tikus </span>
+        <span begin="2:11.301" end="2:11.633">teramat </span>
+        <span begin="2:11.633" end="2:12.300">pintar</span>
+      </p>
+      <p begin="2:12.870" end="2:16.457" itunes:key="L22" ttm:agent="v1">
+        <span begin="2:12.870" end="2:13.315">Atau </span>
+        <span begin="2:13.315" end="2:13.618">mungkin </span>
+        <span begin="2:13.618" end="2:14.071">si </span>
+        <span begin="2:14.071" end="2:14.871">kucing </span>
+        <span begin="2:14.871" end="2:15.196">yang </span>
+        <span begin="2:15.196" end="2:15.703">kurang </span>
+        <span begin="2:15.703" end="2:16.457">ditatar</span>
+      </p>
+      <p begin="2:17.350" end="2:21.001" itunes:key="L23" ttm:agent="v1">
+        <span begin="2:17.350" end="2:18.436">Tikus-</span>
+        <span begin="2:18.436" end="2:19.379">tikus </span>
+        <span begin="2:19.379" end="2:19.926">tak </span>
+        <span begin="2:19.926" end="2:20.561">kenal </span>
+        <span begin="2:20.561" end="2:21.001">kenyang</span>
+      </p>
+      <p begin="2:21.490" end="2:25.008" itunes:key="L24" ttm:agent="v1">
+        <span begin="2:21.490" end="2:22.532">Rakus, </span>
+        <span begin="2:22.532" end="2:23.537">rakus, </span>
+        <span begin="2:23.537" end="2:24.335">bukan </span>
+        <span begin="2:24.335" end="2:25.008">kepalang</span>
+      </p>
+      <p begin="2:25.730" end="2:29.760" itunes:key="L25" ttm:agent="v1">
+        <span begin="2:25.730" end="2:26.408">Otak </span>
+        <span begin="2:26.408" end="2:27.548">tikus </span>
+        <span begin="2:27.548" end="2:28.355">memang </span>
+        <span begin="2:28.355" end="2:29.075">bukan </span>
+        <span begin="2:29.075" end="2:29.597">otak </span>
+        <span begin="2:29.597" end="2:29.760">udang</span>
+      </p>
+      <p begin="2:30.370" end="2:33.803" itunes:key="L26" ttm:agent="v1">
+        <span begin="2:30.370" end="2:31.098">Kucing </span>
+        <span begin="2:31.098" end="2:32.140">datang </span>
+        <span begin="2:32.140" end="2:32.873">tikus </span>
+        <span begin="2:32.873" end="2:33.803">menghilang</span>
+      </p>
+    </div>
+  </body>
+</tt>

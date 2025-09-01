@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:i tunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#meta data" i tunes:timing="Line" xml:lang="id">
+  <head>
+    <meta data>
+      <ttm:agent type="person" xml:id="v1"/>
+      <i tunesMeta data xmlns="http://music.apple.com/lyric-ttml-internal" leadingSilence="1.020">
+        <songwriters>
+          <songwriter>Ade Govinda</songwriter>
+          <songwriter>Nabila V</songwriter>
+        </songwriters>
+      </i tunesMeta data>
+    </meta data>
+  </head>
+  <body dur="3:54.590">
+    <div begin="1.180" end="15.731" i tunes:songPart="Intro">
+      <p begin="1.180" end="15.731" i tunes:key="L1" ttm:agent="v1">Ta pi aku le tih ju ga le bih ba ik ki ta ma si ng ma si ng</p>
+    </div>
+    <div begin="16.747" end="45.880" i tunes:songPart="Verse">
+      <p begin="16.747" end="22.099" i tunes:key="L2" ttm:agent="v1">Per nah se sa yang i tu per nah</p>
+      <p begin="23.781" end="29.181" i tunes:key="L3" ttm:agent="v1">Per nah se cin ta i tu per nah</p>
+      <p begin="30.763" end="39.480" i tunes:key="L4" ttm:agent="v1">Per nah se dalam i tu Ta pi i tu dulu</p>
+      <p begin="39.648" end="45.880" i tunes:key="L5" ttm:agent="v1">Se be lum a da ha ti la in</p>
+    </div>
+    <div begin="46.947" end="1:14.363" i tunes:songPart="Verse">
+      <p begin="46.947" end="52.632" i tunes:key="L6" ttm:agent="v1">Per nah ber ju ang i tu Per nah</p>
+      <p begin="53.965" end="59.747" i tunes:key="L7" ttm:agent="v1">Per nah ter ja tuh ju ga Per nah</p>
+      <p begin="1:01.080" end="1:08.197" i tunes:key="L8" ttm:agent="v1">Per nah ber sa ma ki ta Ta pi i tu dulu</p>
+      <p begin="1:08.616" end="1:14.363" i tunes:key="L9" ttm:agent="v1">Pa da ak hir nya pi sah ju ga</p>
+    </div>
+    <div begin="1:15.013" end="1:51.797" i tunes:songPart="Chorus">
+      <p begin="1:15.013" end="1:21.763" i tunes:key="L10" ttm:agent="v1">Aku tak kau ang gap a da ce ri ta</p>
+      <p begin="1:22.064" end="1:28.296" i tunes:key="L11" ttm:agent="v1">Aku tak kau ang gap a da de ri ta</p>
+      <p begin="1:29.163" end="1:36.213" i tunes:key="L12" ttm:agent="v1">Ta pi ka mu ber la ku ba gai pe mi lik ra ga ku</p>
+      <p begin="1:36.297" end="1:51.797" i tunes:key="L13" ttm:agent="v1">Ta pi aku le tih ju ga lebih ba ik ki ta ma si ng ma si ng</p>
+    </div>
+    <div begin="1:55.211" end="2:23.027" i tunes:songPart="Verse">
+      <p begin="1:55.211" end="2:00.712" i tunes:key="L14" ttm:agent="v1">Per nah sesakit ini Per nah</p>
+      <p begin="2:01.928" end="2:08.560" i tunes:key="L15" ttm:agent="v1">Ta pi ka mu yang paling sakit</p>
+      <p begin="2:09.027" end="2:16.411" i tunes:key="L16" ttm:agent="v1">Walau rasaku ini sakit tak berdarah</p>
+      <p begin="2:16.693" end="2:23.027" i tunes:key="L17" ttm:agent="v1">Apa rasanya jadi aku</p>
+    </div>
+    <div begin="2:23.160" end="2:50.912" i tunes:songPart="Chorus">
+      <p begin="2:23.160" end="2:29.712" i tunes:key="L18" ttm:agent="v1">Aku tak kau ang gap a da ce ri ta</p>
+      <p begin="2:30.011" end="2:36.877" i tunes:key="L19" ttm:agent="v1">Aku tak kau ang gap a da de ri ta</p>
+      <p begin="2:37.144" end="2:44.179" i tunes:key="L20" ttm:agent="v1">Ta pi ka mu ber la ku ba gai pe mi lik ra ga ku</p>
+      <p begin="2:44.193" end="2:50.912" i tunes:key="L21" ttm:agent="v1">Ta pi aku le tih ju ga</p>
+    </div>
+    <div begin="2:50.752" end="3:44.000" i tunes:songPart="Chorus">
+      <p begin="2:50.752" end="2:58.482" i tunes:key="L22" ttm:agent="v1">A ku tak kau ang gap a da ce ri ta</p>
+      <p begin="2:58.800" end="3:05.666" i tunes:key="L23" ttm:agent="v1">A ku tak kau ang gap a da de ri ta</p>
+      <p begin="3:05.834" end="3:12.933" i tunes:key="L24" ttm:agent="v1">Ta pi ka mu ber la ku ba gai pe mi lik ra ga ku</p>
+      <p begin="3:12.985" end="3:27.382" i tunes:key="L25" ttm:agent="v1">Ta pi aku le tih ju ga le bih ba ik ki ta ma si ng ma si ng</p>
+      <p begin="3:27.382" end="3:44.000" i tunes:key="L26" ttm:agent="v1">Ta pi aku le tih ju ga le bih ba ik ki ta ma si ng ma si ng</p>
+    </div>
+  </body>
+</tt>

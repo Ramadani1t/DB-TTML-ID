@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?><tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+    <head>
+        <metadata>
+            <ttm:agent type="person" xml:id="v1"/>
+        </metadata>
+    </head>
+    <body dur="03:52.806">
+        <div begin="00:00.000" end="03:52.806">
+            <p begin="00:00.000" end="00:09.045" ttm:agent="v1" itunes:key="L1">
+                <span begin="00:00.000" end="00:00.603">Est</span>
+                <span begin="00:00.603" end="00:01.206">-</span>
+                <span begin="00:01.206" end="00:01.809">ce</span>
+                <span begin="00:01.809" end="00:02.412"> </span>
+                <span begin="00:02.412" end="00:03.015">que</span>
+                <span begin="00:03.015" end="00:03.618"> </span>
+                <span begin="00:03.618" end="00:04.221">tu</span>
+                <span begin="00:04.221" end="00:04.824"> </span>
+                <span begin="00:04.824" end="00:05.427">m'aimes</span>
+                <span begin="00:05.427" end="00:06.030"> </span>
+                <span begin="00:06.030" end="00:06.633">?</span>
+                <span begin="00:06.633" end="00:07.236"> </span>
+                <span begin="00:07.236" end="00:07.839">-</span>
+                <span begin="00:07.839" end="00:08.442"> </span>
+                <span begin="00:08.442" end="00:09.045">Gims</span>
+            </p>
+            <p begin="00:09.054" end="00:11.479" ttm:agent="v1" itunes:key="L2">
+                <span begin="00:09.054" end="00:09.602">J'ai </span>
+                <span begin="00:09.602" end="00:09.816">retrouve </span>
+                <span begin="00:09.816" end="00:10.326">le </span>
+                <span begin="00:10.326" end="00:11.046">sourire </span>
+                <span begin="00:11.046" end="00:11.300">quand </span>
+                <span begin="00:11.300" end="00:11.479">j'ai</span>
+            </p>
+            <p begin="00:11.485" end="00:12.844" ttm:agent="v1" itunes:key="L3">
+                <span begin="00:11.485" end="00:11.674">Vu </span>
+                <span begin="00:11.674" end="00:11.883">le </span>
+                <span begin="00:11.883" end="00:12.059">'bout </span>
+                <span begin="00:12.059" end="00:12.448">du </span>
+                <span begin="00:12.448" end="00:12.844">tunnel</span>
+            </p>
+            <p begin="00:13.270" end="00:16.869" ttm:agent="v1" itunes:key="L4">
+                <span begin="00:13.270" end="00:13.424">Ou </span>
+                <span begin="00:13.424" end="00:13.768">nous </span>
+                <span begin="00:13.768" end="00:14.033">menera </span>
+                <span begin="00:14.033" end="00:14.292">ce </span>
+                <span begin="00:14.292" end="00:15.029">jeu </span>
+                <span begin="00:15.029" end="00:15.300">du </span>
+                <span begin="00:15.300" end="00:15.509">male </span>
+                <span begin="00:15.509" end="00:15.708">et </span>
+                <span begin="00:15.708" end="00:15.867">de </span>
+                <span begin="00:15.867" end="00:16.088">la </span>
+                <span begin="00:16.088" end="00:16.869">femelle</span>
+            </p>
+            <p begin="00:18.971" end="00:20.650" ttm:agent="v1" itunes:key="L5">
+                <span begin="00:18.971" end="00:19.119">Du </span>
+                <span begin="00:19.119" end="00:19.293">male </span>
+                <span begin="00:19.293" end="00:19.452">et </span>
+                <span begin="00:19.452" end="00:19.621">de </span>
+                <span begin="00:19.621" end="00:19.775">la </span>
+                <span begin="00:19.775" end="00:20.650">femelle</span>
+            </p>
+            <p begin="00:21.036" end="00:25.039" ttm:agent="v1" itunes:key="L6">
+                <span begin="00:21.036" end="00:21.271">On </span>
+                <span begin="00:21.271" end="00:21.715">etait </span>
+                <span begin="00:21.715" end="00:22.206">tellement </span>
+                <span begin="00:22.206" end="00:23.064">complices </span>
+                <span begin="00:23.064" end="00:23.303">on </span>
+                <span begin="00:23.303" end="00:23.502">a </span>
+                <span begin="00:23.502" end="00:23.912">brise </span>
+                <span begin="00:23.912" end="00:24.116">nos </span>
+                <span begin="00:24.116" end="00:25.039">complexes</span>
+            </p>
+            <p begin="00:25.384" end="00:29.040" ttm:agent="v1" itunes:key="L7">
+                <span begin="00:25.384" end="00:25.558">Pour </span>
+                <span begin="00:25.558" end="00:25.757">te </span>
+                <span begin="00:25.757" end="00:26.202">faire </span>
+                <span begin="00:26.202" end="00:27.032">comprendre </span>
+                <span begin="00:27.032" end="00:27.262">t'avais </span>
+                <span begin="00:27.262" end="00:27.525">juste </span>
+                <span begin="00:27.525" end="00:27.719">a </span>
+                <span begin="00:27.719" end="00:27.878">lever </span>
+                <span begin="00:27.878" end="00:28.042">le </span>
+                <span begin="00:28.042" end="00:29.040">cil</span>
+            </p>
+            <p begin="00:31.022" end="00:32.489" ttm:agent="v1" itunes:key="L8">
+                <span begin="00:31.022" end="00:31.201">T'avais </span>
+                <span begin="00:31.201" end="00:31.350">juste </span>
+                <span begin="00:31.350" end="00:31.524">a </span>
+                <span begin="00:31.524" end="00:31.818">lever </span>
+                <span begin="00:31.818" end="00:32.062">le </span>
+                <span begin="00:32.062" end="00:32.489">cil</span>
+            </p>
+            <p begin="00:32.495" end="00:35.696" ttm:agent="v1" itunes:key="L9">
+                <span begin="00:32.495" end="00:32.871">J'etais </span>
+                <span begin="00:32.871" end="00:33.377">pret </span>
+                <span begin="00:33.377" end="00:33.579">a </span>
+                <span begin="00:33.579" end="00:34.067">graver </span>
+                <span begin="00:34.067" end="00:34.307">ton </span>
+                <span begin="00:34.307" end="00:35.127">image </span>
+                <span begin="00:35.127" end="00:35.341">a </span>
+                <span begin="00:35.341" end="00:35.696">l'encre</span>
+            </p>
+            <p begin="00:35.802" end="00:37.284" ttm:agent="v1" itunes:key="L10">
+                <span begin="00:35.802" end="00:36.027">Noire </span>
+                <span begin="00:36.027" end="00:36.321">sous </span>
+                <span begin="00:36.321" end="00:36.525">mes </span>
+                <span begin="00:36.525" end="00:37.284">paupieres</span>
+            </p>
+            <p begin="00:37.538" end="00:41.497" ttm:agent="v1" itunes:key="L11">
+                <span begin="00:37.538" end="00:38.024">Afin </span>
+                <span begin="00:38.024" end="00:38.273">de </span>
+                <span begin="00:38.273" end="00:38.412">te </span>
+                <span begin="00:38.412" end="00:38.901">voir </span>
+                <span begin="00:38.901" end="00:39.275">meme </span>
+                <span begin="00:39.275" end="00:39.539">dans </span>
+                <span begin="00:39.539" end="00:39.813">un </span>
+                <span begin="00:39.813" end="00:40.303">sommeil </span>
+                <span begin="00:40.303" end="00:41.497">eternel</span>
+            </p>
+            <p begin="00:42.987" end="00:45.274" ttm:agent="v1" itunes:key="L12">
+                <span begin="00:42.987" end="00:43.247">Meme </span>
+                <span begin="00:43.247" end="00:43.521">dans </span>
+                <span begin="00:43.521" end="00:43.795">un </span>
+                <span begin="00:43.795" end="00:44.309">sommeil </span>
+                <span begin="00:44.309" end="00:45.274">eternel</span>
+            </p>
+            <p begin="00:46.985" end="00:49.109" ttm:agent="v1" itunes:key="L13">
+                <span begin="00:46.985" end="00:47.259">Meme </span>
+                <span begin="00:47.259" end="00:47.499">dans </span>
+                <span begin="00:47.499" end="00:47.733">un </span>
+                <span begin="00:47.733" end="00:48.122">sommeil </span>
+                <span begin="00:48.122" end="00:49.109">eternel</span>
+            </p>
+            <p begin="00:49.479" end="00:53.486" ttm:agent="v1" itunes:key="L14">
+                <span begin="00:49.479" end="00:50.231">J'etais </span>
+                <span begin="00:50.231" end="00:50.500">cense </span>
+                <span begin="00:50.500" end="00:51.310">t'aimer </span>
+                <span begin="00:51.310" end="00:51.542">mais </span>
+                <span begin="00:51.542" end="00:51.731">j'ai </span>
+                <span begin="00:51.731" end="00:52.226">vu </span>
+                <span begin="00:52.226" end="00:53.486">l'averse</span>
+            </p>
+            <p begin="00:53.493" end="00:57.263" ttm:agent="v1" itunes:key="L15">
+                <span begin="00:53.493" end="00:53.696">J'ai </span>
+                <span begin="00:53.696" end="00:54.471">cligne </span>
+                <span begin="00:54.471" end="00:54.755">des </span>
+                <span begin="00:54.755" end="00:55.029">yeux </span>
+                <span begin="00:55.029" end="00:55.244">tu </span>
+                <span begin="00:55.244" end="00:55.548">n'etais </span>
+                <span begin="00:55.548" end="00:56.342">plus </span>
+                <span begin="00:56.342" end="00:56.556">la </span>
+                <span begin="00:56.556" end="00:57.263">meme</span>
+            </p>
+            <p begin="00:57.338" end="00:58.675" ttm:agent="v1" itunes:key="L16">
+                <span begin="00:57.338" end="00:57.499">Est </span>
+                <span begin="00:57.499" end="00:57.708">ce </span>
+                <span begin="00:57.708" end="00:57.872">que </span>
+                <span begin="00:57.872" end="00:58.271">je </span>
+                <span begin="00:58.271" end="00:58.675">t'aime</span>
+            </p>
+            <p begin="00:58.985" end="01:00.821" ttm:agent="v1" itunes:key="L17">
+                <span begin="00:58.985" end="00:59.209">J'sais </span>
+                <span begin="00:59.209" end="00:59.553">pas </span>
+                <span begin="00:59.553" end="00:59.757">si </span>
+                <span begin="00:59.757" end="01:00.116">je </span>
+                <span begin="01:00.116" end="01:00.821">t'aime</span>
+            </p>
+            <p begin="01:01.266" end="01:02.662" ttm:agent="v1" itunes:key="L18">
+                <span begin="01:01.266" end="01:01.466">Est </span>
+                <span begin="01:01.466" end="01:01.645">ce </span>
+                <span begin="01:01.645" end="01:01.834">que </span>
+                <span begin="01:01.834" end="01:02.308">tu </span>
+                <span begin="01:02.308" end="01:02.662">m'aimes</span>
+            </p>
+            <p begin="01:02.958" end="01:04.790" ttm:agent="v1" itunes:key="L19">
+                <span begin="01:02.958" end="01:03.157">J'sais </span>
+                <span begin="01:03.157" end="01:03.361">pas </span>
+                <span begin="01:03.361" end="01:03.625">si </span>
+                <span begin="01:03.625" end="01:04.281">je </span>
+                <span begin="01:04.281" end="01:04.790">t'aime</span>
+            </p>
+            <p begin="01:05.505" end="01:08.451" ttm:agent="v1" itunes:key="L20">
+                <span begin="01:05.505" end="01:05.840">J'etais </span>
+                <span begin="01:05.840" end="01:06.385">cense </span>
+                <span begin="01:06.385" end="01:07.250">t'aimer </span>
+                <span begin="01:07.250" end="01:07.644">mais </span>
+                <span begin="01:07.644" end="01:07.843">j'ai </span>
+                <span begin="01:07.843" end="01:08.303">vu </span>
+                <span begin="01:08.303" end="01:08.451">l'averse</span>
+            </p>
+            <p begin="01:09.574" end="01:13.223" ttm:agent="v1" itunes:key="L21">
+                <span begin="01:09.574" end="01:09.801">J'ai </span>
+                <span begin="01:09.801" end="01:10.265">cligne </span>
+                <span begin="01:10.265" end="01:10.515">des </span>
+                <span begin="01:10.515" end="01:10.784">yeux </span>
+                <span begin="01:10.784" end="01:11.038">tu </span>
+                <span begin="01:11.038" end="01:11.257">n'etais </span>
+                <span begin="01:11.257" end="01:12.207">plus </span>
+                <span begin="01:12.207" end="01:12.746">la </span>
+                <span begin="01:12.746" end="01:13.223">meme</span>
+            </p>
+            <p begin="01:13.232" end="01:14.956" ttm:agent="v1" itunes:key="L22">
+                <span begin="01:13.232" end="01:13.363">Est </span>
+                <span begin="01:13.363" end="01:13.612">ce </span>
+                <span begin="01:13.612" end="01:13.822">que </span>
+                <span begin="01:13.822" end="01:14.256">je </span>
+                <span begin="01:14.256" end="01:14.956">t'aime</span>
+            </p>
+            <p begin="01:14.961" end="01:16.952" ttm:agent="v1" itunes:key="L23">
+                <span begin="01:14.961" end="01:15.165">J'sais </span>
+                <span begin="01:15.165" end="01:15.464">pas </span>
+                <span begin="01:15.464" end="01:15.756">si </span>
+                <span begin="01:15.756" end="01:16.217">je </span>
+                <span begin="01:16.217" end="01:16.952">t'aime</span>
+            </p>
+            <p begin="01:17.273" end="01:18.896" ttm:agent="v1" itunes:key="L24">
+                <span begin="01:17.273" end="01:17.399">Est </span>
+                <span begin="01:17.399" end="01:17.618">ce </span>
+                <span begin="01:17.618" end="01:17.812">que </span>
+                <span begin="01:17.812" end="01:18.290">tu </span>
+                <span begin="01:18.290" end="01:18.896">m'aimes</span>
+            </p>
+            <p begin="01:19.096" end="01:20.840" ttm:agent="v1" itunes:key="L25">
+                <span begin="01:19.096" end="01:19.305">J'sais </span>
+                <span begin="01:19.305" end="01:19.494">pas </span>
+                <span begin="01:19.494" end="01:19.658">si </span>
+                <span begin="01:19.658" end="01:20.291">je </span>
+                <span begin="01:20.291" end="01:20.840">t'aime</span>
+            </p>
+            <p begin="01:21.065" end="01:23.355" ttm:agent="v1" itunes:key="L26">
+                <span begin="01:21.065" end="01:21.341">Pour </span>
+                <span begin="01:21.341" end="01:21.731">t'eviter </span>
+                <span begin="01:21.731" end="01:22.020">de </span>
+                <span begin="01:22.020" end="01:22.957">souffrir </span>
+                <span begin="01:22.957" end="01:23.186">je </span>
+                <span begin="01:23.186" end="01:23.355">n'avais</span>
+            </p>
+            <p begin="01:23.361" end="01:25.032" ttm:agent="v1" itunes:key="L27">
+                <span begin="01:23.361" end="01:23.540">Plus </span>
+                <span begin="01:23.540" end="01:23.845">qu'a </span>
+                <span begin="01:23.845" end="01:24.054">te </span>
+                <span begin="01:24.054" end="01:24.263">dire </span>
+                <span begin="01:24.263" end="01:24.462">je </span>
+                <span begin="01:24.462" end="01:25.032">t'aime</span>
+            </p>
+            <p begin="01:25.038" end="01:27.433" ttm:agent="v1" itunes:key="L28">
+                <span begin="01:25.038" end="01:25.265">Ca </span>
+                <span begin="01:25.265" end="01:25.495">me </span>
+                <span begin="01:25.495" end="01:25.784">fait </span>
+                <span begin="01:25.784" end="01:25.948">mal </span>
+                <span begin="01:25.948" end="01:26.127">de </span>
+                <span begin="01:26.127" end="01:26.316">te </span>
+                <span begin="01:26.316" end="01:26.500">faire </span>
+                <span begin="01:26.500" end="01:27.090">mal </span>
+                <span begin="01:27.090" end="01:27.209">je </span>
+                <span begin="01:27.209" end="01:27.433">n'ai</span>
+            </p>
+            <p begin="01:27.443" end="01:28.983" ttm:agent="v1" itunes:key="L29">
+                <span begin="01:27.443" end="01:27.847">Jamais </span>
+                <span begin="01:27.847" end="01:28.082">autant </span>
+                <span begin="01:28.082" end="01:28.983">souffert</span>
+            </p>
+            <p begin="01:30.947" end="01:33.001" ttm:agent="v1" itunes:key="L30">
+                <span begin="01:30.947" end="01:31.152">Je </span>
+                <span begin="01:31.152" end="01:31.346">n'ai </span>
+                <span begin="01:31.346" end="01:31.510">jamais </span>
+                <span begin="01:31.510" end="01:31.799">autant </span>
+                <span begin="01:31.799" end="01:33.001">souffert</span>
+            </p>
+            <p begin="01:33.006" end="01:35.523" ttm:agent="v1" itunes:key="L31">
+                <span begin="01:33.006" end="01:33.200">Quand </span>
+                <span begin="01:33.200" end="01:33.384">je </span>
+                <span begin="01:33.384" end="01:33.569">t'ai </span>
+                <span begin="01:33.569" end="01:33.768">mis </span>
+                <span begin="01:33.768" end="01:33.962">la </span>
+                <span begin="01:33.962" end="01:34.121">bague </span>
+                <span begin="01:34.121" end="01:34.485">au </span>
+                <span begin="01:34.485" end="01:35.025">doigt </span>
+                <span begin="01:35.025" end="01:35.319">je </span>
+                <span begin="01:35.319" end="01:35.523">me</span>
+            </p>
+            <p begin="01:35.533" end="01:36.843" ttm:agent="v1" itunes:key="L32">
+                <span begin="01:35.533" end="01:35.743">Suis </span>
+                <span begin="01:35.743" end="01:36.077">passe </span>
+                <span begin="01:36.077" end="01:36.286">les </span>
+                <span begin="01:36.286" end="01:36.843">bracelets</span>
+            </p>
+            <p begin="01:37.052" end="01:41.065" ttm:agent="v1" itunes:key="L33">
+                <span begin="01:37.052" end="01:37.436">Pendant </span>
+                <span begin="01:37.436" end="01:37.650">ce </span>
+                <span begin="01:37.650" end="01:38.004">temps </span>
+                <span begin="01:38.004" end="01:38.309">le </span>
+                <span begin="01:38.309" end="01:38.503">temps </span>
+                <span begin="01:38.503" end="01:38.982">passe </span>
+                <span begin="01:38.982" end="01:39.263">et </span>
+                <span begin="01:39.263" end="01:39.391">je </span>
+                <span begin="01:39.391" end="01:39.609">subis </span>
+                <span begin="01:39.609" end="01:39.794">tes </span>
+                <span begin="01:39.794" end="01:41.065">balivernes</span>
+            </p>
+            <p begin="01:42.957" end="01:44.313" ttm:agent="v1" itunes:key="L34">
+                <span begin="01:42.957" end="01:43.070">Et </span>
+                <span begin="01:43.070" end="01:43.285">je </span>
+                <span begin="01:43.285" end="01:43.434">subis </span>
+                <span begin="01:43.434" end="01:43.683">tes </span>
+                <span begin="01:43.683" end="01:44.313">balivernes</span>
+            </p>
+            <p begin="01:44.318" end="01:49.318" ttm:agent="v1" itunes:key="L35">
+                <span begin="01:44.318" end="01:44.528">J'etais </span>
+                <span begin="01:44.528" end="01:45.300">pret </span>
+                <span begin="01:45.300" end="01:45.594">a </span>
+                <span begin="01:45.594" end="01:46.133">graver </span>
+                <span begin="01:46.133" end="01:46.437">ton </span>
+                <span begin="01:46.437" end="01:47.102">image </span>
+                <span begin="01:47.102" end="01:47.309">a </span>
+                <span begin="01:47.309" end="01:47.735">l'encre </span>
+                <span begin="01:47.735" end="01:48.050">noire </span>
+                <span begin="01:48.050" end="01:48.244">sous </span>
+                <span begin="01:48.244" end="01:48.558">mes </span>
+                <span begin="01:48.558" end="01:49.318">paupieres</span>
+            </p>
+            <p begin="01:49.595" end="01:53.292" ttm:agent="v1" itunes:key="L36">
+                <span begin="01:49.595" end="01:50.113">Afin </span>
+                <span begin="01:50.113" end="01:50.388">de </span>
+                <span begin="01:50.388" end="01:50.572">te </span>
+                <span begin="01:50.572" end="01:51.056">voir </span>
+                <span begin="01:51.056" end="01:51.240">meme </span>
+                <span begin="01:51.240" end="01:51.574">dans </span>
+                <span begin="01:51.574" end="01:51.813">un </span>
+                <span begin="01:51.813" end="01:52.302">sommeil </span>
+                <span begin="01:52.302" end="01:53.292">eternel</span>
+            </p>
+            <p begin="01:55.013" end="01:57.289" ttm:agent="v1" itunes:key="L37">
+                <span begin="01:55.013" end="01:55.237">Meme </span>
+                <span begin="01:55.237" end="01:55.481">dans </span>
+                <span begin="01:55.481" end="01:55.760">un </span>
+                <span begin="01:55.760" end="01:56.325">sommeil </span>
+                <span begin="01:56.325" end="01:57.289">eternel</span>
+            </p>
+            <p begin="01:59.016" end="02:01.062" ttm:agent="v1" itunes:key="L38">
+                <span begin="01:59.016" end="01:59.213">Meme </span>
+                <span begin="01:59.213" end="01:59.553">dans </span>
+                <span begin="01:59.553" end="01:59.792">un </span>
+                <span begin="01:59.792" end="02:00.371">sommeil </span>
+                <span begin="02:00.371" end="02:01.062">eternel</span>
+            </p>
+            <p begin="02:01.548" end="02:05.488" ttm:agent="v1" itunes:key="L39">
+                <span begin="02:01.548" end="02:01.999">J'etais </span>
+                <span begin="02:01.999" end="02:02.284">cense </span>
+                <span begin="02:02.284" end="02:03.228">t'aimer </span>
+                <span begin="02:03.228" end="02:03.448">mais </span>
+                <span begin="02:03.448" end="02:03.687">j'ai </span>
+                <span begin="02:03.687" end="02:04.291">vu </span>
+                <span begin="02:04.291" end="02:05.488">l'averse</span>
+            </p>
+            <p begin="02:05.760" end="02:09.245" ttm:agent="v1" itunes:key="L40">
+                <span begin="02:05.760" end="02:05.974">J'ai </span>
+                <span begin="02:05.974" end="02:06.198">cligne </span>
+                <span begin="02:06.198" end="02:06.482">des </span>
+                <span begin="02:06.482" end="02:06.731">yeux </span>
+                <span begin="02:06.731" end="02:07.150">tu </span>
+                <span begin="02:07.150" end="02:07.694">n'etais </span>
+                <span begin="02:07.694" end="02:08.264">plus </span>
+                <span begin="02:08.264" end="02:08.743">la </span>
+                <span begin="02:08.743" end="02:09.245">meme</span>
+            </p>
+            <p begin="02:09.254" end="02:11.005" ttm:agent="v1" itunes:key="L41">
+                <span begin="02:09.254" end="02:09.483">Est </span>
+                <span begin="02:09.483" end="02:09.722">ce </span>
+                <span begin="02:09.722" end="02:09.906">que </span>
+                <span begin="02:09.906" end="02:10.340">je </span>
+                <span begin="02:10.340" end="02:11.005">t'aime</span>
+            </p>
+            <p begin="02:11.010" end="02:12.877" ttm:agent="v1" itunes:key="L42">
+                <span begin="02:11.010" end="02:11.224">J'sais </span>
+                <span begin="02:11.224" end="02:11.498">pas </span>
+                <span begin="02:11.498" end="02:11.763">si </span>
+                <span begin="02:11.763" end="02:12.287">je </span>
+                <span begin="02:12.287" end="02:12.877">t'aime</span>
+            </p>
+            <p begin="02:13.312" end="02:14.824" ttm:agent="v1" itunes:key="L43">
+                <span begin="02:13.312" end="02:13.412">Est </span>
+                <span begin="02:13.412" end="02:13.616">ce </span>
+                <span begin="02:13.616" end="02:13.820">que </span>
+                <span begin="02:13.820" end="02:14.260">tu </span>
+                <span begin="02:14.260" end="02:14.824">m'aimes</span>
+            </p>
+            <p begin="02:15.044" end="02:16.891" ttm:agent="v1" itunes:key="L44">
+                <span begin="02:15.044" end="02:15.259">J'sais </span>
+                <span begin="02:15.259" end="02:15.458">pas </span>
+                <span begin="02:15.458" end="02:15.719">si </span>
+                <span begin="02:15.719" end="02:16.253">je </span>
+                <span begin="02:16.253" end="02:16.891">t'aime</span>
+            </p>
+            <p begin="02:17.491" end="02:21.321" ttm:agent="v1" itunes:key="L45">
+                <span begin="02:17.491" end="02:17.965">J'etais </span>
+                <span begin="02:17.965" end="02:18.279">cense </span>
+                <span begin="02:18.279" end="02:19.229">t'aimer </span>
+                <span begin="02:19.229" end="02:19.593">mais </span>
+                <span begin="02:19.593" end="02:19.808">j'ai </span>
+                <span begin="02:19.808" end="02:20.251">vu </span>
+                <span begin="02:20.251" end="02:21.321">l'averse</span>
+            </p>
+            <p begin="02:21.543" end="02:25.245" ttm:agent="v1" itunes:key="L46">
+                <span begin="02:21.543" end="02:21.763">J'ai </span>
+                <span begin="02:21.763" end="02:21.992">cligne </span>
+                <span begin="02:21.992" end="02:22.426">des </span>
+                <span begin="02:22.426" end="02:22.790">yeux </span>
+                <span begin="02:22.790" end="02:23.095">tu </span>
+                <span begin="02:23.095" end="02:23.309">n'etais </span>
+                <span begin="02:23.309" end="02:24.299">plus </span>
+                <span begin="02:24.299" end="02:24.788">la </span>
+                <span begin="02:24.788" end="02:25.245">meme</span>
+            </p>
+            <p begin="02:25.254" end="02:26.960" ttm:agent="v1" itunes:key="L47">
+                <span begin="02:25.254" end="02:25.483">Est </span>
+                <span begin="02:25.483" end="02:25.673">ce </span>
+                <span begin="02:25.673" end="02:25.851">que </span>
+                <span begin="02:25.851" end="02:26.371">je </span>
+                <span begin="02:26.371" end="02:26.960">t'aime</span>
+            </p>
+            <p begin="02:26.965" end="02:28.775" ttm:agent="v1" itunes:key="L48">
+                <span begin="02:26.965" end="02:27.189">J'sais </span>
+                <span begin="02:27.189" end="02:27.433">pas </span>
+                <span begin="02:27.433" end="02:27.648">si </span>
+                <span begin="02:27.648" end="02:28.337">je </span>
+                <span begin="02:28.337" end="02:28.775">t'aime</span>
+            </p>
+            <p begin="02:29.292" end="02:30.863" ttm:agent="v1" itunes:key="L49">
+                <span begin="02:29.292" end="02:29.516">Est </span>
+                <span begin="02:29.516" end="02:29.790">ce </span>
+                <span begin="02:29.790" end="02:30.015">que </span>
+                <span begin="02:30.015" end="02:30.399">tu </span>
+                <span begin="02:30.399" end="02:30.863">m'aimes</span>
+            </p>
+            <p begin="02:31.123" end="02:32.909" ttm:agent="v1" itunes:key="L50">
+                <span begin="02:31.123" end="02:31.317">J'sais </span>
+                <span begin="02:31.317" end="02:31.552">pas </span>
+                <span begin="02:31.552" end="02:31.821">si </span>
+                <span begin="02:31.821" end="02:32.325">je </span>
+                <span begin="02:32.325" end="02:32.909">t'aime</span>
+            </p>
+            <p begin="02:38.939" end="02:40.793" ttm:agent="v1" itunes:key="L51">
+                <span begin="02:38.939" end="02:39.143">Je </span>
+                <span begin="02:39.143" end="02:39.327">ne </span>
+                <span begin="02:39.327" end="02:39.496">sais </span>
+                <span begin="02:39.496" end="02:39.675">pas </span>
+                <span begin="02:39.675" end="02:39.949">si </span>
+                <span begin="02:39.949" end="02:40.374">je </span>
+                <span begin="02:40.374" end="02:40.793">t'aime</span>
+            </p>
+            <p begin="02:46.940" end="02:48.218" ttm:agent="v1" itunes:key="L52">
+                <span begin="02:46.940" end="02:47.149">Je </span>
+                <span begin="02:47.149" end="02:47.328">ne </span>
+                <span begin="02:47.328" end="02:47.468">sais </span>
+                <span begin="02:47.468" end="02:47.662">pas </span>
+                <span begin="02:47.662" end="02:47.851">si </span>
+                <span begin="02:47.851" end="02:48.020">je </span>
+                <span begin="02:48.020" end="02:48.218">t'aime</span>
+            </p>
+            <p begin="02:48.225" end="02:49.680" ttm:agent="v1" itunes:key="L53">
+                <span begin="02:48.225" end="02:48.389">Je </span>
+                <span begin="02:48.389" end="02:48.553">m' </span>
+                <span begin="02:48.553" end="02:48.722">suis </span>
+                <span begin="02:48.722" end="02:48.887">fais </span>
+                <span begin="02:48.887" end="02:49.056">mal </span>
+                <span begin="02:49.056" end="02:49.270">en </span>
+                <span begin="02:49.270" end="02:49.680">m'envolant</span>
+            </p>
+            <p begin="02:49.758" end="02:52.087" ttm:agent="v1" itunes:key="L54">
+                <span begin="02:49.758" end="02:50.033">Je </span>
+                <span begin="02:50.033" end="02:50.476">n'avais </span>
+                <span begin="02:50.476" end="02:50.705">pas </span>
+                <span begin="02:50.705" end="02:50.879">vu </span>
+                <span begin="02:50.879" end="02:51.113">le </span>
+                <span begin="02:51.113" end="02:51.433">plafond </span>
+                <span begin="02:51.433" end="02:51.602">de </span>
+                <span begin="02:51.602" end="02:52.087">verre</span>
+            </p>
+            <p begin="02:52.095" end="02:56.517" ttm:agent="v1" itunes:key="L55">
+                <span begin="02:52.095" end="02:52.294">Tu </span>
+                <span begin="02:52.294" end="02:52.468">me </span>
+                <span begin="02:52.468" end="02:53.228">trouvais </span>
+                <span begin="02:53.228" end="02:53.928">ennuyeux </span>
+                <span begin="02:53.928" end="02:54.182">si </span>
+                <span begin="02:54.182" end="02:54.511">je </span>
+                <span begin="02:54.511" end="02:55.031">t'aimais </span>
+                <span begin="02:55.031" end="02:55.325">a </span>
+                <span begin="02:55.325" end="02:55.549">ta </span>
+                <span begin="02:55.549" end="02:56.517">maniere</span>
+            </p>
+            <p begin="02:58.043" end="03:00.444" ttm:agent="v1" itunes:key="L56">
+                <span begin="02:58.043" end="02:58.262">Si </span>
+                <span begin="02:58.262" end="02:58.462">je </span>
+                <span begin="02:58.462" end="02:59.161">t'aimais </span>
+                <span begin="02:59.161" end="02:59.371">a </span>
+                <span begin="02:59.371" end="02:59.554">ta </span>
+                <span begin="02:59.554" end="03:00.444">maniere</span>
+            </p>
+            <p begin="03:01.976" end="03:04.537" ttm:agent="v1" itunes:key="L57">
+                <span begin="03:01.976" end="03:02.170">Si </span>
+                <span begin="03:02.170" end="03:02.370">je </span>
+                <span begin="03:02.370" end="03:03.169">t'aimais </span>
+                <span begin="03:03.169" end="03:03.398">a </span>
+                <span begin="03:03.398" end="03:03.668">ta </span>
+                <span begin="03:03.668" end="03:04.537">maniere</span>
+            </p>
+            <p begin="03:05.494" end="03:09.389" ttm:agent="v1" itunes:key="L58">
+                <span begin="03:05.494" end="03:06.118">J'etais </span>
+                <span begin="03:06.118" end="03:06.712">cense </span>
+                <span begin="03:06.712" end="03:07.252">t'aimer </span>
+                <span begin="03:07.252" end="03:07.534">mais </span>
+                <span begin="03:07.534" end="03:07.730">j'ai </span>
+                <span begin="03:07.730" end="03:08.224">vu </span>
+                <span begin="03:08.224" end="03:09.389">l'averse</span>
+            </p>
+            <p begin="03:09.606" end="03:13.315" ttm:agent="v1" itunes:key="L59">
+                <span begin="03:09.606" end="03:09.825">J'ai </span>
+                <span begin="03:09.825" end="03:10.140">cligne </span>
+                <span begin="03:10.140" end="03:10.459">des </span>
+                <span begin="03:10.459" end="03:10.774">yeux </span>
+                <span begin="03:10.774" end="03:11.067">tu </span>
+                <span begin="03:11.067" end="03:11.522">n'etais </span>
+                <span begin="03:11.522" end="03:12.261">plus </span>
+                <span begin="03:12.261" end="03:12.791">la </span>
+                <span begin="03:12.791" end="03:13.315">meme</span>
+            </p>
+            <p begin="03:13.358" end="03:14.854" ttm:agent="v1" itunes:key="L60">
+                <span begin="03:13.358" end="03:13.582">Est </span>
+                <span begin="03:13.582" end="03:13.786">ce </span>
+                <span begin="03:13.786" end="03:13.970">que </span>
+                <span begin="03:13.970" end="03:14.295">je </span>
+                <span begin="03:14.295" end="03:14.854">t'aime</span>
+            </p>
+            <p begin="03:15.074" end="03:16.800" ttm:agent="v1" itunes:key="L61">
+                <span begin="03:15.074" end="03:15.248">J'sais </span>
+                <span begin="03:15.248" end="03:15.562">pas </span>
+                <span begin="03:15.562" end="03:15.807">si </span>
+                <span begin="03:15.807" end="03:16.251">je </span>
+                <span begin="03:16.251" end="03:16.800">t'aime</span>
+            </p>
+            <p begin="03:17.246" end="03:18.722" ttm:agent="v1" itunes:key="L62">
+                <span begin="03:17.246" end="03:17.475">Est </span>
+                <span begin="03:17.475" end="03:17.674">ce </span>
+                <span begin="03:17.674" end="03:17.853">que </span>
+                <span begin="03:17.853" end="03:18.262">tu </span>
+                <span begin="03:18.262" end="03:18.722">m'aimes</span>
+            </p>
+            <p begin="03:18.977" end="03:20.845" ttm:agent="v1" itunes:key="L63">
+                <span begin="03:18.977" end="03:19.196">J'sais </span>
+                <span begin="03:19.196" end="03:19.576">pas </span>
+                <span begin="03:19.576" end="03:19.795">si </span>
+                <span begin="03:19.795" end="03:20.259">je </span>
+                <span begin="03:20.259" end="03:20.845">t'aime</span>
+            </p>
+            <p begin="03:21.500" end="03:25.309" ttm:agent="v1" itunes:key="L64">
+                <span begin="03:21.500" end="03:21.724">J'etais </span>
+                <span begin="03:21.724" end="03:22.352">cense </span>
+                <span begin="03:22.352" end="03:23.206">t'aimer </span>
+                <span begin="03:23.206" end="03:23.605">mais </span>
+                <span begin="03:23.605" end="03:23.845">j'ai </span>
+                <span begin="03:23.845" end="03:24.319">vu </span>
+                <span begin="03:24.319" end="03:25.309">l'averse</span>
+            </p>
+            <p begin="03:25.601" end="03:29.310" ttm:agent="v1" itunes:key="L65">
+                <span begin="03:25.601" end="03:25.830">J'ai </span>
+                <span begin="03:25.830" end="03:26.059">cligne </span>
+                <span begin="03:26.059" end="03:26.599">des </span>
+                <span begin="03:26.599" end="03:26.798">yeux </span>
+                <span begin="03:26.798" end="03:27.077">tu </span>
+                <span begin="03:27.077" end="03:27.311">n'etais </span>
+                <span begin="03:27.311" end="03:28.246">plus </span>
+                <span begin="03:28.246" end="03:28.821">la </span>
+                <span begin="03:28.821" end="03:29.310">meme</span>
+            </p>
+            <p begin="03:29.319" end="03:30.840" ttm:agent="v1" itunes:key="L66">
+                <span begin="03:29.319" end="03:29.508">Est </span>
+                <span begin="03:29.508" end="03:29.682">ce </span>
+                <span begin="03:29.682" end="03:29.861">que </span>
+                <span begin="03:29.861" end="03:30.245">je </span>
+                <span begin="03:30.245" end="03:30.840">t'aime</span>
+            </p>
+            <p begin="03:31.030" end="03:32.797" ttm:agent="v1" itunes:key="L67">
+                <span begin="03:31.030" end="03:31.214">J'sais </span>
+                <span begin="03:31.214" end="03:31.398">pas </span>
+                <span begin="03:31.398" end="03:31.603">si </span>
+                <span begin="03:31.603" end="03:32.262">je </span>
+                <span begin="03:32.262" end="03:32.797">t'aime</span>
+            </p>
+            <p begin="03:33.257" end="03:34.823" ttm:agent="v1" itunes:key="L68">
+                <span begin="03:33.257" end="03:33.476">Est </span>
+                <span begin="03:33.476" end="03:33.660">ce </span>
+                <span begin="03:33.660" end="03:33.844">que </span>
+                <span begin="03:33.844" end="03:34.269">tu </span>
+                <span begin="03:34.269" end="03:34.823">m'aimes</span>
+            </p>
+            <p begin="03:35.063" end="03:36.910" ttm:agent="v1" itunes:key="L69">
+                <span begin="03:35.063" end="03:35.272">J'sais </span>
+                <span begin="03:35.272" end="03:35.472">pas </span>
+                <span begin="03:35.472" end="03:35.746">si </span>
+                <span begin="03:35.746" end="03:36.225">je </span>
+                <span begin="03:36.225" end="03:36.910">t'aime</span>
+            </p>
+            <p begin="03:43.040" end="03:44.825" ttm:agent="v1" itunes:key="L70">
+                <span begin="03:43.040" end="03:43.223">J'sais </span>
+                <span begin="03:43.223" end="03:43.417">pas </span>
+                <span begin="03:43.417" end="03:43.817">si </span>
+                <span begin="03:43.817" end="03:44.261">je </span>
+                <span begin="03:44.261" end="03:44.825">t'aime</span>
+            </p>
+            <p begin="03:50.980" end="03:52.806" ttm:agent="v1" itunes:key="L71">
+                <span begin="03:50.980" end="03:51.170">J'sais </span>
+                <span begin="03:51.170" end="03:51.355">pas </span>
+                <span begin="03:51.355" end="03:51.581">si </span>
+                <span begin="03:51.581" end="03:52.236">je </span>
+                <span begin="03:52.236" end="03:52.806">t'aime</span>
+            </p>
+        </div>
+    </body>
+</tt>

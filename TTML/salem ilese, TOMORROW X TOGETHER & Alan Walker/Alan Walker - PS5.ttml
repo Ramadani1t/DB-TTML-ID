@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?><tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+    <head>
+        <metadata>
+            <ttm:agent type="salem ilese" xml:id="v1"/>
+            <ttm:agent type="txt" xml:id="v2"/>
+        </metadata>
+    </head>
+    <body dur="02:30.447">
+        <div begin="00:02.070" end="02:30.447">
+            <p begin="00:02.277" end="00:04.050" ttm:agent="v1" itunes:key="L2">
+                <span begin="00:02.277" end="00:04.050">Woah</span>
+            </p>
+            <p begin="00:06.315" end="00:10.401" ttm:agent="v1" itunes:key="L3">
+                <span begin="00:06.315" end="00:06.481">Eyes </span>
+                <span begin="00:06.481" end="00:06.914">up </span>
+                <span begin="00:07.681" end="00:07.898">you've </span>
+                <span begin="00:07.898" end="00:08.282">been </span>
+                <span begin="00:08.282" end="00:09.138">gone </span>
+                <span begin="00:09.306" end="00:09.457">for </span>
+                <span begin="00:09.457" end="00:09.609">a </span>
+                <span begin="00:09.609" end="00:10.401">Fortnight</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Awas, kamu sudah pergi selama dua minggu</span>
+            </p>
+            <p begin="00:11.633" end="00:15.946" ttm:agent="v1" itunes:key="L4">
+                <span begin="00:11.633" end="00:11.938">My </span>
+                <span begin="00:11.938" end="00:12.460">love </span>
+                <span begin="00:13.169" end="00:13.377">are </span>
+                <span begin="00:13.377" end="00:13.745">you </span>
+                <span begin="00:13.745" end="00:14.377">stuck </span>
+                <span begin="00:14.657" end="00:14.827">in </span>
+                <span begin="00:14.827" end="00:15.018">a </span>
+                <span begin="00:15.018" end="00:15.346">fake </span>
+                <span begin="00:15.346" end="00:15.946">life</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Cintaku, apakah kamu terjebak dalam kehidupan palsu?</span>
+            </p>
+            <p begin="00:17.069" end="00:21.974" ttm:agent="v1" itunes:key="L5">
+                <span begin="00:17.069" end="00:17.401">Can't </span>
+                <span begin="00:17.401" end="00:17.881">win </span>
+                <span begin="00:18.585" end="00:18.873">if </span>
+                <span begin="00:18.873" end="00:19.204">the </span>
+                <span begin="00:19.204" end="00:20.139">prize </span>
+                <span begin="00:20.139" end="00:20.322">is </span>
+                <span begin="00:20.322" end="00:20.518">to </span>
+                <span begin="00:20.518" end="00:20.819">waste </span>
+                <span begin="00:20.819" end="00:21.121">your </span>
+                <span begin="00:21.121" end="00:21.974">time</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Tidak bisa menang jika hadiahnya adalah waktu yang terbuang</span>
+            </p>
+            <p begin="00:22.889" end="00:25.953" ttm:agent="v1" itunes:key="L6">
+                <span begin="00:22.889" end="00:23.075">Now </span>
+                <span begin="00:23.075" end="00:23.274">it's </span>
+                <span begin="00:23.274" end="00:23.865">wasting </span>
+                <span begin="00:23.865" end="00:25.953">mine</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Sekarang itu membuang waktuku</span>
+            </p>
+            <p begin="00:26.521" end="00:28.506" ttm:agent="v1" itunes:key="L7">
+                <span begin="00:26.521" end="00:26.700">And </span>
+                <span begin="00:26.700" end="00:26.706">I </span>
+                <span begin="00:26.706" end="00:26.866">know </span>
+                <span begin="00:26.866" end="00:27.019">that </span>
+                <span begin="00:27.019" end="00:27.274">we're </span>
+                <span begin="00:27.274" end="00:27.594">close </span>
+                <span begin="00:27.594" end="00:27.866">but </span>
+                <span begin="00:27.866" end="00:28.002">I'm </span>
+                <span begin="00:28.002" end="00:28.506">lonely</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Dan aku tahu kita dekat tapi aku kesepian</span>
+            </p>
+            <p begin="00:28.682" end="00:31.394" ttm:agent="v1" itunes:key="L8">
+                <span begin="00:28.682" end="00:28.906">Make </span>
+                <span begin="00:28.906" end="00:29.202">me </span>
+                <span begin="00:29.202" end="00:29.333">your </span>
+                <span begin="00:29.333" end="00:29.995">only </span>
+                <span begin="00:29.995" end="00:30.274">won't </span>
+                <span begin="00:30.274" end="00:30.514">win </span>
+                <span begin="00:30.514" end="00:30.689">a </span>
+                <span begin="00:30.689" end="00:31.394">trophy</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Jadikan aku satu-satunya, kamu tidak akan memenangkan piala</span>
+            </p>
+            <p begin="00:31.603" end="00:34.091" ttm:agent="v1" itunes:key="L9">
+                <span begin="00:31.603" end="00:31.731">But </span>
+                <span begin="00:31.731" end="00:31.891">can </span>
+                <span begin="00:31.891" end="00:32.060">it </span>
+                <span begin="00:32.060" end="00:32.226">kiss </span>
+                <span begin="00:32.226" end="00:32.410">you </span>
+                <span begin="00:32.410" end="00:32.763">like </span>
+                <span begin="00:32.763" end="00:33.059">this </span>
+                <span begin="00:33.059" end="00:33.242">when </span>
+                <span begin="00:33.242" end="00:33.409">you </span>
+                <span begin="00:33.409" end="00:33.730">hold </span>
+                <span begin="00:33.730" end="00:34.091">me</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Tapi bisakah aku menciummu seperti ini saat kamu memegang Aku?</span>
+            </p>
+            <p begin="00:34.091" end="00:37.664" ttm:agent="v1" itunes:key="L10">
+                <span begin="00:34.091" end="00:34.586">Missing </span>
+                <span begin="00:34.586" end="00:34.766">it </span>
+                <span begin="00:34.766" end="00:35.452">low-key </span>
+                <span begin="00:35.452" end="00:35.763">I'll </span>
+                <span begin="00:35.763" end="00:36.099">say </span>
+                <span begin="00:36.099" end="00:36.344">it </span>
+                <span begin="00:36.344" end="00:37.664">slowly</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Merindukannya, aku akan mengatakannya perlahan</span>
+            </p>
+            <p begin="00:38.040" end="00:39.907" ttm:agent="v1" itunes:key="L11">
+                <span begin="00:38.040" end="00:38.200">It's </span>
+                <span begin="00:38.200" end="00:38.568">me </span>
+                <span begin="00:38.568" end="00:38.736">or </span>
+                <span begin="00:38.736" end="00:38.918">the </span>
+                <span begin="00:38.918" end="00:39.561">PS</span>
+                <span begin="00:39.561" end="00:39.907">5</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Ini aku atau PS5</span>
+            </p>
+            <p begin="00:40.201" end="00:42.636" ttm:agent="v1" itunes:key="L12">
+                <span begin="00:40.201" end="00:40.580">Tell </span>
+                <span begin="00:40.580" end="00:40.917">me </span>
+                <span begin="00:40.917" end="00:41.106">how </span>
+                <span begin="00:41.106" end="00:41.261">you </span>
+                <span begin="00:41.261" end="00:41.547">wanna </span>
+                <span begin="00:41.547" end="00:41.903">spend </span>
+                <span begin="00:41.903" end="00:42.251">your </span>
+                <span begin="00:42.251" end="00:42.636">night</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Katakan padaku bagaimana kamu ingin menghabiskan malammu</span>
+            </p>
+            <p begin="00:43.634" end="00:45.363" ttm:agent="v1" itunes:key="L13">
+                <span begin="00:43.634" end="00:43.986">Three's </span>
+                <span begin="00:43.986" end="00:44.310">feeling </span>
+                <span begin="00:44.310" end="00:44.643">way </span>
+                <span begin="00:44.643" end="00:44.994">too </span>
+                <span begin="00:44.994" end="00:45.363">tight</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Tiga perasaan terlalu ketat</span>
+            </p>
+            <p begin="00:46.019" end="00:49.148" ttm:agent="v1" itunes:key="L14">
+                <span begin="00:46.019" end="00:46.373">So </span>
+                <span begin="00:46.373" end="00:46.555">if </span>
+                <span begin="00:46.555" end="00:46.732">it's </span>
+                <span begin="00:46.732" end="00:46.934">not </span>
+                <span begin="00:46.934" end="00:47.384">me </span>
+                <span begin="00:47.384" end="00:47.579">then </span>
+                <span begin="00:47.579" end="00:47.748">I'm </span>
+                <span begin="00:47.748" end="00:48.116">probably </span>
+                <span begin="00:48.116" end="00:48.411">gonna </span>
+                <span begin="00:48.411" end="00:48.724">run </span>
+                <span begin="00:48.724" end="00:48.844">it </span>
+                <span begin="00:48.844" end="00:49.148">over</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Jadi jika bukan aku, maka aku mungkin akan menabraknya</span>
+            </p>
+            <p begin="00:49.148" end="00:50.829" ttm:agent="v1" itunes:key="L15">
+                <span begin="00:49.148" end="00:49.508">Me </span>
+                <span begin="00:49.508" end="00:49.671">or </span>
+                <span begin="00:49.671" end="00:49.828">the </span>
+                <span begin="00:49.828" end="00:50.459">PS</span>
+                <span begin="00:50.459" end="00:50.829">5</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Ini aku atau PS5</span>
+            </p>
+            <p begin="00:51.236" end="00:53.606" ttm:agent="v1" itunes:key="L16">
+                <span begin="00:51.236" end="00:51.396">Tell </span>
+                <span begin="00:51.396" end="00:51.819">me </span>
+                <span begin="00:51.819" end="00:52.109">which </span>
+                <span begin="00:52.109" end="00:52.237">of </span>
+                <span begin="00:52.237" end="00:52.380">us </span>
+                <span begin="00:52.380" end="00:52.540">is </span>
+                <span begin="00:52.540" end="00:52.820">more </span>
+                <span begin="00:52.820" end="00:53.204">your </span>
+                <span begin="00:53.204" end="00:53.606">type</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Katakan yang mana dari kami lebih tipe Anda</span>
+            </p>
+            <p begin="00:54.523" end="00:56.492" ttm:agent="v1" itunes:key="L17">
+                <span begin="00:54.523" end="00:54.892">Seems </span>
+                <span begin="00:54.892" end="00:55.084">like </span>
+                <span begin="00:55.084" end="00:55.251">you </span>
+                <span begin="00:55.251" end="00:55.580">can't </span>
+                <span begin="00:55.580" end="00:56.492">decide</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Sepertinya Anda tidak bisa memutuskan</span>
+            </p>
+            <p begin="00:56.971" end="01:00.061" ttm:agent="v1" itunes:key="L18">
+                <span begin="00:56.971" end="00:57.307">So </span>
+                <span begin="00:57.307" end="00:57.484">if </span>
+                <span begin="00:57.484" end="00:57.643">it's </span>
+                <span begin="00:57.643" end="00:57.903">not </span>
+                <span begin="00:57.903" end="00:58.302">me </span>
+                <span begin="00:58.302" end="00:58.573">then </span>
+                <span begin="00:58.573" end="00:58.725">I'm </span>
+                <span begin="00:58.725" end="00:58.997">probably </span>
+                <span begin="00:58.997" end="00:59.286">gonna </span>
+                <span begin="00:59.286" end="00:59.557">run </span>
+                <span begin="00:59.557" end="00:59.694">it </span>
+                <span begin="00:59.694" end="01:00.061">over</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Jadi jika itu bukan saya, maka saya mungkin akan menabraknya</span>
+            </p>
+            <p begin="01:09.397" end="01:10.258" ttm:agent="v1" itunes:key="L19">
+                <span begin="01:09.397" end="01:09.965">Oh-</span>
+                <span begin="01:09.965" end="01:10.258">oh</span>
+            </p>
+            <p begin="01:10.570" end="01:10.857" ttm:agent="v2" itunes:key="L20">
+                <span begin="01:10.570" end="01:10.857">Yeah</span>
+            </p>
+            <p begin="01:11.570" end="01:15.628" ttm:agent="v2" itunes:key="L22">
+                <span begin="01:11.570" end="01:11.842">My </span>
+                <span begin="01:11.842" end="01:12.668">love </span>
+                <span begin="01:13.083" end="01:13.402">know </span>
+                <span begin="01:13.402" end="01:13.698">I'm </span>
+                <span begin="01:13.698" end="01:14.425">in </span>
+                <span begin="01:14.688" end="01:14.844">for </span>
+                <span begin="01:14.844" end="01:14.995">the </span>
+                <span begin="01:14.995" end="01:15.280">long </span>
+                <span begin="01:15.280" end="01:15.628">ride</span>
+                <span ttm:role="x-bg">
+                <span begin="01:15.813" end="01:15.973">In </span>
+                <span begin="01:15.973" end="01:16.127">for </span>
+                <span begin="01:16.127" end="01:16.316">the </span>
+                <span begin="01:16.316" end="01:16.637">long </span>
+                <span begin="01:16.637" end="01:17.005">ride</span>
+                </span>
+                <span ttm:role="x-translation" xml:lang="IDN">Cintaku, ketahuilah aku dalam perjalanan panjang</span>
+            </p>
+            <p begin="01:17.158" end="01:21.132" ttm:agent="v2" itunes:key="L23">
+                <span begin="01:17.158" end="01:17.311">I'm </span>
+                <span begin="01:17.311" end="01:18.175">not </span>
+                <span begin="01:18.493" end="01:19.116">playing </span>
+                <span begin="01:19.116" end="01:19.966">games </span>
+                <span begin="01:19.966" end="01:20.133">of </span>
+                <span begin="01:20.133" end="01:20.342">the </span>
+                <span begin="01:20.342" end="01:20.701">wrong </span>
+                <span begin="01:20.701" end="01:21.132">kind</span>
+                <span ttm:role="x-bg">
+                <span begin="01:21.357" end="01:21.534">Of </span>
+                <span begin="01:21.534" end="01:21.749">the </span>
+                <span begin="01:21.749" end="01:22.051">wrong </span>
+                <span begin="01:22.051" end="01:22.312">kind</span>
+                </span>
+                <span ttm:role="x-translation" xml:lang="IDN">Aku tidak bermain game yang salah</span>
+            </p>
+            <p begin="01:22.517" end="01:27.590" ttm:agent="v2" itunes:key="L26">
+                <span begin="01:22.517" end="01:22.773">Could </span>
+                <span begin="01:22.773" end="01:23.635">be </span>
+                <span begin="01:24.021" end="01:24.565">keeping </span>
+                <span begin="01:24.565" end="01:25.669">secrets </span>
+                <span begin="01:25.669" end="01:25.887">and </span>
+                <span begin="01:25.887" end="01:26.469">telling </span>
+                <span begin="01:26.469" end="01:27.590">lies</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Bisa menyimpan rahasia dan berbohong</span>
+            </p>
+            <p begin="01:28.342" end="01:31.157" ttm:agent="v2" itunes:key="L27">
+                <span begin="01:28.342" end="01:28.502">But </span>
+                <span begin="01:28.502" end="01:28.654">I'm </span>
+                <span begin="01:28.654" end="01:28.967">just </span>
+                <span begin="01:28.967" end="01:31.157">online</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Tapi aku hanya online</span>
+            </p>
+            <p begin="01:31.652" end="01:34.117" ttm:agent="v1" itunes:key="L29">
+                <span begin="01:31.652" end="01:31.806">And </span>
+                <span begin="01:31.806" end="01:31.958">I </span>
+                <span begin="01:31.958" end="01:32.134">can </span>
+                <span begin="01:32.134" end="01:32.463">promise </span>
+                <span begin="01:32.463" end="01:32.774">you </span>
+                <span begin="01:32.774" end="01:33.078">I'll </span>
+                <span begin="01:33.078" end="01:33.422">never </span>
+                <span begin="01:33.422" end="01:33.768">play </span>
+                <span begin="01:33.768" end="01:34.117">ya</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Dan aku bisa berjanji padamu, aku akan tidak selalu bermain ya</span>
+            </p>
+            <p begin="01:34.117" end="01:36.917" ttm:agent="v1" itunes:key="L30">
+                <span begin="01:34.117" end="01:34.453">I'll </span>
+                <span begin="01:34.453" end="01:34.647">find </span>
+                <span begin="01:34.647" end="01:34.822">a </span>
+                <span begin="01:34.822" end="01:35.127">way </span>
+                <span begin="01:35.127" end="01:35.478">to </span>
+                <span begin="01:35.478" end="01:35.790">show </span>
+                <span begin="01:35.790" end="01:36.103">you </span>
+                <span begin="01:36.103" end="01:36.279">I'm </span>
+                <span begin="01:36.279" end="01:36.917">grateful</span>
+                <span ttm:role="x-translation" xml:lang="IDN">saya akan menemukan cara untuk menunjukkan kepada Anda saya bersyukur</span>
+            </p>
+            <p begin="01:37.221" end="01:39.458" ttm:agent="v1" itunes:key="L31">
+                <span begin="01:37.221" end="01:37.420">So </span>
+                <span begin="01:37.420" end="01:37.613">I'm </span>
+                <span begin="01:37.613" end="01:37.870">begging </span>
+                <span begin="01:37.870" end="01:38.230">ya </span>
+                <span begin="01:38.230" end="01:38.552">two </span>
+                <span begin="01:38.552" end="01:38.886">minutes </span>
+                <span begin="01:38.886" end="01:39.458">only</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Jadi saya mohon, hanya dua menit</span>
+            </p>
+            <p begin="01:39.654" end="01:42.900" ttm:agent="v1" itunes:key="L32">
+                <span begin="01:39.654" end="01:39.909">You'll </span>
+                <span begin="01:39.909" end="01:40.087">get </span>
+                <span begin="01:40.087" end="01:40.269">a </span>
+                <span begin="01:40.269" end="01:40.941">trophy </span>
+                <span begin="01:40.941" end="01:41.262">I'm </span>
+                <span begin="01:41.262" end="01:41.774">staying </span>
+                <span begin="01:41.774" end="01:42.900">faithful</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Anda akan mendapatkan piala, saya akan setia</span>
+            </p>
+            <p begin="01:43.452" end="01:45.455" ttm:agent="v2" itunes:key="L34">
+                <span begin="01:43.452" end="01:43.652">It's </span>
+                <span begin="01:43.652" end="01:43.982">me </span>
+                <span begin="01:43.982" end="01:44.132">and </span>
+                <span begin="01:44.132" end="01:44.323">the </span>
+                <span begin="01:44.323" end="01:45.063">PS</span>
+                <span begin="01:45.063" end="01:45.455">5</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Ini aku atau PS5</span>
+            </p>
+            <p begin="01:45.734" end="01:48.066" ttm:agent="v2" itunes:key="L35">
+                <span begin="01:45.734" end="01:46.038">Tell </span>
+                <span begin="01:46.038" end="01:46.365">me </span>
+                <span begin="01:46.365" end="01:46.558">why </span>
+                <span begin="01:46.558" end="01:46.734">you </span>
+                <span begin="01:46.734" end="01:46.990">makin' </span>
+                <span begin="01:46.990" end="01:47.365">me </span>
+                <span begin="01:47.365" end="01:48.066">decide</span>
+                <span ttm:role="x-bg">
+                <span begin="01:48.407" end="01:48.773">Yeah</span>
+                </span>
+                <span ttm:role="x-translation" xml:lang="IDN">Katakan mengapa Anda membuat saya memutuskan</span>
+            </p>
+            <p begin="01:49.270" end="01:50.847" ttm:agent="v1" itunes:key="L37">
+                <span begin="01:49.270" end="01:49.511">Please </span>
+                <span begin="01:49.511" end="01:49.694">don't </span>
+                <span begin="01:49.694" end="01:49.862">you </span>
+                <span begin="01:49.862" end="01:50.156">see </span>
+                <span begin="01:50.156" end="01:50.478">I'm </span>
+                <span begin="01:50.478" end="01:50.847">live</span>
+                <span ttm:role="x-bg">
+                <span begin="01:51.013" end="01:51.171">I'm </span>
+                <span begin="01:51.171" end="01:51.518">live</span>
+                </span>
+                <span ttm:role="x-translation" xml:lang="IDN">Tolong, tidakkah kamu melihat aku hidup?</span>
+            </p>
+            <p begin="01:51.719" end="01:54.535" ttm:agent="v1" itunes:key="L39">
+                <span begin="01:51.719" end="01:51.886">So </span>
+                <span begin="01:51.886" end="01:52.089">if </span>
+                <span begin="01:52.089" end="01:52.255">you </span>
+                <span begin="01:52.255" end="01:52.517">don't </span>
+                <span begin="01:52.517" end="01:52.821">leave </span>
+                <span begin="01:52.821" end="01:53.021">I </span>
+                <span begin="01:53.021" end="01:53.179">can </span>
+                <span begin="01:53.179" end="01:53.394">find </span>
+                <span begin="01:53.394" end="01:53.542">a </span>
+                <span begin="01:53.542" end="01:53.741">way </span>
+                <span begin="01:53.741" end="01:53.901">to </span>
+                <span begin="01:53.901" end="01:54.135">win </span>
+                <span begin="01:54.135" end="01:54.255">you </span>
+                <span begin="01:54.255" end="01:54.535">over</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Jadi jika Anda tidak pergi, saya dapat menemukan cara untuk memenangkanmu</span>
+            </p>
+            <p begin="01:54.535" end="01:56.262" ttm:agent="v2" itunes:key="L40">
+                <span begin="01:54.535" end="01:54.911">Me </span>
+                <span begin="01:54.911" end="01:55.078">and </span>
+                <span begin="01:55.078" end="01:55.254">the </span>
+                <span begin="01:55.254" end="01:55.879">PS</span>
+                <span begin="01:55.879" end="01:56.262">5</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Aku dan PS5</span>
+            </p>
+            <p begin="01:56.574" end="01:58.900" ttm:agent="v2" itunes:key="L41">
+                <span begin="01:56.574" end="01:56.895">Let's </span>
+                <span begin="01:56.895" end="01:57.239">you </span>
+                <span begin="01:57.239" end="01:57.542">move </span>
+                <span begin="01:57.542" end="01:57.678">it </span>
+                <span begin="01:57.678" end="01:57.838">I'ma </span>
+                <span begin="01:57.838" end="01:58.222">be </span>
+                <span begin="01:58.222" end="01:58.582">at </span>
+                <span begin="01:58.582" end="01:58.900">mine</span>
+                <span ttm:role="x-bg">
+                <span begin="01:58.900" end="01:59.290">Yeah</span>
+                </span>
+                <span ttm:role="x-translation" xml:lang="IDN">Mari kita pindahkan, saya berada di milik saya</span>
+            </p>
+            <p begin="01:59.850" end="02:01.714" ttm:agent="v1" itunes:key="L43">
+                <span begin="01:59.850" end="02:00.011">The </span>
+                <span begin="02:00.011" end="02:00.335">score's </span>
+                <span begin="02:00.335" end="02:00.633">never </span>
+                <span begin="02:00.633" end="02:00.990">been </span>
+                <span begin="02:00.990" end="02:01.322">this </span>
+                <span begin="02:01.322" end="02:01.714">high</span>
+                <span ttm:role="x-bg">
+                <span begin="02:01.714" end="02:02.041">So </span>
+                <span begin="02:02.041" end="02:02.419">high</span>
+                </span>
+                <span ttm:role="x-translation" xml:lang="IDN">Skor tidak pernah setinggi ini</span>
+            </p>
+            <p begin="02:02.618" end="02:05.547" ttm:agent="v1" itunes:key="L45">
+                <span begin="02:02.618" end="02:02.771">So </span>
+                <span begin="02:02.771" end="02:02.930">if </span>
+                <span begin="02:02.930" end="02:03.082">you </span>
+                <span begin="02:03.082" end="02:03.377">don't </span>
+                <span begin="02:03.377" end="02:03.726">leave </span>
+                <span begin="02:03.726" end="02:03.986">I </span>
+                <span begin="02:03.986" end="02:04.122">can </span>
+                <span begin="02:04.122" end="02:04.306">find </span>
+                <span begin="02:04.306" end="02:04.466">a </span>
+                <span begin="02:04.466" end="02:04.643">way </span>
+                <span begin="02:04.643" end="02:04.793">to </span>
+                <span begin="02:04.793" end="02:05.017">win </span>
+                <span begin="02:05.017" end="02:05.169">you </span>
+                <span begin="02:05.169" end="02:05.547">over</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Jadi jika Anda tidak pergi, saya dapat menemukan cara untuk memenangkanmu</span>
+            </p>
+            <p begin="02:16.388" end="02:19.533" ttm:agent="v2" itunes:key="L47">
+                <span begin="02:16.388" end="02:16.886">Me </span>
+                <span begin="02:16.886" end="02:17.356">or </span>
+                <span begin="02:17.356" end="02:17.702">the </span>
+                <span begin="02:17.702" end="02:19.118">PS</span>
+                <span begin="02:19.118" end="02:19.533">5</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Aku atau PS5</span>
+            </p>
+            <p begin="02:21.854" end="02:24.999" ttm:agent="v2" itunes:key="L48">
+                <span begin="02:21.854" end="02:22.230">Me </span>
+                <span begin="02:22.421" end="02:22.797">or </span>
+                <span begin="02:22.797" end="02:23.148">the </span>
+                <span begin="02:23.148" end="02:24.564">PS</span>
+                <span begin="02:24.564" end="02:24.999">5</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Aku atau PS5</span>
+            </p>
+            <p begin="02:27.052" end="02:30.447" ttm:agent="v2" itunes:key="L49">
+                <span begin="02:27.052" end="02:27.395">It's </span>
+                <span begin="02:27.395" end="02:27.805">me </span>
+                <span begin="02:27.805" end="02:28.230">or </span>
+                <span begin="02:28.230" end="02:28.597">the </span>
+                <span begin="02:28.597" end="02:30.046">PS</span>
+                <span begin="02:30.046" end="02:30.447">5</span>
+                <span ttm:role="x-translation" xml:lang="IDN">Aku atau PS5</span>
+            </p>
+        </div>
+    </body>
+</tt>

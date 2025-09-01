@@ -1,0 +1,509 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+  <head>
+    <metadata>
+      <ttm:agent type="person" xml:id="v1" />
+    </metadata>
+  </head>
+  <body dur="1:47.262">
+    <div begin="4.516" end="1:47.262">
+      <p begin="4.516" end="7.820" itunes:key="L1" ttm:agent="v1">
+        <span begin="4.516" end="4.678">Turn </span>
+        <span begin="4.678" end="4.827">you </span>
+        <span begin="4.827" end="4.973">to </span>
+        <span begin="4.973" end="5.148">a </span>
+        <span begin="5.148" end="5.790">dancer</span>
+      </p>
+      <p begin="7.820" end="9.415" itunes:key="L2" ttm:agent="v1">
+        <span begin="7.820" end="8.161">Yeah</span>
+      </p>
+      <p begin="9.415" end="10.548" itunes:key="L3" ttm:agent="v1">
+        <span begin="9.415" end="9.815">Internet </span>
+        <span begin="9.815" end="10.159">Money </span>
+        <span begin="10.159" end="10.503">bitch</span>
+      </p>
+      <p begin="10.548" end="12.962" itunes:key="L4" ttm:agent="v1">
+        <span begin="10.548" end="10.684">I </span>
+        <span begin="10.684" end="10.860">got </span>
+        <span begin="10.860" end="11.084">black </span>
+        <span begin="11.244" end="11.401">I </span>
+        <span begin="11.401" end="11.564">got </span>
+        <span begin="11.564" end="11.748">white </span>
+        <span begin="11.910" end="12.092">whatchu' </span>
+        <span begin="12.092" end="12.253">you </span>
+        <span begin="12.253" end="12.580">want</span>
+      </p>
+      <p begin="12.962" end="15.355" itunes:key="L5" ttm:agent="v1">
+        <span begin="12.962" end="13.137">Hop </span>
+        <span begin="13.137" end="13.347">outside </span>
+        <span begin="13.347" end="13.531">a </span>
+        <span begin="13.531" end="13.723">Ghost </span>
+        <span begin="13.723" end="13.899">and </span>
+        <span begin="13.899" end="14.066">hop </span>
+        <span begin="14.066" end="14.132">up </span>
+        <span begin="14.132" end="14.275">in </span>
+        <span begin="14.275" end="14.494">a </span>
+        <span begin="14.494" end="15.220">Phantom</span>
+      </p>
+      <p begin="15.355" end="17.982" itunes:key="L6" ttm:agent="v1">
+        <span begin="15.355" end="15.532">I </span>
+        <span begin="15.532" end="15.691">know </span>
+        <span begin="15.691" end="15.899">I'm </span>
+        <span begin="15.899" end="16.167">boutta </span>
+        <span begin="16.167" end="16.504">blow-</span>
+        <span begin="16.504" end="16.856">oh-</span>
+        <span begin="16.856" end="17.145">whoa </span>
+        <span begin="17.145" end="17.303">I </span>
+        <span begin="17.303" end="17.516">ain't </span>
+        <span begin="17.516" end="17.860">dumb</span>
+      </p>
+      <p begin="17.982" end="20.678" itunes:key="L7" ttm:agent="v1">
+        <span begin="17.982" end="18.157">They </span>
+        <span begin="18.157" end="18.331">try </span>
+        <span begin="18.331" end="18.518">to </span>
+        <span begin="18.518" end="18.741">take </span>
+        <span begin="18.741" end="18.926">my </span>
+        <span begin="18.926" end="19.195">flow </span>
+        <span begin="19.195" end="19.349">I </span>
+        <span begin="19.349" end="19.494">take </span>
+        <span begin="19.494" end="19.646">they </span>
+        <span begin="19.646" end="19.814">ass </span>
+        <span begin="19.814" end="19.990">for </span>
+        <span begin="19.990" end="20.582">ransom</span>
+      </p>
+      <p begin="20.678" end="22.010" itunes:key="L8" ttm:agent="v1">
+        <span begin="20.678" end="20.847">I </span>
+        <span begin="20.847" end="21.033">know </span>
+        <span begin="21.033" end="21.209">that </span>
+        <span begin="21.209" end="21.520">I'm </span>
+        <span begin="21.520" end="21.871">gone</span>
+      </p>
+      <p begin="22.010" end="24.461" itunes:key="L9" ttm:agent="v1">
+        <span begin="22.010" end="22.178">They </span>
+        <span begin="22.178" end="22.346">see </span>
+        <span begin="22.346" end="22.522">me </span>
+        <span begin="22.522" end="22.832">blowin' </span>
+        <span begin="22.832" end="23.056">up </span>
+        <span begin="23.216" end="23.391">now </span>
+        <span begin="23.391" end="23.552">they </span>
+        <span begin="23.552" end="23.719">say </span>
+        <span begin="23.719" end="23.912">they </span>
+        <span begin="23.912" end="24.080">want </span>
+        <span begin="24.080" end="24.461">some</span>
+      </p>
+      <p begin="24.461" end="27.150" itunes:key="L10" ttm:agent="v1">
+        <span begin="24.461" end="24.639">I </span>
+        <span begin="24.639" end="24.837">got </span>
+        <span begin="24.837" end="25.102">two </span>
+        <span begin="25.102" end="25.454">twin </span>
+        <span begin="25.454" end="25.830">Glocks </span>
+        <span begin="25.830" end="26.049">turn </span>
+        <span begin="26.049" end="26.230">you </span>
+        <span begin="26.230" end="26.501">to </span>
+        <span begin="26.501" end="26.830">a </span>
+        <span begin="26.830" end="27.110">dancer</span>
+      </p>
+      <p begin="27.150" end="29.908" itunes:key="L11" ttm:agent="v1">
+        <span begin="27.150" end="27.311">I </span>
+        <span begin="27.311" end="27.543">see </span>
+        <span begin="27.543" end="27.783">two </span>
+        <span begin="27.783" end="28.126">twin </span>
+        <span begin="28.126" end="28.487">opps </span>
+        <span begin="28.487" end="28.671">leave </span>
+        <span begin="28.671" end="28.854">'em </span>
+        <span begin="28.854" end="29.150">on </span>
+        <span begin="29.150" end="29.234">the </span>
+        <span begin="29.234" end="29.683">banner</span>
+      </p>
+      <p begin="29.908" end="32.180" itunes:key="L12" ttm:agent="v1">
+        <span begin="29.908" end="30.066">And </span>
+        <span begin="30.066" end="30.226">I </span>
+        <span begin="30.226" end="30.394">got </span>
+        <span begin="30.394" end="30.560">two </span>
+        <span begin="30.560" end="30.888">thick </span>
+        <span begin="30.888" end="31.169">thots </span>
+        <span begin="31.169" end="31.424">wanna </span>
+        <span begin="31.424" end="31.640">lick </span>
+        <span begin="31.640" end="31.824">the </span>
+        <span begin="31.824" end="32.144">gang </span>
+        <span begin="32.144" end="32.180">yeah</span>
+      </p>
+      <p begin="32.180" end="34.220" itunes:key="L13" ttm:agent="v1">
+        <span begin="32.180" end="32.299">I </span>
+        <span begin="32.299" end="32.452">got </span>
+        <span begin="32.452" end="32.644">red </span>
+        <span begin="32.644" end="32.796">I </span>
+        <span begin="32.796" end="32.955">got </span>
+        <span begin="32.955" end="33.198">blue </span>
+        <span begin="33.198" end="33.406">whatchu' </span>
+        <span begin="33.406" end="33.907">want</span>
+      </p>
+      <p begin="34.220" end="36.795" itunes:key="L14" ttm:agent="v1">
+        <span begin="34.220" end="34.371">The </span>
+        <span begin="34.371" end="34.547">Chanel </span>
+        <span begin="34.547" end="34.740">or </span>
+        <span begin="34.740" end="35.375">Balenciaga </span>
+        <span begin="35.375" end="35.572">Louis </span>
+        <span begin="35.572" end="36.100">and </span>
+        <span begin="36.100" end="36.507">Vuitton</span>
+      </p>
+      <p begin="36.795" end="39.523" itunes:key="L15" ttm:agent="v1">
+        <span begin="36.795" end="36.971">She </span>
+        <span begin="36.971" end="37.148">know </span>
+        <span begin="37.148" end="37.299">I </span>
+        <span begin="37.299" end="37.470">got </span>
+        <span begin="37.470" end="37.627">the </span>
+        <span begin="37.627" end="37.828">Fendi </span>
+        <span begin="37.828" end="38.179">Prada </span>
+        <span begin="38.179" end="38.371">when </span>
+        <span begin="38.371" end="38.565">I </span>
+        <span begin="38.565" end="38.862">am </span>
+        <span begin="38.862" end="39.180">alone</span>
+      </p>
+      <p begin="39.523" end="42.199" itunes:key="L16" ttm:agent="v1">
+        <span begin="39.523" end="39.684">I </span>
+        <span begin="39.684" end="39.835">needed </span>
+        <span begin="39.835" end="39.992">me </span>
+        <span begin="39.992" end="40.222">a </span>
+        <span begin="40.222" end="40.459">die </span>
+        <span begin="40.459" end="40.628">or </span>
+        <span begin="40.628" end="40.863">ride </span>
+        <span begin="40.863" end="41.035">or </span>
+        <span begin="41.035" end="41.195">I </span>
+        <span begin="41.195" end="41.356">need </span>
+        <span begin="41.356" end="41.439">me </span>
+        <span begin="41.439" end="41.583">the </span>
+        <span begin="41.583" end="41.864">one</span>
+      </p>
+      <p begin="42.199" end="44.741" itunes:key="L17" ttm:agent="v1">
+        <span begin="42.199" end="42.368">I </span>
+        <span begin="42.368" end="42.528">started </span>
+        <span begin="42.528" end="42.675">from </span>
+        <span begin="42.675" end="42.839">the </span>
+        <span begin="42.839" end="43.223">bottom </span>
+        <span begin="43.223" end="43.391">you </span>
+        <span begin="43.391" end="43.567">could </span>
+        <span begin="43.567" end="43.761">see </span>
+        <span begin="43.761" end="43.951">the </span>
+        <span begin="43.951" end="44.223">way </span>
+        <span begin="44.223" end="44.269">I </span>
+        <span begin="44.269" end="44.517">stunt</span>
+      </p>
+      <p begin="44.741" end="47.459" itunes:key="L18" ttm:agent="v1">
+        <span begin="44.741" end="44.925">I </span>
+        <span begin="44.925" end="45.093">want </span>
+        <span begin="45.093" end="45.260">all </span>
+        <span begin="45.260" end="45.524">the </span>
+        <span begin="45.524" end="45.788">diamonds </span>
+        <span begin="45.788" end="45.978">I </span>
+        <span begin="45.978" end="46.141">want </span>
+        <span begin="46.141" end="46.316">that </span>
+        <span begin="46.316" end="46.508">shit </span>
+        <span begin="46.508" end="46.685">to </span>
+        <span begin="46.685" end="46.794">weigh </span>
+        <span begin="46.794" end="46.954">a </span>
+        <span begin="46.954" end="47.194">ton</span>
+      </p>
+      <p begin="47.459" end="50.226" itunes:key="L19" ttm:agent="v1">
+        <span begin="47.459" end="47.625">The </span>
+        <span begin="47.625" end="47.786">opps </span>
+        <span begin="47.786" end="47.954">they </span>
+        <span begin="47.954" end="48.154">tryna </span>
+        <span begin="48.154" end="48.345">law </span>
+        <span begin="48.345" end="48.530">me </span>
+        <span begin="48.530" end="48.745">'cause </span>
+        <span begin="48.745" end="48.938">they </span>
+        <span begin="48.938" end="49.146">hate </span>
+        <span begin="49.146" end="49.336">the </span>
+        <span begin="49.336" end="49.561">place </span>
+        <span begin="49.561" end="49.754">I'm </span>
+        <span begin="49.754" end="50.043">from</span>
+      </p>
+      <p begin="50.226" end="52.780" itunes:key="L20" ttm:agent="v1">
+        <span begin="50.226" end="50.396">But </span>
+        <span begin="50.396" end="50.555">them </span>
+        <span begin="50.555" end="50.714">niggas </span>
+        <span begin="50.714" end="50.883">don't </span>
+        <span begin="50.883" end="51.050">know </span>
+        <span begin="51.050" end="51.210">me </span>
+        <span begin="51.210" end="51.402">they </span>
+        <span begin="51.402" end="51.585">just </span>
+        <span begin="51.585" end="51.761">know </span>
+        <span begin="51.761" end="51.946">the </span>
+        <span begin="51.946" end="52.044">place </span>
+        <span begin="52.044" end="52.197">I'm </span>
+        <span begin="52.197" end="52.484">from</span>
+      </p>
+      <p begin="52.780" end="55.480" itunes:key="L21" ttm:agent="v1">
+        <span begin="52.780" end="52.949">I </span>
+        <span begin="52.949" end="53.116">got </span>
+        <span begin="53.116" end="53.284">lots </span>
+        <span begin="53.284" end="53.556">of </span>
+        <span begin="53.556" end="53.917">shawties </span>
+        <span begin="53.917" end="54.153">tryna </span>
+        <span begin="54.153" end="54.324">pull </span>
+        <span begin="54.324" end="54.495">up </span>
+        <span begin="54.495" end="54.683">to </span>
+        <span begin="54.683" end="54.876">my </span>
+        <span begin="54.876" end="55.172">place</span>
+      </p>
+      <p begin="55.480" end="58.039" itunes:key="L22" ttm:agent="v1">
+        <span begin="55.480" end="55.670">But </span>
+        <span begin="55.670" end="55.835">you </span>
+        <span begin="55.835" end="56.004">ain't </span>
+        <span begin="56.004" end="56.181">want </span>
+        <span begin="56.181" end="56.364">me </span>
+        <span begin="56.364" end="56.558">last </span>
+        <span begin="56.558" end="56.716">year </span>
+        <span begin="56.716" end="56.870">so </span>
+        <span begin="56.870" end="57.029">just </span>
+        <span begin="57.029" end="57.188">get </span>
+        <span begin="57.188" end="57.340">up </span>
+        <span begin="57.340" end="57.561">out </span>
+        <span begin="57.561" end="57.748">my </span>
+        <span begin="57.748" end="57.988">face</span>
+      </p>
+      <p begin="58.039" end="1:00.712" itunes:key="L23" ttm:agent="v1">
+        <span begin="58.039" end="58.247">They </span>
+        <span begin="58.247" end="58.399">all </span>
+        <span begin="58.399" end="58.568">up </span>
+        <span begin="58.568" end="58.728">in </span>
+        <span begin="58.728" end="58.904">my </span>
+        <span begin="58.904" end="59.152">inbox </span>
+        <span begin="59.152" end="59.344">so </span>
+        <span begin="59.344" end="59.512">I </span>
+        <span begin="59.512" end="59.691">know </span>
+        <span begin="59.691" end="59.849">they </span>
+        <span begin="59.849" end="1:00.003">want </span>
+        <span begin="1:00.003" end="1:00.161">a </span>
+        <span begin="1:00.161" end="1:00.520">taste</span>
+      </p>
+      <p begin="1:00.712" end="1:03.868" itunes:key="L24" ttm:agent="v1">
+        <span begin="1:00.712" end="1:00.888">I </span>
+        <span begin="1:00.888" end="1:01.039">know </span>
+        <span begin="1:01.039" end="1:01.208">they </span>
+        <span begin="1:01.208" end="1:01.381">want </span>
+        <span begin="1:01.381" end="1:01.597">my </span>
+        <span begin="1:01.597" end="1:01.943">downfall </span>
+        <span begin="1:01.943" end="1:02.146">oh </span>
+        <span begin="1:02.146" end="1:02.328">lil' </span>
+        <span begin="1:02.328" end="1:02.496">nigga </span>
+        <span begin="1:02.496" end="1:02.673">are </span>
+        <span begin="1:02.673" end="1:02.977">you </span>
+        <span begin="1:02.977" end="1:03.238">laced</span>
+      </p>
+      <p begin="1:03.868" end="1:06.397" itunes:key="L25" ttm:agent="v1">
+        <span begin="1:03.868" end="1:04.037">I </span>
+        <span begin="1:04.037" end="1:04.232">got </span>
+        <span begin="1:04.232" end="1:04.557">black </span>
+        <span begin="1:04.557" end="1:04.741">I </span>
+        <span begin="1:04.741" end="1:04.952">got </span>
+        <span begin="1:04.952" end="1:05.251">white </span>
+        <span begin="1:05.251" end="1:05.480">whatchu' </span>
+        <span begin="1:05.480" end="1:05.629">you </span>
+        <span begin="1:05.629" end="1:05.909">want</span>
+      </p>
+      <p begin="1:06.397" end="1:08.830" itunes:key="L26" ttm:agent="v1">
+        <span begin="1:06.397" end="1:06.548">Hop </span>
+        <span begin="1:06.548" end="1:06.719">outside </span>
+        <span begin="1:06.719" end="1:06.925">a </span>
+        <span begin="1:06.925" end="1:07.157">Ghost </span>
+        <span begin="1:07.157" end="1:07.340">and </span>
+        <span begin="1:07.340" end="1:07.493">hop </span>
+        <span begin="1:07.493" end="1:07.676">up </span>
+        <span begin="1:07.676" end="1:07.869">in </span>
+        <span begin="1:07.869" end="1:07.886">a </span>
+        <span begin="1:07.886" end="1:08.493">Phantom</span>
+      </p>
+      <p begin="1:08.830" end="1:11.413" itunes:key="L27" ttm:agent="v1">
+        <span begin="1:08.830" end="1:08.998">I </span>
+        <span begin="1:08.998" end="1:09.167">know </span>
+        <span begin="1:09.167" end="1:09.326">I'm </span>
+        <span begin="1:09.326" end="1:09.534">boutta </span>
+        <span begin="1:09.534" end="1:09.750">blow-</span>
+        <span begin="1:09.750" end="1:10.029">oh-</span>
+        <span begin="1:10.029" end="1:10.486">whoa </span>
+        <span begin="1:10.486" end="1:10.661">I </span>
+        <span begin="1:10.661" end="1:10.894">ain't </span>
+        <span begin="1:10.894" end="1:11.222">dumb</span>
+      </p>
+      <p begin="1:11.413" end="1:14.149" itunes:key="L28" ttm:agent="v1">
+        <span begin="1:11.413" end="1:11.580">They </span>
+        <span begin="1:11.580" end="1:11.749">try </span>
+        <span begin="1:11.749" end="1:11.917">to </span>
+        <span begin="1:11.917" end="1:12.076">take </span>
+        <span begin="1:12.076" end="1:12.266">my </span>
+        <span begin="1:12.266" end="1:12.543">flow </span>
+        <span begin="1:12.543" end="1:12.725">I </span>
+        <span begin="1:12.725" end="1:12.885">take </span>
+        <span begin="1:12.885" end="1:13.053">they </span>
+        <span begin="1:13.053" end="1:13.236">ass </span>
+        <span begin="1:13.236" end="1:13.550">for </span>
+        <span begin="1:13.550" end="1:13.869">ransom</span>
+      </p>
+      <p begin="1:14.149" end="1:15.348" itunes:key="L29" ttm:agent="v1">
+        <span begin="1:14.149" end="1:14.316">I </span>
+        <span begin="1:14.316" end="1:14.485">know </span>
+        <span begin="1:14.485" end="1:14.647">that </span>
+        <span begin="1:14.647" end="1:14.933">I'm </span>
+        <span begin="1:14.933" end="1:15.241">gone</span>
+      </p>
+      <p begin="1:15.348" end="1:17.880" itunes:key="L30" ttm:agent="v1">
+        <span begin="1:15.348" end="1:15.516">They </span>
+        <span begin="1:15.516" end="1:15.688">see </span>
+        <span begin="1:15.688" end="1:15.864">me </span>
+        <span begin="1:15.864" end="1:16.176">blowin' </span>
+        <span begin="1:16.176" end="1:16.569">up </span>
+        <span begin="1:16.704" end="1:16.864">now </span>
+        <span begin="1:16.864" end="1:17.016">they </span>
+        <span begin="1:17.016" end="1:17.188">say </span>
+        <span begin="1:17.188" end="1:17.376">they </span>
+        <span begin="1:17.376" end="1:17.673">want </span>
+        <span begin="1:17.673" end="1:17.880">some</span>
+      </p>
+      <p begin="1:17.880" end="1:20.568" itunes:key="L31" ttm:agent="v1">
+        <span begin="1:17.880" end="1:18.039">I </span>
+        <span begin="1:18.039" end="1:18.231">got </span>
+        <span begin="1:18.231" end="1:18.495">two </span>
+        <span begin="1:18.495" end="1:18.823">twin </span>
+        <span begin="1:18.823" end="1:19.167">Glocks </span>
+        <span begin="1:19.167" end="1:19.368">turn </span>
+        <span begin="1:19.368" end="1:19.543">you </span>
+        <span begin="1:19.543" end="1:19.775">to </span>
+        <span begin="1:19.775" end="1:19.953">a </span>
+        <span begin="1:19.953" end="1:20.360">dancer</span>
+      </p>
+      <p begin="1:20.568" end="1:23.160" itunes:key="L32" ttm:agent="v1">
+        <span begin="1:20.568" end="1:20.743">I </span>
+        <span begin="1:20.743" end="1:20.903">see </span>
+        <span begin="1:20.903" end="1:21.080">two </span>
+        <span begin="1:21.080" end="1:21.512">twin </span>
+        <span begin="1:21.512" end="1:21.710">opps </span>
+        <span begin="1:21.863" end="1:22.022">leave </span>
+        <span begin="1:22.022" end="1:22.191">'em </span>
+        <span begin="1:22.191" end="1:22.367">on </span>
+        <span begin="1:22.367" end="1:22.592">the </span>
+        <span begin="1:22.592" end="1:23.047">banner</span>
+      </p>
+      <p begin="1:23.160" end="1:25.542" itunes:key="L33" ttm:agent="v1">
+        <span begin="1:23.160" end="1:23.337">And </span>
+        <span begin="1:23.337" end="1:23.513">I </span>
+        <span begin="1:23.513" end="1:23.713">got </span>
+        <span begin="1:23.713" end="1:23.890">two </span>
+        <span begin="1:23.890" end="1:24.231">thick </span>
+        <span begin="1:24.231" end="1:24.578">thots </span>
+        <span begin="1:24.578" end="1:24.861">wanna </span>
+        <span begin="1:24.861" end="1:25.063">lick </span>
+        <span begin="1:25.063" end="1:25.251">the </span>
+        <span begin="1:25.251" end="1:25.403">gang </span>
+        <span begin="1:25.403" end="1:25.542">yeah</span>
+      </p>
+      <p begin="1:25.542" end="1:27.607" itunes:key="L34" ttm:agent="v1">
+        <span begin="1:25.542" end="1:25.687">I </span>
+        <span begin="1:25.687" end="1:25.834">got </span>
+        <span begin="1:25.834" end="1:25.991">black </span>
+        <span begin="1:25.991" end="1:26.152">I </span>
+        <span begin="1:26.152" end="1:26.321">got </span>
+        <span begin="1:26.321" end="1:26.527">white </span>
+        <span begin="1:26.655" end="1:26.815">whatchu' </span>
+        <span begin="1:26.815" end="1:26.967">you </span>
+        <span begin="1:26.967" end="1:27.215">want</span>
+      </p>
+      <p begin="1:27.607" end="1:30.119" itunes:key="L35" ttm:agent="v1">
+        <span begin="1:27.607" end="1:27.783">Hop </span>
+        <span begin="1:27.783" end="1:28.015">outside </span>
+        <span begin="1:28.015" end="1:28.215">a </span>
+        <span begin="1:28.215" end="1:28.463">Ghost </span>
+        <span begin="1:28.463" end="1:28.636">and </span>
+        <span begin="1:28.636" end="1:28.799">hop </span>
+        <span begin="1:28.799" end="1:28.975">up </span>
+        <span begin="1:28.975" end="1:29.138">in </span>
+        <span begin="1:29.138" end="1:29.243">a </span>
+        <span begin="1:29.243" end="1:29.710">Phantom</span>
+      </p>
+      <p begin="1:30.119" end="1:32.754" itunes:key="L36" ttm:agent="v1">
+        <span begin="1:30.119" end="1:30.295">I </span>
+        <span begin="1:30.295" end="1:30.474">know </span>
+        <span begin="1:30.474" end="1:30.639">I'm </span>
+        <span begin="1:30.639" end="1:30.799">boutta </span>
+        <span begin="1:30.799" end="1:30.991">blow-</span>
+        <span begin="1:30.991" end="1:31.327">oh-</span>
+        <span begin="1:31.327" end="1:31.855">whoa </span>
+        <span begin="1:31.855" end="1:32.024">I </span>
+        <span begin="1:32.024" end="1:32.223">ain't </span>
+        <span begin="1:32.223" end="1:32.521">dumb</span>
+      </p>
+      <p begin="1:32.754" end="1:35.531" itunes:key="L37" ttm:agent="v1">
+        <span begin="1:32.754" end="1:32.951">They </span>
+        <span begin="1:32.951" end="1:33.135">try </span>
+        <span begin="1:33.135" end="1:33.295">to </span>
+        <span begin="1:33.295" end="1:33.479">take </span>
+        <span begin="1:33.479" end="1:33.681">my </span>
+        <span begin="1:33.681" end="1:33.887">flow </span>
+        <span begin="1:33.887" end="1:34.063">I </span>
+        <span begin="1:34.063" end="1:34.223">take </span>
+        <span begin="1:34.223" end="1:34.415">they </span>
+        <span begin="1:34.415" end="1:34.601">ass </span>
+        <span begin="1:34.601" end="1:34.643">for </span>
+        <span begin="1:34.643" end="1:35.219">ransom</span>
+      </p>
+      <p begin="1:35.531" end="1:36.682" itunes:key="L38" ttm:agent="v1">
+        <span begin="1:35.531" end="1:35.691">I </span>
+        <span begin="1:35.691" end="1:35.851">know </span>
+        <span begin="1:35.851" end="1:35.995">that </span>
+        <span begin="1:35.995" end="1:36.251">I'm </span>
+        <span begin="1:36.251" end="1:36.571">gone</span>
+      </p>
+      <p begin="1:36.682" end="1:39.175" itunes:key="L39" ttm:agent="v1">
+        <span begin="1:36.682" end="1:36.833">They </span>
+        <span begin="1:36.833" end="1:37.017">see </span>
+        <span begin="1:37.017" end="1:37.189">me </span>
+        <span begin="1:37.189" end="1:37.482">blowin' </span>
+        <span begin="1:37.482" end="1:37.849">up </span>
+        <span begin="1:37.849" end="1:38.010">now </span>
+        <span begin="1:38.010" end="1:38.202">they </span>
+        <span begin="1:38.202" end="1:38.393">say </span>
+        <span begin="1:38.393" end="1:38.623">they </span>
+        <span begin="1:38.623" end="1:38.890">want </span>
+        <span begin="1:38.890" end="1:39.145">some</span>
+      </p>
+      <p begin="1:39.175" end="1:41.888" itunes:key="L40" ttm:agent="v1">
+        <span begin="1:39.175" end="1:39.326">I </span>
+        <span begin="1:39.326" end="1:39.520">got </span>
+        <span begin="1:39.520" end="1:39.816">two </span>
+        <span begin="1:39.816" end="1:40.167">twin </span>
+        <span begin="1:40.167" end="1:40.498">Glocks </span>
+        <span begin="1:40.498" end="1:40.688">turn </span>
+        <span begin="1:40.688" end="1:40.880">you </span>
+        <span begin="1:40.880" end="1:41.063">to </span>
+        <span begin="1:41.063" end="1:41.277">a </span>
+        <span begin="1:41.277" end="1:41.641">dancer</span>
+      </p>
+      <p begin="1:41.888" end="1:44.412" itunes:key="L41" ttm:agent="v1">
+        <span begin="1:41.888" end="1:42.063">I </span>
+        <span begin="1:42.063" end="1:42.233">see </span>
+        <span begin="1:42.233" end="1:42.503">two </span>
+        <span begin="1:42.503" end="1:42.824">twin </span>
+        <span begin="1:42.824" end="1:43.151">opps </span>
+        <span begin="1:43.151" end="1:43.327">leave </span>
+        <span begin="1:43.327" end="1:43.511">'em </span>
+        <span begin="1:43.511" end="1:43.720">on </span>
+        <span begin="1:43.720" end="1:43.928">the </span>
+        <span begin="1:43.928" end="1:44.375">banner</span>
+      </p>
+      <p begin="1:44.412" end="1:47.262" itunes:key="L42" ttm:agent="v1">
+        <span begin="1:44.412" end="1:44.562">And </span>
+        <span begin="1:44.562" end="1:44.730">I </span>
+        <span begin="1:44.730" end="1:44.902">got </span>
+        <span begin="1:44.902" end="1:45.085">two </span>
+        <span begin="1:45.085" end="1:45.331">thick </span>
+        <span begin="1:45.331" end="1:45.807">thots </span>
+        <span begin="1:45.807" end="1:45.971">wanna </span>
+        <span begin="1:45.971" end="1:46.202">lick </span>
+        <span begin="1:46.202" end="1:46.416">the </span>
+        <span begin="1:46.416" end="1:46.874">gang </span>
+        <span begin="1:46.874" end="1:47.179">yeah</span>
+      </p>
+    </div>
+  </body>
+</tt>

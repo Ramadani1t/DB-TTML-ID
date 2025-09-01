@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" itunes:timing="Line" xml:lang="id">
+  <head>
+    <metadata>
+      <iTunesMetadata xmlns="http://music.apple.com/lyric-ttml-internal" leadingSilence="0">
+        <songwriters>
+          <songwriter>Cornel Letto</songwriter>
+          <songwriter>Noe Letto</songwriter>
+        </songwriters>
+      </iTunesMetadata>
+    </metadata>
+  </head>
+  <body dur="5:07.730">
+    <div begin="5.628" end="28.301" itunes:songPart="Verse">
+      <p begin="5.628" end="8.798" itunes:key="L15008">Terbuai aku hilang</p>
+      <p begin="8.808" end="15.550" itunes:key="L15009">Terjatuh aku dalam keindahan penantian</p>
+      <p begin="16.988" end="22.178" itunes:key="L15010">Terucap keraguan hati yang bimbang</p>
+      <p begin="22.188" end="28.301" itunes:key="L15011">Yang terhalang kepastian cinta</p>
+    </div>
+    <div begin="28.316" end="50.789" itunes:songPart="Verse">
+      <p begin="28.316" end="39.596" itunes:key="L15012">Aku hilang</p>
+      <p begin="39.606" end="50.789" itunes:key="L15013">Aku hilang</p>
+    </div>
+    <div begin="50.799" end="1:14.286" itunes:songPart="Verse">
+      <p begin="50.799" end="56.795" itunes:key="L15014">Tersabut kabut malam, terbiasnya harapan</p>
+      <p begin="56.805" end="1:02.123" itunes:key="L15015">Yang tersimpan suci tak bertuan</p>
+      <p begin="1:02.133" end="1:07.387" itunes:key="L15016">Terasa kerinduan hati yang bimbang</p>
+      <p begin="1:07.397" end="1:14.286" itunes:key="L15017">Yang terhempas kepastian cinta</p>
+    </div>
+    <div begin="1:17.661" end="1:55.512" itunes:songPart="Verse">
+      <p begin="1:17.661" end="1:22.254" itunes:key="L15018">Dengarkanlah permintaan hati</p>
+      <p begin="1:22.264" end="1:27.884" itunes:key="L15019">Yang teraniaya sunyi</p>
+      <p begin="1:27.894" end="1:33.784" itunes:key="L15020">Dan berikanlah arti pada hidupku</p>
+      <p begin="1:33.794" end="1:41.974" itunes:key="L15021">Yang terhempas, yang terlepas pelukanmu</p>
+      <p begin="1:41.984" end="1:55.512" itunes:key="L15022">Bersamamu dan tanpamu aku hilang selalu</p>
+    </div>
+    <div begin="1:57.203" end="2:19.766" itunes:songPart="Verse">
+      <p begin="1:57.203" end="2:08.496" itunes:key="L15023">Aku hilang</p>
+      <p begin="2:08.506" end="2:19.766" itunes:key="L15024">Aku hilang</p>
+    </div>
+    <div begin="2:19.776" end="2:43.193" itunes:songPart="Verse">
+      <p begin="2:19.776" end="2:25.728" itunes:key="L15025">Tersabut kabut malam, terbiasnya harapan</p>
+      <p begin="2:25.738" end="2:31.066" itunes:key="L15026">Yang tersimpan suci tak bertuan</p>
+      <p begin="2:31.076" end="2:36.341" itunes:key="L15027">Terasa kerinduan hati yang bimbang</p>
+      <p begin="2:36.351" end="2:43.193" itunes:key="L15028">Yang terhempas kepastian cinta</p>
+    </div>
+    <div begin="2:46.608" end="3:35.640" itunes:songPart="Verse">
+      <p begin="2:46.608" end="2:51.139" itunes:key="L15029">Dengarkanlah permintaan hati</p>
+      <p begin="2:51.149" end="2:56.826" itunes:key="L15030">Yang teraniaya sunyi</p>
+      <p begin="2:56.836" end="3:02.821" itunes:key="L15031">Dan berikanlah arti pada hidupku</p>
+      <p begin="3:02.831" end="3:10.907" itunes:key="L15032">Yang terhempas, yang terlepas pelukanmu</p>
+      <p begin="3:10.917" end="3:22.154" itunes:key="L15033">Bersamamu dan tanpamu aku hilang selalu</p>
+      <p begin="3:22.164" end="3:35.640" itunes:key="L15034">Bersamamu dan tanpamu aku hilang selalu</p>
+    </div>
+    <div begin="4:16.955" end="5:07.730" itunes:songPart="Verse">
+      <p begin="4:16.955" end="4:21.545" itunes:key="L15035">Dengarkanlah permintaan hati</p>
+      <p begin="4:21.555" end="4:27.135" itunes:key="L15036">Yang teraniaya sunyi</p>
+      <p begin="4:27.145" end="4:33.067" itunes:key="L15037">Dan berikanlah arti pada hidupku</p>
+      <p begin="4:33.077" end="4:41.216" itunes:key="L15038">Yang terhempas, yang terlepas pelukanmu</p>
+      <p begin="4:41.226" end="4:52.548" itunes:key="L15039">Bersamamu dan tanpamu aku hilang selalu</p>
+      <p begin="4:52.558" end="5:07.730" itunes:key="L15040">Bersamamu dan tanpamu aku hilang selalu</p>
+    </div>
+  </body>
+</tt>

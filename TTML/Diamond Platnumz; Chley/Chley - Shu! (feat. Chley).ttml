@@ -1,0 +1,632 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+  <head>
+    <metadata>
+      <ttm:agent type="person" xml:id="v1" />
+    </metadata>
+  </head>
+  <body dur="4:19.296">
+    <div begin="4.712" end="4:19.296">
+      <p begin="4.712" end="5.280" itunes:key="L1" ttm:agent="v1">
+        <span begin="4.712" end="4.904">We </span>
+        <span begin="4.904" end="5.280">zombie</span>
+      </p>
+      <p begin="6.888" end="8.448" itunes:key="L2" ttm:agent="v1">
+        <span begin="6.888" end="7.136">Na </span>
+        <span begin="7.136" end="7.384">simba </span>
+        <span begin="7.384" end="7.576">la </span>
+        <span begin="7.576" end="7.744">ma </span>
+        <span begin="7.744" end="7.936">simba </span>
+        <span begin="7.936" end="8.448">dangote</span>
+      </p>
+      <p begin="8.752" end="11.587" itunes:key="L3" ttm:agent="v1">
+        <span begin="8.752" end="8.983">Eh </span>
+        <span begin="8.983" end="9.215">bathi </span>
+        <span begin="9.215" end="9.959">eh </span>
+        <span begin="9.959" end="10.687">eh </span>
+        <span begin="10.687" end="11.055">eh </span>
+        <span begin="11.055" end="11.587">eh</span>
+      </p>
+      <p begin="11.587" end="13.275" itunes:key="L4" ttm:agent="v1">
+        <span begin="11.587" end="12.211">Ah </span>
+        <span begin="12.211" end="12.627">eh </span>
+        <span begin="12.627" end="12.915">yah </span>
+        <span begin="12.915" end="13.275">yah</span>
+      </p>
+      <p begin="14.395" end="16.333" itunes:key="L5" ttm:agent="v1">
+        <span begin="14.395" end="14.763">Eh </span>
+        <span begin="14.963" end="15.229">ai </span>
+        <span begin="15.949" end="16.333">ai</span>
+      </p>
+      <p begin="16.573" end="18.838" itunes:key="L6" ttm:agent="v1">
+        <span begin="16.573" end="18.838">Kibanebane</span>
+      </p>
+      <p begin="19.806" end="21.766" itunes:key="L7" ttm:agent="v1">
+        <span begin="19.806" end="20.238">Mwisho </span>
+        <span begin="20.238" end="20.662">kiliwe </span>
+        <span begin="20.662" end="20.934">na </span>
+        <span begin="20.934" end="21.766">nyenyere</span>
+      </p>
+      <p begin="22.942" end="24.478" itunes:key="L8" ttm:agent="v1">
+        <span begin="22.942" end="23.206">S</span>
+        <span begin="23.206" end="23.542">2</span>
+        <span begin="23.542" end="23.998">kizzy </span>
+        <span begin="23.998" end="24.478">baby</span>
+      </p>
+      <p begin="24.662" end="25.062" itunes:key="L9" ttm:agent="v1">
+        <span begin="24.662" end="25.062">Ai</span>
+      </p>
+      <p begin="25.262" end="27.414" itunes:key="L10" ttm:agent="v1">
+        <span begin="25.262" end="27.414">Kibanebane</span>
+      </p>
+      <p begin="28.342" end="30.323" itunes:key="L11" ttm:agent="v1">
+        <span begin="28.342" end="28.727">Mwisho </span>
+        <span begin="28.727" end="29.247">kiliwe </span>
+        <span begin="29.247" end="29.559">na </span>
+        <span begin="29.559" end="30.323">nyenyere</span>
+      </p>
+      <p begin="31.515" end="33.371" itunes:key="L12" ttm:agent="v1">
+        <span begin="31.515" end="31.907">Eh </span>
+        <span begin="32.099" end="32.531">ai </span>
+        <span begin="32.531" end="32.996">ai </span>
+        <span begin="32.996" end="33.371">ai</span>
+      </p>
+      <p begin="33.595" end="35.019" itunes:key="L13" ttm:agent="v1">
+        <span begin="33.595" end="34.667">Sibanik'iplatinum </span>
+        <span begin="34.667" end="35.019">weh</span>
+      </p>
+      <p begin="35.323" end="37.323" itunes:key="L14" ttm:agent="v1">
+        <span begin="35.323" end="35.611">Ah </span>
+        <span begin="35.835" end="36.339">kushi'inkanti </span>
+        <span begin="36.339" end="37.323">khiph'inamba</span>
+      </p>
+      <p begin="37.803" end="39.547" itunes:key="L15" ttm:agent="v1">
+        <span begin="37.803" end="38.091">Lentwana </span>
+        <span begin="38.091" end="38.299">u-</span>
+        <span begin="38.299" end="38.579">chley </span>
+        <span begin="38.579" end="38.923">ntwana </span>
+        <span begin="38.923" end="39.547">ishay'inamba</span>
+      </p>
+      <p begin="39.923" end="41.514" itunes:key="L16" ttm:agent="v1">
+        <span begin="39.923" end="40.563">Ishay'inamba </span>
+        <span begin="40.563" end="40.827">kuze </span>
+        <span begin="40.827" end="41.514">kuse</span>
+      </p>
+      <p begin="41.770" end="43.714" itunes:key="L17" ttm:agent="v1">
+        <span begin="41.770" end="42.082">Ah </span>
+        <span begin="42.082" end="42.314">ah </span>
+        <span begin="42.314" end="42.530">khush'I </span>
+        <span begin="42.530" end="42.954">beverage </span>
+        <span begin="42.954" end="43.714">tholakala</span>
+      </p>
+      <p begin="44.154" end="45.922" itunes:key="L18" ttm:agent="v1">
+        <span begin="44.154" end="44.402">Ah </span>
+        <span begin="44.402" end="44.802">jik'ubheke </span>
+        <span begin="44.802" end="45.042">le </span>
+        <span begin="45.042" end="45.922">cothoza</span>
+      </p>
+      <p begin="46.354" end="48.180" itunes:key="L19" ttm:agent="v1">
+        <span begin="46.354" end="47.260">Bafun'ininja </span>
+        <span begin="47.260" end="48.180">syabnika</span>
+      </p>
+      <p begin="48.492" end="50.600" itunes:key="L20" ttm:agent="v1">
+        <span begin="48.492" end="48.764">Ah </span>
+        <span begin="48.764" end="49.372">kph'idiamond </span>
+        <span begin="49.372" end="50.152">tholakala </span>
+        <span begin="50.312" end="50.600">eh</span>
+      </p>
+      <p begin="50.840" end="52.240" itunes:key="L21" ttm:agent="v1">
+        <span begin="50.840" end="51.856">Sibanik'iplatinum </span>
+        <span begin="51.856" end="52.240">weh</span>
+      </p>
+      <p begin="52.760" end="54.576" itunes:key="L22" ttm:agent="v1">
+        <span begin="52.760" end="53.008">Ah </span>
+        <span begin="53.008" end="53.680">kushi'inkanti </span>
+        <span begin="53.680" end="54.576">khiph'inamba</span>
+      </p>
+      <p begin="54.968" end="56.757" itunes:key="L23" ttm:agent="v1">
+        <span begin="54.968" end="55.356">Lentwana </span>
+        <span begin="55.356" end="55.556">u-</span>
+        <span begin="55.556" end="55.757">chley </span>
+        <span begin="55.757" end="55.940">ntwana </span>
+        <span begin="55.940" end="56.757">ishay'inamba</span>
+      </p>
+      <p begin="57.077" end="58.577" itunes:key="L24" ttm:agent="v1">
+        <span begin="57.077" end="57.756">Ishay'inamba </span>
+        <span begin="57.756" end="58.053">kuze </span>
+        <span begin="58.053" end="58.577">kuse</span>
+      </p>
+      <p begin="59.201" end="1:00.945" itunes:key="L25" ttm:agent="v1">
+        <span begin="59.201" end="59.409">Ah </span>
+        <span begin="59.409" end="59.609">khush'I </span>
+        <span begin="59.609" end="1:00.065">beverage </span>
+        <span begin="1:00.065" end="1:00.945">tholakala</span>
+      </p>
+      <p begin="1:01.337" end="1:02.890" itunes:key="L26" ttm:agent="v1">
+        <span begin="1:01.337" end="1:01.585">Ah </span>
+        <span begin="1:01.585" end="1:02.097">jik'ubheke </span>
+        <span begin="1:02.097" end="1:02.321">le </span>
+        <span begin="1:02.321" end="1:02.890">cothoza</span>
+      </p>
+      <p begin="1:03.490" end="1:05.225" itunes:key="L27" ttm:agent="v1">
+        <span begin="1:03.490" end="1:04.354">Bafun'ininja </span>
+        <span begin="1:04.354" end="1:05.225">syabnika</span>
+      </p>
+      <p begin="1:05.625" end="1:07.780" itunes:key="L28" ttm:agent="v1">
+        <span begin="1:05.625" end="1:06.161">Ah </span>
+        <span begin="1:06.161" end="1:06.729">kph'idiamond </span>
+        <span begin="1:06.729" end="1:07.176">tholakala </span>
+        <span begin="1:07.456" end="1:07.780">eh</span>
+      </p>
+      <p begin="1:08.356" end="1:09.573" itunes:key="L29" ttm:agent="v1">
+        <span begin="1:08.356" end="1:08.660">Engithi </span>
+        <span begin="1:08.660" end="1:09.060">khiph'I </span>
+        <span begin="1:09.060" end="1:09.573">diamond</span>
+      </p>
+      <p begin="1:09.844" end="1:10.573" itunes:key="L30" ttm:agent="v1">
+        <span begin="1:09.844" end="1:10.076">Khiph'I </span>
+        <span begin="1:10.076" end="1:10.573">diamond</span>
+      </p>
+      <p begin="1:10.844" end="1:11.628" itunes:key="L31" ttm:agent="v1">
+        <span begin="1:10.844" end="1:11.092">Khiph'I </span>
+        <span begin="1:11.092" end="1:11.628">diamond</span>
+      </p>
+      <p begin="1:11.788" end="1:12.828" itunes:key="L32" ttm:agent="v1">
+        <span begin="1:11.788" end="1:11.980">Thina </span>
+        <span begin="1:11.980" end="1:12.180">sama </span>
+        <span begin="1:12.180" end="1:12.828">grootman</span>
+      </p>
+      <p begin="1:13.004" end="1:13.820" itunes:key="L33" ttm:agent="v1">
+        <span begin="1:13.004" end="1:13.268">Khiph'I </span>
+        <span begin="1:13.268" end="1:13.820">diamond</span>
+      </p>
+      <p begin="1:14.020" end="1:14.860" itunes:key="L34" ttm:agent="v1">
+        <span begin="1:14.020" end="1:14.300">Khiph'I </span>
+        <span begin="1:14.300" end="1:14.860">diamond</span>
+      </p>
+      <p begin="1:15.100" end="1:15.780" itunes:key="L35" ttm:agent="v1">
+        <span begin="1:15.100" end="1:15.332">Khiph'I </span>
+        <span begin="1:15.332" end="1:15.780">diamond</span>
+      </p>
+      <p begin="1:15.964" end="1:17.008" itunes:key="L36" ttm:agent="v1">
+        <span begin="1:15.964" end="1:16.148">Ai </span>
+        <span begin="1:16.148" end="1:16.316">nawe </span>
+        <span begin="1:16.316" end="1:17.008">tholakala</span>
+      </p>
+      <p begin="1:17.008" end="1:18.072" itunes:key="L37" ttm:agent="v1">
+        <span begin="1:17.008" end="1:17.496">Khiph'I </span>
+        <span begin="1:17.496" end="1:18.072">diamond</span>
+      </p>
+      <p begin="1:18.288" end="1:19.136" itunes:key="L38" ttm:agent="v1">
+        <span begin="1:18.288" end="1:18.592">Khiph'I </span>
+        <span begin="1:18.592" end="1:19.136">diamond</span>
+      </p>
+      <p begin="1:19.384" end="1:20.080" itunes:key="L39" ttm:agent="v1">
+        <span begin="1:19.384" end="1:19.632">Khiph'I </span>
+        <span begin="1:19.632" end="1:20.080">diamond</span>
+      </p>
+      <p begin="1:20.328" end="1:21.175" itunes:key="L40" ttm:agent="v1">
+        <span begin="1:20.328" end="1:20.560">Thina </span>
+        <span begin="1:20.560" end="1:20.792">sama </span>
+        <span begin="1:20.792" end="1:21.175">grootman</span>
+      </p>
+      <p begin="1:21.463" end="1:22.375" itunes:key="L41" ttm:agent="v1">
+        <span begin="1:21.463" end="1:21.951">Khiph'I </span>
+        <span begin="1:21.951" end="1:22.375">diamond</span>
+      </p>
+      <p begin="1:22.567" end="1:23.487" itunes:key="L42" ttm:agent="v1">
+        <span begin="1:22.567" end="1:22.903">Khiph'I </span>
+        <span begin="1:22.903" end="1:23.487">diamond</span>
+      </p>
+      <p begin="1:23.687" end="1:24.367" itunes:key="L43" ttm:agent="v1">
+        <span begin="1:23.687" end="1:23.959">Khiph'I </span>
+        <span begin="1:23.959" end="1:24.367">diamond</span>
+      </p>
+      <p begin="1:24.551" end="1:25.639" itunes:key="L44" ttm:agent="v1">
+        <span begin="1:24.551" end="1:24.943">Ai </span>
+        <span begin="1:24.943" end="1:25.175">nawe </span>
+        <span begin="1:25.175" end="1:25.639">tholakala</span>
+      </p>
+      <p begin="1:25.791" end="1:27.479" itunes:key="L45" ttm:agent="v1">
+        <span begin="1:25.791" end="1:26.151">Shii </span>
+        <span begin="1:26.151" end="1:26.367">tjukut </span>
+        <span begin="1:26.367" end="1:27.479">jukuku</span>
+      </p>
+      <p begin="1:27.479" end="1:29.567" itunes:key="L46" ttm:agent="v1">
+        <span begin="1:27.479" end="1:28.183">Ah </span>
+        <span begin="1:28.183" end="1:28.647">tjuktu </span>
+        <span begin="1:28.647" end="1:29.567">jukuku</span>
+      </p>
+      <p begin="1:29.863" end="1:31.783" itunes:key="L47" ttm:agent="v1">
+        <span begin="1:29.863" end="1:30.407">Iih </span>
+        <span begin="1:30.407" end="1:30.847">tjukut </span>
+        <span begin="1:30.847" end="1:31.783">jukuku</span>
+      </p>
+      <p begin="1:31.983" end="1:33.967" itunes:key="L48" ttm:agent="v1">
+        <span begin="1:31.983" end="1:32.503">Ah </span>
+        <span begin="1:32.503" end="1:33.215">tjuktu </span>
+        <span begin="1:33.215" end="1:33.967">jukuku</span>
+      </p>
+      <p begin="1:34.167" end="1:35.196" itunes:key="L49" ttm:agent="v1">
+        <span begin="1:34.167" end="1:34.463">Ai </span>
+        <span begin="1:34.463" end="1:35.196">shuku</span>
+      </p>
+      <p begin="1:35.412" end="1:36.356" itunes:key="L50" ttm:agent="v1">
+        <span begin="1:35.412" end="1:36.356">Shukuku</span>
+      </p>
+      <p begin="1:36.524" end="1:37.468" itunes:key="L51" ttm:agent="v1">
+        <span begin="1:36.524" end="1:37.468">Shuku</span>
+      </p>
+      <p begin="1:37.652" end="1:38.452" itunes:key="L52" ttm:agent="v1">
+        <span begin="1:37.652" end="1:38.452">Shukuku</span>
+      </p>
+      <p begin="1:38.692" end="1:39.508" itunes:key="L53" ttm:agent="v1">
+        <span begin="1:38.692" end="1:39.508">Shuku</span>
+      </p>
+      <p begin="1:39.740" end="1:40.468" itunes:key="L54" ttm:agent="v1">
+        <span begin="1:39.740" end="1:40.468">Shukuku</span>
+      </p>
+      <p begin="1:40.653" end="1:41.030" itunes:key="L55" ttm:agent="v1">
+        <span begin="1:40.653" end="1:41.030">Iih</span>
+      </p>
+      <p begin="1:41.030" end="1:42.750" itunes:key="L56" ttm:agent="v1">
+        <span begin="1:41.030" end="1:41.318">Shi </span>
+        <span begin="1:41.318" end="1:42.750">tjukukukuku</span>
+      </p>
+      <p begin="2:00.478" end="2:02.631" itunes:key="L57" ttm:agent="v1">
+        <span begin="2:00.478" end="2:01.974">Sandakalawe </span>
+        <span begin="2:02.087" end="2:02.631">amen</span>
+      </p>
+      <p begin="2:02.846" end="2:04.816" itunes:key="L58" ttm:agent="v1">
+        <span begin="2:02.846" end="2:03.304">Mwenye </span>
+        <span begin="2:03.304" end="2:04.080">kupata </span>
+        <span begin="2:04.232" end="2:04.816">amen</span>
+      </p>
+      <p begin="2:04.992" end="2:06.944" itunes:key="L59" ttm:agent="v1">
+        <span begin="2:04.992" end="2:05.464">Nae </span>
+        <span begin="2:05.464" end="2:06.176">akagawe </span>
+        <span begin="2:06.176" end="2:06.944">amen</span>
+      </p>
+      <p begin="2:07.136" end="2:09.061" itunes:key="L60" ttm:agent="v1">
+        <span begin="2:07.136" end="2:07.342">Kwa </span>
+        <span begin="2:07.342" end="2:07.614">anaye </span>
+        <span begin="2:07.614" end="2:08.221">itaka </span>
+        <span begin="2:08.437" end="2:09.061">amen</span>
+      </p>
+      <p begin="2:09.261" end="2:11.159" itunes:key="L61" ttm:agent="v1">
+        <span begin="2:09.261" end="2:10.375">Sandakalawe </span>
+        <span begin="2:10.543" end="2:11.159">amen</span>
+      </p>
+      <p begin="2:11.359" end="2:13.344" itunes:key="L62" ttm:agent="v1">
+        <span begin="2:11.359" end="2:11.840">Mwenye </span>
+        <span begin="2:11.840" end="2:12.496">kupata </span>
+        <span begin="2:12.720" end="2:13.344">amen</span>
+      </p>
+      <p begin="2:13.496" end="2:15.432" itunes:key="L63" ttm:agent="v1">
+        <span begin="2:13.496" end="2:14.048">Nae </span>
+        <span begin="2:14.048" end="2:14.800">akagawe </span>
+        <span begin="2:14.888" end="2:15.432">amen</span>
+      </p>
+      <p begin="2:15.584" end="2:17.328" itunes:key="L64" ttm:agent="v1">
+        <span begin="2:15.584" end="2:15.768">Kwa </span>
+        <span begin="2:15.768" end="2:16.104">anaye </span>
+        <span begin="2:16.104" end="2:16.928">itaka </span>
+        <span begin="2:16.928" end="2:17.328">amen</span>
+      </p>
+      <p begin="2:17.328" end="2:20.960" itunes:key="L65" ttm:agent="v1">
+        <span begin="2:17.328" end="2:17.884">Ukiileta </span>
+        <span begin="2:17.884" end="2:18.212">kwa </span>
+        <span begin="2:18.212" end="2:18.764">wahuni </span>
+        <span begin="2:18.764" end="2:19.580">tunaila </span>
+        <span begin="2:19.580" end="2:19.964">na </span>
+        <span begin="2:19.964" end="2:20.516">hatutoi </span>
+        <span begin="2:20.516" end="2:20.960">mbuni</span>
+      </p>
+      <p begin="2:21.912" end="2:24.828" itunes:key="L66" ttm:agent="v1">
+        <span begin="2:21.912" end="2:21.938">Kwa </span>
+        <span begin="2:21.938" end="2:22.266">utamu </span>
+        <span begin="2:22.266" end="2:22.714">gani </span>
+        <span begin="2:22.938" end="2:23.170">si </span>
+        <span begin="2:23.170" end="2:23.819">n'taupata </span>
+        <span begin="2:23.947" end="2:24.147">hata </span>
+        <span begin="2:24.147" end="2:24.387">kwa </span>
+        <span begin="2:24.387" end="2:24.828">sabuni</span>
+      </p>
+      <p begin="2:25.550" end="2:29.472" itunes:key="L67" ttm:agent="v1">
+        <span begin="2:25.550" end="2:25.870">Chi </span>
+        <span begin="2:26.166" end="2:26.770">ukijitia </span>
+        <span begin="2:26.770" end="2:27.298">vihela </span>
+        <span begin="2:27.298" end="2:28.202">tunavichuna </span>
+        <span begin="2:28.202" end="2:28.466">na </span>
+        <span begin="2:28.466" end="2:29.130">hatubakizi </span>
+        <span begin="2:29.130" end="2:29.472">sumni</span>
+      </p>
+      <p begin="2:30.384" end="2:33.440" itunes:key="L68" ttm:agent="v1">
+        <span begin="2:30.384" end="2:30.526">Maana </span>
+        <span begin="2:30.526" end="2:31.350">umeyataka </span>
+        <span begin="2:31.350" end="2:31.606">si </span>
+        <span begin="2:31.606" end="2:32.280">unajifanya </span>
+        <span begin="2:32.568" end="2:32.960">kibosi </span>
+        <span begin="2:32.960" end="2:33.440">nyangumi</span>
+      </p>
+      <p begin="2:33.696" end="2:34.176" itunes:key="L69" ttm:agent="v1">
+        <span begin="2:33.696" end="2:34.176">Ebo</span>
+      </p>
+      <p begin="2:34.400" end="2:36.211" itunes:key="L70" ttm:agent="v1">
+        <span begin="2:34.400" end="2:34.483">Kama </span>
+        <span begin="2:34.483" end="2:35.195">kanajipitisha </span>
+        <span begin="2:35.195" end="2:35.427">tu </span>
+        <span begin="2:35.427" end="2:35.779">hakashei </span>
+        <span begin="2:35.779" end="2:36.211">namba</span>
+      </p>
+      <p begin="2:36.603" end="2:38.358" itunes:key="L71" ttm:agent="v1">
+        <span begin="2:36.603" end="2:36.878">Katemea </span>
+        <span begin="2:36.878" end="2:37.254">kabisa </span>
+        <span begin="2:37.254" end="2:37.510">saa </span>
+        <span begin="2:37.510" end="2:37.822">kana </span>
+        <span begin="2:37.822" end="2:38.358">ushamba</span>
+      </p>
+      <p begin="2:38.542" end="2:40.614" itunes:key="L72" ttm:agent="v1">
+        <span begin="2:38.542" end="2:39.438">Kanapitapita </span>
+        <span begin="2:39.438" end="2:39.678">tu </span>
+        <span begin="2:39.678" end="2:40.246">akashei </span>
+        <span begin="2:40.246" end="2:40.614">namba</span>
+      </p>
+      <p begin="2:40.870" end="2:42.599" itunes:key="L73" ttm:agent="v1">
+        <span begin="2:40.870" end="2:41.159">Katemea </span>
+        <span begin="2:41.159" end="2:41.583">kabisa </span>
+        <span begin="2:41.583" end="2:41.855">khai </span>
+        <span begin="2:41.855" end="2:42.159">kana </span>
+        <span begin="2:42.159" end="2:42.599">ushamba</span>
+      </p>
+      <p begin="2:42.791" end="2:43.288" itunes:key="L74" ttm:agent="v1">
+        <span begin="2:42.791" end="2:42.991">Kana </span>
+        <span begin="2:42.991" end="2:43.288">hu</span>
+      </p>
+      <p begin="2:43.832" end="2:44.360" itunes:key="L75" ttm:agent="v1">
+        <span begin="2:43.832" end="2:44.072">Kana </span>
+        <span begin="2:44.072" end="2:44.360">hu</span>
+      </p>
+      <p begin="2:44.896" end="2:45.323" itunes:key="L76" ttm:agent="v1">
+        <span begin="2:44.896" end="2:45.120">Kana </span>
+        <span begin="2:45.120" end="2:45.323">hu</span>
+      </p>
+      <p begin="2:45.891" end="2:47.011" itunes:key="L77" ttm:agent="v1">
+        <span begin="2:45.891" end="2:46.323">Kana </span>
+        <span begin="2:46.323" end="2:47.011">ushamba</span>
+      </p>
+      <p begin="2:47.195" end="2:47.619" itunes:key="L78" ttm:agent="v1">
+        <span begin="2:47.195" end="2:47.386">Kana </span>
+        <span begin="2:47.386" end="2:47.619">hu</span>
+      </p>
+      <p begin="2:48.115" end="2:48.635" itunes:key="L79" ttm:agent="v1">
+        <span begin="2:48.115" end="2:48.347">Kana </span>
+        <span begin="2:48.347" end="2:48.635">hu</span>
+      </p>
+      <p begin="2:49.195" end="2:49.707" itunes:key="L80" ttm:agent="v1">
+        <span begin="2:49.195" end="2:49.411">Kana </span>
+        <span begin="2:49.411" end="2:49.707">hu</span>
+      </p>
+      <p begin="2:50.411" end="2:51.191" itunes:key="L81" ttm:agent="v1">
+        <span begin="2:50.411" end="2:50.619">Kana </span>
+        <span begin="2:50.619" end="2:51.191">ushamba</span>
+      </p>
+      <p begin="2:51.415" end="2:53.105" itunes:key="L82" ttm:agent="v1">
+        <span begin="2:51.415" end="2:51.887">Shii </span>
+        <span begin="2:51.887" end="2:52.447">tjukut </span>
+        <span begin="2:52.447" end="2:53.105">jukuku</span>
+      </p>
+      <p begin="2:53.497" end="2:55.409" itunes:key="L83" ttm:agent="v1">
+        <span begin="2:53.497" end="2:53.969">Ah </span>
+        <span begin="2:53.969" end="2:54.521">tjuktu </span>
+        <span begin="2:54.521" end="2:55.409">jukuku</span>
+      </p>
+      <p begin="2:55.641" end="2:57.441" itunes:key="L84" ttm:agent="v1">
+        <span begin="2:55.641" end="2:56.145">Iih </span>
+        <span begin="2:56.145" end="2:56.785">tjukut </span>
+        <span begin="2:56.785" end="2:57.441">jukuku</span>
+      </p>
+      <p begin="2:57.745" end="2:59.673" itunes:key="L85" ttm:agent="v1">
+        <span begin="2:57.745" end="2:58.273">Ah </span>
+        <span begin="2:58.273" end="2:58.985">tjuktu </span>
+        <span begin="2:58.985" end="2:59.673">jukuku</span>
+      </p>
+      <p begin="2:59.905" end="3:00.940" itunes:key="L86" ttm:agent="v1">
+        <span begin="2:59.905" end="3:00.257">Ai </span>
+        <span begin="3:00.257" end="3:00.940">shuku</span>
+      </p>
+      <p begin="3:00.940" end="3:01.860" itunes:key="L87" ttm:agent="v1">
+        <span begin="3:00.940" end="3:01.236">Ai </span>
+        <span begin="3:01.236" end="3:01.860">shukuku</span>
+      </p>
+      <p begin="3:02.244" end="3:03.132" itunes:key="L88" ttm:agent="v1">
+        <span begin="3:02.244" end="3:03.132">Shuku</span>
+      </p>
+      <p begin="3:03.132" end="3:03.964" itunes:key="L89" ttm:agent="v1">
+        <span begin="3:03.132" end="3:03.372">Ai </span>
+        <span begin="3:03.372" end="3:03.964">shukuku</span>
+      </p>
+      <p begin="3:04.380" end="3:05.116" itunes:key="L90" ttm:agent="v1">
+        <span begin="3:04.380" end="3:05.116">Shuku</span>
+      </p>
+      <p begin="3:05.116" end="3:06.100" itunes:key="L91" ttm:agent="v1">
+        <span begin="3:05.116" end="3:05.492">Ai </span>
+        <span begin="3:05.492" end="3:06.100">shukuku</span>
+      </p>
+      <p begin="3:06.332" end="3:06.654" itunes:key="L92" ttm:agent="v1">
+        <span begin="3:06.332" end="3:06.654">Iih</span>
+      </p>
+      <p begin="3:06.654" end="3:08.350" itunes:key="L93" ttm:agent="v1">
+        <span begin="3:06.654" end="3:06.894">Shi </span>
+        <span begin="3:06.894" end="3:08.350">tjukukukuku</span>
+      </p>
+      <p begin="3:25.160" end="3:27.258" itunes:key="L94" ttm:agent="v1">
+        <span begin="3:25.160" end="3:27.258">Kibanebane</span>
+      </p>
+      <p begin="3:28.306" end="3:30.558" itunes:key="L95" ttm:agent="v1">
+        <span begin="3:28.306" end="3:28.786">Mwisho </span>
+        <span begin="3:28.786" end="3:29.338">kiliwe </span>
+        <span begin="3:29.338" end="3:29.618">na </span>
+        <span begin="3:29.618" end="3:30.558">nyenyere</span>
+      </p>
+      <p begin="3:30.558" end="3:32.071" itunes:key="L96" ttm:agent="v1">
+        <span begin="3:30.558" end="3:30.718">Kasibe </span>
+        <span begin="3:30.718" end="3:31.050">na </span>
+        <span begin="3:31.050" end="3:31.346">sibe </span>
+        <span begin="3:31.346" end="3:31.762">noma </span>
+        <span begin="3:31.762" end="3:32.071">noma</span>
+      </p>
+      <p begin="3:32.071" end="3:33.527" itunes:key="L97" ttm:agent="v1">
+        <span begin="3:32.071" end="3:32.495">Kasibe </span>
+        <span begin="3:32.495" end="3:32.783">noma </span>
+        <span begin="3:32.783" end="3:33.111">sibe </span>
+        <span begin="3:33.111" end="3:33.527">noyi</span>
+      </p>
+      <p begin="3:33.735" end="3:35.851" itunes:key="L98" ttm:agent="v1">
+        <span begin="3:33.735" end="3:35.851">Kibanebane</span>
+      </p>
+      <p begin="3:36.851" end="3:38.543" itunes:key="L99" ttm:agent="v1">
+        <span begin="3:36.851" end="3:37.267">Mwisho </span>
+        <span begin="3:37.267" end="3:37.715">kiliwe </span>
+        <span begin="3:37.715" end="3:38.003">na </span>
+        <span begin="3:38.003" end="3:38.543">nyenyere</span>
+      </p>
+      <p begin="3:39.066" end="3:40.942" itunes:key="L100" ttm:agent="v1">
+        <span begin="3:39.066" end="3:39.290">Ki </span>
+        <span begin="3:39.674" end="3:39.938">kake </span>
+        <span begin="3:39.938" end="3:40.355">kipitel </span>
+        <span begin="3:40.355" end="3:40.942">mao</span>
+      </p>
+      <p begin="3:40.998" end="3:43.014" itunes:key="L101" ttm:agent="v1">
+        <span begin="3:40.998" end="3:41.342">Kipitel </span>
+        <span begin="3:41.342" end="3:41.678">ma </span>
+        <span begin="3:41.678" end="3:41.998">no </span>
+        <span begin="3:41.998" end="3:42.214">siki </span>
+        <span begin="3:42.214" end="3:42.486">ki </span>
+        <span begin="3:42.486" end="3:43.014">galaoye</span>
+      </p>
+      <p begin="3:43.158" end="3:43.916" itunes:key="L102" ttm:agent="v1">
+        <span begin="3:43.158" end="3:43.916">Shukuku</span>
+      </p>
+      <p begin="3:43.916" end="3:44.446" itunes:key="L103" ttm:agent="v1">
+        <span begin="3:43.916" end="3:44.446">Shuku</span>
+      </p>
+      <p begin="3:44.654" end="3:45.054" itunes:key="L104" ttm:agent="v1">
+        <span begin="3:44.654" end="3:45.054">Shuku</span>
+      </p>
+      <p begin="3:45.246" end="3:46.110" itunes:key="L105" ttm:agent="v1">
+        <span begin="3:45.246" end="3:46.110">Shukuku</span>
+      </p>
+      <p begin="3:46.110" end="3:46.478" itunes:key="L106" ttm:agent="v1">
+        <span begin="3:46.110" end="3:46.478">Shuku</span>
+      </p>
+      <p begin="3:46.766" end="3:47.126" itunes:key="L107" ttm:agent="v1">
+        <span begin="3:46.766" end="3:47.126">Shuku</span>
+      </p>
+      <p begin="3:47.278" end="3:48.155" itunes:key="L108" ttm:agent="v1">
+        <span begin="3:47.278" end="3:48.155">Shukuku</span>
+      </p>
+      <p begin="3:48.155" end="3:48.731" itunes:key="L109" ttm:agent="v1">
+        <span begin="3:48.155" end="3:48.731">Shuku</span>
+      </p>
+      <p begin="3:48.995" end="3:49.355" itunes:key="L110" ttm:agent="v1">
+        <span begin="3:48.995" end="3:49.355">Shuku</span>
+      </p>
+      <p begin="3:49.428" end="3:50.916" itunes:key="L111" ttm:agent="v1">
+        <span begin="3:49.428" end="3:50.556">Shukuku-</span>
+        <span begin="3:50.556" end="3:50.916">kuku</span>
+      </p>
+      <p begin="3:51.084" end="3:51.572" itunes:key="L112" ttm:agent="v1">
+        <span begin="3:51.084" end="3:51.300">Ah </span>
+        <span begin="3:51.300" end="3:51.572">ah</span>
+      </p>
+      <p begin="3:51.740" end="3:52.360" itunes:key="L113" ttm:agent="v1">
+        <span begin="3:51.740" end="3:52.360">Shukuku</span>
+      </p>
+      <p begin="3:52.584" end="3:53.112" itunes:key="L114" ttm:agent="v1">
+        <span begin="3:52.584" end="3:53.112">Shuku</span>
+      </p>
+      <p begin="3:53.632" end="3:54.736" itunes:key="L115" ttm:agent="v1">
+        <span begin="3:53.632" end="3:54.736">Shukuku</span>
+      </p>
+      <p begin="3:54.736" end="3:55.232" itunes:key="L116" ttm:agent="v1">
+        <span begin="3:54.736" end="3:55.232">Shuku</span>
+      </p>
+      <p begin="3:55.792" end="3:56.888" itunes:key="L117" ttm:agent="v1">
+        <span begin="3:55.792" end="3:56.888">Shukuku</span>
+      </p>
+      <p begin="3:56.888" end="3:57.570" itunes:key="L118" ttm:agent="v1">
+        <span begin="3:56.888" end="3:57.570">Shuku</span>
+      </p>
+      <p begin="3:57.970" end="3:59.610" itunes:key="L119" ttm:agent="v1">
+        <span begin="3:57.970" end="3:59.090">Shukuku-</span>
+        <span begin="3:59.090" end="3:59.610">kuku</span>
+      </p>
+      <p begin="3:59.938" end="4:02.050" itunes:key="L120" ttm:agent="v1">
+        <span begin="3:59.938" end="4:00.170">Kama </span>
+        <span begin="4:00.170" end="4:00.922">kanajipitisha </span>
+        <span begin="4:00.922" end="4:01.154">tu </span>
+        <span begin="4:01.154" end="4:01.482">hakashei </span>
+        <span begin="4:01.482" end="4:02.050">namba</span>
+      </p>
+      <p begin="4:02.282" end="4:04.071" itunes:key="L121" ttm:agent="v1">
+        <span begin="4:02.282" end="4:02.583">Katemea </span>
+        <span begin="4:02.583" end="4:02.967">kabisa </span>
+        <span begin="4:02.967" end="4:03.207">saa </span>
+        <span begin="4:03.207" end="4:03.487">kana </span>
+        <span begin="4:03.487" end="4:04.071">ushamba</span>
+      </p>
+      <p begin="4:04.295" end="4:06.254" itunes:key="L122" ttm:agent="v1">
+        <span begin="4:04.295" end="4:05.166">Kanapitapita </span>
+        <span begin="4:05.166" end="4:05.374">tu </span>
+        <span begin="4:05.374" end="4:05.894">akashei </span>
+        <span begin="4:05.894" end="4:06.254">namba</span>
+      </p>
+      <p begin="4:06.574" end="4:08.308" itunes:key="L123" ttm:agent="v1">
+        <span begin="4:06.574" end="4:06.868">Katemea </span>
+        <span begin="4:06.868" end="4:07.300">kabisa </span>
+        <span begin="4:07.300" end="4:07.572">khai </span>
+        <span begin="4:07.572" end="4:07.828">kana </span>
+        <span begin="4:07.828" end="4:08.308">ushamba</span>
+      </p>
+      <p begin="4:08.500" end="4:08.972" itunes:key="L124" ttm:agent="v1">
+        <span begin="4:08.500" end="4:08.692">Kana </span>
+        <span begin="4:08.692" end="4:08.972">hu</span>
+      </p>
+      <p begin="4:09.500" end="4:10.044" itunes:key="L125" ttm:agent="v1">
+        <span begin="4:09.500" end="4:09.748">Kana </span>
+        <span begin="4:09.748" end="4:10.044">hu</span>
+      </p>
+      <p begin="4:10.596" end="4:11.080" itunes:key="L126" ttm:agent="v1">
+        <span begin="4:10.596" end="4:10.804">Kana </span>
+        <span begin="4:10.804" end="4:11.080">hu</span>
+      </p>
+      <p begin="4:11.616" end="4:12.647" itunes:key="L127" ttm:agent="v1">
+        <span begin="4:11.616" end="4:11.984">Kana </span>
+        <span begin="4:11.984" end="4:12.647">ushamba</span>
+      </p>
+      <p begin="4:12.887" end="4:13.375" itunes:key="L128" ttm:agent="v1">
+        <span begin="4:12.887" end="4:13.071">Kana </span>
+        <span begin="4:13.071" end="4:13.375">hu</span>
+      </p>
+      <p begin="4:13.855" end="4:14.383" itunes:key="L129" ttm:agent="v1">
+        <span begin="4:13.855" end="4:14.079">Kana </span>
+        <span begin="4:14.079" end="4:14.383">hu</span>
+      </p>
+      <p begin="4:14.911" end="4:15.383" itunes:key="L130" ttm:agent="v1">
+        <span begin="4:14.911" end="4:15.119">Kana </span>
+        <span begin="4:15.119" end="4:15.383">hu</span>
+      </p>
+      <p begin="4:15.967" end="4:17.040" itunes:key="L131" ttm:agent="v1">
+        <span begin="4:15.967" end="4:16.359">Kana </span>
+        <span begin="4:16.359" end="4:17.040">ushamba</span>
+      </p>
+      <p begin="4:17.616" end="4:19.296" itunes:key="L132" ttm:agent="v1">
+        <span begin="4:17.616" end="4:17.824">Ka </span>
+        <span begin="4:17.824" end="4:18.040">mix </span>
+        <span begin="4:18.040" end="4:18.784">lizer </span>
+        <span begin="4:18.784" end="4:19.296">lizer</span>
+      </p>
+    </div>
+  </body>
+</tt>
