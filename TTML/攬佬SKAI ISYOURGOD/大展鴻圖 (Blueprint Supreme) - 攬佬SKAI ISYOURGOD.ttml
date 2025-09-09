@@ -1,0 +1,832 @@
+<?xml version="1.0"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word" xml:lang="zh-Hans">
+  <head>
+    <metadata>
+      <ttm:agent type="person" xml:id="v1"/>
+      <ttm:agent type="person" xml:id="v2"/>
+      <ttm:agent type="other" xml:id="v2000"/>
+      <iTunesMetadata xmlns="http://music.apple.com/lyric-ttml-internal">
+        <translations/>
+        <songwriters>
+          <songwriter>AR刘夫阳</songwriter>
+          <songwriter>SKAI ISYOURGOD</songwriter>
+        </songwriters>
+      </iTunesMetadata>
+    </metadata>
+  </head>
+  <body dur="3:31.678">
+    <div begin="24.439" end="44.908" itunes:songPart="Chorus">
+      <p begin="24.439" end="25.833" itunes:key="L1" ttm:agent="v1">
+        <span begin="24.439" end="25.213">别墅里面</span> 
+		    <span begin="25.213" end="25.583">唱</span> 
+		    <span begin="25.583" end="25.833">K</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Karaoke di vila, santai sampai gila
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="24.439" end="25.213">Bié shù lǐ miàn</span> <span begin="25.213" end="25.583">chàng</span> <span begin="25.583" end="25.833">K</span>
+        </span>
+    </p>
+      <p begin="27.152" end="28.504" itunes:key="L2" ttm:agent="v1">
+        <span begin="27.152" end="27.913">水池里面</span>
+        <span begin="27.913" end="28.504">银龙鱼</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Naga perak di kolam, berenang penuh gaya
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="27.152" end="27.913">Shuǐ chí lǐ miàn</span> <span begin="27.913" end="28.504">yín lóng yú</span>
+        </span>
+    </p>
+      <p begin="29.873" end="31.148" itunes:key="L3" ttm:agent="v1">
+        <span begin="29.873" end="30.682">我送阿叔</span>
+        <span begin="30.682" end="31.003">茶</span>
+        <span begin="31.003" end="31.148">具</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku kasih paman seperangkat teh
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="29.873" end="30.682">Wǒ sòng ā shū</span> <span begin="30.682" end="31.003">chá</span> <span begin="31.003" end="31.148">jù</span>
+        </span>
+    </p>
+      <p begin="31.158" end="33.870" itunes:key="L4" ttm:agent="v1">
+        <span begin="31.158" end="31.358">他</span>
+        <span begin="31.358" end="31.942">研墨</span>
+        <span begin="31.942" end="32.676">下笔</span> <span begin="32.676" end="33.870">直接给我四个字</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Dia gesek tinta, nulis empat kata pasti
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="31.158" end="31.358">Tā</span> <span begin="31.358" end="31.942">yán mò</span> <span begin="31.942" end="32.676">xià bǐ</span> <span begin="32.676" end="33.870">zhí jiē gěi wǒ sì gě zì</span>
+        </span>
+		</p>
+      <p begin="33.953" end="36.708" itunes:key="L5" ttm:agent="v1">
+		    <span begin="33.953" end="35.408">大展鸿图</span> <span begin="35.408" end="36.708">大师亲手提笔字</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Rencana Besar, Tulisannya Master, tangan dia sendiri
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="33.953" end="35.408">Dà zhǎn hóng tú,</span> <span begin="35.408" end="36.708">dà shī qīn shǒu dī bǐ zì</span>
+        </span>
+		</p>
+		  <p begin="36.731" end="39.370" itunes:key="L6" ttm:agent="v1">
+		    <span begin="36.731" end="38.132">大展鸿图</span> <span begin="38.132" end="39.370">搬来放在办公室</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Rencana Besar, Gua pajang di kantor, jadi lambang ambisi
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="36.731" end="38.132">Dà zhǎn hóng tú,</span> <span begin="38.132" end="39.370">bān lái fàng zài bàn gōng shì</span>
+        </span>
+		</p>
+      <p begin="39.450" end="42.336" itunes:key="L7" ttm:agent="v1">
+		    <span begin="39.450" end="40.799">大展鸿图</span> <span begin="40.799" end="41.232">关公</span>
+		    <span begin="41.232" end="41.587">都点</span>
+        <span begin="41.587" end="41.889">头</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Rencana Besar, Bahkan Guan Gong (dewa perang) pun mengangguk setuju
+        </span>
+        <span ttm:role="x-bg">
+		    <span begin="39.450" end="40.799">Dà zhǎn hóng tú,</span> <span begin="40.799" end="41.232">guān gōng</span> <span begin="41.232" end="41.587">dū diǎn</span> <span begin="41.587" end="41.889">tóu</span>
+        </span>
+    </p>
+      <p begin="41.889" end="42.336" itunes:key="L7" ttm:agent="v2">
+        <span begin="41.899" end="42.336">有料</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Ada isinya, berbobot
+        </span>
+        <span ttm:role="x-bg">
+		    <span begin="41.899" end="42.336">Yǒu liào</span>
+        </span>
+    </p>
+      <p begin="42.864" end="44.908" itunes:key="L8" ttm:agent="v1">
+        <span begin="42.864" end="43.975">鸿运不能总是</span>
+        <span begin="43.975" end="44.303">当</span>
+        <span begin="44.303" end="44.586">头</span> <span begin="44.586" end="44.908">因为</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Hoki gak selalu di atas, bro karena...
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="42.864" end="43.975">Hóng yùn bù néng zǒng shì</span> <span begin="43.975" end="44.303">dāng</span> <span begin="44.303" end="44.586">tóu,</span> <span begin="44.586" end="44.908">yīn wéi</span>
+        </span>
+    </p>
+    </div>
+    <div begin="44.918" end="1:06.687" itunes:songPart="Verse">
+      <p begin="44.918" end="47.330" itunes:key="L9" ttm:agent="v1">
+        <span begin="44.918" end="45.624">揽佬</span> <span begin="45.624" end="46.385">他说要玩</span>
+        <span begin="46.385" end="47.015">就要玩得</span>
+        <span begin="47.015" end="47.330">大</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Dia bilang, kalo main, harus main besar juga
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="44.918" end="45.624">Lǎn lǎo</span> <span begin="45.624" end="46.385">tā shuì yāo wán</span> <span begin="46.385" end="47.015">jìu yāo wán dé</span> <span begin="47.015" end="47.330">dà</span>
+        </span>
+    </p>
+      <p begin="47.330" end="51.032" itunes:key="L10" ttm:agent="v1">
+        <span begin="47.330" end="47.744">玩得</span>
+        <span begin="47.744" end="48.259">大点</span> <span begin="48.259" end="48.744">贼船</span>
+        <span begin="48.744" end="49.078">越大</span> 
+        <span begin="49.078" end="49.439">老鼠才</span>
+        <span begin="49.439" end="50.002">坐得下</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Semakin besar taruhannya, semakin banyak orang bisa ikut
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="47.330" end="47.744">Wán dé</span> <span begin="47.744" end="48.259">dà diǎn</span> <span begin="48.259" end="48.744">zéi chuán</span> <span begin="48.744" end="49.078">yuè dà</span> <span begin="49.078" end="49.439">lǎo shǔ cái</span> <span begin="49.439" end="50.002">zuò dé xià</span>
+        </span>
+    </p>
+      <p begin="50.012" end="51.032" itunes:key="L10" ttm:agent="v2">
+        <span begin="50.012" end="51.032">养下宠物</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Seperti pelihara hewan
+        </span>
+        <span ttm:role="x-bg">
+		    <span begin="50.012" end="51.032">Yǎng xià chǒng wù</span>
+        </span>
+    </p>
+      <p begin="51.042" end="53.754" itunes:key="L11" ttm:agent="v1">
+        <span begin="51.042" end="51.805">得罪小人</span>
+        <span begin="51.805" end="52.120">没关</span>
+        <span begin="52.120" end="52.467">系</span> <span begin="52.467" end="53.143">得罪君子我</span>
+        <span begin="53.143" end="53.754">看不起</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Bikin marah orang kecil tak apa, tapi kalau menyakiti orang bijak, aku tak respek
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="51.042" end="51.805">Dé zuì xiǎo rén</span> <span begin="51.805" end="52.120">méi guān</span> <span begin="52.120" end="52.467">xì</span> <span begin="52.467" end="53.143">dé zuì jūn zǐ wǒ</span> <span begin="53.143" end="53.754">kān bù qǐ</span>
+        </span>
+    </p>
+      <p begin="53.764" end="56.446" itunes:key="L12" ttm:agent="v1">
+        <span begin="53.764" end="54.195">世上</span>
+        <span begin="54.195" end="54.563">君子</span>
+        <span begin="54.563" end="55.050">不贪杯</span> <span begin="55.050" end="55.205">等于</span>
+        <span begin="55.205" end="55.555">得</span>
+        <span begin="55.555" end="55.925">罪了</span>
+        <span begin="55.925" end="56.130">道</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Orang bijak sejati tak mabuk harta, melawan mereka sama saja melawan jalan hidup
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="53.764" end="54.195">Shì shǎng</span> <span begin="54.195" end="54.563">jūn zi</span> <span begin="54.563" end="55.050">bù tān bēi</span> <span begin="55.050" end="55.205">děng yú</span> <span begin="55.205" end="55.555">dé</span> <span begin="55.555" end="55.925">zuì le</span> <span begin="55.925" end="56.130">dào</span>
+        </span>
+    </p>
+      <p begin="56.140" end="56.446" itunes:key="L12" ttm:agent="v2">
+        <span begin="56.140" end="56.446">对</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Benar
+        </span>
+        <span ttm:role="x-bg">
+		    <span begin="56.140" end="56.446">Duì</span>
+        </span>
+    </p>
+      <p begin="56.456" end="58.229" itunes:key="L13" ttm:agent="v1">
+        <span begin="56.456" end="57.232">黑灰蓝白</span> <span begin="57.232" end="57.587">道亦</span>
+        <span begin="57.587" end="57.934">有</span>
+        <span begin="57.934" end="58.229">道</span>
+        <span ttm:role="x-translation" xml:lang="IDN">itam abu biru putih — tiap jalan punya jalannya
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="56.456" end="57.232">Hēi huī lán bái</span> <span begin="57.232" end="57.587">dào yì</span> <span begin="57.587" end="57.934">yǒu</span> <span begin="57.934" end="58.229">dào</span>
+        </span>
+    </p>
+      <p begin="59.232" end="1:01.333" itunes:key="L14" ttm:agent="v1">
+        <span begin="59.232" end="59.515">逆</span>
+        <span begin="59.515" end="1:00.296">流才会水涨</span>
+        <span begin="1:00.296" end="1:00.900">船高</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Melawan arus, baru kapal bisa naik lebih tinggi
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="59.232" end="59.515">Nì</span> <span begin="59.515" end="1:00.296">líu cái huì shuǐ zhǎng</span> <span begin="1:00.296" end="1:00.900">chuán gāo</span>
+        </span>
+    </p>
+        <p begin="1:00.910" end="1:01.333" itunes:key="L15" ttm:agent="v2">
+        <span begin="1:00.910" end="1:01.333">对</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Benar
+        </span>
+        <span ttm:role="x-bg">
+		    <span begin="1:00.910" end="1:01.333">Duì</span>
+        </span>
+    </p>
+        <p begin="1:01.931" end="1:04.396" itunes:key="L15" ttm:agent="v1">
+        <span begin="1:01.931" end="1:02.198">爱</span>
+        <span begin="1:02.198" end="1:02.723">财如命的</span>
+        <span begin="1:02.723" end="1:03.051">人</span>
+        <span begin="1:03.051" end="1:03.310">没有</span>
+        <span begin="1:03.310" end="1:03.656">义</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Yang gila harta, tak punya kesetiaan
+        </span>
+        <span ttm:role="x-bg">
+		    <span begin="1:01.931" end="1:02.198">Ài</span> <span begin="1:02.198" end="1:02.723">cái rú mìng de</span> <span begin="1:02.723" end="1:03.051">rén</span> <span begin="1:03.051" end="1:03.310">méi yǒu</span> <span begin="1:03.310" end="1:03.656">yì</span>
+        </span>
+    </p>
+      <p begin="1:03.666" end="1:04.019" itunes:key="L15" ttm:agent="v2">
+        <span begin="1:03.666" end="1:04.019">好</span>
+        <span begin="1:04.019" end="1:04.396">多</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Banyak
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:03.666" end="1:04.019">Hǎo</span> <span begin="1:04.019" end="1:04.396">duō</span>
+        </span>
+    </p>
+      <p begin="1:04.670" end="1:06.687" itunes:key="L16" ttm:agent="v1">
+        <span begin="1:04.670" end="1:05.072">我说</span>
+        <span begin="1:05.072" end="1:05.813">是对兄弟</span>
+        <span begin="1:05.813" end="1:06.130">不是</span>
+        <span begin="1:06.130" end="1:06.402">pu</span>
+        <span begin="1:06.402" end="1:06.687">ssy</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku bilang ini buat lu semua, bukan buat pengecut
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:04.670" end="1:05.072">Wǒ shuì</span> <span begin="1:05.072" end="1:05.813">shì duì xiōng dì</span> <span begin="1:05.813" end="1:06.130">bù shì</span> <span begin="1:06.130" end="1:06.402">pu</span><span begin="1:06.402" end="1:06.687">ssy</span>
+        </span>
+    </p>
+    </div>
+    <div begin="1:06.697" end="1:18.349" itunes:songPart="Verse">
+      <p begin="1:06.697" end="1:08.004" itunes:key="L17" ttm:agent="v1">
+        <span begin="1:06.697" end="1:07.532">细佬安之</span>
+        <span begin="1:07.532" end="1:08.004">若命</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Adik kecil hidup tenang sesuai nasibnya
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:06.697" end="1:07.532">Xì lǎo ān zhī</span> <span begin="1:07.532" end="1:08.004">rě mìng</span>
+        </span>
+    </p>
+      <p begin="1:08.044" end="1:09.369" itunes:key="L18" ttm:agent="v1">
+        <span begin="1:08.044" end="1:08.815">颠佬听天</span>
+        <span begin="1:08.815" end="1:09.369">由命</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Yang gila pasrah pada takdir
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:08.044" end="1:08.815">Diān lǎo yǐn tiān</span> <span begin="1:08.815" end="1:09.369">yóu mìng</span>
+        </span>
+    </p>
+      <p begin="1:09.400" end="1:10.807" itunes:key="L19" ttm:agent="v1">
+        <span begin="1:09.400" end="1:09.861">揽佬</span>
+        <span begin="1:09.861" end="1:10.210">拿把</span>
+        <span begin="1:10.210" end="1:10.807">霜之哀伤</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Saudaraku angkat pedang legendaris “Frostmourne”
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:09.400" end="1:09.861">Lǎn lǎo</span> <span begin="1:09.861" end="1:10.210">ná bǎ</span> <span begin="1:10.210" end="1:10.807">shuāng zhī āi shāng</span>
+        </span>
+    </p>
+      <p begin="1:10.817" end="1:12.174" itunes:key="L20" ttm:agent="v1">
+        <span begin="1:10.817" end="1:11.599">剑指妖魔</span>
+        <span begin="1:11.599" end="1:12.174">革命</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Pedangnya mengarah ke iblis, siap revolusi
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:10.817" end="1:11.599">Jiàn zhǐ yāo mó</span> <span begin="1:11.599" end="1:12.174">gé mìng</span>
+        </span>
+    </p>
+      <p begin="1:11.738" end="1:12.174" itunes:key="L20" ttm:agent="v2">
+        <span begin="1:11.738" end="1:12.174">革命</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Revolusi
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:11.738" end="1:12.174">Gé mìng</span>
+        </span>
+    </p>
+      <p begin="1:12.184" end="1:13.517" itunes:key="L21" ttm:agent="v1">
+        <span begin="1:12.184" end="1:12.970">人太沉迷</span>
+        <span begin="1:12.970" end="1:13.517">收米</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Banyak orang terlalu sibuk cari uang
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:12.184" end="1:12.970">Rén tài chén mí</span> <span begin="1:12.970" end="1:13.517">shōu mǐ</span>
+        </span>
+    </p>
+      <p begin="1:13.547" end="1:14.806" itunes:key="L22" ttm:agent="v1">
+        <span begin="1:13.547" end="1:14.351">人情软过</span>
+        <span begin="1:14.351" end="1:14.806">玻璃</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Hubungan manusia rapuh seperti kaca
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:13.547" end="1:14.351">Rén qíng ruǎn guō</span> <span begin="1:14.351" end="1:14.806">bō lí</span>
+        </span>
+    </p>
+      <p begin="1:14.890" end="1:16.269" itunes:key="L23" ttm:agent="v1">
+        <span begin="1:14.890" end="1:15.228">江</span>
+        <span begin="1:15.228" end="1:15.681">湖总是</span>
+        <span begin="1:15.681" end="1:16.269">形形色色</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Dunia ini penuh macam-macam orang
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:14.890" end="1:15.228">Jiāng</span> <span begin="1:15.228" end="1:15.681">hú zǒng shì</span> <span begin="1:15.681" end="1:16.269">xíng xíng sè sè</span>
+        </span>
+    </p>
+      <p begin="1:16.279" end="1:18.349" itunes:key="L24" ttm:agent="v1">
+        <span begin="1:16.279" end="1:17.071">谁还没点</span>
+        <span begin="1:17.071" end="1:17.656">诟病</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Siapa sih yang tak pernah salah?
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:16.279" end="1:17.071">Shéi huán méi diǎn</span> <span begin="1:17.071" end="1:17.656">gòu bìng</span>
+        </span>
+    </p>
+      <p begin="1:17.666" end="1:18.349" itunes:key="L24" ttm:agent="v2">
+        <span begin="1:17.666" end="1:18.349">一个 二个</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Satu, dua…
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:17.666" end="1:18.349">Yī gě èr gě</span>
+        </span>
+    </p>
+    </div>
+    <div begin="1:18.359" end="1:28.206" itunes:songPart="Verse">
+      <p begin="1:18.359" end="1:19.556" itunes:key="L25" ttm:agent="v1">
+        <span begin="1:18.359" end="1:19.556">阿叔喜欢看风景</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Paman suka lihat pemandangan
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:18.359" end="1:19.556">Ā shū xǐ huān kān fēng jǐng</span>
+        </span>
+    </p>
+      <p begin="1:19.656" end="1:23.136" itunes:key="L26" ttm:agent="v1">
+        <span begin="1:19.656" end="1:20.317">揽佬</span>
+        <span begin="1:20.317" end="1:21.010">听我讲</span> <span begin="1:21.010" end="1:21.360">街</span>
+        <span begin="1:21.360" end="1:22.364">头中无道</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Di jalanan gak ada yang kasih ampun
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:19.656" end="1:20.317">Lǎn lǎo</span> <span begin="1:20.317" end="1:21.010">yǐn wǒ jiǎng</span> <span begin="1:21.010" end="1:21.360">jiē</span> <span begin="1:21.360" end="1:22.364">tóu zhōng mó dào</span>
+        </span>
+    </p>
+      <p begin="1:22.374" end="1:23.136" itunes:key="L26" ttm:agent="v2">
+        <span begin="1:22.374" end="1:23.136">废掉</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Hancurkan
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:22.374" end="1:23.136">Fèi diào</span>
+        </span>
+    </p>
+      <p begin="1:23.758" end="1:25.817" itunes:key="L27" ttm:agent="v1">
+        <span begin="1:23.758" end="1:24.784">揽佬要没钱</span>
+        <span begin="1:24.784" end="1:25.128">也得</span>
+        <span begin="1:25.128" end="1:25.817">搏命揾</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Skai meski bokek tetep perang sampe dapet untung
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:23.758" end="1:24.784">Lǎn lǎo yāo méi qián</span> <span begin="1:24.784" end="1:25.128">yě dé</span> <span begin="1:25.128" end="1:25.817">bó mìng wěn</span>
+        </span>
+    </p>
+      <p begin="1:25.817" end="1:28.206" itunes:key="L28" ttm:agent="v1">
+        <span begin="1:25.817" end="1:26.565">满地</span>
+        <span begin="1:26.565" end="1:27.205">劳力士</span>
+        <span begin="1:27.205" end="1:27.607">还是</span>
+        <span begin="1:27.607" end="1:28.206">AMG</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Mau Rolex atau AMG, tekad harus untung
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:25.817" end="1:26.565">Mǎn de</span> <span begin="1:26.565" end="1:27.205">láo lì shì</span> <span begin="1:27.205" end="1:27.607">huán shì</span> <span begin="1:27.607" end="1:28.206">AMG</span>
+        </span>
+    </p>
+    </div>
+    <div begin="1:28.206" end="1:33.772" itunes:songPart="PreChorus" ttm:agent="v2000">
+        <p begin="1:28.206" end="1:31.035" itunes:key="L29" ttm:agent="v2000">
+        <span begin="1:28.206" end="1:28.937">哎</span> <span begin="1:29.973" end="1:30.370">道亦</span>
+        <span begin="1:30.370" end="1:31.035">有道</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Ingat, jalan tetap ada jalannya
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:28.206" end="1:28.937">Āi</span> <span begin="1:29.973" end="1:30.370">dào yì</span> <span begin="1:30.370" end="1:31.035">yǒu dào</span>
+        </span>
+    </p>
+        <p begin="1:31.804" end="1:33.772" itunes:key="L30" ttm:agent="v2000">
+        <span begin="1:31.804" end="1:32.491">啊</span> <span begin="1:32.513" end="1:32.780">不是</span>
+        <span begin="1:32.780" end="1:33.289">强盗的</span>
+        <span begin="1:33.289" end="1:33.772">盗</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Bukan jalan perampok
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:31.804" end="1:32.491">Ā</span> <span begin="1:32.513" end="1:32.780">bù shì</span> <span begin="1:32.780" end="1:33.289">qiáng dào de</span> <span begin="1:33.289" end="1:33.772">dào</span>
+        </span>
+    </p>
+    </div>
+    <div begin="1:40.835" end="2:01.245" itunes:songPart="Chorus">
+      <p begin="1:40.835" end="1:42.219" itunes:key="L31" ttm:agent="v1">
+        <span begin="1:40.835" end="1:41.609">别墅里面</span>
+        <span begin="1:41.609" end="1:41.979">唱</span>
+        <span begin="1:41.979" end="1:42.219">K</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Karaoke di vila, santai sampai gila
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:40.835" end="1:41.609">Bié shù lǐ miàn</span> <span begin="1:41.609" end="1:41.979">chàng</span> <span begin="1:41.979" end="1:42.219">K</span>
+        </span>
+    </p>
+      <p begin="1:43.502" end="1:44.854" itunes:key="L32" ttm:agent="v1">
+        <span begin="1:43.502" end="1:44.263">水池里面</span>
+        <span begin="1:44.263" end="1:44.854">银龙鱼</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Naga perak di kolam, berenang penuh gaya
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:43.502" end="1:44.263">Shuǐ chí lǐ miàn</span> <span begin="1:44.263" end="1:44.854">yín lóng yú</span>
+        </span>
+    </p>
+      <p begin="1:46.273" end="1:47.548" itunes:key="L33" ttm:agent="v1">
+        <span begin="1:46.273" end="1:47.082">我送阿叔</span>
+        <span begin="1:47.082" end="1:47.403">茶</span>
+        <span begin="1:47.403" end="1:47.548">具</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku kasih paman seperangkat teh
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:46.273" end="1:47.082">Wǒ sòng ā shū</span> <span begin="1:47.082" end="1:47.403">chá</span> <span begin="1:47.403" end="1:47.548">jù</span>
+        </span>
+    </p>
+      <p begin="1:47.506" end="1:50.218" itunes:key="L34" ttm:agent="v1">
+        <span begin="1:47.506" end="1:47.706">他</span>
+        <span begin="1:47.706" end="1:48.290">研墨</span>
+        <span begin="1:48.290" end="1:48.991">下笔</span> <span begin="1:48.991" end="1:50.218">直接给我四个字</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Dia gesek tinta, nulis empat kata pasti
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:47.506" end="1:47.706">Tā</span> <span begin="1:47.706" end="1:48.290">yán mò</span> <span begin="1:48.290" end="1:48.991">xià bǐ</span> <span begin="1:48.991" end="1:50.218">zhí jiē gěi wǒ sì gě zì</span>
+        </span>
+    </p>
+      <p begin="1:50.309" end="1:53.064" itunes:key="L35" ttm:agent="v1">
+        <span begin="1:50.309" end="1:51.808">大展鸿图</span> <span begin="1:51.808" end="1:53.064">大师亲手提笔字</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Rencana Besar, Tulisannya Master, tangan dia sendiri
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:50.309" end="1:51.808">Dà zhǎn hóng tú,</span> <span begin="1:51.808" end="1:53.064">dà shī qīn shǒu dī bǐ zì</span>
+        </span>
+    </p>
+      <p begin="1:53.062" end="1:55.701" itunes:key="L36" ttm:agent="v1">
+        <span begin="1:53.062" end="1:54.531">大展鸿图</span> <span begin="1:54.531" end="1:55.701">搬来放在办公室</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Rencana Besar, Gua pajang di kantor, jadi lambang ambisi
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:53.062" end="1:54.531">Dà zhǎn hóng tú,</span> <span begin="1:54.531" end="1:55.701">bān lái fàng zài bàn gōng shì</span>
+        </span>
+    </p>
+      <p begin="1:55.804" end="1:58.764" itunes:key="L37" ttm:agent="v1">
+        <span begin="1:55.804" end="1:57.251">大展鸿图</span> <span begin="1:57.251" end="1:57.577">关公</span>
+        <span begin="1:57.577" end="1:57.902">都点</span>
+        <span begin="1:57.902" end="1:58.243">头</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Rencana Besar, Bahkan Guan Gong (dewa perang) pun mengangguk setuju
+        </span>
+        <span ttm:role="x-bg">
+		    <span begin="1:55.804" end="1:57.251">Dà zhǎn hóng tú,</span> <span begin="1:57.251" end="1:57.577">guān gōng</span> <span begin="1:57.577" end="1:57.902">dū diǎn</span> <span begin="1:57.902" end="1:58.243">tóu</span>
+        </span>
+    </p>
+      <p begin="1:58.201" end="1:58.764" itunes:key="L37" ttm:agent="v2">
+        <span begin="1:58.201" end="1:58.764">有料</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Ada isinya, berbobot
+        </span>
+        <span ttm:role="x-bg">
+		    <span begin="1:58.201" end="1:58.764">Yǒu liào</span>
+        </span>
+    </p>
+      <p begin="1:59.201" end="2:01.245" itunes:key="L38" ttm:agent="v1">
+        <span begin="1:59.201" end="2:00.312">鸿运不能总是</span>
+        <span begin="2:00.312" end="2:00.640">当</span>
+        <span begin="2:00.640" end="2:00.923">头</span> <span begin="2:00.923" end="2:01.245">因为</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Hoki gak selalu di atas, bro karena...
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="1:59.201" end="2:00.312">Hóng yùn bù néng zǒng shì</span> <span begin="2:00.312" end="2:00.640">dāng</span> <span begin="2:00.640" end="2:00.923">tóu,</span> <span begin="2:00.923" end="2:01.245">yīn wéi</span>
+        </span>
+    </p>
+    </div>
+    <div begin="2:00.887" end="2:09.462" itunes:songPart="Verse" ttm:agent="v2000">
+      <p begin="2:00.887" end="2:01.705" itunes:key="L39" ttm:agent="v2000">
+        <span begin="2:00.887" end="2:01.311">冇</span>
+        <span begin="2:01.311" end="2:01.705">錯</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Betul!
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:00.887" end="2:01.311">Mǎo</span> <span begin="2:01.311" end="2:01.705">cuò</span>
+        </span>
+    </p>
+      <p begin="2:01.608" end="2:03.921" itunes:key="L40" ttm:agent="v2">
+        <span begin="2:01.608" end="2:02.002">骑楼</span>
+        <span begin="2:02.002" end="2:02.266">混</span>
+        <span begin="2:02.266" end="2:02.366">着</span> <span begin="2:02.366" end="2:02.719">六六</span>
+        <span begin="2:02.719" end="2:02.905">大</span>
+        <span begin="2:02.905" end="2:03.059">顺</span> <span begin="2:03.059" end="2:03.265">Man,</span> <span begin="2:03.265" end="2:03.443">we're</span> <span begin="2:03.443" end="2:03.921">good</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Di bawah arcade, 66 lancar — gua stay hood
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:01.608" end="2:02.002">Jì lóu</span> <span begin="2:02.002" end="2:02.266">hún</span> <span begin="2:02.266" end="2:02.366">zhāo</span> <span begin="2:02.366" end="2:02.719">lìu lìu</span> <span begin="2:02.719" end="2:02.905">dà</span> <span begin="2:02.905" end="2:03.059">shùn</span> <span begin="2:03.059" end="2:03.265">Man,</span> <span begin="2:03.265" end="2:03.443">we're</span> <span begin="2:03.443" end="2:03.921">good</span>
+        </span>
+    </p>
+      <p begin="2:03.710" end="2:04.528" itunes:key="L41" ttm:agent="v2000">
+        <span begin="2:03.710" end="2:04.134">冇</span>
+        <span begin="2:04.134" end="2:04.528">錯</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Betul!
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:03.710" end="2:04.134">Mǎo</span> <span begin="2:04.134" end="2:04.528">cuò</span>
+        </span>
+    </p>
+      <p begin="2:04.382" end="2:06.479" itunes:key="L42" ttm:agent="v2">
+        <span begin="2:04.382" end="2:04.723">骑行</span>
+        <span begin="2:04.723" end="2:05.064">越秀</span> <span begin="2:05.064" end="2:05.415">小北</span> <span begin="2:05.415" end="2:05.755">淘金</span>
+        <span begin="2:05.755" end="2:06.479">我的hood</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Gowes di Yuexiu, Siu Bei, Taojin — ini hood-ku
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:04.382" end="2:04.723">Jì háng</span> <span begin="2:04.723" end="2:05.064">yuè xìu</span> <span begin="2:05.064" end="2:05.415">xiǎo běi</span> <span begin="2:05.415" end="2:05.755">táo jīn</span> <span begin="2:05.755" end="2:06.479">wǒ de hood</span>
+        </span>
+    </p>
+      <p begin="2:06.489" end="2:07.307" itunes:key="L43" ttm:agent="v2000">
+        <span begin="2:06.489" end="2:06.913">冇</span>
+        <span begin="2:06.913" end="2:07.307">錯</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Betul!
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:06.489" end="2:06.913">Mǎo</span> <span begin="2:06.913" end="2:07.307">cuò</span>
+        </span>
+    </p>
+      <p begin="2:07.058" end="2:09.462" itunes:key="L44" ttm:agent="v2">
+        <span begin="2:07.058" end="2:07.486">帝女</span>
+        <span begin="2:07.486" end="2:07.692">花</span>
+        <span begin="2:07.692" end="2:08.130">是我的</span>
+        <span begin="2:08.130" end="2:08.798">California</span> <span begin="2:08.798" end="2:09.462">love</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Di Nu Hua — versi gua dari “California Love”
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:07.058" end="2:07.486">Dì nü</span> <span begin="2:07.486" end="2:07.692">huā</span> <span begin="2:07.692" end="2:08.130">shì wǒ de</span> <span begin="2:08.130" end="2:08.798">California</span> <span begin="2:08.798" end="2:09.462">love</span>
+        </span>
+    </p>
+    </div>
+    <div begin="2:08.938" end="2:22.726" itunes:songPart="Verse" ttm:agent="v2">
+      <p begin="2:08.938" end="2:12.092" itunes:key="L45" ttm:agent="v2">
+        <span begin="2:08.938" end="2:09.451">听任剑</span>
+        <span begin="2:09.451" end="2:09.683">辉</span>
+        <span begin="2:09.683" end="2:10.049">跟白雪</span>
+        <span begin="2:10.049" end="2:10.409">仙</span> <span begin="2:10.409" end="2:10.825">白云</span>
+        <span begin="2:10.825" end="2:11.132">吃</span>
+        <span begin="2:11.132" end="2:11.551">个农家</span>
+        <span begin="2:11.551" end="2:12.092">乐</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Denger Yam Kim Fai dan Bak Suet Sin di Baiyun, makan nongjiale
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:08.938" end="2:09.451">Yǐn rén jiàn</span> <span begin="2:09.451" end="2:09.683">huī</span> <span begin="2:09.683" end="2:10.049">gēn bái xuě</span> <span begin="2:10.049" end="2:10.409">xiān</span> <span begin="2:10.409" end="2:10.825">bái yún</span> <span begin="2:10.825" end="2:11.132">chī</span> <span begin="2:11.132" end="2:11.551">gě nóng jiā</span> <span begin="2:11.551" end="2:12.092">lè</span>
+        </span>
+    </p>
+        <p begin="2:11.862" end="2:14.623" itunes:key="L46" ttm:agent="v2">
+        <span begin="2:11.862" end="2:12.313">太平</span>
+        <span begin="2:12.313" end="2:12.908">馆西餐厅</span>
+        <span begin="2:12.908" end="2:13.264">搬了</span> <span begin="2:13.264" end="2:13.636">但精</span>
+        <span begin="2:13.636" end="2:13.826">气</span>
+        <span begin="2:13.826" end="2:14.623">神还在这</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Taiping cabut/pindah, tapi auranya masih nyata
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:11.862" end="2:12.313">Tài píng</span> <span begin="2:12.313" end="2:12.908">guǎn xī cān tīng</span> <span begin="2:12.908" end="2:13.264">bān le</span> <span begin="2:13.264" end="2:13.636">dàn jīng</span> <span begin="2:13.636" end="2:13.826">qì</span> <span begin="2:13.826" end="2:14.623">shén huán zài zhè</span>
+        </span>
+    </p>
+       <p begin="2:14.633" end="2:17.476" itunes:key="L47" ttm:agent="v2">
+        <span begin="2:14.633" end="2:15.335">敌人幻想</span>
+        <span begin="2:15.335" end="2:15.690">变泡</span>
+        <span begin="2:15.690" end="2:15.895">沫</span> <span begin="2:15.895" end="2:16.399">像烧腊</span>
+        <span begin="2:16.399" end="2:16.620">店</span>
+        <span begin="2:16.620" end="2:16.988">的外卖</span>
+        <span begin="2:16.988" end="2:17.476">盒</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Musuh halu jadi gelembung, kayak box siu lap
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:14.633" end="2:15.335">Dí rén huàn xiǎng</span> <span begin="2:15.335" end="2:15.690">biàn pāo</span> <span begin="2:15.690" end="2:15.895">mò</span> <span begin="2:15.895" end="2:16.399">xiàng shāo xī</span> <span begin="2:16.399" end="2:16.620">diàn</span> <span begin="2:16.620" end="2:16.988">de wài mài</span> <span begin="2:16.988" end="2:17.476">hé</span>
+        </span>
+    </p>
+        <p begin="2:17.286" end="2:19.837" itunes:key="L48" ttm:agent="v2">
+        <span begin="2:17.286" end="2:17.862">路上买</span>
+        <span begin="2:17.862" end="2:18.558">个九爷鸡</span> <span begin="2:18.558" end="2:19.255">火锅里烫</span>
+        <span begin="2:19.255" end="2:19.837">个娃娃菜</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Beli ayam Jiuye, celup sawi ke hotpot-nya
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:17.286" end="2:17.862">Lù shǎng mǎi</span> <span begin="2:17.862" end="2:18.558">gě jǐu yé jī</span> <span begin="2:18.558" end="2:19.255">huǒ guō lǐ tàng</span> <span begin="2:19.255" end="2:19.837">gě wá wá cài</span>
+        </span>
+    </p>
+      <p begin="2:19.847" end="2:22.726" itunes:key="L49" ttm:agent="v2">
+        <span begin="2:19.847" end="2:20.792">那宵夜来自</span>
+        <span begin="2:20.792" end="2:21.300">大排档</span> <span begin="2:21.300" end="2:21.722">我们却</span>
+        <span begin="2:21.722" end="2:22.726">被人当大牌</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Makan kaki lima, tapi dilihat kayak superstar
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:19.847" end="2:20.792">Nā xiāo yè lái zì</span> <span begin="2:20.792" end="2:21.300">dà pái dǎng</span> <span begin="2:21.300" end="2:21.722">wǒ men què</span> <span begin="2:21.722" end="2:22.726">bèi rén dāng dà pái</span>
+        </span>
+    </p>
+    </div>
+    <div begin="2:22.736" end="2:30.935" itunes:songPart="Verse" ttm:agent="v2">
+      <p begin="2:22.736" end="2:24.706" itunes:key="L50" ttm:agent="v2">
+        <span begin="2:22.736" end="2:23.150">广东</span>
+        <span begin="2:23.150" end="2:23.790">人喺北京</span> <span begin="2:23.790" end="2:24.706">唱住粤语rap</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Anak Guangdong di Beijing
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:22.736" end="2:23.150">Yǎn dōng</span> <span begin="2:23.150" end="2:23.790">rén xǐ běi jīng</span> <span begin="2:23.790" end="2:24.706">chàng zhù yuè yǔ rap</span>
+        </span>
+    </p>
+      <p begin="2:24.706" end="2:25.312" itunes:key="L51" ttm:agent="v2">
+        <span begin="2:24.706" end="2:24.953">Man,</span> <span begin="2:24.953" end="2:25.053">we</span> <span begin="2:25.053" end="2:25.161">stand</span> <span begin="2:25.161" end="2:25.312">up</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Tetap rap Kanton — stand up!
+        </span>
+    </p>
+      <p begin="2:25.322" end="2:28.061" itunes:key="L52" ttm:agent="v2">
+        <span begin="2:25.322" end="2:25.713">话stand</span>
+        <span begin="2:25.713" end="2:26.236">唔到嘅</span> <span begin="2:26.236" end="2:26.913">屌佢屌到</span>
+        <span begin="2:26.913" end="2:27.401">佢阿妈</span>
+        <span begin="2:27.401" end="2:27.961">都唔认</span>
+        <span begin="2:27.961" end="2:28.061">得</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Kalo lo bilang gak bisa stand up?, gua maki Sampe emak lo gak kenal
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:25.322" end="2:25.713">Hu stand</span> <span begin="2:25.713" end="2:26.236">wú dào gě</span> <span begin="2:26.236" end="2:26.913">diǎo qú diǎo dào</span> <span begin="2:26.913" end="2:27.401">qú ā mā</span> <span begin="2:27.401" end="2:27.961">dū wú rèn</span> <span begin="2:27.961" end="2:28.061">dé</span>
+        </span>
+    </p>
+      <p begin="2:28.005" end="2:30.935" itunes:key="L53" ttm:agent="v2">
+        <span begin="2:28.005" end="2:28.513">喺珠江</span>
+        <span begin="2:28.513" end="2:28.795">skr</span> <span begin="2:28.795" end="2:29.291">当我赛龙</span>
+        <span begin="2:29.291" end="2:29.470">舟</span> <span begin="2:29.470" end="2:29.954">然后啫啫</span>
+        <span begin="2:29.954" end="2:30.132">煲</span> <span begin="2:30.132" end="2:30.671">同饮凉</span>
+        <span begin="2:30.671" end="2:30.935">茶</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Zhujiang skr — lomba naga, makan jeje pot, minum liang cha
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:28.005" end="2:28.513">Xǐ zhū jiāng</span> <span begin="2:28.513" end="2:28.795">skr</span> <span begin="2:28.795" end="2:29.291">dāng wǒ sài lóng</span> <span begin="2:29.291" end="2:29.470">zhōu</span> <span begin="2:29.470" end="2:29.954">rán hòu zhě zhě</span> <span begin="2:29.954" end="2:30.132">bāo</span> <span begin="2:30.132" end="2:30.671">tóng yǐn liáng</span> <span begin="2:30.671" end="2:30.935">chá</span>
+        </span>
+    </p>
+    </div>
+    <div begin="2:30.935" end="2:46.057" itunes:songPart="Verse" ttm:agent="v2">
+      <p begin="2:30.935" end="2:32.725" itunes:key="L54" ttm:agent="v2">
+        <span begin="2:30.935" end="2:31.592">Uhh,</span> <span begin="2:31.592" end="2:32.093">cook,</span> <span begin="2:32.093" end="2:32.485">cook,</span> <span begin="2:32.485" end="2:32.725">cook</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Uhh, masak terus, masak terus
+        </span>
+    </p>
+      <p begin="2:32.938" end="2:33.995" itunes:key="L55" ttm:agent="v2">
+        <span begin="2:32.938" end="2:33.726">中华小当</span>
+        <span begin="2:33.726" end="2:33.995">家</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Master Chef cilik dari China
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:32.938" end="2:33.726">Zhōng huá xiǎo dāng</span> <span begin="2:33.726" end="2:33.995">jiā</span>
+        </span>
+    </p>
+      <p begin="2:33.995" end="2:35.178" itunes:key="L56" ttm:agent="v2">
+        <span begin="2:33.995" end="2:34.340">广东</span>
+        <span begin="2:34.340" end="2:34.730">街头潮流</span>
+        <span begin="2:34.730" end="2:34.970">trend</span>
+        <span begin="2:34.970" end="2:35.178">setter</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Trendsetter dari jalanan Guangdong, boss selamanya
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:33.995" end="2:34.340">Yǎn dōng</span> <span begin="2:34.340" end="2:34.730">jiē tóu cháo líu</span> <span begin="2:34.730" end="2:34.970">trend</span> <span begin="2:34.970" end="2:35.178">setter</span>
+        </span>
+    </p>
+      <p begin="2:35.188" end="2:36.639" itunes:key="L57" ttm:agent="v2">
+        <span begin="2:35.188" end="2:35.705">海印打口</span>
+        <span begin="2:35.705" end="2:35.968">CD</span> <span begin="2:35.968" end="2:36.639">箱子肩背着</span>
+        <span ttm:role="x-translation" xml:lang="IDN">CD bajakan dari Haiyin, gua angkut kemana aja
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:35.188" end="2:35.705">Hǎi yìn dá kǒu</span> <span begin="2:35.705" end="2:35.968">CD</span> <span begin="2:35.968" end="2:36.639">xiāng zǐ jiān bēi zhāo</span>
+        </span>
+    </p>
+      <p begin="2:36.639" end="2:38.611" itunes:key="L58" ttm:agent="v2">
+        <span begin="2:36.639" end="2:37.321">在那spa游泳</span>
+        <span begin="2:37.321" end="2:37.539">池</span> <span begin="2:37.539" end="2:37.932">水质</span>
+        <span begin="2:37.932" end="2:38.132">必须</span>
+        <span begin="2:38.132" end="2:38.340">够</span>
+        <span begin="2:38.340" end="2:38.611">干净</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Di kolam spa, airnya harus jernih
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:36.639" end="2:37.321">zài nā spa yóu yǒng</span> <span begin="2:37.321" end="2:37.539">chí</span> <span begin="2:37.539" end="2:37.932">shuǐ zhì</span> <span begin="2:37.932" end="2:38.132">bì xū</span> <span begin="2:38.132" end="2:38.340">gòu</span> <span begin="2:38.340" end="2:38.611">gān jìng</span>
+        </span>
+    </p>
+      <p begin="2:38.611" end="2:39.344" itunes:key="L59" ttm:agent="v2">
+        <span begin="2:38.611" end="2:38.876">这是</span>
+        <span begin="2:38.876" end="2:39.118">"潜</span>
+        <span begin="2:39.118" end="2:39.344">规则"</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Itu aturan tak tertulis
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:38.611" end="2:38.876">zhè shì</span> <span begin="2:38.876" end="2:39.118">"qián</span> <span begin="2:39.118" end="2:39.344">guī zé"</span>
+        </span>
+    </p>
+      <p begin="2:39.344" end="2:40.613" itunes:key="L60" ttm:agent="v2">
+        <span begin="2:39.344" end="2:39.543">老字</span>
+        <span begin="2:39.543" end="2:39.759">号</span>
+        <span begin="2:39.759" end="2:40.144">绝不</span>
+        <span begin="2:40.144" end="2:40.246">会</span>
+        <span begin="2:40.246" end="2:40.613">变味了</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Brand tua tetap ori, rasanya tetap elit
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:39.344" end="2:39.543">Lǎo zì</span> <span begin="2:39.543" end="2:39.759">háo</span> <span begin="2:39.759" end="2:40.144">jué bù</span> <span begin="2:40.144" end="2:40.246">huì</span> <span begin="2:40.246" end="2:40.613">biàn wèi le</span>
+        </span>
+    </p>
+      <p begin="2:40.623" end="2:42.024" itunes:key="L61" ttm:agent="v2">
+        <span begin="2:40.623" end="2:40.986">叉烧</span>
+        <span begin="2:40.986" end="2:41.191">包</span>
+        <span begin="2:41.191" end="2:41.615">加蜂蜜</span>
+        <span begin="2:41.615" end="2:41.842">点</span>
+        <span begin="2:41.842" end="2:42.024">缀着</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Bakpao char siu gua kasih madu manis
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:40.623" end="2:40.986">Chā shāo</span> <span begin="2:40.986" end="2:41.191">bāo</span> <span begin="2:41.191" end="2:41.615">jiā fēng mì</span> <span begin="2:41.615" end="2:41.842">diǎn</span> <span begin="2:41.842" end="2:42.024">chuò zhāo</span>
+        </span>
+    </p>
+      <p begin="2:42.034" end="2:43.365" itunes:key="L62" ttm:agent="v2">
+        <span begin="2:42.034" end="2:42.276">吃的</span>
+        <span begin="2:42.276" end="2:42.530">粽子</span>
+        <span begin="2:42.530" end="2:42.975">绝对是那</span>
+        <span begin="2:42.975" end="2:43.365">碱水的</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Bacang yang gua makan pasti dari kapur, no tipu
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:42.034" end="2:42.276">Chī de</span>
+        <span begin="2:42.276" end="2:42.530">zòng zǐ</span>
+        <span begin="2:42.530" end="2:42.975">jué duì shì nā</span>
+        <span begin="2:42.975" end="2:43.365">jiǎn shuǐ de</span>
+        </span>
+    </p>
+      <p begin="2:43.375" end="2:44.756" itunes:key="L63" ttm:agent="v2">
+        <span begin="2:43.375" end="2:43.634">大展</span>
+        <span begin="2:43.634" end="2:44.015">鸿图</span> <span begin="2:44.015" end="2:44.756">我练字练累了</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Rencana Besar — gua tulis sampe capek bro
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:43.375" end="2:43.634">Dà zhǎn</span> <span begin="2:43.634" end="2:44.015">hóng tú</span> <span begin="2:44.015" end="2:44.756">wǒ liàn zì liàn lěi le</span>
+        </span>
+    </p>
+      <p begin="2:44.756" end="2:46.057" itunes:key="L64" ttm:agent="v2">
+        <span begin="2:44.756" end="2:44.896">Then</span> <span begin="2:44.896" end="2:44.996">I</span> <span begin="2:44.996" end="2:46.057">pusssssh</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Abis itu gua push, langsung naik flow
+        </span>
+    </p>
+    </div>
+    <div begin="2:46.305" end="3:06.966" itunes:songPart="Chorus">
+      <p begin="2:46.305" end="2:47.689" itunes:key="L65" ttm:agent="v1">
+        <span begin="2:46.305" end="2:47.019">别墅里面</span>
+        <span begin="2:47.019" end="2:47.435">唱</span>
+        <span begin="2:47.435" end="2:47.689">K</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Karaoke di vila, santai sampai gila
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:46.305" end="2:47.019">Bié shù lǐ miàn</span> <span begin="2:47.019" end="2:47.435">chàng</span> <span begin="2:47.435" end="2:47.689">K</span>
+        </span>
+      </p>
+      <p begin="2:49.005" end="2:50.357" itunes:key="L66" ttm:agent="v1">
+        <span begin="2:49.005" end="2:49.750">水池里面</span>
+        <span begin="2:49.750" end="2:50.357">银龙鱼</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Naga perak di kolam, berenang penuh gaya
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:49.005" end="2:49.750">Shuǐ chí lǐ miàn</span> <span begin="2:49.750" end="2:50.357">yín lóng yú</span>
+        </span>
+      </p>
+      <p begin="2:51.705" end="2:52.980" itunes:key="L67" ttm:agent="v1">
+        <span begin="2:51.705" end="2:52.485">我送阿叔</span>
+        <span begin="2:52.485" end="2:52.800">茶</span>
+        <span begin="2:52.800" end="2:52.980">具</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Aku kasih paman seperangkat teh
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:51.705" end="2:52.485">Wǒ sòng ā shū</span> <span begin="2:52.485" end="2:52.800">chá</span> <span begin="2:52.800" end="2:52.980">jù</span>
+        </span>
+      </p>
+      <p begin="2:52.931" end="2:55.643" itunes:key="L68" ttm:agent="v1">
+        <span begin="2:52.931" end="2:53.131">他</span>
+        <span begin="2:53.131" end="2:53.715">研墨</span>
+        <span begin="2:53.715" end="2:54.412">下笔</span> <span begin="2:54.412" end="2:55.643">直接给我四个字</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Dia gesek tinta, nulis empat kata pasti
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:52.931" end="2:53.131">Tā</span> <span begin="2:53.131" end="2:53.715">yán mò</span> <span begin="2:53.715" end="2:54.412">xià bǐ</span> <span begin="2:54.412" end="2:55.643">zhí jiē gěi wǒ sì gě zì</span>
+        </span>
+      </p>
+      <p begin="2:55.782" end="2:58.537" itunes:key="L69" ttm:agent="v1">
+        <span begin="2:55.782" end="2:57.176">大展鸿图</span> <span begin="2:57.176" end="2:58.537">大师亲手提笔字</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Rencana Besar, Tulisannya Master, tangan dia sendiri
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:55.782" end="2:57.176">Dà zhǎn hóng tú,</span> <span begin="2:57.176" end="2:58.537">dà shī qīn shǒu dī bǐ zì</span>
+        </span>
+      </p>
+      <p begin="2:58.608" end="3:01.247" itunes:key="L70" ttm:agent="v1">
+        <span begin="2:58.608" end="2:59.956">大展鸿图</span> <span begin="2:59.956" end="3:01.247">搬来放在办公室</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Rencana Besar, Gua pajang di kantor, jadi lambang ambisi
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="2:58.608" end="2:59.956">Dà zhǎn hóng tú,</span> <span begin="2:59.956" end="3:01.247">bān lái fàng zài bàn gōng shì</span>
+        </span>
+      </p>
+      <p begin="3:01.320" end="3:04.157" itunes:key="L71" ttm:agent="v1">
+        <span begin="3:01.320" end="3:02.652">大展鸿图</span> <span begin="3:02.652" end="3:03.696">关公都点头</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Rencana Besar, Bahkan Guan Gong (dewa perang) pun mengangguk setuju
+        </span>
+        <span ttm:role="x-bg">
+		    <span begin="3:01.320" end="3:02.652">Dà zhǎn hóng tú,</span> <span begin="3:02.652" end="3:03.696">guān gōng dū diǎn tóu</span>
+        </span>
+      </p>
+      <p begin="3:03.706" end="3:04.157" itunes:key="L71" ttm:agent="v2">
+        <span begin="3:03.706" end="3:04.157">有料</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Ada isinya, berbobot
+        </span>
+        <span ttm:role="x-bg">
+		    <span begin="3:03.706" end="3:04.157">Yǒu liào</span>
+        </span>
+      </p>
+      <p begin="3:04.643" end="3:06.966" itunes:key="L72" ttm:agent="v1">
+        <span begin="3:04.643" end="3:05.747">鸿运不能总是</span>
+        <span begin="3:05.747" end="3:06.105">当</span>
+        <span begin="3:06.105" end="3:06.436">头</span> <span begin="3:06.436" end="3:06.966">因为</span>
+        <span ttm:role="x-translation" xml:lang="IDN">Hoki gak selalu di atas, bro karena...
+        </span>
+        <span ttm:role="x-bg">
+        <span begin="3:04.643" end="3:05.747">Hóng yùn bù néng zǒng shì</span> <span begin="3:05.747" end="3:06.105">dāng</span> <span begin="3:06.105" end="3:06.436">tóu,</span> <span begin="3:06.436" end="3:06.966">yīn wéi</span>
+        </span>
+      </p>
+    </div>
+  </body>
+</tt>
