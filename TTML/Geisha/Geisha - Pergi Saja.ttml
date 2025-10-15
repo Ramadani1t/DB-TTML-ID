@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Line" xml:lang="id">
+  <head>
+    <metadata>
+      <ttm:agent type="person" xml:id="v1"/>
+      <iTunesMetadata xmlns="http://music.apple.com/lyric-ttml-internal">
+        <translations/>
+        <songwriters>
+          <songwriter>Roby Satria</songwriter>
+        </songwriters>
+      </iTunesMetadata>
+    </metadata>
+  </head>
+  <body dur="3:43.270">
+    <div begin="17.002" end="54.752" itunes:songPart="Verse">
+      <p begin="17.002" end="22.408" itunes:key="L1" ttm:agent="v1">Terima kasih 'tuk luka yang kau beri</p>
+      <p begin="23.563" end="27.770" itunes:key="L2" ttm:agent="v1">Ku tak percaya kau telah begini</p>
+      <p begin="30.118" end="35.679" itunes:key="L3" ttm:agent="v1">Dulu kau menjadi malaikat di hati</p>
+      <p begin="36.665" end="41.922" itunes:key="L4" ttm:agent="v1">Sampai hati kau telah begini</p>
+      <p begin="43.300" end="48.764" itunes:key="L5" ttm:agent="v1">Berkali-kali kau katakan sendiri</p>
+      <p begin="49.005" end="54.752" itunes:key="L6" ttm:agent="v1">Kini ku telah benci, cintaku telah pergi</p>
+    </div>
+    <div begin="54.976" end="1:16.882" itunes:songPart="Chorus">
+      <p begin="54.976" end="1:00.813" itunes:key="L7" ttm:agent="v1">Pergi saja kau, pergi, tak usah kembali</p>
+      <p begin="1:01.552" end="1:07.718" itunes:key="L8" ttm:agent="v1">Percuma saja kini hanya mengundang perih</p>
+      <p begin="1:08.099" end="1:16.882" itunes:key="L9" ttm:agent="v1">Cukup tahu ku dirimu, cukup sakit kurasakan kini</p>
+    </div>
+    <div begin="1:22.715" end="1:47.371" itunes:songPart="Verse">
+      <p begin="1:22.715" end="1:27.413" itunes:key="L10" ttm:agent="v1">Janji yang selalu ku ingat hingga mati</p>
+      <p begin="1:29.309" end="1:34.477" itunes:key="L11" ttm:agent="v1">Kau setia hingga ku kembali</p>
+      <p begin="1:35.660" end="1:41.347" itunes:key="L12" ttm:agent="v1">Berkali-kali kau katakan sendiri</p>
+      <p begin="1:41.632" end="1:47.371" itunes:key="L13" ttm:agent="v1">Kini ku telah benci, cintaku telah pergi</p>
+    </div>
+    <div begin="1:47.562" end="2:22.465" itunes:songPart="Chorus">
+      <p begin="1:47.562" end="1:53.443" itunes:key="L14" ttm:agent="v1">Pergi saja kau, pergi, tak usah kembali</p>
+      <p begin="1:54.161" end="2:00.338" itunes:key="L15" ttm:agent="v1">Percuma saja kini hanya mengundang perih</p>
+      <p begin="2:00.729" end="2:06.519" itunes:key="L16" ttm:agent="v1">Buang saja, kau buang cinta yang kemarin</p>
+      <p begin="2:07.284" end="2:13.607" itunes:key="L17" ttm:agent="v1">Perasaan tak mungkin percayaimu lagi</p>
+      <p begin="2:13.831" end="2:22.465" itunes:key="L18" ttm:agent="v1">Cukup tahu ku dirimu, cukup sakit kurasakan kini</p>
+    </div>
+    <div begin="2:50.078" end="3:39.833" itunes:songPart="Chorus">
+      <p begin="2:50.078" end="2:55.806" itunes:key="L19" ttm:agent="v1">Pergi saja kau, pergi, tak usah kembali</p>
+      <p begin="2:56.587" end="3:02.763" itunes:key="L20" ttm:agent="v1">Percuma saja kini hanya mengundang perih</p>
+      <p begin="3:03.179" end="3:09.530" itunes:key="L21" ttm:agent="v1">Buang saja, kau buang cinta yang kemarin</p>
+      <p begin="3:13.120" end="3:16.081" itunes:key="L22" ttm:agent="v1">Percayaimu lagi</p>
+      <p begin="3:16.290" end="3:26.023" itunes:key="L23" ttm:agent="v1">Cukup tahu ku dirimu, cukup sakit kurasakan kini</p>
+      <p begin="3:29.501" end="3:32.895" itunes:key="L24" ttm:agent="v1">Cukup tahu dirimu</p>
+      <p begin="3:33.154" end="3:39.833" itunes:key="L25" ttm:agent="v1">Cukup sakit ku rasakan kini</p>
+    </div>
+  </body>
+</tt>

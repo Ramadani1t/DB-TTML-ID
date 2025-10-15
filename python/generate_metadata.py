@@ -2,41 +2,73 @@ import os
 import json
 from mutagen.easyid3 import EasyID3
 from mutagen.mp3 import MP3
+# IMPORT BARU UNTUK M4A
+from mutagen.mp4 import MP4, MP4Tags
 from mutagen.id3 import ID3NoHeaderError
 
-# --- Konfigurasi ---
-# Mendeteksi path absolut dari direktori tempat skrip ini berada
+# --- Konfigurasi (Tidak ada perubahan di sini) ---
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-# Mendapatkan path root proyek (satu level di atas folder 'python')
 PROJECT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, '..'))
 
-# Path diatur relatif terhadap root proyek
 AUDIO_DIRECTORY = os.path.join(PROJECT_ROOT, "TTML")
 OUTPUT_DIR = os.path.join(PROJECT_ROOT, "json")
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "metadata.json")
 
-# URL dasar untuk link di GitHub (tetap sama)
-GITHUB_BASE_URL = "https://github.com/Ramadani1t/DB-TTML-ID/blob/main/"
+GITHUB_BASE_URL = "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/"
 # --------------------
 
 def get_song_metadata(filepath):
-    """Membaca metadata ID3 dari sebuah file MP3."""
+    """Membaca metadata ID3/MP4 dari sebuah file MP3 atau M4A."""
+    
+    # Menentukan class yang akan digunakan berdasarkan ekstensi file
+    file_extension = os.path.splitext(filepath)[1].lower()
+
     try:
-        audio = MP3(filepath, ID3=EasyID3)
-        if audio.tags is None:
+        if file_extension == '.m4a':
+            # Gunakan mutagen.mp4.MP4 untuk file M4A
+            audio = MP4(filepath)
+            
+            # Metadata MP4 menggunakan key khusus (contoh: '\xa9nam' untuk title)
+            # Karena EasyID3 tidak bekerja di sini, kita harus memetakan secara manual
+            tags = {}
+            if audio.tags:
+                tags['title'] = audio.tags.get('\xa9nam', [''])[0]
+                tags['artist'] = audio.tags.get('\xa9ART', [''])[0]
+                tags['album'] = audio.tags.get('\xa9alb', [''])[0]
+            else:
+                return None
+            
+        elif file_extension == '.mp3':
+            # Gunakan mutagen.mp3.MP3 (dengan EasyID3) untuk file MP3
+            audio = MP3(filepath, ID3=EasyID3)
+            tags = audio.tags
+            if tags is None:
+                return None
+
+        else:
+            # Lewati file dengan ekstensi yang tidak didukung
             return None
+
+        # Ambil data metadata dari dictionary 'tags'
+        title = tags.get('title', [''])[0]
+        artist = tags.get('artist', [''])[0]
+        album = tags.get('album', [''])[0] 
         
-        title = audio.tags.get('title', [''])[0]
-        artist = audio.tags.get('artist', [''])[0]
-        album = audio.tags.get('album', [''])[0] # Menambahkan pengambilan data album
+        # Penanganan khusus untuk MP3/EasyID3, tags sudah string (tidak perlu [''][0])
+        # Ini mencegah error jika EasyID3 digunakan (tapi seharusnya sudah ditangani di atas)
+        if file_extension == '.mp3':
+            title = tags.get('title', [''])[0] if isinstance(tags.get('title'), list) else tags.get('title', '')
+            artist = tags.get('artist', [''])[0] if isinstance(tags.get('artist'), list) else tags.get('artist', '')
+            album = tags.get('album', [''])[0] if isinstance(tags.get('album'), list) else tags.get('album', '')
         
+        # Jika title atau artist tidak ditemukan, lewati
         if not title or not artist:
             return None
             
         return {
-            "title": title,
-            "artist": artist,
-            "album": album
+            "title": str(title),  # Pastikan semua output adalah string
+            "artist": str(artist),
+            "album": str(album)
         }
     except ID3NoHeaderError:
         print(f"File tidak memiliki header ID3: {filepath}")
@@ -45,22 +77,22 @@ def get_song_metadata(filepath):
         print(f"Error saat memproses file {filepath}: {e}")
         return None
 
+# --- Fungsi main() (Tidak ada perubahan signifikan, hanya menyatukan kode) ---
+
 def main():
     """Fungsi utama untuk scan folder, baca metadata, dan buat file JSON."""
     all_metadata = []
     
-    # Memastikan folder output 'json' ada, jika tidak, maka buat folder tersebut
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
-    # Berjalan melalui semua file di direktori TTML
     for root, _, files in os.walk(AUDIO_DIRECTORY):
         for filename in files:
+            # Perhatikan: daftar ekstensi yang dicari di sini sudah benar
             if filename.lower().endswith(('.mp3', '.m4a')):
                 filepath = os.path.join(root, filename)
                 metadata = get_song_metadata(filepath)
                 
                 if metadata:
-                    # Mengambil path relatif dari folder TTML (contoh: TTML/NewJeans)
                     relative_path = os.path.relpath(root, PROJECT_ROOT).replace(os.sep, '/')
                     metadata['path'] = relative_path
                     
@@ -74,7 +106,6 @@ def main():
                     lrc_file = base_name + ".lrc"
                     ttml_file = base_name + ".ttml"
                     
-                    # Default lirik_link adalah string kosong
                     metadata['lirik_link'] = ""
                     
                     if os.path.exists(ttml_file):
@@ -86,10 +117,8 @@ def main():
                         
                     all_metadata.append(metadata)
 
-    # Mengurutkan daftar lagu berdasarkan artis, lalu judul
     all_metadata.sort(key=lambda x: (x['artist'].lower(), x['title'].lower()))
 
-    # Tulis semua metadata yang terkumpul ke dalam file JSON
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(all_metadata, f, indent=4, ensure_ascii=False)
         
