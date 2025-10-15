@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?><tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+    <head>
+        <metadata>
+            <ttm:agent type="person" xml:id="v1"/>
+        </metadata>
+    </head>
+    <body dur="02:44.822">
+        <div begin="00:00.589" end="00:29.725">
+            <p begin="00:00.589" end="00:03.630" ttm:agent="v1" itunes:key="L1">
+                <span begin="00:00.589" end="00:00.739">No</span>
+                <span begin="00:00.739" end="00:00.994">na</span> <span begin="00:00.994" end="00:01.222">pu</span> <span begin="00:01.222" end="00:01.471">go</span>
+                <span begin="00:01.471" end="00:01.714">yang</span> <span begin="00:01.714" end="00:02.019">pi</span>
+                <span begin="00:02.019" end="00:02.319">ca</span> <span begin="00:02.319" end="00:02.605">pi</span>
+                <span begin="00:02.605" end="00:03.630">ca</span>
+                <span ttm:role="x-bg" begin="00:07.433" end="00:10.382">
+                    <span begin="00:07.433" end="00:07.579">(I</span>
+                    <span begin="00:07.579" end="00:07.847">ku</span>
+                    <span begin="00:07.847" end="00:08.096">ti</span> <span begin="00:08.096" end="00:08.435">de</span>
+                    <span begin="00:08.435" end="00:08.603">ngan</span> <span begin="00:08.603" end="00:09.028">i</span>
+                    <span begin="00:09.028" end="00:09.235">ra</span>
+                    <span begin="00:09.235" end="00:10.382">ma)</span>
+                </span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang pica-pica</span>
+            </p>
+            <p begin="00:09.767" end="00:12.016" ttm:agent="v1" itunes:key="L2">
+                <span begin="00:09.767" end="00:09.920">No</span>
+                <span begin="00:09.920" end="00:10.159">na</span> <span begin="00:10.159" end="00:10.391">pu</span> <span begin="00:10.391" end="00:10.625">go</span>
+                <span begin="00:10.625" end="00:10.938">yang</span> <span begin="00:10.938" end="00:11.221">pi</span>
+                <span begin="00:11.221" end="00:11.442">ca</span> <span begin="00:11.442" end="00:11.726">pi</span>
+                <span begin="00:11.726" end="00:12.016">ca</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang pica-pica</span>
+            </p>
+            <p begin="00:12.016" end="00:14.270" ttm:agent="v1" itunes:key="L3">
+                <span begin="00:12.016" end="00:12.271">No</span>
+                <span begin="00:12.271" end="00:12.479">na</span> <span begin="00:12.479" end="00:12.699">pu</span> <span begin="00:12.699" end="00:12.892">go</span>
+                <span begin="00:12.892" end="00:13.217">yang</span> <span begin="00:13.217" end="00:13.490">lin</span>
+                <span begin="00:13.490" end="00:13.783">cah</span> <span begin="00:13.783" end="00:14.055">lin</span>
+                <span begin="00:14.055" end="00:14.270">cah</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang lincah-lincah</span>
+            </p>
+            <p begin="00:14.270" end="00:16.629" ttm:agent="v1" itunes:key="L4">
+                <span begin="00:14.270" end="00:14.503">Go</span>
+                <span begin="00:14.503" end="00:14.791">yang</span>
+                <span begin="00:14.791" end="00:14.975">kan</span> <span begin="00:14.975" end="00:15.230">ping</span>
+                <span begin="00:15.230" end="00:15.500">gang</span> <span begin="00:15.500" end="00:15.791">pa</span>
+                <span begin="00:15.791" end="00:16.083">ta</span> <span begin="00:16.083" end="00:16.317">pa</span>
+                <span begin="00:16.317" end="00:16.629">ta</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Gerakkan pinggang patah-patah</span>
+            </p>
+            <p begin="00:16.629" end="00:18.899" ttm:agent="v1" itunes:key="L5">
+                <span begin="00:16.629" end="00:16.833">Pu</span>
+                <span begin="00:16.833" end="00:17.070">tar</span> <span begin="00:17.070" end="00:17.267">ke</span>
+                <span begin="00:17.267" end="00:17.535">ki</span>
+                <span begin="00:17.535" end="00:17.791">ri</span> <span begin="00:17.791" end="00:18.091">dan</span> <span begin="00:18.091" end="00:18.387">ke</span>
+                <span begin="00:18.387" end="00:18.626">ka</span>
+                <span begin="00:18.626" end="00:18.899">nan</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Putar ke kiri dan ke kanan</span>
+            </p>
+            <p begin="00:18.899" end="00:21.176" ttm:agent="v1" itunes:key="L6">
+                <span begin="00:18.899" end="00:19.088">No</span>
+                <span begin="00:19.088" end="00:19.386">na</span> <span begin="00:19.386" end="00:19.537">pu</span> <span begin="00:19.537" end="00:19.823">go</span>
+                <span begin="00:19.823" end="00:20.091">yang</span> <span begin="00:20.091" end="00:20.352">pi</span>
+                <span begin="00:20.352" end="00:20.654">ca</span> <span begin="00:20.654" end="00:20.937">pi</span>
+                <span begin="00:20.937" end="00:21.176">ca</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang pica-pica</span>
+            </p>
+            <p begin="00:21.176" end="00:23.498" ttm:agent="v1" itunes:key="L7">
+                <span begin="00:21.176" end="00:21.366">No</span>
+                <span begin="00:21.366" end="00:21.686">na</span> <span begin="00:21.686" end="00:21.889">pu</span> <span begin="00:21.889" end="00:22.121">go</span>
+                <span begin="00:22.121" end="00:22.332">yang</span> <span begin="00:22.332" end="00:22.637">lin</span>
+                <span begin="00:22.637" end="00:22.881">cah</span> <span begin="00:22.881" end="00:23.216">lin</span>
+                <span begin="00:23.216" end="00:23.498">cah</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang lincah-lincah</span>
+            </p>
+            <p begin="00:23.498" end="00:25.802" ttm:agent="v1" itunes:key="L8">
+                <span begin="00:23.498" end="00:23.698">Go</span>
+                <span begin="00:23.698" end="00:23.935">yang</span>
+                <span begin="00:23.935" end="00:24.213">kan</span> <span begin="00:24.213" end="00:24.351">ping</span>
+                <span begin="00:24.351" end="00:24.639">gang</span> <span begin="00:24.639" end="00:24.939">pa</span>
+                <span begin="00:24.939" end="00:25.247">ta</span> <span begin="00:25.247" end="00:25.506">pa</span>
+                <span begin="00:25.506" end="00:25.802">ta</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Gerakkan pinggang patah-patah</span>
+            </p>
+            <p begin="00:25.802" end="00:29.725" ttm:agent="v1" itunes:key="L9">
+                <span begin="00:25.802" end="00:25.978">I</span>
+                <span begin="00:25.978" end="00:26.228">ku</span>
+                <span begin="00:26.228" end="00:26.464">ti</span> <span begin="00:26.464" end="00:26.621">de</span>
+                <span begin="00:26.621" end="00:26.961">ngan</span> <span begin="00:26.961" end="00:27.317">i</span>
+                <span begin="00:27.317" end="00:27.636">ra</span>
+                <span begin="00:27.636" end="00:29.725">ma</span>
+            </p>
+            <p begin="00:48.925" end="00:50.873" ttm:agent="v1" itunes:key="L10">
+                <span begin="00:48.925" end="00:49.407">Ye</span> <span begin="00:49.407" end="00:49.635">ka</span>
+                <span begin="00:49.635" end="00:49.833">lo</span> <span begin="00:49.833" end="00:49.981">so</span>
+                <span begin="00:49.981" end="00:50.141">al</span> <span begin="00:50.141" end="00:50.253">ba</span>
+                <span begin="00:50.253" end="00:50.412">dan</span>
+                <span begin="00:50.412" end="00:50.873">sa</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Yo, kalau soal berdansa</span>
+            </p>
+        </div>
+        <div begin="00:48.925" end="01:28.582">
+            <p begin="00:50.878" end="00:53.070" ttm:agent="v1" itunes:key="L11">
+                <span begin="00:50.878" end="00:51.027">No</span>
+                <span begin="00:51.027" end="00:51.168">na</span>
+                <span begin="00:51.168" end="00:51.261">-</span>
+                <span begin="00:51.261" end="00:51.351">no</span>
+                <span begin="00:51.351" end="00:51.493">na</span> <span begin="00:51.493" end="00:51.643">ma</span>
+                <span begin="00:51.643" end="00:51.787">nis</span> <span begin="00:51.787" end="00:51.926">i</span>
+                <span begin="00:51.926" end="00:52.101">ni</span> <span begin="00:52.101" end="00:52.210">pa</span>
+                <span begin="00:52.210" end="00:52.370">ling</span> <span begin="00:52.370" end="00:52.512">a</span>
+                <span begin="00:52.512" end="00:52.727">sik</span> <span begin="00:52.727" end="00:53.070">ya</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona-nona manis ini paling asik ya</span>
+            </p>
+            <p begin="00:53.203" end="00:54.651" ttm:agent="v1" itunes:key="L12">
+                <span begin="00:53.203" end="00:53.353">A</span>
+                <span begin="00:53.353" end="00:53.513">pa</span> <span begin="00:53.513" end="00:53.630">la</span>
+                <span begin="00:53.630" end="00:53.788">gi</span> <span begin="00:53.788" end="00:53.913">do</span>
+                <span begin="00:53.913" end="00:54.060">rang</span> <span begin="00:54.060" end="00:54.199">pa</span>
+                <span begin="00:54.199" end="00:54.359">ta</span> <span begin="00:54.359" end="00:54.482">ping</span>
+                <span begin="00:54.482" end="00:54.651">gang</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Apalagi saat pinggul mereka goyang pata-patah</span>
+            </p>
+            <p begin="00:54.651" end="00:55.347" ttm:agent="v1" itunes:key="L13">
+                <span begin="00:54.651" end="00:54.786">Ma</span>
+                <span begin="00:54.786" end="00:54.931">ma</span> <span begin="00:54.931" end="00:55.347">yay</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Mama eee</span>
+            </p>
+            <p begin="00:55.478" end="00:56.493" ttm:agent="v1" itunes:key="L14">
+                <span begin="00:55.478" end="00:55.798">Jang</span> <span begin="00:55.798" end="00:55.943">ko</span> <span begin="00:55.943" end="00:56.223">pe</span>
+                <span begin="00:56.223" end="00:56.493">le...</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Jangan kau larang...</span>
+            </p>
+            <p begin="00:56.636" end="00:57.668" ttm:agent="v1" itunes:key="L15">
+                <span begin="00:56.636" end="00:56.929">Sam</span>
+                <span begin="00:56.929" end="00:57.090">pe</span> <span begin="00:57.090" end="00:57.357">pa</span>
+                <span begin="00:57.357" end="00:57.668">ge....</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Sampai pagi...</span>
+            </p>
+            <p begin="00:57.824" end="00:59.535" ttm:agent="v1" itunes:key="L16">
+                <span begin="00:57.824" end="00:58.032">Lu</span>
+                <span begin="00:58.032" end="00:58.343">pa</span> <span begin="00:58.343" end="00:58.643">pu</span>
+                <span begin="00:58.643" end="00:58.932">lang</span> <span begin="00:58.932" end="00:59.229">ru</span>
+                <span begin="00:59.229" end="00:59.535">ma</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">lupa pulang ke rumah</span>
+            </p>
+            <p begin="00:59.850" end="01:00.725" ttm:agent="v1" itunes:key="L17">
+                <span begin="00:59.850" end="01:00.060">O</span>
+                <span begin="01:00.060" end="01:00.346">ke</span>
+                <span begin="01:00.346" end="01:00.725">y</span>
+            </p>
+            <p begin="01:00.704" end="01:01.851" ttm:agent="v1" itunes:key="L18">
+                <span begin="01:00.704" end="01:00.832">O</span>
+                <span begin="01:00.832" end="01:00.927">pe</span> <span begin="01:00.927" end="01:01.033">ka</span>
+                <span begin="01:01.033" end="01:01.180">si</span> <span begin="01:01.180" end="01:01.333">tam</span>
+                <span begin="01:01.333" end="01:01.487">ba</span> <span begin="01:01.487" end="01:01.633">na</span>
+                <span begin="01:01.633" end="01:01.851">ik</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Tambah naik lagi</span>
+            </p>
+            <p begin="01:02.122" end="01:03.965" ttm:agent="v1" itunes:key="L19">
+                <span begin="01:02.122" end="01:02.375">La</span>
+                <span begin="01:02.375" end="01:02.650">gu</span> <span begin="01:02.650" end="01:02.812">pa</span>
+                <span begin="01:02.812" end="01:02.920">ta</span> <span begin="01:02.920" end="01:03.074">pa</span>
+                <span begin="01:03.074" end="01:03.159">ta</span> <span begin="01:03.159" end="01:03.328">bi</span>
+                <span begin="01:03.328" end="01:03.470">kin</span> <span begin="01:03.470" end="01:03.622">ka</span>
+                <span begin="01:03.622" end="01:03.775">si</span> <span begin="01:03.775" end="01:03.914">na</span>
+                <span begin="01:03.914" end="01:03.965">ik</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Lagu pata-pata bikin makin semangat</span>
+            </p>
+            <p begin="01:03.977" end="01:05.057" ttm:agent="v1" itunes:key="L20">
+                <span begin="01:03.977" end="01:04.080">Ke</span>
+                <span begin="01:04.080" end="01:04.232">ki</span>
+                <span begin="01:04.232" end="01:04.474">ri</span> <span begin="01:04.474" end="01:04.622">ke</span>
+                <span begin="01:04.622" end="01:04.786">ki</span>
+                <span begin="01:04.786" end="01:05.057">ri</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Ke kiri ke kiri </span>
+            </p>
+            <p begin="01:05.057" end="01:06.089" ttm:agent="v1" itunes:key="L21">
+                <span begin="01:05.057" end="01:05.216">Ke</span>
+                <span begin="01:05.216" end="01:05.374">ki</span>
+                <span begin="01:05.374" end="01:05.503">ri</span> <span begin="01:05.503" end="01:05.650">ma</span>
+                <span begin="01:05.650" end="01:05.768">ni</span>
+                <span begin="01:05.768" end="01:06.089">se</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Ke kiri nona manis ya</span>
+            </p>
+            <p begin="01:06.259" end="01:07.340" ttm:agent="v1" itunes:key="L22">
+                <span begin="01:06.259" end="01:06.397">ke</span>
+                <span begin="01:06.397" end="01:06.508">ka</span>
+                <span begin="01:06.508" end="01:06.765">nan</span> <span begin="01:06.765" end="01:06.930">ke</span>
+                <span begin="01:06.930" end="01:07.082">ka</span>
+                <span begin="01:07.082" end="01:07.340">nan</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Ke kanan, ke kanan</span>
+            </p>
+            <p begin="01:07.340" end="01:09.109" ttm:agent="v1" itunes:key="L23">
+                <span begin="01:07.340" end="01:07.506">Ke</span>
+                <span begin="01:07.506" end="01:07.656">ka</span>
+                <span begin="01:07.656" end="01:07.768">nan</span> <span begin="01:07.768" end="01:07.965">sa</span>
+                <span begin="01:07.965" end="01:08.152">yang</span> <span begin="01:08.152" end="01:08.603">eee</span> <span begin="01:08.603" end="01:09.109">eee...</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Sayang eee</span>
+            </p>
+            <p begin="01:09.203" end="01:11.475" ttm:agent="v1" itunes:key="L24">
+                <span begin="01:09.203" end="01:09.356">No</span>
+                <span begin="01:09.356" end="01:09.569">na</span> <span begin="01:09.569" end="01:09.799">pu</span> <span begin="01:09.799" end="01:10.062">go</span>
+                <span begin="01:10.062" end="01:10.374">yang</span> <span begin="01:10.374" end="01:10.634">pi</span>
+                <span begin="01:10.634" end="01:10.992">ca</span> <span begin="01:10.992" end="01:11.204">pi</span>
+                <span begin="01:11.204" end="01:11.475">ca</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang pica-pica</span>
+            </p>
+            <p begin="01:11.475" end="01:13.738" ttm:agent="v1" itunes:key="L25">
+                <span begin="01:11.475" end="01:11.666">No</span>
+                <span begin="01:11.666" end="01:11.931">na</span> <span begin="01:11.931" end="01:12.112">pu</span> <span begin="01:12.112" end="01:12.319">go</span>
+                <span begin="01:12.319" end="01:12.597">yang</span> <span begin="01:12.597" end="01:12.929">lin</span>
+                <span begin="01:12.929" end="01:13.192">cah</span> <span begin="01:13.192" end="01:13.461">lin</span>
+                <span begin="01:13.461" end="01:13.738">cah</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang lincah-lincah</span>
+            </p>
+            <p begin="01:13.738" end="01:16.059" ttm:agent="v1" itunes:key="L26">
+                <span begin="01:13.738" end="01:13.945">Go</span>
+                <span begin="01:13.945" end="01:14.203">yang</span>
+                <span begin="01:14.203" end="01:14.407">kan</span> <span begin="01:14.407" end="01:14.662">ping</span>
+                <span begin="01:14.662" end="01:14.919">gang</span> <span begin="01:14.919" end="01:15.234">pa</span>
+                <span begin="01:15.234" end="01:15.506">ta</span> <span begin="01:15.506" end="01:15.802">pa</span>
+                <span begin="01:15.802" end="01:16.059">ta</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Gerakkan pinggang patah-patah</span>
+            </p>
+            <p begin="01:16.059" end="01:18.321" ttm:agent="v1" itunes:key="L27">
+                <span begin="01:16.059" end="01:16.280">Pu</span>
+                <span begin="01:16.280" end="01:16.524">tar</span> <span begin="01:16.524" end="01:16.731">ke</span>
+                <span begin="01:16.731" end="01:16.903">ki</span>
+                <span begin="01:16.903" end="01:17.177">ri</span> <span begin="01:17.177" end="01:17.490">dan</span> <span begin="01:17.490" end="01:17.784">ke</span>
+                <span begin="01:17.784" end="01:18.032">ka</span>
+                <span begin="01:18.032" end="01:18.321">nan</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Putar ke kiri dan ke kanan</span>
+            </p>
+            <p begin="01:18.321" end="01:20.627" ttm:agent="v1" itunes:key="L28">
+                <span begin="01:18.321" end="01:18.517">No</span>
+                <span begin="01:18.517" end="01:18.789">na</span> <span begin="01:18.789" end="01:18.968">pu</span> <span begin="01:18.968" end="01:19.248">go</span>
+                <span begin="01:19.248" end="01:19.550">yang</span> <span begin="01:19.550" end="01:19.814">pi</span>
+                <span begin="01:19.814" end="01:20.054">ca</span> <span begin="01:20.054" end="01:20.326">pi</span>
+                <span begin="01:20.326" end="01:20.627">ca</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang pica-pica</span>
+            </p>
+            <p begin="01:20.627" end="01:22.869" ttm:agent="v1" itunes:key="L29">
+                <span begin="01:20.627" end="01:20.833">No</span>
+                <span begin="01:20.833" end="01:21.032">na</span> <span begin="01:21.032" end="01:21.271">pu</span> <span begin="01:21.271" end="01:21.519">go</span>
+                <span begin="01:21.519" end="01:21.786">yang</span> <span begin="01:21.786" end="01:22.071">lin</span>
+                <span begin="01:22.071" end="01:22.340">cah</span> <span begin="01:22.340" end="01:22.614">lin</span>
+                <span begin="01:22.614" end="01:22.869">cah</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang lincah-lincah</span>
+            </p>
+            <p begin="01:22.869" end="01:25.210" ttm:agent="v1" itunes:key="L30">
+                <span begin="01:22.869" end="01:23.102">Go</span>
+                <span begin="01:23.102" end="01:23.330">yang</span>
+                <span begin="01:23.330" end="01:23.539">kan</span> <span begin="01:23.539" end="01:23.835">ping</span>
+                <span begin="01:23.835" end="01:24.048">gang</span> <span begin="01:24.048" end="01:24.360">pa</span>
+                <span begin="01:24.360" end="01:24.644">ta</span> <span begin="01:24.644" end="01:24.987">pa</span>
+                <span begin="01:24.987" end="01:25.210">ta</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Gerakkan pinggang patah-patah</span>
+            </p>
+            <p begin="01:25.210" end="01:28.582" ttm:agent="v1" itunes:key="L31">
+                <span begin="01:25.210" end="01:25.406">I</span>
+                <span begin="01:25.406" end="01:25.704">ku</span>
+                <span begin="01:25.704" end="01:25.863">ti</span> <span begin="01:25.863" end="01:26.052">de</span>
+                <span begin="01:26.052" end="01:26.340">ngan</span> <span begin="01:26.340" end="01:26.744">i</span>
+                <span begin="01:26.744" end="01:26.990">ra</span>
+                <span begin="01:26.990" end="01:28.582">ma</span>
+            </p>
+            <p begin="01:48.265" end="01:50.517" ttm:agent="v1" itunes:key="L32">
+                <span begin="01:48.265" end="01:48.462">No</span>
+                <span begin="01:48.462" end="01:48.670">na</span> <span begin="01:48.670" end="01:48.931">Am</span>
+                <span begin="01:48.931" end="01:49.212">bon</span> <span begin="01:49.212" end="01:49.465">pi</span>
+                <span begin="01:49.465" end="01:49.759">ca</span> <span begin="01:49.759" end="01:50.157">pi</span>
+                <span begin="01:50.157" end="01:50.517">ca</span>
+                <span ttm:role="x-bg" begin="01:50.193" end="01:50.950">
+                    <span begin="01:50.193" end="01:50.344">(Pi</span>
+                    <span begin="01:50.344" end="01:50.608">ca</span> <span begin="01:50.608" end="01:50.950">Oh)</span>
+                </span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona Ambon pica-pica</span>
+            </p>
+        </div>
+        <div begin="01:48.265" end="02:44.822">
+            <p begin="01:50.593" end="01:52.672" ttm:agent="v1" itunes:key="L33">
+                <span begin="01:50.593" end="01:50.709">No</span>
+                <span begin="01:50.709" end="01:50.816">na</span> <span begin="01:50.816" end="01:50.893">N</span>
+                <span begin="01:50.893" end="01:51.187">T</span>
+                <span begin="01:51.187" end="01:51.477">T</span> <span begin="01:51.477" end="01:51.728">lin</span>
+                <span begin="01:51.728" end="01:52.050">ca</span> <span begin="01:52.050" end="01:52.403">lin</span>
+                <span begin="01:52.403" end="01:52.672">ca</span>
+                <span ttm:role="x-bg" begin="01:52.483" end="01:53.323">
+                    <span begin="01:52.483" end="01:52.701">(Lin</span>
+                    <span begin="01:52.701" end="01:52.896">ca</span> <span begin="01:52.896" end="01:53.323">Oh)</span>
+                </span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona NTT lincah-lincah</span>
+            </p>
+            <p begin="01:52.773" end="01:54.897" ttm:agent="v1" itunes:key="L34">
+                <span begin="01:52.773" end="01:52.935">Ma</span>
+                <span begin="01:52.935" end="01:53.018">ce</span> <span begin="01:53.018" end="01:53.254">Pa</span>
+                <span begin="01:53.254" end="01:53.516">pu</span>
+                <span begin="01:53.516" end="01:53.791">a</span> <span begin="01:53.791" end="01:54.078">ga</span>
+                <span begin="01:54.078" end="01:54.370">ris</span> <span begin="01:54.370" end="01:54.685">ta</span>
+                <span begin="01:54.685" end="01:54.897">na</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Mama Papua dari tanah timur</span>
+            </p>
+            <p begin="01:54.897" end="01:57.348" ttm:agent="v1" itunes:key="L35">
+                <span begin="01:54.897" end="01:55.163">I</span>
+                <span begin="01:55.163" end="01:55.365">ni</span> <span begin="01:55.365" end="01:55.770">ra</span>
+                <span begin="01:55.770" end="01:56.080">kat</span> <span begin="01:56.080" end="01:56.362">pu</span> <span begin="01:56.362" end="01:56.584">a</span>
+                <span begin="01:56.584" end="01:56.899">ca</span>
+                <span begin="01:56.899" end="01:57.348">ra</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Inilah acaranya orang kita!</span>
+            </p>
+            <p begin="01:57.532" end="01:59.318" ttm:agent="v1" itunes:key="L36">
+                <span begin="01:57.532" end="01:58.049">Ee</span> <span begin="01:58.049" end="01:58.417">e</span> <span begin="01:58.417" end="01:58.618">No</span>
+                <span begin="01:58.618" end="01:58.956">na</span> <span begin="01:58.956" end="01:59.318">eeeee</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Ee e nona eeee</span>
+            </p>
+            <p begin="01:59.373" end="02:00.614" ttm:agent="v1" itunes:key="L37">
+                <span begin="01:59.373" end="01:59.472">Pu</span>
+                <span begin="01:59.472" end="01:59.666">tar</span> <span begin="01:59.666" end="01:59.805">la</span>
+                <span begin="01:59.805" end="01:59.951">gu</span> <span begin="01:59.951" end="02:00.098">ja</span>
+                <span begin="02:00.098" end="02:00.356">mi</span>
+                <span begin="02:00.356" end="02:00.614">la</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Putar lagu Jamila</span>
+            </p>
+            <p begin="02:00.614" end="02:02.906" ttm:agent="v1" itunes:key="L38">
+                <span begin="02:00.614" end="02:00.927">A</span>
+                <span begin="02:00.927" end="02:01.178">du</span>
+                <span begin="02:01.178" end="02:01.564">e</span> <span begin="02:01.564" end="02:01.739">do</span>
+                <span begin="02:01.739" end="02:01.905">bel</span> <span begin="02:01.905" end="02:02.065">de</span>
+                <span begin="02:02.065" end="02:02.259">ngan</span> <span begin="02:02.259" end="02:02.431">so</span>
+                <span begin="02:02.431" end="02:02.699">ni</span>
+                <span begin="02:02.699" end="02:02.906">a</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Campur dengan Sonia</span>
+            </p>
+            <p begin="02:02.906" end="02:05.165" ttm:agent="v1" itunes:key="L39">
+                <span begin="02:02.906" end="02:03.218">Tam</span>
+                <span begin="02:03.218" end="02:03.460">ba</span> <span begin="02:03.460" end="02:03.876">deng</span> <span begin="02:03.876" end="02:04.034">no,</span> <span begin="02:04.034" end="02:04.171">no</span>
+                <span begin="02:04.171" end="02:04.329">na</span> <span begin="02:04.329" end="02:04.479">me</span>
+                <span begin="02:04.479" end="02:04.639">la</span>
+                <span begin="02:04.639" end="02:04.923">ne</span>
+                <span begin="02:04.923" end="02:05.165">sia</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Tambah satu lagi, nona Melanesia</span>
+            </p>
+            <p begin="02:05.165" end="02:06.963" ttm:agent="v1" itunes:key="L40">
+                <span begin="02:05.165" end="02:05.505">U</span> <span begin="02:05.505" end="02:06.963">wowwww</span>
+            </p>
+            <p begin="02:06.384" end="02:08.572" ttm:agent="v1" itunes:key="L41">
+                <span begin="02:06.384" end="02:06.520">No</span>
+                <span begin="02:06.520" end="02:06.730">na</span> <span begin="02:06.730" end="02:06.937">pu</span> <span begin="02:06.937" end="02:07.205">go</span>
+                <span begin="02:07.205" end="02:07.496">yang</span> <span begin="02:07.496" end="02:07.747">pi</span>
+                <span begin="02:07.747" end="02:08.038">ca</span> <span begin="02:08.038" end="02:08.304">pi</span>
+                <span begin="02:08.304" end="02:08.572">ca</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang pica-pica</span>
+            </p>
+            <p begin="02:08.572" end="02:10.887" ttm:agent="v1" itunes:key="L42">
+                <span begin="02:08.572" end="02:08.805">No</span>
+                <span begin="02:08.805" end="02:09.029">na</span> <span begin="02:09.029" end="02:09.264">pu</span> <span begin="02:09.264" end="02:09.496">go</span>
+                <span begin="02:09.496" end="02:09.775">yang</span> <span begin="02:09.775" end="02:10.084">lin</span>
+                <span begin="02:10.084" end="02:10.298">cah</span> <span begin="02:10.298" end="02:10.612">lin</span>
+                <span begin="02:10.612" end="02:10.887">cah</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang lincah-lincah</span>
+            </p>
+            <p begin="02:10.887" end="02:13.158" ttm:agent="v1" itunes:key="L43">
+                <span begin="02:10.887" end="02:11.087">Go</span>
+                <span begin="02:11.087" end="02:11.337">yang</span>
+                <span begin="02:11.337" end="02:11.497">kan</span> <span begin="02:11.497" end="02:11.815">ping</span>
+                <span begin="02:11.815" end="02:12.067">gang</span> <span begin="02:12.067" end="02:12.368">pa</span>
+                <span begin="02:12.368" end="02:12.612">ta</span> <span begin="02:12.612" end="02:12.887">pa</span>
+                <span begin="02:12.887" end="02:13.158">ta</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Gerakkan pinggang patah-patah</span>
+            </p>
+            <p begin="02:13.158" end="02:15.524" ttm:agent="v1" itunes:key="L44">
+                <span begin="02:13.158" end="02:13.328">Pu</span>
+                <span begin="02:13.328" end="02:13.570">tar</span> <span begin="02:13.570" end="02:13.762">ke</span>
+                <span begin="02:13.762" end="02:14.029">ki</span>
+                <span begin="02:14.029" end="02:14.271">ri</span> <span begin="02:14.271" end="02:14.566">dan</span> <span begin="02:14.566" end="02:14.844">ke</span>
+                <span begin="02:14.844" end="02:15.131">ka</span>
+                <span begin="02:15.131" end="02:15.524">nan</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Putar ke kiri dan ke kanan</span>
+            </p>
+            <p begin="02:15.524" end="02:17.697" ttm:agent="v1" itunes:key="L45">
+                <span begin="02:15.524" end="02:15.711">No</span>
+                <span begin="02:15.711" end="02:15.916">na</span> <span begin="02:15.916" end="02:16.124">pu</span> <span begin="02:16.124" end="02:16.328">go</span>
+                <span begin="02:16.328" end="02:16.638">yang</span> <span begin="02:16.638" end="02:16.876">pi</span>
+                <span begin="02:16.876" end="02:17.167">ca</span> <span begin="02:17.167" end="02:17.449">pi</span>
+                <span begin="02:17.449" end="02:17.697">ca</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang pica-pica</span>
+            </p>
+            <p begin="02:17.697" end="02:20.025" ttm:agent="v1" itunes:key="L46">
+                <span begin="02:17.697" end="02:17.909">No</span>
+                <span begin="02:17.909" end="02:18.168">na</span> <span begin="02:18.168" end="02:18.389">pu</span> <span begin="02:18.389" end="02:18.615">go</span>
+                <span begin="02:18.615" end="02:18.938">yang</span> <span begin="02:18.938" end="02:19.176">lin</span>
+                <span begin="02:19.176" end="02:19.492">cah</span> <span begin="02:19.492" end="02:19.777">lin</span>
+                <span begin="02:19.777" end="02:20.025">cah</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang lincah-lincah</span>
+            </p>
+            <p begin="02:20.025" end="02:22.268" ttm:agent="v1" itunes:key="L47">
+                <span begin="02:20.025" end="02:20.254">Go</span>
+                <span begin="02:20.254" end="02:20.514">yang</span>
+                <span begin="02:20.514" end="02:20.684">kan</span> <span begin="02:20.684" end="02:20.977">ping</span>
+                <span begin="02:20.977" end="02:21.155">gang</span> <span begin="02:21.155" end="02:21.471">pa</span>
+                <span begin="02:21.471" end="02:21.701">ta</span> <span begin="02:21.701" end="02:21.976">pa</span>
+                <span begin="02:21.976" end="02:22.268">ta</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Gerakkan pinggang patah-patah</span>
+            </p>
+            <p begin="02:22.268" end="02:25.765" ttm:agent="v1" itunes:key="L48">
+                <span begin="02:22.268" end="02:22.508">I</span>
+                <span begin="02:22.508" end="02:22.760">ku</span>
+                <span begin="02:22.760" end="02:22.995">ti</span> <span begin="02:22.995" end="02:23.225">de</span>
+                <span begin="02:23.225" end="02:23.454">ngan</span> <span begin="02:23.454" end="02:23.872">i</span>
+                <span begin="02:23.872" end="02:24.158">ra</span>
+                <span begin="02:24.158" end="02:25.765">ma</span>
+            </p>
+            <p begin="02:24.619" end="02:26.870" ttm:agent="v1" itunes:key="L49">
+                <span begin="02:24.619" end="02:24.889">No</span>
+                <span begin="02:24.889" end="02:25.067">na</span> <span begin="02:25.067" end="02:25.210">pu</span> <span begin="02:25.210" end="02:25.479">go</span>
+                <span begin="02:25.479" end="02:25.760">yang</span> <span begin="02:25.760" end="02:26.067">pi</span>
+                <span begin="02:26.067" end="02:26.320">ca</span> <span begin="02:26.320" end="02:26.586">pi</span>
+                <span begin="02:26.586" end="02:26.870">ca</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang pica-pica</span>
+            </p>
+            <p begin="02:26.870" end="02:29.130" ttm:agent="v1" itunes:key="L50">
+                <span begin="02:26.870" end="02:27.068">No</span>
+                <span begin="02:27.068" end="02:27.313">na</span> <span begin="02:27.313" end="02:27.494">pu</span> <span begin="02:27.494" end="02:27.744">go</span>
+                <span begin="02:27.744" end="02:28.060">yang</span> <span begin="02:28.060" end="02:28.327">lin</span>
+                <span begin="02:28.327" end="02:28.634">cah</span> <span begin="02:28.634" end="02:28.898">lin</span>
+                <span begin="02:28.898" end="02:29.130">cah</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang lincah-lincah</span>
+            </p>
+            <p begin="02:29.130" end="02:31.409" ttm:agent="v1" itunes:key="L51">
+                <span begin="02:29.130" end="02:29.343">Go</span>
+                <span begin="02:29.343" end="02:29.601">yang</span>
+                <span begin="02:29.601" end="02:29.825">kan</span> <span begin="02:29.825" end="02:30.084">ping</span>
+                <span begin="02:30.084" end="02:30.319">gang</span> <span begin="02:30.319" end="02:30.568">pa</span>
+                <span begin="02:30.568" end="02:30.868">ta</span> <span begin="02:30.868" end="02:31.135">pa</span>
+                <span begin="02:31.135" end="02:31.409">ta</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Gerakkan pinggang patah-patah</span>
+            </p>
+            <p begin="02:31.409" end="02:33.709" ttm:agent="v1" itunes:key="L52">
+                <span begin="02:31.409" end="02:31.619">Pu</span>
+                <span begin="02:31.619" end="02:31.875">tar</span> <span begin="02:31.875" end="02:32.084">ke</span>
+                <span begin="02:32.084" end="02:32.350">ki</span>
+                <span begin="02:32.350" end="02:32.596">ri</span> <span begin="02:32.596" end="02:32.925">dan</span> <span begin="02:32.925" end="02:33.168">ke</span>
+                <span begin="02:33.168" end="02:33.484">ka</span>
+                <span begin="02:33.484" end="02:33.709">nan</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Putar ke kiri dan ke kanan</span>
+            </p>
+            <p begin="02:33.709" end="02:36.008" ttm:agent="v1" itunes:key="L53">
+                <span begin="02:33.709" end="02:33.912">No</span>
+                <span begin="02:33.912" end="02:34.132">na</span> <span begin="02:34.132" end="02:34.317">pu</span> <span begin="02:34.317" end="02:34.636">go</span>
+                <span begin="02:34.636" end="02:34.885">yang</span> <span begin="02:34.885" end="02:35.209">pi</span>
+                <span begin="02:35.209" end="02:35.476">ca</span> <span begin="02:35.476" end="02:35.759">pi</span>
+                <span begin="02:35.759" end="02:36.008">ca</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang pica-pica</span>
+            </p>
+            <p begin="02:36.008" end="02:38.291" ttm:agent="v1" itunes:key="L54">
+                <span begin="02:36.008" end="02:36.250">No</span>
+                <span begin="02:36.250" end="02:36.462">na</span> <span begin="02:36.462" end="02:36.677">pu</span> <span begin="02:36.677" end="02:36.886">go</span>
+                <span begin="02:36.886" end="02:37.162">yang</span> <span begin="02:37.162" end="02:37.443">lin</span>
+                <span begin="02:37.443" end="02:37.725">cah</span> <span begin="02:37.725" end="02:38.027">lin</span>
+                <span begin="02:38.027" end="02:38.291">cah</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Nona bergoyang lincah-lincah</span>
+            </p>
+            <p begin="02:38.291" end="02:40.552" ttm:agent="v1" itunes:key="L55">
+                <span begin="02:38.291" end="02:38.532">Go</span>
+                <span begin="02:38.532" end="02:38.725">yang</span>
+                <span begin="02:38.725" end="02:38.967">kan</span> <span begin="02:38.967" end="02:39.191">ping</span>
+                <span begin="02:39.191" end="02:39.443">gang</span> <span begin="02:39.443" end="02:39.752">pa</span>
+                <span begin="02:39.752" end="02:39.968">ta</span> <span begin="02:39.968" end="02:40.330">pa</span>
+                <span begin="02:40.330" end="02:40.552">ta</span>
+                <span ttm:role="x-translation" xml:lang="id-IDN">Gerakkan pinggang patah-patah</span>
+            </p>
+            <p begin="02:40.552" end="02:44.822" ttm:agent="v1" itunes:key="L56">
+                <span begin="02:40.552" end="02:40.805">I</span>
+                <span begin="02:40.805" end="02:41.071">ku</span>
+                <span begin="02:41.071" end="02:41.242">ti</span> <span begin="02:41.242" end="02:41.500">de</span>
+                <span begin="02:41.500" end="02:41.773">ngan</span> <span begin="02:41.773" end="02:42.143">i</span>
+                <span begin="02:42.143" end="02:42.467">ra</span>
+                <span begin="02:42.467" end="02:44.822">ma</span>
+            </p>
+        </div>
+    </body>
+</tt>

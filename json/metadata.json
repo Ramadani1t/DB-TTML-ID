@@ -232,6 +232,14 @@
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Ariana%20Grande;%20Nicki%20Minaj/Nicki%20Minaj%20-%20Side%20To%20Side.ttml"
     },
     {
+        "title": "Mari Bercinta",
+        "artist": "Aura Kasih",
+        "album": "Puncak Asmara",
+        "path": "TTML/Aura Kasih",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Aura%20Kasih/Aura%20Kasih%20-%20Mari%20Bercinta.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Aura%20Kasih/Aura%20Kasih%20-%20Mari%20Bercinta.ttml"
+    },
+    {
         "title": "A Little Piece of Heaven",
         "artist": "Avenged Sevenfold",
         "album": "Avenged Sevenfold",
@@ -333,6 +341,14 @@
         "album": "Beautiful (feat. Camila Cabello)",
         "path": "TTML/Bazzi & Camila Cabello",
         "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Bazzi%20&%20Camila%20Cabello/Camila%20Cabello%20-%20Beautiful%20(feat.%20Camila%20Cabello).mp3",
+        "lirik_link": ""
+    },
+    {
+        "title": "Shower",
+        "artist": "Becky G",
+        "album": "Shower",
+        "path": "TTML/Becky G",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Becky%20G/Becky%20G%20-%20Shower.mp3",
         "lirik_link": ""
     },
     {
@@ -440,6 +456,22 @@
         "lirik_link": ""
     },
     {
+        "title": "Kalimerah Athena",
+        "artist": "Cita Citata",
+        "album": "Kalimerah Athena - Single",
+        "path": "TTML/Cita Citata",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Cita%20Citata/Kalimerah%20Athena%20-%20Cita%20Citata.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Cita%20Citata/Kalimerah%20Athena%20-%20Cita%20Citata.ttml"
+    },
+    {
+        "title": "Perawan Atau Janda",
+        "artist": "Cita Citata",
+        "album": "Perawan Atau Janda - Single",
+        "path": "TTML/Cita Citata",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Cita%20Citata/Cita%20Citata%20-%20Perawan%20Atau%20Janda.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Cita%20Citata/Cita%20Citata%20-%20Perawan%20Atau%20Janda.ttml"
+    },
+    {
         "title": "Symphony (feat. Zara Larsson)",
         "artist": "Clean Bandit; Zara Larsson",
         "album": "What Is Love? (Deluxe Edition)",
@@ -488,12 +520,36 @@
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/DJ%20Snake/DJ%20Snake%20-%20Taki%20Taki%20(feat.%20Selena%20Gomez,%20Ozuna%20&%20Cardi%20B).ttml"
     },
     {
+        "title": "Pata Pata",
+        "artist": "Dalia Farhana, Angga Dermawan",
+        "album": "Pata Pata",
+        "path": "TTML/Dalia Farhana, Angga Dermawan",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Dalia%20Farhana,%20Angga%20Dermawan/Dalia%20Farhana,%20Angga%20Dermawan%20-%20Pata%20Pata.mp3",
+        "lirik_link": ""
+    },
+    {
+        "title": "Ta Lipa Lipa (feat. Dante Nababan)",
+        "artist": "Dandy Barakati",
+        "album": "Ta Lipa Lipa (feat. Dante Nababan) - Single",
+        "path": "TTML/Dandy Barakati",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Dandy%20Barakati/Ta%20Lipa%20Lipa%20feat%20Dante%20Nababan%20-%20Dandy%20Barakati.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Dandy%20Barakati/Ta%20Lipa%20Lipa%20feat%20Dante%20Nababan%20-%20Dandy%20Barakati.ttml"
+    },
+    {
         "title": "Mawar Hitam",
         "artist": "Dara Ayu",
         "album": "Mawar Hitam",
         "path": "TTML/Dara Ayu",
         "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Dara%20Ayu/Dara%20Ayu%20-%20Mawar%20Hitam.mp3",
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Dara%20Ayu/Dara%20Ayu%20-%20Mawar%20Hitam.ttml"
+    },
+    {
+        "title": "Egp",
+        "artist": "David Fanreza",
+        "album": "Egp",
+        "path": "TTML/David Fanreza",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/David%20Fanreza/David%20Fanreza%20-%20Egp.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/David%20Fanreza/David%20Fanreza%20-%20Egp.ttml"
     },
     {
         "title": "UNAVAILABLE (feat. Musa Keys)",
@@ -510,6 +566,14 @@
         "path": "TTML/Dede S.",
         "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Dede%20S./Dede%20S.%20-%20Kucing%20Garong.mp3",
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Dede%20S./Dede%20S.%20-%20Kucing%20Garong.ttml"
+    },
+    {
+        "title": "Tia Monika (new Version)",
+        "artist": "Dek Aroel",
+        "album": "Tia Monika (new Version) - Single",
+        "path": "TTML/Dek Aroel",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Dek%20Aroel/Tia%20Monika%20new%20Version%20-%20Dek%20Aroel.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Dek%20Aroel/Tia%20Monika%20new%20Version%20-%20Dek%20Aroel.ttml"
     },
     {
         "title": "Kangen",
@@ -541,6 +605,14 @@
         "album": "Komasava (Comment Ça Va) [feat. Khalil Harrison, Chley Nkosi] [Remix]",
         "path": "TTML/Diamond Platnumz; Jason Derulo; Chley Nkosi; Khalil Harrison",
         "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Diamond%20Platnumz;%20Jason%20Derulo;%20Chley%20Nkosi;%20Khalil%20Harrison/Khalil%20Harrison%20-%20Komasava%20(Comment%20Ça%20Va)%20[feat.%20Khalil%20Harrison,%20Chley%20Nkosi]%20[Remix].mp3",
+        "lirik_link": ""
+    },
+    {
+        "title": "CLBK - Cinta Lama Bersemi Kembali",
+        "artist": "Divalova, Bayu G2B",
+        "album": "CLBK - Cinta Lama Bersemi Kembali",
+        "path": "TTML/Divalova, Bayu G2B",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Divalova,%20Bayu%20G2B/Divalova,%20Bayu%20G2B%20-%20CLBK%20-%20Cinta%20Lama%20Bersemi%20Kembali.mp3",
         "lirik_link": ""
     },
     {
@@ -584,6 +656,14 @@
         "lirik_link": ""
     },
     {
+        "title": "Levitating",
+        "artist": "Dua Lipa",
+        "album": "Future Nostalgia (The Moonlight Edition)",
+        "path": "TTML/Dua Lipa",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Dua%20Lipa/Dua%20Lipa%20-%20Levitating.mp3",
+        "lirik_link": ""
+    },
+    {
         "title": "New Rules",
         "artist": "Dua Lipa",
         "album": "Dua Lipa (Deluxe)",
@@ -624,12 +704,44 @@
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Ernie%20Zakri,%20Ade%20Govinda/Ernie%20Zakri%20-%20Masing%20Masing.ttml"
     },
     {
+        "title": "So Ta Sala",
+        "artist": "Ecko Show",
+        "album": "So Ta Sala",
+        "path": "TTML/Ecko Show",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Ecko%20Show/Ecko%20Show%20-%20So%20Ta%20Sala.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Ecko%20Show/Ecko%20Show%20-%20So%20Ta%20Sala.ttml"
+    },
+    {
+        "title": "Orang Baru Lebe Gacor",
+        "artist": "Ecko Show, Juan Reza, Chesylino",
+        "album": "Orang Baru Lebe Gacor",
+        "path": "TTML/Ecko Show, Juan Reza, Chesylino",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Ecko%20Show,%20Juan%20Reza,%20Chesylino/Ecko%20Show,%20Juan%20Reza,%20Chesylino%20-%20Orang%20Baru%20Lebe%20Gacor.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Ecko%20Show,%20Juan%20Reza,%20Chesylino/Ecko%20Show,%20Juan%20Reza,%20Chesylino%20-%20Orang%20Baru%20Lebe%20Gacor.ttml"
+    },
+    {
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "album": "÷ (Deluxe)",
         "path": "TTML/Ed Sheeran",
         "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Ed%20Sheeran/Ed%20Sheeran%20-%20Shape%20of%20You.mp3",
         "lirik_link": ""
+    },
+    {
+        "title": "Tersimpan Di Hati (feat. Prince Husein & Sara Fajira)",
+        "artist": "Eka Gustiwana",
+        "album": "Tersimpan Di Hati (feat. Prince Husein & Sara Fajira) - Single",
+        "path": "TTML/Eka Gustiwana",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Eka%20Gustiwana/Tersimpan%20Di%20Hati%20feat%20Prince%20Husein%20Sara%20Fajira%20-%20Eka%20Gustiwana.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Eka%20Gustiwana/Tersimpan%20Di%20Hati%20feat%20Prince%20Husein%20Sara%20Fajira%20-%20Eka%20Gustiwana.ttml"
+    },
+    {
+        "title": "Камин",
+        "artist": "Emin & Jony",
+        "album": "Камин - Single",
+        "path": "TTML/Emin & Jony",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Emin%20&%20Jony/Камин%20-%20Emin%20Jony.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Emin%20&%20Jony/Камин%20-%20Emin%20Jony.ttml"
     },
     {
         "title": "Abang Rony",
@@ -656,12 +768,28 @@
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Fabio%20Asher/Fabio%20Asher%20-%20Rumah%20Singgah.ttml"
     },
     {
+        "title": "Dame Un Grrr",
+        "artist": "Fantomel",
+        "album": "Dame Un Grrr",
+        "path": "TTML/Fantomel",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Fantomel/Fantomel%20-%20Dame%20Un%20Grrr.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Fantomel/Fantomel%20-%20Dame%20Un%20Grrr.ttml"
+    },
+    {
         "title": "RIP, Love",
         "artist": "Faouzia",
         "album": "CITIZENS",
         "path": "TTML/Faouzia",
         "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Faouzia/Faouzia%20-%20RIP,%20Love.mp3",
         "lirik_link": ""
+    },
+    {
+        "title": "Stecu Stecu",
+        "artist": "Faris Adam",
+        "album": "Stecu Stecu - Single",
+        "path": "TTML/Faris Adam",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Faris%20Adam/Faris%20Adam%20-%20Stecu.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Faris%20Adam/Faris%20Adam%20-%20Stecu.ttml"
     },
     {
         "title": "Runtuh",
@@ -720,11 +848,27 @@
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Geisha/Geisha%20-%20Pergi%20Saja.ttml"
     },
     {
+        "title": "Bukan Cinta 1 Atau 2",
+        "artist": "Gamma1",
+        "album": "Bukan Cinta 1 Atau 2",
+        "path": "TTML/Gamma1",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Gamma1/Gamma1%20-%20Bukan%20Cinta%201%20Atau%202.mp3",
+        "lirik_link": ""
+    },
+    {
         "title": "Yasir Lana",
         "artist": "Gasentra Pajampangan (Salma - Alisa)",
         "album": "Yasir Lana",
         "path": "TTML/Gasentra Pajampangan (Salma - Alisa)",
         "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Gasentra%20Pajampangan%20(Salma%20-%20Alisa)/Salma%20-%20Yasir%20Lana.mp3",
+        "lirik_link": ""
+    },
+    {
+        "title": "Nyong Timur",
+        "artist": "Gihon Marel",
+        "album": "Nyong Timur",
+        "path": "TTML/Gihon Marel",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Gihon%20Marel/Gihon%20Marel%20-%20Nyong%20Timur.mp3",
         "lirik_link": ""
     },
     {
@@ -984,6 +1128,22 @@
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Imagine%20Dragons/Imagine%20Dragons%20-%20Thunder.ttml"
     },
     {
+        "title": "NIGHT DANCER",
+        "artist": "imase",
+        "album": "NIGHT DANCER",
+        "path": "TTML/imase",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/imase/imase%20-%20NIGHT%20DANCER.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/imase/imase%20-%20NIGHT%20DANCER.ttml"
+    },
+    {
+        "title": "Apakah Itu Cinta (feat. Ovhi Firsty)",
+        "artist": "Ipank",
+        "album": "Takdir Cinta",
+        "path": "TTML/Ipank",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Ipank/Apakah%20Itu%20Cinta%20feat%20Ovhi%20Firsty%20-%20Ipank.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Ipank/Apakah%20Itu%20Cinta%20feat%20Ovhi%20Firsty%20-%20Ipank.ttml"
+    },
+    {
         "title": "Sore Tugu Pancoran",
         "artist": "Iwan Fals",
         "album": "Sore Tugu Pancoran",
@@ -1040,12 +1200,76 @@
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Jaz/Jaz%20-%20Dari%20Mata.ttml"
     },
     {
+        "title": "Care Bebek",
+        "artist": "Jegeg Bulan",
+        "album": "Care Bebek",
+        "path": "TTML/Jegeg Bulan",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Jegeg%20Bulan/Jegeg%20Bulan%20-%20Care%20Bebek.mp3",
+        "lirik_link": ""
+    },
+    {
+        "title": "Menanti",
+        "artist": "JKT48",
+        "album": "Rapsodi",
+        "path": "TTML/JKT48",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/JKT48/JKT48%20-%20Menanti.mp3",
+        "lirik_link": ""
+    },
+    {
+        "title": "Mimpi Yang Hina (Gesu Na Yume)",
+        "artist": "JKT48",
+        "album": "Rapsodi",
+        "path": "TTML/JKT48",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/JKT48/JKT48%20-%20Mimpi%20Yang%20Hina%20(Gesu%20Na%20Yume).mp3",
+        "lirik_link": ""
+    },
+    {
+        "title": "Rapsodi",
+        "artist": "JKT48",
+        "album": "Rapsodi",
+        "path": "TTML/JKT48",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/JKT48/JKT48%20-%20Rapsodi.mp3",
+        "lirik_link": ""
+    },
+    {
+        "title": "Siapa Yang Mempertemukan Kita Berdua? (Dare Ga Futari Wo Deawaseta No Ka?)",
+        "artist": "JKT48",
+        "album": "Rapsodi",
+        "path": "TTML/JKT48",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/JKT48/JKT48%20-%20Siapa%20Yang%20Mempertemukan%20Kita%20Berdua_%20(Dare%20Ga%20Futari%20Wo%20Deawaseta%20No%20Ka_).mp3",
+        "lirik_link": ""
+    },
+    {
+        "title": "Sweet & Bitter",
+        "artist": "JKT48",
+        "album": "Rapsodi",
+        "path": "TTML/JKT48",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/JKT48/JKT48%20-%20Sweet%20&%20Bitter.mp3",
+        "lirik_link": ""
+    },
+    {
         "title": "By Your Side",
         "artist": "Jonas Blue; RAYE",
         "album": "Happy Vibes",
         "path": "TTML/Jonas Blue; RAYE",
         "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Jonas%20Blue;%20RAYE/RAYE%20-%20By%20Your%20Side.mp3",
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Jonas%20Blue;%20RAYE/RAYE%20-%20By%20Your%20Side.ttml"
+    },
+    {
+        "title": "Pica Pica",
+        "artist": "Juan Reza",
+        "album": "Pica Pica - Single",
+        "path": "TTML/Juan Reza",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Juan%20Reza/Pica%20Pica%20-%20Juan%20Reza.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Juan%20Reza/Pica%20Pica%20-%20Juan%20Reza.ttml"
+    },
+    {
+        "title": "Pica Pica 2",
+        "artist": "Juan Reza",
+        "album": "Pica Pica 2",
+        "path": "TTML/Juan Reza",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Juan%20Reza/Juan%20Reza%20-%20Pica%20Pica%202.mp3",
+        "lirik_link": ""
     },
     {
         "title": "Aku Yang Tersakiti",
@@ -1112,6 +1336,22 @@
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Kotak/Kotak%20-%20Pelan%20Pelan%20Saja.ttml"
     },
     {
+        "title": "Doy",
+        "artist": "Kangen Band",
+        "album": "The Best Of (indonesia)",
+        "path": "TTML/Kangen Band",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Kangen%20Band/Doy%20-%20Kangen%20Band.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Kangen%20Band/Doy%20-%20Kangen%20Band.ttml"
+    },
+    {
+        "title": "Terbang Bersamaku",
+        "artist": "Kangen Band",
+        "album": "Pujaan Hati",
+        "path": "TTML/Kangen Band",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Kangen%20Band/Kangen%20Band%20-%20Terbang%20Bersamaku.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Kangen%20Band/Kangen%20Band%20-%20Terbang%20Bersamaku.ttml"
+    },
+    {
         "title": "Kaka Main Salah (feat. Silet Open Up)",
         "artist": "Kapthenpurek",
         "album": "Kaka Main Salah (feat. Silet Open Up) - Single",
@@ -1128,6 +1368,14 @@
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Keisya%20Levronka/Keisya%20Levronka%20-%20Jadi%20Kekasihku%20Saja.ttml"
     },
     {
+        "title": "Ga Mau Lagi",
+        "artist": "Keke",
+        "album": "Ga Mau Lagi - Single",
+        "path": "TTML/Keke",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Keke/Ga%20Mau%20Lagi%20-%20Keke.mp3",
+        "lirik_link": ""
+    },
+    {
         "title": "Check (with RAYE)",
         "artist": "Kojo Funds; RAYE",
         "album": "Check (with RAYE)",
@@ -1142,6 +1390,14 @@
         "path": "TTML/KSI; Trippie Redd",
         "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/KSI;%20Trippie%20Redd/Trippie%20Redd%20-%20Thick%20Of%20It%20(feat.%20Trippie%20Redd).mp3",
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/KSI;%20Trippie%20Redd/Trippie%20Redd%20-%20Thick%20Of%20It%20(feat.%20Trippie%20Redd).ttml"
+    },
+    {
+        "title": "Lupa Lupa Tapi Ingat",
+        "artist": "Kuburan",
+        "album": "BOOMING !!! Bee Are The Kill Young Pen Think Gun Thank",
+        "path": "TTML/Kuburan",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Kuburan/Kuburan%20-%20Lupa%20Lupa%20Tapi%20Ingat.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Kuburan/Kuburan%20-%20Lupa%20Lupa%20Tapi%20Ingat.ttml"
     },
     {
         "title": "P",
@@ -1198,6 +1454,14 @@
         "path": "TTML/Lavina",
         "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Lavina/Lavina%20-%20Pilihan%20Hatiku.mp3",
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Lavina/Lavina%20-%20Pilihan%20Hatiku.ttml"
+    },
+    {
+        "title": "Trouble Is a Friend",
+        "artist": "Lenka",
+        "album": "Lenka (Expanded Edition)",
+        "path": "TTML/Lenka",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Lenka/Lenka%20-%20Trouble%20Is%20a%20Friend.mp3",
+        "lirik_link": ""
     },
     {
         "title": "Ruang Rindu",
@@ -1424,6 +1688,14 @@
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Nadine%20Abigail/Let's%20Jam%20With%20James%20-%20Cantik.ttml"
     },
     {
+        "title": "Kelingan Mantan",
+        "artist": "Ndx A.k.a",
+        "album": "Kelingan Mantan - Single",
+        "path": "TTML/Ndx A.k.a",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Ndx%20A.k.a/Kelingan%20Mantan%20-%20Ndx%20Aka.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Ndx%20A.k.a/Kelingan%20Mantan%20-%20Ndx%20Aka.ttml"
+    },
+    {
         "title": "Apa Kabar Mantan",
         "artist": "NDX A.K.A.",
         "album": "Apa Kabar Mantan",
@@ -1504,6 +1776,14 @@
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Noah/Noah%20-%20Separuh%20Aku.ttml"
     },
     {
+        "title": "CASABLANCA",
+        "artist": "Nuha Bahrin, Naufal Azrin",
+        "album": "CASABLANCA",
+        "path": "TTML/Nuha Bahrin, Naufal Azrin",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Nuha%20Bahrin,%20Naufal%20Azrin/Nuha%20Bahrin,%20Naufal%20Azrin%20-%20CASABLANCA.mp3",
+        "lirik_link": ""
+    },
+    {
         "title": "King",
         "artist": "Olly Alexander (Years & Years)",
         "album": "Communion (Deluxe)",
@@ -1568,12 +1848,28 @@
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Raffa%20Affar/Raffa%20Affar%20-%20Tiara.ttml"
     },
     {
+        "title": "Visi Misi Foya Foya",
+        "artist": "Rapper Kampung, Nadaa",
+        "album": "Visi Misi Foya Foya",
+        "path": "TTML/Rapper Kampung, Nadaa",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Rapper%20Kampung,%20Nadaa/Rapper%20Kampung,%20Nadaa%20-%20Visi%20Misi%20Foya%20Foya.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Rapper%20Kampung,%20Nadaa/Rapper%20Kampung,%20Nadaa%20-%20Visi%20Misi%20Foya%20Foya.ttml"
+    },
+    {
         "title": "Sayang Sampai Mati",
         "artist": "Repvblik",
         "album": "Sayang Sampai Mati (Single)",
         "path": "TTML/Repvblik",
         "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Repvblik/Repvblik%20-%20Sayang%20Sampai%20Mati.mp3",
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Repvblik/Repvblik%20-%20Sayang%20Sampai%20Mati.ttml"
+    },
+    {
+        "title": "Citra Cinta",
+        "artist": "Revina Alvira & Gasentra Pajampangan",
+        "album": "Kumpulan Dangdut Terbaik Revina Alvira, Vol. 3",
+        "path": "TTML/Revina Alvira & Gasentra Pajampangan",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Revina%20Alvira%20&%20Gasentra%20Pajampangan/Citra%20Cinta%20-%20Revina%20Alvira%20Gasentra%20Pajampangan.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Revina%20Alvira%20&%20Gasentra%20Pajampangan/Citra%20Cinta%20-%20Revina%20Alvira%20Gasentra%20Pajampangan.ttml"
     },
     {
         "title": "SMS",
@@ -1960,6 +2256,14 @@
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Silet%20Open%20Up,%20Jacson%20Seran,%20Juan%20Reza%20&%20Diva%20Aurel/Tabola%20Bale%20-%20Silet%20Open%20Up%20Jacson%20Seran%20Juan%20Reza%20Diva%20Aurel.ttml"
     },
     {
+        "title": "Pak Bayan",
+        "artist": "Soimah Pancawati",
+        "album": "Pak Bayan - Single",
+        "path": "TTML/Soimah Pancawati",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Soimah%20Pancawati/Pak%20Bayan%20-%20Soimah%20Pancawati.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Soimah%20Pancawati/Pak%20Bayan%20-%20Soimah%20Pancawati.ttml"
+    },
+    {
         "title": "Kiss Me Thru The Phone",
         "artist": "Soulja Boy/Sammie",
         "album": "iSouljaBoyTellem",
@@ -1984,6 +2288,14 @@
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Sulis/Sulis%20-%20Yaa%20Thoybah.ttml"
     },
     {
+        "title": "Aku Yang Malang 4",
+        "artist": "SUPERIOTS, Rara",
+        "album": "Aku Yang Malang 4",
+        "path": "TTML/SUPERIOTS, Rara",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/SUPERIOTS,%20Rara/SUPERIOTS,%20Rara%20-%20Aku%20Yang%20Malang%204.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/SUPERIOTS,%20Rara/SUPERIOTS,%20Rara%20-%20Aku%20Yang%20Malang%204.ttml"
+    },
+    {
         "title": "Bulan & Ksatria",
         "artist": "Superman Is Dead",
         "album": "Sunset di Tanah Anarki",
@@ -1998,6 +2310,14 @@
         "path": "TTML/Tulus",
         "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Tulus/Tulus%20-%20Interaksi.m4a",
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Tulus/Tulus%20-%20Interaksi.ttml"
+    },
+    {
+        "title": "STELAN DABOY",
+        "artist": "Tampias Fams",
+        "album": "STELAN DABOY",
+        "path": "TTML/Tampias Fams",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Tampias%20Fams/Tampias%20Fams%20-%20STELAN%20DABOY.mp3",
+        "lirik_link": ""
     },
     {
         "title": "Blank Space (Taylor's Version)",
@@ -2104,6 +2424,14 @@
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/The%20Weeknd;%20JENNIE;%20Lily-Rose%20Depp/Lily-Rose%20Depp%20-%20One%20Of%20The%20Girls%20(with%20JENNIE,%20Lily%20Rose%20Depp).ttml"
     },
     {
+        "title": "Kupu - Kupu",
+        "artist": "Tiara Andini",
+        "album": "Kupu - Kupu",
+        "path": "TTML/Tiara Andini",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Tiara%20Andini/Tiara%20Andini%20-%20Kupu%20-%20Kupu.mp3",
+        "lirik_link": ""
+    },
+    {
         "title": "Nasty",
         "artist": "Tinashe",
         "album": "Nasty",
@@ -2142,6 +2470,30 @@
         "path": "TTML/Tipe-X",
         "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Tipe-X/Tipe-X%20-%20Selamat%20Jalan.mp3",
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Tipe-X/Tipe-X%20-%20Selamat%20Jalan.ttml"
+    },
+    {
+        "title": "Rindu Semalam",
+        "artist": "Titi Kamal",
+        "album": "Rindu Semalam",
+        "path": "TTML/Titi Kamal",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Titi%20Kamal/Titi%20Kamal%20-%20Rindu%20Semalam.mp3",
+        "lirik_link": ""
+    },
+    {
+        "title": "Ngapain Repot",
+        "artist": "Toton Caribo, Wizz Baker & Fresly Nikijuluw",
+        "album": "Ngapain Repot - Single",
+        "path": "TTML/Toton Caribo, Wizz Baker & Fresly Nikijuluw",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Toton%20Caribo,%20Wizz%20Baker%20&%20Fresly%20Nikijuluw/Ngapain%20Repot%20-%20Toton%20Caribo%20Wizz%20Baker%20Fresly%20Nikijuluw.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Toton%20Caribo,%20Wizz%20Baker%20&%20Fresly%20Nikijuluw/Ngapain%20Repot%20-%20Toton%20Caribo%20Wizz%20Baker%20Fresly%20Nikijuluw.ttml"
+    },
+    {
+        "title": "DARARI",
+        "artist": "TREASURE",
+        "album": "THE SECOND STEP : CHAPTER ONE",
+        "path": "TTML/TREASURE",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/TREASURE/TREASURE%20-%20DARARI.mp3",
+        "lirik_link": ""
     },
     {
         "title": "Angel Baby",
@@ -2192,6 +2544,14 @@
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Ungu/Ungu%20-%20Seperti%20Bintang%20(From%20Bima%20Satria%20Garuda).ttml"
     },
     {
+        "title": "Mencintamu Sampai Mati",
+        "artist": "Utopia",
+        "album": "Mencintamu Sampai Mati - Single",
+        "path": "TTML/Utopia",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Utopia/Mencintamu%20Sampai%20Mati%20-%20Utopia.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Utopia/Mencintamu%20Sampai%20Mati%20-%20Utopia.ttml"
+    },
+    {
         "title": "A Thousand Miles",
         "artist": "Vanessa Carlton",
         "album": "Be Not Nobody",
@@ -2230,6 +2590,14 @@
         "path": "TTML/Vita Alvia",
         "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Vita%20Alvia/Vita%20Alvia%20-%20Jaran%20Goyang.mp3",
         "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Vita%20Alvia/Vita%20Alvia%20-%20Jaran%20Goyang.ttml"
+    },
+    {
+        "title": "Black and Yellow",
+        "artist": "Wiz Khalifa",
+        "album": "Rolling Papers",
+        "path": "TTML/Wiz Khalifa",
+        "audio_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Wiz%20Khalifa/Wiz%20Khalifa%20-%20Black%20and%20Yellow.mp3",
+        "lirik_link": "https://raw.githubusercontent.com/Ramadani1t/DB-TTML-ID/main/TTML/Wiz%20Khalifa/Wiz%20Khalifa%20-%20Black%20and%20Yellow.ttml"
     },
     {
         "title": "Moonlight",
